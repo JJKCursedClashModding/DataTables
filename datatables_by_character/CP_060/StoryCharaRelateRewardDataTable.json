@@ -1,0 +1,65 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateRewardDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateReward'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_060_CP_070": {
+        "ID": "CP_060_CP_070",
+        "Id_Character_1": "CP_060",
+        "Id_Character_2": "CP_070",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_070_04",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_070_05"
+        ]
+      },
+      "CP_060_CP_080": {
+        "ID": "CP_060_CP_080",
+        "Id_Character_1": "CP_060",
+        "Id_Character_2": "CP_080",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_080_04",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_080_05"
+        ]
+      },
+      "CP_060_CP_110": {
+        "ID": "CP_060_CP_110",
+        "Id_Character_1": "CP_060",
+        "Id_Character_2": "CP_110",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_110_02",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_110_03",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_110_04",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_110_05"
+        ]
+      },
+      "CP_060_CP_120": {
+        "ID": "CP_060_CP_120",
+        "Id_Character_1": "CP_060",
+        "Id_Character_2": "CP_120",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_120_02",
+          "ITM_SET_CHARA_RELATE_CP_060_CP_120_03",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

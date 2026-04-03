@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_GREETING_1": {
+        "ID": "CP_210_GREETING_1",
+        "Text": "¡Tenía muchas ganas de trabajar contigo!"
+      },
+      "CP_210_GREETING_2": {
+        "ID": "CP_210_GREETING_2",
+        "Text": "Cuento contigo."
+      },
+      "CP_210_PRAISE_1": {
+        "ID": "CP_210_PRAISE_1",
+        "Text": "¡Eso es!"
+      },
+      "CP_210_PRAISE_2": {
+        "ID": "CP_210_PRAISE_2",
+        "Text": "¡Ha sido alucinante!"
+      },
+      "CP_210_FOLLOW": {
+        "ID": "CP_210_FOLLOW",
+        "Text": "No es culpa tuya."
+      },
+      "CP_210_APOLOGY": {
+        "ID": "CP_210_APOLOGY",
+        "Text": "Perdona."
+      },
+      "CP_210_GRATITUDE_1": {
+        "ID": "CP_210_GRATITUDE_1",
+        "Text": "¡Gracias por todo!"
+      },
+      "CP_210_GRATITUDE_2": {
+        "ID": "CP_210_GRATITUDE_2",
+        "Text": "¡Te debo una!"
+      },
+      "CP_210_GOODBYE": {
+        "ID": "CP_210_GOODBYE",
+        "Text": "Bueno, ¡hasta otra!"
+      },
+      "CP_210_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_210_THANKYOUFORYOURHARDWORK",
+        "Text": "¡Buen trabajo!"
+      },
+      "CP_210_ROGERTHAT": {
+        "ID": "CP_210_ROGERTHAT",
+        "Text": "¡Hecho!"
+      },
+      "CP_210_REJECTION": {
+        "ID": "CP_210_REJECTION",
+        "Text": "No, déjalo."
+      },
+      "CP_210_ENCOURAGEMENT": {
+        "ID": "CP_210_ENCOURAGEMENT",
+        "Text": "¡Ya verás cómo va bien!"
+      },
+      "CP_210_PINCH": {
+        "ID": "CP_210_PINCH",
+        "Text": "Como sigamos así…"
+      },
+      "CP_210_COMEFORWARD": {
+        "ID": "CP_210_COMEFORWARD",
+        "Text": "Yo me encargo del frente."
+      },
+      "CP_210_COMEFORWARD_OUT": {
+        "ID": "CP_210_COMEFORWARD_OUT",
+        "Text": "Yo me encargo del frente."
+      },
+      "CP_210_GODOWN": {
+        "ID": "CP_210_GODOWN",
+        "Text": "No te acerques mucho tu rival."
+      },
+      "CP_210_GODOWN_OUT": {
+        "ID": "CP_210_GODOWN_OUT",
+        "Text": "No te acerques mucho tu rival."
+      },
+      "CP_210_NOTE": {
+        "ID": "CP_210_NOTE",
+        "Text": "¡Ten cuidado!"
+      },
+      "CP_210_AIMATTHETARGET": {
+        "ID": "CP_210_AIMATTHETARGET",
+        "Text": "¡Déjamelo a mí!"
+      },
+      "CP_210_AIMFORAJOINTATTACK": {
+        "ID": "CP_210_AIMFORAJOINTATTACK",
+        "Text": "Hagamos un ataque conjunto."
+      },
+      "CP_210_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_210_AIMFORAJOINTATTACK_OUT",
+        "Text": "Hagamos un ataque conjunto."
+      },
+      "CP_210_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_210_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Voy a usar mi habilidad avivada."
+      },
+      "CP_210_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_210_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Voy a usar mi habilidad avivada."
+      },
+      "CP_210_FIGHTCLOSEBY": {
+        "ID": "CP_210_FIGHTCLOSEBY",
+        "Text": "¿Qué tal si luchamos de cerca?"
+      },
+      "CP_210_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_210_FIGHTCLOSEBY_OUT",
+        "Text": "¿Qué tal si luchamos de cerca?"
+      },
+      "CP_210_FIGHTAWAY": {
+        "ID": "CP_210_FIGHTAWAY",
+        "Text": "¿Y si luchamos a distancia?"
+      },
+      "CP_210_FIGHTAWAY_OUT": {
+        "ID": "CP_210_FIGHTAWAY_OUT",
+        "Text": "¿Y si luchamos a distancia?"
+      },
+      "CP_210_LETMETAKECAREOFTHAT": {
+        "ID": "CP_210_LETMETAKECAREOFTHAT",
+        "Text": "Me toca a mí."
+      },
+      "CP_210_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_210_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Me toca a mí."
+      },
+      "CP_210_LETSWORKTOGETHER": {
+        "ID": "CP_210_LETSWORKTOGETHER",
+        "Text": "Luchemos codo con codo."
+      },
+      "CP_210_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_210_LETSWORKTOGETHER_OUT",
+        "Text": "Luchemos codo con codo."
+      },
+      "CP_210_LEVELREPORT_LOW": {
+        "ID": "CP_210_LEVELREPORT_LOW",
+        "Text": "Dame un segundo."
+      },
+      "CP_210_LEVELREPORT_MEDIUM": {
+        "ID": "CP_210_LEVELREPORT_MEDIUM",
+        "Text": "¡Todo bien por aquí!"
+      },
+      "CP_210_LEVELREPORT_HIGH": {
+        "ID": "CP_210_LEVELREPORT_HIGH",
+        "Text": "¡Voy a ir con todo!"
+      },
+      "CP_210_PROVOCATION_1": {
+        "ID": "CP_210_PROVOCATION_1",
+        "Text": "¡No vengas a gruñirme cuando te haga daño!"
+      },
+      "CP_210_PROVOCATION_2": {
+        "ID": "CP_210_PROVOCATION_2",
+        "Text": "¡Pienso ganar!"
+      },
+      "CP_210_RESPECT_1": {
+        "ID": "CP_210_RESPECT_1",
+        "Text": "¡Ya me he hartado de perder!"
+      },
+      "CP_210_RESPECT_2": {
+        "ID": "CP_210_RESPECT_2",
+        "Text": "Esta persona... es realmente fuerte."
+      },
+      "CP_210_UNIQUE_1": {
+        "ID": "CP_210_UNIQUE_1",
+        "Text": "Quiero independizarme cuanto antes."
+      },
+      "CP_210_UNIQUE_2": {
+        "ID": "CP_210_UNIQUE_2",
+        "Text": "No tengo un duro, y soy la mayor."
+      },
+      "CP_210_UNIQUE_3": {
+        "ID": "CP_210_UNIQUE_3",
+        "Text": "Holiii. Aquí la inútil de Miwa."
+      },
+      "CP_210_UNIQUE_4": {
+        "ID": "CP_210_UNIQUE_4",
+        "Text": "Uaaa. ¡Cómo mola!"
+      },
+      "CP_210_UNIQUE_5": {
+        "ID": "CP_210_UNIQUE_5",
+        "Text": "¡Menos mal!"
+      },
+      "CP_210_UNIQUE_6": {
+        "ID": "CP_210_UNIQUE_6",
+        "Text": "Como sigas así, te denuncio."
+      },
+      "CP_210_UNIQUE_7": {
+        "ID": "CP_210_UNIQUE_7",
+        "Text": "Qué hambre tengo."
+      },
+      "CP_210_UNIQUE_8": {
+        "ID": "CP_210_UNIQUE_8",
+        "Text": "Todo el mundo dice que la tapioca está riquísima. ¿Será verdad?"
+      },
+      "CP_210_UNIQUE_9": {
+        "ID": "CP_210_UNIQUE_9",
+        "Text": "Ay, madre. ¡Tengo a Satoru Gojô aquí al lado!"
+      },
+      "CP_210_UNIQUE_10": {
+        "ID": "CP_210_UNIQUE_10",
+        "Text": "Uf, menos mal."
+      },
+      "CP_210_UNIQUE_11": {
+        "ID": "CP_210_UNIQUE_11",
+        "Text": "Me he quedado dormida como un tronco. Qué vergüenza."
+      },
+      "CP_210_READY": {
+        "ID": "CP_210_READY",
+        "Text": "Cuando tú digas."
+      },
+      "CP_210_UNDERSTOODOKAY": {
+        "ID": "CP_210_UNDERSTOODOKAY",
+        "Text": "Oído."
+      },
+      "CP_210_ENDSWITH": {
+        "ID": "CP_210_ENDSWITH",
+        "Text": "Esto se acaba aquí."
+      },
+      "CP_210_WAITAMINUTE": {
+        "ID": "CP_210_WAITAMINUTE",
+        "Text": "¿Me das un minuto?"
+      },
+      "CP_210_CHANGE": {
+        "ID": "CP_210_CHANGE",
+        "Text": "Voy a cambiar."
+      },
+      "CP_210_ITWASAGOODMATCH": {
+        "ID": "CP_210_ITWASAGOODMATCH",
+        "Text": "Una buena pelea, ¿no?"
+      },
+      "CP_210_EXIT": {
+        "ID": "CP_210_EXIT",
+        "Text": "Me retiro."
+      },
+      "CP_210_LETSATTACK": {
+        "ID": "CP_210_LETSATTACK",
+        "Text": "Hay que pasar al ataque."
+      },
+      "CP_210_FIGHTCAREFULLY": {
+        "ID": "CP_210_FIGHTCAREFULLY",
+        "Text": "Habrá que ir con cuidado, ¿no?"
+      }
+    }
+  }
+]

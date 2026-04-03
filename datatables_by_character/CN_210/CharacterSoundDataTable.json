@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_210": {
+        "ID": "CN_210",
+        "CueSheetName": [
+          "None",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesWoman",
+        "Id_CharacterVoiceGroupSet": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_VoiceGroup": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

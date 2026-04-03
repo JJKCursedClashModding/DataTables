@@ -1,0 +1,46 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EffectMoveDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_EffectMove'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_010_ATTACKG_01_01": {
+        "ID": "CP_010_ATTACKG_01_01",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 6000,
+        "Speed_End": 4500,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 1,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 40,
+        "Limit_AngleZ": 40,
+        "Homing_AngularVelocityXY": 1,
+        "Homing_AngularVelocityZ": 1,
+        "Homing_Time": 0,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      }
+    }
+  }
+]

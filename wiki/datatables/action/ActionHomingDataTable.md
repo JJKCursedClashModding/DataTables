@@ -1,0 +1,58 @@
+# ActionHomingDataTable
+
+**Indexed:** split across 5 JSON shards: `input_json/ActionHomingDataTable1.json`, `input_json/ActionHomingDataTable2.json`, `input_json/ActionHomingDataTable3.json`, `input_json/ActionHomingDataTable4.json`, `input_json/ActionHomingDataTable5.json`.
+
+**Row struct (from export):** `Class'GameDataTableRow_ActionHoming'`
+
+## Fields
+
+Each line is a row field path (nested structs use dot notation; `[]` marks array-of-struct). The literal **Unknown** is the official description placeholder; the bracketed line is an AI guess from the field name only.
+
+- **ActionHomingType** — Unknown (AI - Possible description: Enum or category selector driving gameplay branches.)
+- **AngleZ** — Unknown (AI - Possible description: Inferred from name: angle z. Verify in blueprints or binary if accuracy matters.)
+- **bExternalForceEnabled** — Unknown (AI - Possible description: Boolean flag: when true, enables or applies external force enabled.)
+- **bFollowGroundEnabled** — Unknown (AI - Possible description: Boolean flag: when true, enables or applies follow ground enabled.)
+- **bHyperArmorEnabled** — Unknown (AI - Possible description: If true, grants hyper armor against stronger interrupt attempts.)
+- **bIgnoreHomingRange** — Unknown (AI - Possible description: Boolean flag: when true, enables or applies ignore homing range.)
+- **bSuperArmorEnabled** — Unknown (AI - Possible description: If true, grants super armor so light hits do not flinch the attacker.)
+- **CharacterAnimation** — Unknown (AI - Possible description: Character animation asset or montage slot name for this move.)
+- **CharacterAnimation_Failure** — Unknown (AI - Possible description: Character animation asset or montage slot name for this move.)
+- **Distance_Correct** — Unknown (AI - Possible description: Inferred from name: distance correct. Verify in blueprints or binary if accuracy matters.)
+- **ExternalForceGravityCorrect** — Unknown (AI - Possible description: Inferred from name: external force gravity correct. Verify in blueprints or binary if accuracy matters.)
+- **ExternalForceRange** — Unknown (AI - Possible description: Inferred from name: external force range. Verify in blueprints or binary if accuracy matters.)
+- **ExternalForceStrength_Blend_Exp** — Unknown (AI - Possible description: Curve exponent for blending or easing.)
+- **ExternalForceStrength_EasingType** — Unknown (AI - Possible description: Interpolation curve preset for motion or value blending.)
+- **ExternalForceStrength_End** — Unknown (AI - Possible description: Inferred from name: external force strength end. Verify in blueprints or binary if accuracy matters.)
+- **ExternalForceStrength_InterpolateTime** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **ExternalForceStrength_Start** — Unknown (AI - Possible description: Inferred from name: external force strength start. Verify in blueprints or binary if accuracy matters.)
+- **FollowGroundCheckDistance** — Unknown (AI - Possible description: Inferred from name: follow ground check distance. Verify in blueprints or binary if accuracy matters.)
+- **FollowGroundFallGravity** — Unknown (AI - Possible description: Inferred from name: follow ground fall gravity. Verify in blueprints or binary if accuracy matters.)
+- **FollowGroundIgnoreStepDistance** — Unknown (AI - Possible description: Inferred from name: follow ground ignore step distance. Verify in blueprints or binary if accuracy matters.)
+- **Homing_Delay_Time** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **Homing_Time_Max** — Unknown (AI - Possible description: Inferred from name: homing time max. Verify in blueprints or binary if accuracy matters.)
+- **Homing_Time_Min** — Unknown (AI - Possible description: Inferred from name: homing time min. Verify in blueprints or binary if accuracy matters.)
+- **HomingDistance** — Unknown (AI - Possible description: Inferred from name: homing distance. Verify in blueprints or binary if accuracy matters.)
+- **ID** — Unknown (AI - Possible description: Primary identifier for this row; used as DataTable row name and for lookups.)
+- **Inertia_Rate** — Unknown (AI - Possible description: Scalar multiplier, blend weight, or probability-style factor.)
+- **Inertia_Time** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **RangeZ_Lower** — Unknown (AI - Possible description: Inferred from name: range z lower. Verify in blueprints or binary if accuracy matters.)
+- **RangeZ_Upper** — Unknown (AI - Possible description: Inferred from name: range z upper. Verify in blueprints or binary if accuracy matters.)
+- **Rotation_Angle_Limit** — Unknown (AI - Possible description: Inferred from name: rotation angle limit. Verify in blueprints or binary if accuracy matters.)
+- **Rotation_Speed_Blend_Exp** — Unknown (AI - Possible description: Curve exponent for blending or easing.)
+- **Rotation_Speed_EasingType** — Unknown (AI - Possible description: Interpolation curve preset for motion or value blending.)
+- **Rotation_Speed_End** — Unknown (AI - Possible description: Inferred from name: rotation speed end. Verify in blueprints or binary if accuracy matters.)
+- **Rotation_Speed_InterpolateTime** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **Rotation_Speed_Start** — Unknown (AI - Possible description: Inferred from name: rotation speed start. Verify in blueprints or binary if accuracy matters.)
+- **Rotation_Time** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **Rotation_Yaw** — Unknown (AI - Possible description: Inferred from name: rotation yaw. Verify in blueprints or binary if accuracy matters.)
+- **Speed_Blend_Exp** — Unknown (AI - Possible description: Curve exponent for blending or easing.)
+- **Speed_EasingType** — Unknown (AI - Possible description: Interpolation curve preset for motion or value blending.)
+- **Speed_End** — Unknown (AI - Possible description: Inferred from name: speed end. Verify in blueprints or binary if accuracy matters.)
+- **Speed_InterpolateTime** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **Speed_Start** — Unknown (AI - Possible description: Inferred from name: speed start. Verify in blueprints or binary if accuracy matters.)
+- **WarpAdjustTargetSimulateType** — Unknown (AI - Possible description: Enum or category selector driving gameplay branches.)
+- **WarpDirectionAdjustPitch** — Unknown (AI - Possible description: Inferred from name: warp direction adjust pitch. Verify in blueprints or binary if accuracy matters.)
+- **WarpDirectionAdjustYaw** — Unknown (AI - Possible description: Inferred from name: warp direction adjust yaw. Verify in blueprints or binary if accuracy matters.)
+- **WarpDistance** — Unknown (AI - Possible description: Inferred from name: warp distance. Verify in blueprints or binary if accuracy matters.)
+- **WarpTargetDistance** — Unknown (AI - Possible description: Inferred from name: warp target distance. Verify in blueprints or binary if accuracy matters.)
+- **WeaponAnimation** — Unknown (AI - Possible description: Weapon-specific animation layer or pose name.)

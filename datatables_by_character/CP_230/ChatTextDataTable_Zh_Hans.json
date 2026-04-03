@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_230_GREETING_1": {
+        "ID": "CP_230_GREETING_1",
+        "Text": "请多关照"
+      },
+      "CP_230_GREETING_2": {
+        "ID": "CP_230_GREETING_2",
+        "Text": "要开始了"
+      },
+      "CP_230_PRAISE_1": {
+        "ID": "CP_230_PRAISE_1",
+        "Text": "真厉害"
+      },
+      "CP_230_PRAISE_2": {
+        "ID": "CP_230_PRAISE_2",
+        "Text": "真行啊"
+      },
+      "CP_230_FOLLOW": {
+        "ID": "CP_230_FOLLOW",
+        "Text": "别在意"
+      },
+      "CP_230_APOLOGY": {
+        "ID": "CP_230_APOLOGY",
+        "Text": "抱歉啊"
+      },
+      "CP_230_GRATITUDE_1": {
+        "ID": "CP_230_GRATITUDE_1",
+        "Text": "欠你一次了"
+      },
+      "CP_230_GRATITUDE_2": {
+        "ID": "CP_230_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_230_GOODBYE": {
+        "ID": "CP_230_GOODBYE",
+        "Text": "再会了"
+      },
+      "CP_230_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_230_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_230_ROGERTHAT": {
+        "ID": "CP_230_ROGERTHAT",
+        "Text": "知道了"
+      },
+      "CP_230_REJECTION": {
+        "ID": "CP_230_REJECTION",
+        "Text": "不行"
+      },
+      "CP_230_ENCOURAGEMENT": {
+        "ID": "CP_230_ENCOURAGEMENT",
+        "Text": "不应该只有这样的吧"
+      },
+      "CP_230_PINCH": {
+        "ID": "CP_230_PINCH",
+        "Text": "可恶！！"
+      },
+      "CP_230_COMEFORWARD": {
+        "ID": "CP_230_COMEFORWARD",
+        "Text": "我到前面去！"
+      },
+      "CP_230_COMEFORWARD_OUT": {
+        "ID": "CP_230_COMEFORWARD_OUT",
+        "Text": "我到前面去！"
+      },
+      "CP_230_GODOWN": {
+        "ID": "CP_230_GODOWN",
+        "Text": "从后面瞄准"
+      },
+      "CP_230_GODOWN_OUT": {
+        "ID": "CP_230_GODOWN_OUT",
+        "Text": "从后面瞄准"
+      },
+      "CP_230_NOTE": {
+        "ID": "CP_230_NOTE",
+        "Text": "要来了！"
+      },
+      "CP_230_AIMATTHETARGET": {
+        "ID": "CP_230_AIMATTHETARGET",
+        "Text": "由我来"
+      },
+      "CP_230_AIMFORAJOINTATTACK": {
+        "ID": "CP_230_AIMFORAJOINTATTACK",
+        "Text": "找机会用共连击！"
+      },
+      "CP_230_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_230_AIMFORAJOINTATTACK_OUT",
+        "Text": "找机会用共连击！"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_230_FIGHTCLOSEBY": {
+        "ID": "CP_230_FIGHTCLOSEBY",
+        "Text": "过来这里"
+      },
+      "CP_230_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_230_FIGHTCLOSEBY_OUT",
+        "Text": "过来这里"
+      },
+      "CP_230_FIGHTAWAY": {
+        "ID": "CP_230_FIGHTAWAY",
+        "Text": "我要远离"
+      },
+      "CP_230_FIGHTAWAY_OUT": {
+        "ID": "CP_230_FIGHTAWAY_OUT",
+        "Text": "我要远离"
+      },
+      "CP_230_LETMETAKECAREOFTHAT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT",
+        "Text": "交给我"
+      },
+      "CP_230_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交给我"
+      },
+      "CP_230_LETSWORKTOGETHER": {
+        "ID": "CP_230_LETSWORKTOGETHER",
+        "Text": "配合我！"
+      },
+      "CP_230_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_230_LETSWORKTOGETHER_OUT",
+        "Text": "配合我！"
+      },
+      "CP_230_LEVELREPORT_LOW": {
+        "ID": "CP_230_LEVELREPORT_LOW",
+        "Text": "给我一点时间"
+      },
+      "CP_230_LEVELREPORT_MEDIUM": {
+        "ID": "CP_230_LEVELREPORT_MEDIUM",
+        "Text": "这样就够了！"
+      },
+      "CP_230_LEVELREPORT_HIGH": {
+        "ID": "CP_230_LEVELREPORT_HIGH",
+        "Text": "我要认真了"
+      },
+      "CP_230_PROVOCATION_1": {
+        "ID": "CP_230_PROVOCATION_1",
+        "Text": "就这种程度吗？"
+      },
+      "CP_230_PROVOCATION_2": {
+        "ID": "CP_230_PROVOCATION_2",
+        "Text": "太小看我了"
+      },
+      "CP_230_RESPECT_1": {
+        "ID": "CP_230_RESPECT_1",
+        "Text": "动作不错"
+      },
+      "CP_230_RESPECT_2": {
+        "ID": "CP_230_RESPECT_2",
+        "Text": "看来你满强的"
+      },
+      "CP_230_UNIQUE_1": {
+        "ID": "CP_230_UNIQUE_1",
+        "Text": "我们是三人一体"
+      },
+      "CP_230_UNIQUE_2": {
+        "ID": "CP_230_UNIQUE_2",
+        "Text": "不论往哪跑，你都无处可逃"
+      },
+      "CP_230_UNIQUE_3": {
+        "ID": "CP_230_UNIQUE_3",
+        "Text": "无路可逃的人是你！！"
+      },
+      "CP_230_UNIQUE_4": {
+        "ID": "CP_230_UNIQUE_4",
+        "Text": "还有气啊"
+      },
+      "CP_230_UNIQUE_5": {
+        "ID": "CP_230_UNIQUE_5",
+        "Text": "那能当在弟弟面前不拼命的理由吗？"
+      },
+      "CP_230_UNIQUE_6": {
+        "ID": "CP_230_UNIQUE_6",
+        "Text": "闪开！！！我可是哥哥啊！！！"
+      },
+      "CP_230_UNIQUE_7": {
+        "ID": "CP_230_UNIQUE_7",
+        "Text": "我会用全力完成当哥哥的职责！！"
+      },
+      "CP_230_UNIQUE_8": {
+        "ID": "CP_230_UNIQUE_8",
+        "Text": "笨蛋是赢不过那两人的"
+      },
+      "CP_230_UNIQUE_9": {
+        "ID": "CP_230_UNIQUE_9",
+        "Text": "总之可以叫我一次哥哥吗？"
+      },
+      "CP_230_UNIQUE_10": {
+        "ID": "CP_230_UNIQUE_10",
+        "Text": "不对！！我是哥哥"
+      },
+      "CP_230_UNIQUE_11": {
+        "ID": "CP_230_UNIQUE_11",
+        "Text": "坏相！！血涂！！看着吧！！\n这就是你们的哥哥！！！"
+      },
+      "CP_230_UNIQUE_12": {
+        "ID": "CP_230_UNIQUE_12",
+        "Text": "现在是最后的胜机"
+      },
+      "CP_230_READY": {
+        "ID": "CP_230_READY",
+        "Text": "我准备好了"
+      },
+      "CP_230_UNDERSTOODOKAY": {
+        "ID": "CP_230_UNDERSTOODOKAY",
+        "Text": "好吧"
+      },
+      "CP_230_ENDSWITH": {
+        "ID": "CP_230_ENDSWITH",
+        "Text": "下次是最后了"
+      },
+      "CP_230_WAITAMINUTE": {
+        "ID": "CP_230_WAITAMINUTE",
+        "Text": "稍等"
+      },
+      "CP_230_CHANGE": {
+        "ID": "CP_230_CHANGE",
+        "Text": "我要变更"
+      },
+      "CP_230_ITWASAGOODMATCH": {
+        "ID": "CP_230_ITWASAGOODMATCH",
+        "Text": "这是场好比试"
+      },
+      "CP_230_EXIT": {
+        "ID": "CP_230_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_230_LETSATTACK": {
+        "ID": "CP_230_LETSATTACK",
+        "Text": "进攻！"
+      },
+      "CP_230_FIGHTCAREFULLY": {
+        "ID": "CP_230_FIGHTCAREFULLY",
+        "Text": "慎重行动吧"
+      }
+    }
+  }
+]

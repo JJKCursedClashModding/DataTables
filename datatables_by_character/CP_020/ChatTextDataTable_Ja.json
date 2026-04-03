@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_GREETING_1": {
+        "ID": "CP_020_GREETING_1",
+        "Text": "喚くな"
+      },
+      "CP_020_GREETING_2": {
+        "ID": "CP_020_GREETING_2",
+        "Text": "分を弁えろ、痴れ者が"
+      },
+      "CP_020_PRAISE_1": {
+        "ID": "CP_020_PRAISE_1",
+        "Text": "どうでもいい"
+      },
+      "CP_020_PRAISE_2": {
+        "ID": "CP_020_PRAISE_2",
+        "Text": "悪くない動きだ"
+      },
+      "CP_020_FOLLOW": {
+        "ID": "CP_020_FOLLOW",
+        "Text": "手間をかけさせるな"
+      },
+      "CP_020_APOLOGY": {
+        "ID": "CP_020_APOLOGY",
+        "Text": "たかがこれしき"
+      },
+      "CP_020_GRATITUDE_1": {
+        "ID": "CP_020_GRATITUDE_1",
+        "Text": "いい、それでいい"
+      },
+      "CP_020_GRATITUDE_2": {
+        "ID": "CP_020_GRATITUDE_2",
+        "Text": "魅せてくれたな"
+      },
+      "CP_020_GOODBYE": {
+        "ID": "CP_020_GOODBYE",
+        "Text": "消え失せろ"
+      },
+      "CP_020_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_020_THANKYOUFORYOURHARDWORK",
+        "Text": "よくやった"
+      },
+      "CP_020_ROGERTHAT": {
+        "ID": "CP_020_ROGERTHAT",
+        "Text": "いいだろう"
+      },
+      "CP_020_REJECTION": {
+        "ID": "CP_020_REJECTION",
+        "Text": "断る"
+      },
+      "CP_020_ENCOURAGEMENT": {
+        "ID": "CP_020_ENCOURAGEMENT",
+        "Text": "その程度か？"
+      },
+      "CP_020_PINCH": {
+        "ID": "CP_020_PINCH",
+        "Text": "やっかいなものだな"
+      },
+      "CP_020_COMEFORWARD": {
+        "ID": "CP_020_COMEFORWARD",
+        "Text": "どけ"
+      },
+      "CP_020_COMEFORWARD_OUT": {
+        "ID": "CP_020_COMEFORWARD_OUT",
+        "Text": "どけ"
+      },
+      "CP_020_GODOWN": {
+        "ID": "CP_020_GODOWN",
+        "Text": "急用だ"
+      },
+      "CP_020_GODOWN_OUT": {
+        "ID": "CP_020_GODOWN_OUT",
+        "Text": "急用だ"
+      },
+      "CP_020_NOTE": {
+        "ID": "CP_020_NOTE",
+        "Text": "下らん"
+      },
+      "CP_020_AIMATTHETARGET": {
+        "ID": "CP_020_AIMATTHETARGET",
+        "Text": "こいつを殺す"
+      },
+      "CP_020_AIMFORAJOINTATTACK": {
+        "ID": "CP_020_AIMFORAJOINTATTACK",
+        "Text": "共連撃を狙う"
+      },
+      "CP_020_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_020_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃を狙う"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を狙う"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を狙う"
+      },
+      "CP_020_FIGHTCLOSEBY": {
+        "ID": "CP_020_FIGHTCLOSEBY",
+        "Text": "殺しに行くぞ、ついてこい"
+      },
+      "CP_020_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_020_FIGHTCLOSEBY_OUT",
+        "Text": "殺しに行くぞ、ついてこい"
+      },
+      "CP_020_FIGHTAWAY": {
+        "ID": "CP_020_FIGHTAWAY",
+        "Text": "鬱陶しい、失せろ"
+      },
+      "CP_020_FIGHTAWAY_OUT": {
+        "ID": "CP_020_FIGHTAWAY_OUT",
+        "Text": "鬱陶しい、失せろ"
+      },
+      "CP_020_LETMETAKECAREOFTHAT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT",
+        "Text": "邪魔するな"
+      },
+      "CP_020_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT_OUT",
+        "Text": "邪魔するな"
+      },
+      "CP_020_LETSWORKTOGETHER": {
+        "ID": "CP_020_LETSWORKTOGETHER",
+        "Text": "合わせろ、でなければ殺す"
+      },
+      "CP_020_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_020_LETSWORKTOGETHER_OUT",
+        "Text": "合わせろ、でなければ殺す"
+      },
+      "CP_020_LEVELREPORT_LOW": {
+        "ID": "CP_020_LEVELREPORT_LOW",
+        "Text": "まだだな"
+      },
+      "CP_020_LEVELREPORT_MEDIUM": {
+        "ID": "CP_020_LEVELREPORT_MEDIUM",
+        "Text": "そろそろか"
+      },
+      "CP_020_LEVELREPORT_HIGH": {
+        "ID": "CP_020_LEVELREPORT_HIGH",
+        "Text": "興が乗ってきた"
+      },
+      "CP_020_PROVOCATION_1": {
+        "ID": "CP_020_PROVOCATION_1",
+        "Text": "ほら、頑張れ頑張れ"
+      },
+      "CP_020_PROVOCATION_2": {
+        "ID": "CP_020_PROVOCATION_2",
+        "Text": "非力だな"
+      },
+      "CP_020_RESPECT_1": {
+        "ID": "CP_020_RESPECT_1",
+        "Text": "もっと呪いを篭めろ"
+      },
+      "CP_020_RESPECT_2": {
+        "ID": "CP_020_RESPECT_2",
+        "Text": "ふん、面白い"
+      },
+      "CP_020_UNIQUE_1": {
+        "ID": "CP_020_UNIQUE_1",
+        "Text": "教えてやる本物の呪術というものを"
+      },
+      "CP_020_UNIQUE_2": {
+        "ID": "CP_020_UNIQUE_2",
+        "Text": "そう怯えるな"
+      },
+      "CP_020_UNIQUE_3": {
+        "ID": "CP_020_UNIQUE_3",
+        "Text": "惨めだなぁ…この上なく惨めだぞ！"
+      },
+      "CP_020_UNIQUE_4": {
+        "ID": "CP_020_UNIQUE_4",
+        "Text": "許可なく見上げるな、不愉快だ"
+      },
+      "CP_020_UNIQUE_5": {
+        "ID": "CP_020_UNIQUE_5",
+        "Text": "オマエはつまらんな"
+      },
+      "CP_020_UNIQUE_6": {
+        "ID": "CP_020_UNIQUE_6",
+        "Text": "命を燃やすのはこれからだったわけだ"
+      },
+      "CP_020_UNIQUE_7": {
+        "ID": "CP_020_UNIQUE_7",
+        "Text": "オマエが死のうとどうでもいい"
+      },
+      "CP_020_UNIQUE_8": {
+        "ID": "CP_020_UNIQUE_8",
+        "Text": "宝の持ち腐れだな"
+      },
+      "CP_020_UNIQUE_9": {
+        "ID": "CP_020_UNIQUE_9",
+        "Text": "はぁうざ"
+      },
+      "CP_020_UNIQUE_10": {
+        "ID": "CP_020_UNIQUE_10",
+        "Text": "ケヒックックックハーハーハッハッ"
+      },
+      "CP_020_READY": {
+        "ID": "CP_020_READY",
+        "Text": "いつでも構わんぞ"
+      },
+      "CP_020_UNDERSTOODOKAY": {
+        "ID": "CP_020_UNDERSTOODOKAY",
+        "Text": "いいだろう"
+      },
+      "CP_020_ENDSWITH": {
+        "ID": "CP_020_ENDSWITH",
+        "Text": "次が最後だ"
+      },
+      "CP_020_WAITAMINUTE": {
+        "ID": "CP_020_WAITAMINUTE",
+        "Text": "待て"
+      },
+      "CP_020_CHANGE": {
+        "ID": "CP_020_CHANGE",
+        "Text": "変更だ"
+      },
+      "CP_020_ITWASAGOODMATCH": {
+        "ID": "CP_020_ITWASAGOODMATCH",
+        "Text": "多少は楽しめたぞ"
+      },
+      "CP_020_EXIT": {
+        "ID": "CP_020_EXIT",
+        "Text": "退出する"
+      },
+      "CP_020_LETSATTACK": {
+        "ID": "CP_020_LETSATTACK",
+        "Text": "すぐに終わらせる"
+      },
+      "CP_020_FIGHTCAREFULLY": {
+        "ID": "CP_020_FIGHTCAREFULLY",
+        "Text": "楽しめそうだ"
+      }
+    }
+  }
+]

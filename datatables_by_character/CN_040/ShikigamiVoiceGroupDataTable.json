@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ShikigamiVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_040_DEFAULTACTION": {
+        "ID": "CN_040_DEFAULTACTION",
+        "Id_VoiceGroup": [
+          "CN_040_START_01",
+          "CN_040_DASH_01",
+          "CN_040_JUMP_01",
+          "CN_040_STEP_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_040_ATTACK": {
+        "ID": "CN_040_ATTACK",
+        "Id_VoiceGroup": [
+          "CN_040_ATTACK_WEAK_01",
+          "CN_040_ATTACK_WEAK_MEDIUM_01",
+          "CN_040_ATTACK_MEDIUM_01",
+          "CN_040_ATTACK_HEAVY_01",
+          "CN_040_ATTACK_FINISH_01",
+          "CN_040_ATTACK_PROJECTILE_01",
+          "CN_040_ATTACK_CHARGE_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_040_UNIQUE": {
+        "ID": "CN_040_UNIQUE",
+        "Id_VoiceGroup": [
+          "CN_040_UNIQUE_01",
+          "CN_040_UNIQUE_02",
+          "CN_040_UNIQUE_03",
+          "CN_040_UNIQUE_04",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

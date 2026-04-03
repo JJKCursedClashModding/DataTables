@@ -1,0 +1,87 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateLevelDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateLevel'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_070_CP_030": {
+        "ID": "CP_070_CP_030",
+        "bFriendly": [
+          false,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_070_CP_040": {
+        "ID": "CP_070_CP_040",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_070_CP_060": {
+        "ID": "CP_070_CP_060",
+        "bFriendly": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_070_CP_080": {
+        "ID": "CP_070_CP_080",
+        "bFriendly": [
+          false,
+          false,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_070_CP_110": {
+        "ID": "CP_070_CP_110",
+        "bFriendly": [
+          false,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_070_CP_120": {
+        "ID": "CP_070_CP_120",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_070_CP_150": {
+        "ID": "CP_070_CP_150",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

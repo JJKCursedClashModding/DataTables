@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020": {
+        "ID": "CP_020",
+        "FloatValue": [
+          0.85,
+          2,
+          1000,
+          3000,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_020_ATTACKA": {
+        "ID": "CP_020_ATTACKA",
+        "FloatValue": [
+          300,
+          150,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_020_ATTACKH_SHOOT_CAMERA": {
+        "ID": "CP_020_ATTACKH_SHOOT_CAMERA",
+        "FloatValue": [
+          -150,
+          -65,
+          15,
+          60,
+          30,
+          85,
+          0.2,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

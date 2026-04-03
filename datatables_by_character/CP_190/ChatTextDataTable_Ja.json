@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_190_GREETING_1": {
+        "ID": "CP_190_GREETING_1",
+        "Text": "よろしく頼むよ"
+      },
+      "CP_190_GREETING_2": {
+        "ID": "CP_190_GREETING_2",
+        "Text": "負けるわけにはいかないな"
+      },
+      "CP_190_PRAISE_1": {
+        "ID": "CP_190_PRAISE_1",
+        "Text": "よく反応したね"
+      },
+      "CP_190_PRAISE_2": {
+        "ID": "CP_190_PRAISE_2",
+        "Text": "すごいな"
+      },
+      "CP_190_FOLLOW": {
+        "ID": "CP_190_FOLLOW",
+        "Text": "カバーする"
+      },
+      "CP_190_APOLOGY": {
+        "ID": "CP_190_APOLOGY",
+        "Text": "すまない"
+      },
+      "CP_190_GRATITUDE_1": {
+        "ID": "CP_190_GRATITUDE_1",
+        "Text": "助かった"
+      },
+      "CP_190_GRATITUDE_2": {
+        "ID": "CP_190_GRATITUDE_2",
+        "Text": "礼を言うよ"
+      },
+      "CP_190_GOODBYE": {
+        "ID": "CP_190_GOODBYE",
+        "Text": "失礼するよ"
+      },
+      "CP_190_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_190_THANKYOUFORYOURHARDWORK",
+        "Text": "ご苦労"
+      },
+      "CP_190_ROGERTHAT": {
+        "ID": "CP_190_ROGERTHAT",
+        "Text": "了解した"
+      },
+      "CP_190_REJECTION": {
+        "ID": "CP_190_REJECTION",
+        "Text": "それはだめだ"
+      },
+      "CP_190_ENCOURAGEMENT": {
+        "ID": "CP_190_ENCOURAGEMENT",
+        "Text": "この調子でいくぞ"
+      },
+      "CP_190_PINCH": {
+        "ID": "CP_190_PINCH",
+        "Text": "まずい状況だ"
+      },
+      "CP_190_COMEFORWARD": {
+        "ID": "CP_190_COMEFORWARD",
+        "Text": "前に出よう"
+      },
+      "CP_190_COMEFORWARD_OUT": {
+        "ID": "CP_190_COMEFORWARD_OUT",
+        "Text": "前に出よう"
+      },
+      "CP_190_GODOWN": {
+        "ID": "CP_190_GODOWN",
+        "Text": "一旦下がる"
+      },
+      "CP_190_GODOWN_OUT": {
+        "ID": "CP_190_GODOWN_OUT",
+        "Text": "一旦下がる"
+      },
+      "CP_190_NOTE": {
+        "ID": "CP_190_NOTE",
+        "Text": "気を抜くなよ"
+      },
+      "CP_190_AIMATTHETARGET": {
+        "ID": "CP_190_AIMATTHETARGET",
+        "Text": "あいつを狙う"
+      },
+      "CP_190_AIMFORAJOINTATTACK": {
+        "ID": "CP_190_AIMFORAJOINTATTACK",
+        "Text": "共連撃でいこう"
+      },
+      "CP_190_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_190_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃でいこう"
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を狙おう！"
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を狙おう！"
+      },
+      "CP_190_FIGHTCLOSEBY": {
+        "ID": "CP_190_FIGHTCLOSEBY",
+        "Text": "離れすぎるな"
+      },
+      "CP_190_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_190_FIGHTCLOSEBY_OUT",
+        "Text": "離れすぎるな"
+      },
+      "CP_190_FIGHTAWAY": {
+        "ID": "CP_190_FIGHTAWAY",
+        "Text": "距離を取ろう"
+      },
+      "CP_190_FIGHTAWAY_OUT": {
+        "ID": "CP_190_FIGHTAWAY_OUT",
+        "Text": "距離を取ろう"
+      },
+      "CP_190_LETMETAKECAREOFTHAT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT",
+        "Text": "こっちは任せろ"
+      },
+      "CP_190_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT_OUT",
+        "Text": "こっちは任せろ"
+      },
+      "CP_190_LETSWORKTOGETHER": {
+        "ID": "CP_190_LETSWORKTOGETHER",
+        "Text": "連携して攻めよう"
+      },
+      "CP_190_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_190_LETSWORKTOGETHER_OUT",
+        "Text": "連携して攻めよう"
+      },
+      "CP_190_LEVELREPORT_LOW": {
+        "ID": "CP_190_LEVELREPORT_LOW",
+        "Text": "準備させてくれ"
+      },
+      "CP_190_LEVELREPORT_MEDIUM": {
+        "ID": "CP_190_LEVELREPORT_MEDIUM",
+        "Text": "そろそろ行く"
+      },
+      "CP_190_LEVELREPORT_HIGH": {
+        "ID": "CP_190_LEVELREPORT_HIGH",
+        "Text": "本気でいく"
+      },
+      "CP_190_PROVOCATION_1": {
+        "ID": "CP_190_PROVOCATION_1",
+        "Text": "本気でかかってこい"
+      },
+      "CP_190_PROVOCATION_2": {
+        "ID": "CP_190_PROVOCATION_2",
+        "Text": "やる気はあるのか？"
+      },
+      "CP_190_RESPECT_1": {
+        "ID": "CP_190_RESPECT_1",
+        "Text": "さすがだね"
+      },
+      "CP_190_RESPECT_2": {
+        "ID": "CP_190_RESPECT_2",
+        "Text": "本気でいかせてもらうよ"
+      },
+      "CP_190_UNIQUE_1": {
+        "ID": "CP_190_UNIQUE_1",
+        "Text": "俗な言い方はやめてほしいね"
+      },
+      "CP_190_UNIQUE_2": {
+        "ID": "CP_190_UNIQUE_2",
+        "Text": "成長したね"
+      },
+      "CP_190_UNIQUE_3": {
+        "ID": "CP_190_UNIQUE_3",
+        "Text": "ちょっ…と待て"
+      },
+      "CP_190_UNIQUE_4": {
+        "ID": "CP_190_UNIQUE_4",
+        "Text": "屁理屈だが一理ある"
+      },
+      "CP_190_UNIQUE_5": {
+        "ID": "CP_190_UNIQUE_5",
+        "Text": "君と私は同類だ"
+      },
+      "CP_190_UNIQUE_6": {
+        "ID": "CP_190_UNIQUE_6",
+        "Text": "君は彼が何を言っているのかわかるのか？"
+      },
+      "CP_190_UNIQUE_7": {
+        "ID": "CP_190_UNIQUE_7",
+        "Text": "ナイッピー"
+      },
+      "CP_190_UNIQUE_8": {
+        "ID": "CP_190_UNIQUE_8",
+        "Text": "警戒を緩めるな"
+      },
+      "CP_190_UNIQUE_9": {
+        "ID": "CP_190_UNIQUE_9",
+        "Text": "出し惜しみされるのはあまり気分がよくないね"
+      },
+      "CP_190_UNIQUE_10": {
+        "ID": "CP_190_UNIQUE_10",
+        "Text": "加茂家嫡流として見過ごせん"
+      },
+      "CP_190_UNIQUE_11": {
+        "ID": "CP_190_UNIQUE_11",
+        "Text": "先手を取る！"
+      },
+      "CP_190_UNIQUE_12": {
+        "ID": "CP_190_UNIQUE_12",
+        "Text": "ダメージなしか！！"
+      },
+      "CP_190_READY": {
+        "ID": "CP_190_READY",
+        "Text": "準備は整った"
+      },
+      "CP_190_UNDERSTOODOKAY": {
+        "ID": "CP_190_UNDERSTOODOKAY",
+        "Text": "了解"
+      },
+      "CP_190_ENDSWITH": {
+        "ID": "CP_190_ENDSWITH",
+        "Text": "次で最後にするよ"
+      },
+      "CP_190_WAITAMINUTE": {
+        "ID": "CP_190_WAITAMINUTE",
+        "Text": "ちょっと待て"
+      },
+      "CP_190_CHANGE": {
+        "ID": "CP_190_CHANGE",
+        "Text": "変更だ"
+      },
+      "CP_190_ITWASAGOODMATCH": {
+        "ID": "CP_190_ITWASAGOODMATCH",
+        "Text": "いい試合だったな"
+      },
+      "CP_190_EXIT": {
+        "ID": "CP_190_EXIT",
+        "Text": "お暇するよ"
+      },
+      "CP_190_LETSATTACK": {
+        "ID": "CP_190_LETSATTACK",
+        "Text": "たたみかけるぞ"
+      },
+      "CP_190_FIGHTCAREFULLY": {
+        "ID": "CP_190_FIGHTCAREFULLY",
+        "Text": "警戒していこう"
+      }
+    }
+  }
+]

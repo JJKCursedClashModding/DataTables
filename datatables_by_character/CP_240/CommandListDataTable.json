@@ -1,0 +1,111 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CommandListDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CommandList'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240": {
+        "ID": "CP_240",
+        "Id_CommandListText_CharacterDescription": "CMD_CHARACTER_DESCRIPTION_CP_240",
+        "Id_CommandListText_PassiveName": [
+          "CMD_PASSIVE_NAME_CP_240_1000",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_CommandListText_PassiveDescription": [
+          "CMD_PASSIVE_DESCRIPTION_CP_240_1000",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_CommandListText_NormalAttack_1_Name": "CMD_COMMAND_NAME_CP_240_1000",
+        "Id_CommandListText_NormalAttack_1_Description": "CMD_COMMAND_DESCRIPTION_CP_240_1000",
+        "CommandListAttackPropertyType_NormalAttack_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_NormalAttack_1_1_Name": "CMD_COMMAND_NAME_CP_240_1060",
+        "Id_CommandListText_NormalAttack_1_1_Description": "CMD_COMMAND_DESCRIPTION_CP_240_1060",
+        "CommandListAttackPropertyType_NormalAttack_1_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_NormalAttack_2_Name": "CMD_COMMAND_NAME_CP_240_2000",
+        "Id_CommandListText_NormalAttack_2_Description": "CMD_COMMAND_DESCRIPTION_CP_240_2000",
+        "CommandListAttackPropertyType_NormalAttack_2": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_NormalAttack_2_1_Name": "CMD_COMMAND_NAME_CP_240_2060",
+        "Id_CommandListText_NormalAttack_2_1_Description": "CMD_COMMAND_DESCRIPTION_CP_240_2060",
+        "CommandListAttackPropertyType_NormalAttack_2_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_NormalAttack_3_Name": "CMD_COMMAND_NAME_CP_240_3000",
+        "Id_CommandListText_NormalAttack_3_Description": "CMD_COMMAND_DESCRIPTION_CP_240_3000",
+        "CommandListAttackPropertyType_NormalAttack_3": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_NormalAttack_3_1_Name": "CMD_COMMAND_NAME_CP_240_3060",
+        "Id_CommandListText_NormalAttack_3_1_Description": "CMD_COMMAND_DESCRIPTION_CP_240_3060",
+        "CommandListAttackPropertyType_NormalAttack_3_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_CursedEnergyAttack_1_Name": "CMD_COMMAND_NAME_CP_240_4000",
+        "Id_CommandListText_CursedEnergyAttack_1_Description": "CMD_COMMAND_DESCRIPTION_CP_240_4000",
+        "CommandListAttackPropertyType_CursedEnergyAttack_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_CursedEnergyAttack_2_Name": "CMD_COMMAND_NAME_CP_240_5000",
+        "Id_CommandListText_CursedEnergyAttack_2_Description": "CMD_COMMAND_DESCRIPTION_CP_240_5000",
+        "CommandListAttackPropertyType_CursedEnergyAttack_2": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_TagComboAttack_Name": "CMD_COMMAND_NAME_CP_240_7000",
+        "Id_CommandListText_SuperCursedEnergyAttack_Name": "CMD_COMMAND_NAME_CP_240_8000",
+        "Id_CommandListText_SuperCursedEnergyAttack_Description": "CMD_COMMAND_DESCRIPTION_CP_240_8000",
+        "CommandListAttackPropertyType_SuperCursedEnergyAttack": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_ExtraAttack_1_Name": "None",
+        "Id_CommandListText_ExtraAttack_1_Description": "None",
+        "CommandListAttackPropertyType_ExtraAttack_1": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ],
+        "Id_CommandListText_ExtraAttack_2_Name": "None",
+        "Id_CommandListText_ExtraAttack_2_Description": "None",
+        "CommandListAttackPropertyType_ExtraAttack_2": [
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None",
+          "EGameCommandListAttackPropertyType::None"
+        ]
+      }
+    }
+  }
+]

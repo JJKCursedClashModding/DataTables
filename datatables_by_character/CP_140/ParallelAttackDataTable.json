@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ParallelAttackDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ParallelAttack'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_ATTACKC_01_SHOOT_01": {
+        "ID": "CP_140_ATTACKC_01_SHOOT_01",
+        "CharacterAnimation": "AttackC_01_Shoot_01",
+        "CharacterAnimation_Lower": "AttackC_01_ShootL_01"
+      }
+    }
+  }
+]

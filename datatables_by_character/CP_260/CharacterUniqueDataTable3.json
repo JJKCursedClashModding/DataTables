@@ -1,0 +1,188 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_260": {
+        "ID": "CP_260",
+        "FloatValue": [
+          0.2,
+          0.5,
+          0.5,
+          1,
+          4,
+          2,
+          -50,
+          1.5,
+          10,
+          10,
+          1,
+          1,
+          20,
+          0
+        ]
+      },
+      "CP_260_ATTACKG_1": {
+        "ID": "CP_260_ATTACKG_1",
+        "FloatValue": [
+          2,
+          100,
+          3,
+          0.9,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKG_2": {
+        "ID": "CP_260_ATTACKG_2",
+        "FloatValue": [
+          1.5,
+          150,
+          5,
+          0.8,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKG_3": {
+        "ID": "CP_260_ATTACKG_3",
+        "FloatValue": [
+          1,
+          200,
+          7,
+          0.7,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKG_4": {
+        "ID": "CP_260_ATTACKG_4",
+        "FloatValue": [
+          0.5,
+          250,
+          10,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKH_1": {
+        "ID": "CP_260_ATTACKH_1",
+        "FloatValue": [
+          1,
+          0,
+          0.5,
+          0.5,
+          5,
+          2,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKH_2": {
+        "ID": "CP_260_ATTACKH_2",
+        "FloatValue": [
+          2,
+          0,
+          0.5,
+          0.5,
+          10,
+          2,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKH_3": {
+        "ID": "CP_260_ATTACKH_3",
+        "FloatValue": [
+          3,
+          0,
+          0.5,
+          0.5,
+          15,
+          2,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_260_ATTACKH_4": {
+        "ID": "CP_260_ATTACKH_4",
+        "FloatValue": [
+          3,
+          0,
+          0.5,
+          0.5,
+          15,
+          5,
+          0.35,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ScriptCharacterClothesDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ScriptCharacterClothes'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_100_00": {
+        "ID": "CP_100_00",
+        "ClothesFileName": "T_UI_STDM_CP_100_00",
+        "FacialFileName": [
+          "T_UI_STDM_CP_100_00_00",
+          "T_UI_STDM_CP_100_00_01",
+          "T_UI_STDM_CP_100_00_02",
+          "None",
+          "None",
+          "T_UI_STDM_CP_100_00_05",
+          "T_UI_STDM_CP_100_00_06",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_100_01": {
+        "ID": "CP_100_01",
+        "ClothesFileName": "T_UI_STDM_CP_100_01",
+        "FacialFileName": [
+          "T_UI_STDM_CP_100_00_00",
+          "T_UI_STDM_CP_100_00_01",
+          "T_UI_STDM_CP_100_00_02",
+          "None",
+          "None",
+          "T_UI_STDM_CP_100_00_05",
+          "T_UI_STDM_CP_100_00_06",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

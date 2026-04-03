@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterImageDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterImage'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_00": {
+        "ID": "CP_210_00",
+        "CharacterSelectIconFileName": "T_UI_Character_CharacterSelect_Icon_Square_CP_210_00",
+        "CharacterSelectVerticalIconFileName": "T_UI_Character_CharacterSelect_Icon_CP_210_00",
+        "CutInImageFileName": "T_UI_Character_CutIn_Image_CP_210_00",
+        "CornerCutInImageChanceFileName": "T_UI_Character_Icon_CP_210_00_CursedEnergyMax_Sprite",
+        "CornerCutInImagePinchFileName": "T_UI_Character_Icon_CP_210_00_Pinch_Sprite",
+        "BattleTalkImageFileName": "T_UI_Character_BattleTalk_Image_CP_210_00",
+        "BattleCharacterIconNormalFileName": "T_UI_Character_Icon_CP_210_00_Normal",
+        "BattleCharacterIconAttackFileName": "T_UI_Character_Icon_CP_210_00_Attack",
+        "BattleCharacterIconDamageFileName": "T_UI_Character_Icon_CP_210_00_Damage",
+        "BattleCharacterIconPinchFileName": "T_UI_Character_Icon_CP_210_00_Pinch",
+        "BattleCharacterIconCursedEnergyMaxFileName": "T_UI_Character_Icon_CP_210_00_CursedEnergyMax",
+        "RankingFilterIconFileName": "T_UI_Character_OutGame_Icon_CP_210_00",
+        "OutGameImageFileName": "T_UI_Character_OutGame_Image_CP_210_00",
+        "OutGameBackgroundImageFileName": "T_UI_Character_OutGame_Background_CP_210_00",
+        "OutGameFaceIconFileName": "T_UI_Character_OutGame_FaceIcon_CP_210_00",
+        "CommandListIconFileName": "T_UI_Character_CommandListIcon_CP_210_00"
+      }
+    }
+  }
+]

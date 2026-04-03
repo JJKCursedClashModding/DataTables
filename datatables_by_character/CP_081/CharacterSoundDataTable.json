@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_081": {
+        "ID": "CP_081",
+        "CueSheetName": [
+          "CP_081",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::Gorilla",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_081",
+          "CP_081_TYPEA",
+          "CP_081_TYPEB",
+          "CP_081_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

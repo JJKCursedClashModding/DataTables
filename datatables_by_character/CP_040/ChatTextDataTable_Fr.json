@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_GREETING_1": {
+        "ID": "CP_040_GREETING_1",
+        "Text": "On y va !"
+      },
+      "CP_040_GREETING_2": {
+        "ID": "CP_040_GREETING_2",
+        "Text": "Et si on allait botter des culs ?"
+      },
+      "CP_040_PRAISE_1": {
+        "ID": "CP_040_PRAISE_1",
+        "Text": "C'est très bien…"
+      },
+      "CP_040_PRAISE_2": {
+        "ID": "CP_040_PRAISE_2",
+        "Text": "Bien joué !"
+      },
+      "CP_040_FOLLOW": {
+        "ID": "CP_040_FOLLOW",
+        "Text": "On va s'en sortir."
+      },
+      "CP_040_APOLOGY": {
+        "ID": "CP_040_APOLOGY",
+        "Text": "Je m'excuse."
+      },
+      "CP_040_GRATITUDE_1": {
+        "ID": "CP_040_GRATITUDE_1",
+        "Text": "Merci."
+      },
+      "CP_040_GRATITUDE_2": {
+        "ID": "CP_040_GRATITUDE_2",
+        "Text": "Ça vaut bien une médaille."
+      },
+      "CP_040_GOODBYE": {
+        "ID": "CP_040_GOODBYE",
+        "Text": "On se reverra."
+      },
+      "CP_040_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_040_THANKYOUFORYOURHARDWORK",
+        "Text": "Bien joué."
+      },
+      "CP_040_ROGERTHAT": {
+        "ID": "CP_040_ROGERTHAT",
+        "Text": "Compris !"
+      },
+      "CP_040_REJECTION": {
+        "ID": "CP_040_REJECTION",
+        "Text": "Tout me va."
+      },
+      "CP_040_ENCOURAGEMENT": {
+        "ID": "CP_040_ENCOURAGEMENT",
+        "Text": "Toujours là, hein ?"
+      },
+      "CP_040_PINCH": {
+        "ID": "CP_040_PINCH",
+        "Text": "C'est trop."
+      },
+      "CP_040_COMEFORWARD": {
+        "ID": "CP_040_COMEFORWARD",
+        "Text": "Je pars devant !"
+      },
+      "CP_040_COMEFORWARD_OUT": {
+        "ID": "CP_040_COMEFORWARD_OUT",
+        "Text": "Je pars devant !"
+      },
+      "CP_040_GODOWN": {
+        "ID": "CP_040_GODOWN",
+        "Text": "Je recule."
+      },
+      "CP_040_GODOWN_OUT": {
+        "ID": "CP_040_GODOWN_OUT",
+        "Text": "Je recule."
+      },
+      "CP_040_NOTE": {
+        "ID": "CP_040_NOTE",
+        "Text": "Voilà les ennuis."
+      },
+      "CP_040_AIMATTHETARGET": {
+        "ID": "CP_040_AIMATTHETARGET",
+        "Text": "Je m'en charge."
+      },
+      "CP_040_AIMFORAJOINTATTACK": {
+        "ID": "CP_040_AIMFORAJOINTATTACK",
+        "Text": "On va les faire goûter à notre combo !"
+      },
+      "CP_040_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_040_AIMFORAJOINTATTACK_OUT",
+        "Text": "On va les faire goûter à notre combo !"
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Une technique éveillée et ce sera réglé."
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Une technique éveillée et ce sera réglé."
+      },
+      "CP_040_FIGHTCLOSEBY": {
+        "ID": "CP_040_FIGHTCLOSEBY",
+        "Text": "Restons ensemble !"
+      },
+      "CP_040_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_040_FIGHTCLOSEBY_OUT",
+        "Text": "Restons ensemble !"
+      },
+      "CP_040_FIGHTAWAY": {
+        "ID": "CP_040_FIGHTAWAY",
+        "Text": "On doit reculer."
+      },
+      "CP_040_FIGHTAWAY_OUT": {
+        "ID": "CP_040_FIGHTAWAY_OUT",
+        "Text": "On doit reculer."
+      },
+      "CP_040_LETMETAKECAREOFTHAT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_040_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_040_LETSWORKTOGETHER": {
+        "ID": "CP_040_LETSWORKTOGETHER",
+        "Text": "Attaquons ensemble."
+      },
+      "CP_040_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_040_LETSWORKTOGETHER_OUT",
+        "Text": "Attaquons ensemble."
+      },
+      "CP_040_LEVELREPORT_LOW": {
+        "ID": "CP_040_LEVELREPORT_LOW",
+        "Text": "Pas encore."
+      },
+      "CP_040_LEVELREPORT_MEDIUM": {
+        "ID": "CP_040_LEVELREPORT_MEDIUM",
+        "Text": "Passons aux choses sérieuses !"
+      },
+      "CP_040_LEVELREPORT_HIGH": {
+        "ID": "CP_040_LEVELREPORT_HIGH",
+        "Text": "Je vais t'exploser !"
+      },
+      "CP_040_PROVOCATION_1": {
+        "ID": "CP_040_PROVOCATION_1",
+        "Text": "Tu es si faible."
+      },
+      "CP_040_PROVOCATION_2": {
+        "ID": "CP_040_PROVOCATION_2",
+        "Text": "Tu pensais vraiment pouvoir gagner ?"
+      },
+      "CP_040_RESPECT_1": {
+        "ID": "CP_040_RESPECT_1",
+        "Text": "C'est plutôt bien."
+      },
+      "CP_040_RESPECT_2": {
+        "ID": "CP_040_RESPECT_2",
+        "Text": "Quel talent."
+      },
+      "CP_040_UNIQUE_1": {
+        "ID": "CP_040_UNIQUE_1",
+        "Text": "J'adore botter des culs."
+      },
+      "CP_040_UNIQUE_2": {
+        "ID": "CP_040_UNIQUE_2",
+        "Text": "Je suis Nobara Kugisaki !"
+      },
+      "CP_040_UNIQUE_3": {
+        "ID": "CP_040_UNIQUE_3",
+        "Text": "Les filles savent garder les secrets."
+      },
+      "CP_040_UNIQUE_4": {
+        "ID": "CP_040_UNIQUE_4",
+        "Text": "Voyons qui va craquer en premier."
+      },
+      "CP_040_UNIQUE_5": {
+        "ID": "CP_040_UNIQUE_5",
+        "Text": "C'est vrai. Vous n'aviez pas encore tout vu."
+      },
+      "CP_040_UNIQUE_6": {
+        "ID": "CP_040_UNIQUE_6",
+        "Text": "Ne t'inquiète pas, tu vas rapidement avoir de la compagnie."
+      },
+      "CP_040_UNIQUE_7": {
+        "ID": "CP_040_UNIQUE_7",
+        "Text": "Ça va, j'y vais !"
+      },
+      "CP_040_UNIQUE_8": {
+        "ID": "CP_040_UNIQUE_8",
+        "Text": "Viens jouer…"
+      },
+      "CP_040_UNIQUE_9": {
+        "ID": "CP_040_UNIQUE_9",
+        "Text": "Beurk, beurk, beurk !"
+      },
+      "CP_040_UNIQUE_10": {
+        "ID": "CP_040_UNIQUE_10",
+        "Text": "On fait quoi ? On fait quoi ? C'est un gros problème !"
+      },
+      "CP_040_READY": {
+        "ID": "CP_040_READY",
+        "Text": "Je suis d'attaque !"
+      },
+      "CP_040_UNDERSTOODOKAY": {
+        "ID": "CP_040_UNDERSTOODOKAY",
+        "Text": "Compris."
+      },
+      "CP_040_ENDSWITH": {
+        "ID": "CP_040_ENDSWITH",
+        "Text": "Le prochain sera le dernier !"
+      },
+      "CP_040_WAITAMINUTE": {
+        "ID": "CP_040_WAITAMINUTE",
+        "Text": "Une minute."
+      },
+      "CP_040_CHANGE": {
+        "ID": "CP_040_CHANGE",
+        "Text": "Je change."
+      },
+      "CP_040_ITWASAGOODMATCH": {
+        "ID": "CP_040_ITWASAGOODMATCH",
+        "Text": "C'était un beau match."
+      },
+      "CP_040_EXIT": {
+        "ID": "CP_040_EXIT",
+        "Text": "Je m'en vais."
+      },
+      "CP_040_LETSATTACK": {
+        "ID": "CP_040_LETSATTACK",
+        "Text": "Je passe à l'offensive."
+      },
+      "CP_040_FIGHTCAREFULLY": {
+        "ID": "CP_040_FIGHTCAREFULLY",
+        "Text": "Faut rester vigilant."
+      }
+    }
+  }
+]

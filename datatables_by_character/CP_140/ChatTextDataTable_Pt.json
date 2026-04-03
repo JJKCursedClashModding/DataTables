@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Pt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_GREETING_1": {
+        "ID": "CP_140_GREETING_1",
+        "Text": "Vamos pular as apresentações."
+      },
+      "CP_140_GREETING_2": {
+        "ID": "CP_140_GREETING_2",
+        "Text": "Me mostra o que sabe."
+      },
+      "CP_140_PRAISE_1": {
+        "ID": "CP_140_PRAISE_1",
+        "Text": "Devo admitir que você tá de parabéns."
+      },
+      "CP_140_PRAISE_2": {
+        "ID": "CP_140_PRAISE_2",
+        "Text": "Você fez seu trabalho."
+      },
+      "CP_140_FOLLOW": {
+        "ID": "CP_140_FOLLOW",
+        "Text": "Não se preocupe com isso."
+      },
+      "CP_140_APOLOGY": {
+        "ID": "CP_140_APOLOGY",
+        "Text": "Eu tô deslizando."
+      },
+      "CP_140_GRATITUDE_1": {
+        "ID": "CP_140_GRATITUDE_1",
+        "Text": "Não espere que eu agradeça."
+      },
+      "CP_140_GRATITUDE_2": {
+        "ID": "CP_140_GRATITUDE_2",
+        "Text": "Eu não devo nada a você."
+      },
+      "CP_140_GOODBYE": {
+        "ID": "CP_140_GOODBYE",
+        "Text": "Adeus."
+      },
+      "CP_140_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_140_THANKYOUFORYOURHARDWORK",
+        "Text": "Você lutou bem."
+      },
+      "CP_140_ROGERTHAT": {
+        "ID": "CP_140_ROGERTHAT",
+        "Text": "Certo."
+      },
+      "CP_140_REJECTION": {
+        "ID": "CP_140_REJECTION",
+        "Text": "Isso é inútil."
+      },
+      "CP_140_ENCOURAGEMENT": {
+        "ID": "CP_140_ENCOURAGEMENT",
+        "Text": "Ah, ainda não acabou."
+      },
+      "CP_140_PINCH": {
+        "ID": "CP_140_PINCH",
+        "Text": "Tô no meu limite."
+      },
+      "CP_140_COMEFORWARD": {
+        "ID": "CP_140_COMEFORWARD",
+        "Text": "Vou pra frente."
+      },
+      "CP_140_COMEFORWARD_OUT": {
+        "ID": "CP_140_COMEFORWARD_OUT",
+        "Text": "Vou pra frente."
+      },
+      "CP_140_GODOWN": {
+        "ID": "CP_140_GODOWN",
+        "Text": "Vou recuar."
+      },
+      "CP_140_GODOWN_OUT": {
+        "ID": "CP_140_GODOWN_OUT",
+        "Text": "Vou recuar."
+      },
+      "CP_140_NOTE": {
+        "ID": "CP_140_NOTE",
+        "Text": "Fica de olhos abertos."
+      },
+      "CP_140_AIMATTHETARGET": {
+        "ID": "CP_140_AIMATTHETARGET",
+        "Text": "Deixa comigo."
+      },
+      "CP_140_AIMFORAJOINTATTACK": {
+        "ID": "CP_140_AIMFORAJOINTATTACK",
+        "Text": "Vamos usar nosso combo."
+      },
+      "CP_140_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_140_AIMFORAJOINTATTACK_OUT",
+        "Text": "Vamos usar nosso combo."
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Vou usar um movimento despertado."
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Vou usar um movimento despertado."
+      },
+      "CP_140_FIGHTCLOSEBY": {
+        "ID": "CP_140_FIGHTCLOSEBY",
+        "Text": "Chega pra cá."
+      },
+      "CP_140_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_140_FIGHTCLOSEBY_OUT",
+        "Text": "Chega pra cá."
+      },
+      "CP_140_FIGHTAWAY": {
+        "ID": "CP_140_FIGHTAWAY",
+        "Text": "Fique longe de mim."
+      },
+      "CP_140_FIGHTAWAY_OUT": {
+        "ID": "CP_140_FIGHTAWAY_OUT",
+        "Text": "Fique longe de mim."
+      },
+      "CP_140_LETMETAKECAREOFTHAT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT",
+        "Text": "Que idiota."
+      },
+      "CP_140_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Que idiota."
+      },
+      "CP_140_LETSWORKTOGETHER": {
+        "ID": "CP_140_LETSWORKTOGETHER",
+        "Text": "Vamos atacar em equipe."
+      },
+      "CP_140_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_140_LETSWORKTOGETHER_OUT",
+        "Text": "Vamos atacar em equipe."
+      },
+      "CP_140_LEVELREPORT_LOW": {
+        "ID": "CP_140_LEVELREPORT_LOW",
+        "Text": "Tô sem energia amaldiçoada."
+      },
+      "CP_140_LEVELREPORT_MEDIUM": {
+        "ID": "CP_140_LEVELREPORT_MEDIUM",
+        "Text": "Ainda não posso usar meu poder de fogo."
+      },
+      "CP_140_LEVELREPORT_HIGH": {
+        "ID": "CP_140_LEVELREPORT_HIGH",
+        "Text": "Já passou de hora de acabar com isso."
+      },
+      "CP_140_PROVOCATION_1": {
+        "ID": "CP_140_PROVOCATION_1",
+        "Text": "Não sente perigo? Não mesmo?"
+      },
+      "CP_140_PROVOCATION_2": {
+        "ID": "CP_140_PROVOCATION_2",
+        "Text": "Eu feri o seu orgulho?"
+      },
+      "CP_140_RESPECT_1": {
+        "ID": "CP_140_RESPECT_1",
+        "Text": "Você até que luta bem."
+      },
+      "CP_140_RESPECT_2": {
+        "ID": "CP_140_RESPECT_2",
+        "Text": "É disso que eu gosto."
+      },
+      "CP_140_UNIQUE_1": {
+        "ID": "CP_140_UNIQUE_1",
+        "Text": "Dá vontade de vomitar de tão nojento."
+      },
+      "CP_140_UNIQUE_2": {
+        "ID": "CP_140_UNIQUE_2",
+        "Text": "Ódio e hostilidade são puros e verdadeiros."
+      },
+      "CP_140_UNIQUE_3": {
+        "ID": "CP_140_UNIQUE_3",
+        "Text": "Mancebo."
+      },
+      "CP_140_UNIQUE_4": {
+        "ID": "CP_140_UNIQUE_4",
+        "Text": "Não me subestime!"
+      },
+      "CP_140_UNIQUE_5": {
+        "ID": "CP_140_UNIQUE_5",
+        "Text": "Se eu não posso atingir, basta arrastar para o meu domínio."
+      },
+      "CP_140_UNIQUE_6": {
+        "ID": "CP_140_UNIQUE_6",
+        "Text": "Ah, seu..."
+      },
+      "CP_140_UNIQUE_7": {
+        "ID": "CP_140_UNIQUE_7",
+        "Text": "Rezo para que não seja só uma desculpa."
+      },
+      "CP_140_UNIQUE_8": {
+        "ID": "CP_140_UNIQUE_8",
+        "Text": "Eu preciso entender!"
+      },
+      "CP_140_UNIQUE_9": {
+        "ID": "CP_140_UNIQUE_9",
+        "Text": "Como você pode me ver e dizer isso?!"
+      },
+      "CP_140_UNIQUE_10": {
+        "ID": "CP_140_UNIQUE_10",
+        "Text": "Tanto faz, eu não vou."
+      },
+      "CP_140_READY": {
+        "ID": "CP_140_READY",
+        "Text": "Agora eu estou pronto."
+      },
+      "CP_140_UNDERSTOODOKAY": {
+        "ID": "CP_140_UNDERSTOODOKAY",
+        "Text": "Muito bem."
+      },
+      "CP_140_ENDSWITH": {
+        "ID": "CP_140_ENDSWITH",
+        "Text": "Vamos acabar depois desse."
+      },
+      "CP_140_WAITAMINUTE": {
+        "ID": "CP_140_WAITAMINUTE",
+        "Text": "Espera um instante."
+      },
+      "CP_140_CHANGE": {
+        "ID": "CP_140_CHANGE",
+        "Text": "Tô trocando."
+      },
+      "CP_140_ITWASAGOODMATCH": {
+        "ID": "CP_140_ITWASAGOODMATCH",
+        "Text": "Essa foi das boas."
+      },
+      "CP_140_EXIT": {
+        "ID": "CP_140_EXIT",
+        "Text": "Tô saindo."
+      },
+      "CP_140_LETSATTACK": {
+        "ID": "CP_140_LETSATTACK",
+        "Text": "Vou acabar com isso rapidinho."
+      },
+      "CP_140_FIGHTCAREFULLY": {
+        "ID": "CP_140_FIGHTCAREFULLY",
+        "Text": "Não vamos nos arriscar."
+      }
+    }
+  }
+]

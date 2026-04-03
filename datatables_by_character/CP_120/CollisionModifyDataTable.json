@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CollisionModifyDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CollisionModify'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_120_ATTACKB_01_01": {
+        "ID": "CP_120_ATTACKB_01_01",
+        "Size": {
+          "X": 30,
+          "Y": 30,
+          "Z": 200
+        },
+        "Size_Time": 0.15,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 150
+        },
+        "Location_Time": 0.15,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0
+      },
+      "CP_120_ATTACKF_01_01": {
+        "ID": "CP_120_ATTACKF_01_01",
+        "Size": {
+          "X": 100,
+          "Y": 100,
+          "Z": 180
+        },
+        "Size_Time": 0.15,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 170,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0.4,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0.5
+      }
+    }
+  }
+]

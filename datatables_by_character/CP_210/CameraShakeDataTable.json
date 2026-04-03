@@ -1,0 +1,77 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CameraShakeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CameraShake'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_ATTACKG_01_01_1": {
+        "ID": "CP_210_ATTACKG_01_01_1",
+        "OscillationDuration": 0.3,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.25,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.2,
+        "RotOscillation_Yaw_Frequency": 80
+      },
+      "CP_210_ATTACKG_01_01_2": {
+        "ID": "CP_210_ATTACKG_01_01_2",
+        "OscillationDuration": 0.35,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.3,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.4,
+        "RotOscillation_Yaw_Frequency": 80
+      },
+      "CP_210_ATTACKG_01_01_3": {
+        "ID": "CP_210_ATTACKG_01_01_3",
+        "OscillationDuration": 0.4,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.35,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.6,
+        "RotOscillation_Yaw_Frequency": 80
+      },
+      "CP_210_ATTACKH_01_01_1": {
+        "ID": "CP_210_ATTACKH_01_01_1",
+        "OscillationDuration": 0.35,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.25,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.2,
+        "RotOscillation_Yaw_Frequency": 80
+      },
+      "CP_210_ATTACKH_01_01_2": {
+        "ID": "CP_210_ATTACKH_01_01_2",
+        "OscillationDuration": 0.4,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.3,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.4,
+        "RotOscillation_Yaw_Frequency": 80
+      },
+      "CP_210_ATTACKH_01_01_3": {
+        "ID": "CP_210_ATTACKH_01_01_3",
+        "OscillationDuration": 0.45,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.35,
+        "RotOscillation_Pitch_Amplitude": 0.1,
+        "RotOscillation_Pitch_Frequency": 80,
+        "RotOscillation_Yaw_Amplitude": 1.5,
+        "RotOscillation_Yaw_Frequency": 85
+      }
+    }
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050_GREETING_1": {
+        "ID": "CP_050_GREETING_1",
+        "Text": "잘 부탁해~"
+      },
+      "CP_050_GREETING_2": {
+        "ID": "CP_050_GREETING_2",
+        "Text": "안녕~ 컨디션은 좀 어때?"
+      },
+      "CP_050_PRAISE_1": {
+        "ID": "CP_050_PRAISE_1",
+        "Text": "좋아"
+      },
+      "CP_050_PRAISE_2": {
+        "ID": "CP_050_PRAISE_2",
+        "Text": "그 기세로 부탁할게"
+      },
+      "CP_050_FOLLOW": {
+        "ID": "CP_050_FOLLOW",
+        "Text": "너는 잘못한 거 없어"
+      },
+      "CP_050_APOLOGY": {
+        "ID": "CP_050_APOLOGY",
+        "Text": "쏘리!!"
+      },
+      "CP_050_GRATITUDE_1": {
+        "ID": "CP_050_GRATITUDE_1",
+        "Text": "도움을 받아버렸네"
+      },
+      "CP_050_GRATITUDE_2": {
+        "ID": "CP_050_GRATITUDE_2",
+        "Text": "땡큐~"
+      },
+      "CP_050_GOODBYE": {
+        "ID": "CP_050_GOODBYE",
+        "Text": "음~ 바이바이!"
+      },
+      "CP_050_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_050_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했다람쥐"
+      },
+      "CP_050_ROGERTHAT": {
+        "ID": "CP_050_ROGERTHAT",
+        "Text": "알았어~"
+      },
+      "CP_050_REJECTION": {
+        "ID": "CP_050_REJECTION",
+        "Text": "에이"
+      },
+      "CP_050_ENCOURAGEMENT": {
+        "ID": "CP_050_ENCOURAGEMENT",
+        "Text": "기대할게"
+      },
+      "CP_050_PINCH": {
+        "ID": "CP_050_PINCH",
+        "Text": "좀 성가시네"
+      },
+      "CP_050_COMEFORWARD": {
+        "ID": "CP_050_COMEFORWARD",
+        "Text": "자, 비켜 비켜~"
+      },
+      "CP_050_COMEFORWARD_OUT": {
+        "ID": "CP_050_COMEFORWARD_OUT",
+        "Text": "자 비켜 비켜~"
+      },
+      "CP_050_GODOWN": {
+        "ID": "CP_050_GODOWN",
+        "Text": "뒷일은 부탁할게~"
+      },
+      "CP_050_GODOWN_OUT": {
+        "ID": "CP_050_GODOWN_OUT",
+        "Text": "뒷일은 부탁할게~"
+      },
+      "CP_050_NOTE": {
+        "ID": "CP_050_NOTE",
+        "Text": "도망가지 않으면 당할 거야"
+      },
+      "CP_050_AIMATTHETARGET": {
+        "ID": "CP_050_AIMATTHETARGET",
+        "Text": "그쪽은 맡길게"
+      },
+      "CP_050_AIMFORAJOINTATTACK": {
+        "ID": "CP_050_AIMFORAJOINTATTACK",
+        "Text": "협공 연격을 노릴게"
+      },
+      "CP_050_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_050_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격을 노릴게"
+      },
+      "CP_050_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_050_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 노릴게"
+      },
+      "CP_050_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_050_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 노릴게"
+      },
+      "CP_050_FIGHTCLOSEBY": {
+        "ID": "CP_050_FIGHTCLOSEBY",
+        "Text": "나한테서 떨어지지 마"
+      },
+      "CP_050_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_050_FIGHTCLOSEBY_OUT",
+        "Text": "나한테서 떨어지지 마"
+      },
+      "CP_050_FIGHTAWAY": {
+        "ID": "CP_050_FIGHTAWAY",
+        "Text": "빨리 벗어나는 게 좋을 거야"
+      },
+      "CP_050_FIGHTAWAY_OUT": {
+        "ID": "CP_050_FIGHTAWAY_OUT",
+        "Text": "빨리 벗어나는 게 좋을 거야"
+      },
+      "CP_050_LETMETAKECAREOFTHAT": {
+        "ID": "CP_050_LETMETAKECAREOFTHAT",
+        "Text": "맡겨달라고~"
+      },
+      "CP_050_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_050_LETMETAKECAREOFTHAT_OUT",
+        "Text": "맡겨달라고~"
+      },
+      "CP_050_LETSWORKTOGETHER": {
+        "ID": "CP_050_LETSWORKTOGETHER",
+        "Text": "나한테 맞출 수 있어?"
+      },
+      "CP_050_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_050_LETSWORKTOGETHER_OUT",
+        "Text": "나한테 맞출 수 있어?"
+      },
+      "CP_050_LEVELREPORT_LOW": {
+        "ID": "CP_050_LEVELREPORT_LOW",
+        "Text": "영 의욕이 안 생기네"
+      },
+      "CP_050_LEVELREPORT_MEDIUM": {
+        "ID": "CP_050_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 걸어볼까"
+      },
+      "CP_050_LEVELREPORT_HIGH": {
+        "ID": "CP_050_LEVELREPORT_HIGH",
+        "Text": "조금 진심으로 해볼까"
+      },
+      "CP_050_PROVOCATION_1": {
+        "ID": "CP_050_PROVOCATION_1",
+        "Text": "넌 약하잖아"
+      },
+      "CP_050_PROVOCATION_2": {
+        "ID": "CP_050_PROVOCATION_2",
+        "Text": "여기서 지면 변명도 못 한다?"
+      },
+      "CP_050_RESPECT_1": {
+        "ID": "CP_050_RESPECT_1",
+        "Text": "너 재주가 좋네"
+      },
+      "CP_050_RESPECT_2": {
+        "ID": "CP_050_RESPECT_2",
+        "Text": "잘하네…"
+      },
+      "CP_050_UNIQUE_1": {
+        "ID": "CP_050_UNIQUE_1",
+        "Text": "난 최강이니까"
+      },
+      "CP_050_UNIQUE_2": {
+        "ID": "CP_050_UNIQUE_2",
+        "Text": "제자 앞이니까 폼 좀 잡을게"
+      },
+      "CP_050_UNIQUE_3": {
+        "ID": "CP_050_UNIQUE_3",
+        "Text": "누가 별거 아니라고?"
+      },
+      "CP_050_UNIQUE_4": {
+        "ID": "CP_050_UNIQUE_4",
+        "Text": "다들 분위기 팍팍 띄워!!"
+      },
+      "CP_050_UNIQUE_5": {
+        "ID": "CP_050_UNIQUE_5",
+        "Text": "그러니 서프라이즈하게 나타나야지!"
+      },
+      "CP_050_UNIQUE_6": {
+        "ID": "CP_050_UNIQUE_6",
+        "Text": "넌 사형이야"
+      },
+      "CP_050_UNIQUE_7": {
+        "ID": "CP_050_UNIQUE_7",
+        "Text": "아이고, 너덜너덜하네~"
+      },
+      "CP_050_UNIQUE_8": {
+        "ID": "CP_050_UNIQUE_8",
+        "Text": "아하하~ 다 죽여버린다~"
+      },
+      "CP_050_UNIQUE_9": {
+        "ID": "CP_050_UNIQUE_9",
+        "Text": "포메이션 B"
+      },
+      "CP_050_UNIQUE_10": {
+        "ID": "CP_050_UNIQUE_10",
+        "Text": "왜 화가 났어?"
+      },
+      "CP_050_UNIQUE_11": {
+        "ID": "CP_050_UNIQUE_11",
+        "Text": "다음"
+      },
+      "CP_050_READY": {
+        "ID": "CP_050_READY",
+        "Text": "준비 OK!"
+      },
+      "CP_050_UNDERSTOODOKAY": {
+        "ID": "CP_050_UNDERSTOODOKAY",
+        "Text": "알았어"
+      },
+      "CP_050_ENDSWITH": {
+        "ID": "CP_050_ENDSWITH",
+        "Text": "다음, 마지막이야"
+      },
+      "CP_050_WAITAMINUTE": {
+        "ID": "CP_050_WAITAMINUTE",
+        "Text": "잠깐 기다려봐"
+      },
+      "CP_050_CHANGE": {
+        "ID": "CP_050_CHANGE",
+        "Text": "변경할게"
+      },
+      "CP_050_ITWASAGOODMATCH": {
+        "ID": "CP_050_ITWASAGOODMATCH",
+        "Text": "좋은 시합이었어"
+      },
+      "CP_050_EXIT": {
+        "ID": "CP_050_EXIT",
+        "Text": "나갈게"
+      },
+      "CP_050_LETSATTACK": {
+        "ID": "CP_050_LETSATTACK",
+        "Text": "얼른 끝내자"
+      },
+      "CP_050_FIGHTCAREFULLY": {
+        "ID": "CP_050_FIGHTCAREFULLY",
+        "Text": "좀 지켜볼까?"
+      }
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActionStepDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ActionStep'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_AttackE_1": {
+        "ID": "CP_210_AttackE_1",
+        "CoolTime": 0.7,
+        "Step_Time": 0.28,
+        "Step_Speed_Start": 3500,
+        "Step_Speed_End": 500,
+        "Step_InterpolateTime": 0.3,
+        "Step_EasingType": "EGameEasingType::None",
+        "Step_Blend_Exp": 2,
+        "Step_Inertia_Rate": 1,
+        "Step_Inertia_Time": 0.6,
+        "Step_HomingInvalidateDistance": 3000,
+        "StepEnd_PlayRate": 1,
+        "StepAir_Time": 0.17,
+        "StepAir_Speed_Start": 2900,
+        "StepAir_Speed_End": 1500,
+        "StepAir_InterpolateTime": 0.2,
+        "StepAir_EasingType": "EGameEasingType::None",
+        "StepAir_Blend_Exp": 2,
+        "StepAir_Inertia_Rate": 1,
+        "StepAir_Inertia_Time": 0.5,
+        "StepAir_HomingInvalidateDistance": 2000,
+        "StepAirEnd_PlayRate": 1
+      },
+      "CP_210_AttackE_2": {
+        "ID": "CP_210_AttackE_2",
+        "CoolTime": 0.7,
+        "Step_Time": 0.35,
+        "Step_Speed_Start": 5000,
+        "Step_Speed_End": 0,
+        "Step_InterpolateTime": 0.48,
+        "Step_EasingType": "EGameEasingType::None",
+        "Step_Blend_Exp": 3,
+        "Step_Inertia_Rate": 1,
+        "Step_Inertia_Time": 0.75,
+        "Step_HomingInvalidateDistance": 3000,
+        "StepEnd_PlayRate": 1,
+        "StepAir_Time": 0.17,
+        "StepAir_Speed_Start": 2900,
+        "StepAir_Speed_End": 1500,
+        "StepAir_InterpolateTime": 0.2,
+        "StepAir_EasingType": "EGameEasingType::None",
+        "StepAir_Blend_Exp": 2,
+        "StepAir_Inertia_Rate": 1,
+        "StepAir_Inertia_Time": 0.5,
+        "StepAir_HomingInvalidateDistance": 2000,
+        "StepAirEnd_PlayRate": 1
+      }
+    }
+  }
+]

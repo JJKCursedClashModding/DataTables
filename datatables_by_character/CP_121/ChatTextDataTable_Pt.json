@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Pt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_GREETING_1": {
+        "ID": "CP_121_GREETING_1",
+        "Text": "Faça o seu melhor."
+      },
+      "CP_121_GREETING_2": {
+        "ID": "CP_121_GREETING_2",
+        "Text": "Não vou perder."
+      },
+      "CP_121_PRAISE_1": {
+        "ID": "CP_121_PRAISE_1",
+        "Text": "Você é casca-grossa, né?"
+      },
+      "CP_121_PRAISE_2": {
+        "ID": "CP_121_PRAISE_2",
+        "Text": "Incrível."
+      },
+      "CP_121_FOLLOW": {
+        "ID": "CP_121_FOLLOW",
+        "Text": "Tudo bem?"
+      },
+      "CP_121_APOLOGY": {
+        "ID": "CP_121_APOLOGY",
+        "Text": "Desculpa."
+      },
+      "CP_121_GRATITUDE_1": {
+        "ID": "CP_121_GRATITUDE_1",
+        "Text": "Você me ajudou muito."
+      },
+      "CP_121_GRATITUDE_2": {
+        "ID": "CP_121_GRATITUDE_2",
+        "Text": "Valeu."
+      },
+      "CP_121_GOODBYE": {
+        "ID": "CP_121_GOODBYE",
+        "Text": "Estou esperando nossa próxima luta."
+      },
+      "CP_121_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_121_THANKYOUFORYOURHARDWORK",
+        "Text": "Mandou bem."
+      },
+      "CP_121_ROGERTHAT": {
+        "ID": "CP_121_ROGERTHAT",
+        "Text": "Sem problemas."
+      },
+      "CP_121_REJECTION": {
+        "ID": "CP_121_REJECTION",
+        "Text": "Não consigo te ouvir."
+      },
+      "CP_121_ENCOURAGEMENT": {
+        "ID": "CP_121_ENCOURAGEMENT",
+        "Text": "Parece que você tá em forma."
+      },
+      "CP_121_PINCH": {
+        "ID": "CP_121_PINCH",
+        "Text": "Me descuidei..."
+      },
+      "CP_121_COMEFORWARD": {
+        "ID": "CP_121_COMEFORWARD",
+        "Text": "Eu assumo a liderança."
+      },
+      "CP_121_COMEFORWARD_OUT": {
+        "ID": "CP_121_COMEFORWARD_OUT",
+        "Text": "Eu assumo a liderança."
+      },
+      "CP_121_GODOWN": {
+        "ID": "CP_121_GODOWN",
+        "Text": "Vou me afastar um pouco."
+      },
+      "CP_121_GODOWN_OUT": {
+        "ID": "CP_121_GODOWN_OUT",
+        "Text": "Vou me afastar um pouco."
+      },
+      "CP_121_NOTE": {
+        "ID": "CP_121_NOTE",
+        "Text": "Lá vai!"
+      },
+      "CP_121_AIMATTHETARGET": {
+        "ID": "CP_121_AIMATTHETARGET",
+        "Text": "Posso cuidar disso."
+      },
+      "CP_121_AIMFORAJOINTATTACK": {
+        "ID": "CP_121_AIMFORAJOINTATTACK",
+        "Text": "Hora de usar nosso combo!"
+      },
+      "CP_121_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_121_AIMFORAJOINTATTACK_OUT",
+        "Text": "Hora de usar nosso combo."
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Lá vai um Movimento Despertado."
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Lá vai um Movimento Despertado."
+      },
+      "CP_121_FIGHTCLOSEBY": {
+        "ID": "CP_121_FIGHTCLOSEBY",
+        "Text": "Fica perto."
+      },
+      "CP_121_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_121_FIGHTCLOSEBY_OUT",
+        "Text": "Fica perto."
+      },
+      "CP_121_FIGHTAWAY": {
+        "ID": "CP_121_FIGHTAWAY",
+        "Text": "Eu vou ficar mais longe."
+      },
+      "CP_121_FIGHTAWAY_OUT": {
+        "ID": "CP_121_FIGHTAWAY_OUT",
+        "Text": "Eu vou ficar mais longe."
+      },
+      "CP_121_LETMETAKECAREOFTHAT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT",
+        "Text": "Deixa comigo."
+      },
+      "CP_121_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Deixa comigo."
+      },
+      "CP_121_LETSWORKTOGETHER": {
+        "ID": "CP_121_LETSWORKTOGETHER",
+        "Text": "Vamos fazer isso juntos."
+      },
+      "CP_121_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_121_LETSWORKTOGETHER_OUT",
+        "Text": "Vamos fazer isso juntos."
+      },
+      "CP_121_LEVELREPORT_LOW": {
+        "ID": "CP_121_LEVELREPORT_LOW",
+        "Text": "Ainda não estou pronto."
+      },
+      "CP_121_LEVELREPORT_MEDIUM": {
+        "ID": "CP_121_LEVELREPORT_MEDIUM",
+        "Text": "Hora de ir."
+      },
+      "CP_121_LEVELREPORT_HIGH": {
+        "ID": "CP_121_LEVELREPORT_HIGH",
+        "Text": "Hora de lutar sério."
+      },
+      "CP_121_PROVOCATION_1": {
+        "ID": "CP_121_PROVOCATION_1",
+        "Text": "Isso é tudo?"
+      },
+      "CP_121_PROVOCATION_2": {
+        "ID": "CP_121_PROVOCATION_2",
+        "Text": "Ah, ainda não acabou."
+      },
+      "CP_121_RESPECT_1": {
+        "ID": "CP_121_RESPECT_1",
+        "Text": "É isso."
+      },
+      "CP_121_RESPECT_2": {
+        "ID": "CP_121_RESPECT_2",
+        "Text": "Gostei de você, vou admitir."
+      },
+      "CP_121_UNIQUE_1": {
+        "ID": "CP_121_UNIQUE_1",
+        "Text": "Não é legal pegar no pé de quem é fraco."
+      },
+      "CP_121_UNIQUE_2": {
+        "ID": "CP_121_UNIQUE_2",
+        "Text": "Os fracos se ajudam e desencorajam a força."
+      },
+      "CP_121_UNIQUE_3": {
+        "ID": "CP_121_UNIQUE_3",
+        "Text": "O Jujutsu existe pra proteger os não-feiticeiros."
+      },
+      "CP_121_UNIQUE_4": {
+        "ID": "CP_121_UNIQUE_4",
+        "Text": "O que é isso? Minha nossa, você é forte."
+      },
+      "CP_121_UNIQUE_5": {
+        "ID": "CP_121_UNIQUE_5",
+        "Text": "Quer parar de me chamar assim?"
+      },
+      "CP_121_UNIQUE_6": {
+        "ID": "CP_121_UNIQUE_6",
+        "Text": "Aqueles com poucas chances de vitória sempre procuram o caminho mais simples para vencer."
+      },
+      "CP_121_UNIQUE_7": {
+        "ID": "CP_121_UNIQUE_7",
+        "Text": "Quer parar de nos fazer perder tempo? Nosso compromisso é só pela manhã."
+      },
+      "CP_121_UNIQUE_8": {
+        "ID": "CP_121_UNIQUE_8",
+        "Text": "Nós... somos os mais fortes."
+      },
+      "CP_121_UNIQUE_9": {
+        "ID": "CP_121_UNIQUE_9",
+        "Text": "Ah, é? Morra!"
+      },
+      "CP_121_UNIQUE_10": {
+        "ID": "CP_121_UNIQUE_10",
+        "Text": "Sobrevivência dos mais fracos. Essa é a constituição correta da sociedade."
+      },
+      "CP_121_UNIQUE_11": {
+        "ID": "CP_121_UNIQUE_11",
+        "Text": "Vamos levar isso um pouco mais a sério."
+      },
+      "CP_121_UNIQUE_12": {
+        "ID": "CP_121_UNIQUE_12",
+        "Text": "Parece que você passou um tempão bolando essa estratégia, mas é inútil."
+      },
+      "CP_121_READY": {
+        "ID": "CP_121_READY",
+        "Text": "Estou pronto."
+      },
+      "CP_121_UNDERSTOODOKAY": {
+        "ID": "CP_121_UNDERSTOODOKAY",
+        "Text": "Beleza."
+      },
+      "CP_121_ENDSWITH": {
+        "ID": "CP_121_ENDSWITH",
+        "Text": "Vou fazer o próximo ser o último."
+      },
+      "CP_121_WAITAMINUTE": {
+        "ID": "CP_121_WAITAMINUTE",
+        "Text": "Tem um minutinho?"
+      },
+      "CP_121_CHANGE": {
+        "ID": "CP_121_CHANGE",
+        "Text": "Tô trocando."
+      },
+      "CP_121_ITWASAGOODMATCH": {
+        "ID": "CP_121_ITWASAGOODMATCH",
+        "Text": "Essa foi boa."
+      },
+      "CP_121_EXIT": {
+        "ID": "CP_121_EXIT",
+        "Text": "Tô tirando minha licença."
+      },
+      "CP_121_LETSATTACK": {
+        "ID": "CP_121_LETSATTACK",
+        "Text": "Parece que vou atacar."
+      },
+      "CP_121_FIGHTCAREFULLY": {
+        "ID": "CP_121_FIGHTCAREFULLY",
+        "Text": "Vamos com cuidado."
+      }
+    }
+  }
+]

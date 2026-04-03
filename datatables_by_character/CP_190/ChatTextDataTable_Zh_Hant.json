@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_190_GREETING_1": {
+        "ID": "CP_190_GREETING_1",
+        "Text": "請多指教"
+      },
+      "CP_190_GREETING_2": {
+        "ID": "CP_190_GREETING_2",
+        "Text": "我不能輸"
+      },
+      "CP_190_PRAISE_1": {
+        "ID": "CP_190_PRAISE_1",
+        "Text": "你反應真好"
+      },
+      "CP_190_PRAISE_2": {
+        "ID": "CP_190_PRAISE_2",
+        "Text": "好厲害"
+      },
+      "CP_190_FOLLOW": {
+        "ID": "CP_190_FOLLOW",
+        "Text": "我來支援"
+      },
+      "CP_190_APOLOGY": {
+        "ID": "CP_190_APOLOGY",
+        "Text": "抱歉"
+      },
+      "CP_190_GRATITUDE_1": {
+        "ID": "CP_190_GRATITUDE_1",
+        "Text": "得救了"
+      },
+      "CP_190_GRATITUDE_2": {
+        "ID": "CP_190_GRATITUDE_2",
+        "Text": "謝謝"
+      },
+      "CP_190_GOODBYE": {
+        "ID": "CP_190_GOODBYE",
+        "Text": "先告辭了"
+      },
+      "CP_190_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_190_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_190_ROGERTHAT": {
+        "ID": "CP_190_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_190_REJECTION": {
+        "ID": "CP_190_REJECTION",
+        "Text": "那可不行"
+      },
+      "CP_190_ENCOURAGEMENT": {
+        "ID": "CP_190_ENCOURAGEMENT",
+        "Text": "就照這樣下去"
+      },
+      "CP_190_PINCH": {
+        "ID": "CP_190_PINCH",
+        "Text": "狀況真不利"
+      },
+      "CP_190_COMEFORWARD": {
+        "ID": "CP_190_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_190_COMEFORWARD_OUT": {
+        "ID": "CP_190_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_190_GODOWN": {
+        "ID": "CP_190_GODOWN",
+        "Text": "我先退後"
+      },
+      "CP_190_GODOWN_OUT": {
+        "ID": "CP_190_GODOWN_OUT",
+        "Text": "我先退後"
+      },
+      "CP_190_NOTE": {
+        "ID": "CP_190_NOTE",
+        "Text": "別大意"
+      },
+      "CP_190_AIMATTHETARGET": {
+        "ID": "CP_190_AIMATTHETARGET",
+        "Text": "我會瞄準那傢伙"
+      },
+      "CP_190_AIMFORAJOINTATTACK": {
+        "ID": "CP_190_AIMFORAJOINTATTACK",
+        "Text": "用共連擊吧"
+      },
+      "CP_190_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_190_AIMFORAJOINTATTACK_OUT",
+        "Text": "用共連擊吧"
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "找機會用覺醒技吧！"
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "找機會用覺醒技吧！"
+      },
+      "CP_190_FIGHTCLOSEBY": {
+        "ID": "CP_190_FIGHTCLOSEBY",
+        "Text": "別離太遠"
+      },
+      "CP_190_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_190_FIGHTCLOSEBY_OUT",
+        "Text": "別離太遠"
+      },
+      "CP_190_FIGHTAWAY": {
+        "ID": "CP_190_FIGHTAWAY",
+        "Text": "保持距離吧"
+      },
+      "CP_190_FIGHTAWAY_OUT": {
+        "ID": "CP_190_FIGHTAWAY_OUT",
+        "Text": "保持距離吧"
+      },
+      "CP_190_LETMETAKECAREOFTHAT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT",
+        "Text": "這裡交給我"
+      },
+      "CP_190_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT_OUT",
+        "Text": "這裡交給我"
+      },
+      "CP_190_LETSWORKTOGETHER": {
+        "ID": "CP_190_LETSWORKTOGETHER",
+        "Text": "合作攻擊吧"
+      },
+      "CP_190_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_190_LETSWORKTOGETHER_OUT",
+        "Text": "合作攻擊吧"
+      },
+      "CP_190_LEVELREPORT_LOW": {
+        "ID": "CP_190_LEVELREPORT_LOW",
+        "Text": "讓我準備一下"
+      },
+      "CP_190_LEVELREPORT_MEDIUM": {
+        "ID": "CP_190_LEVELREPORT_MEDIUM",
+        "Text": "我要上了"
+      },
+      "CP_190_LEVELREPORT_HIGH": {
+        "ID": "CP_190_LEVELREPORT_HIGH",
+        "Text": "我要認真了"
+      },
+      "CP_190_PROVOCATION_1": {
+        "ID": "CP_190_PROVOCATION_1",
+        "Text": "認真攻過來吧"
+      },
+      "CP_190_PROVOCATION_2": {
+        "ID": "CP_190_PROVOCATION_2",
+        "Text": "你有幹勁嗎？"
+      },
+      "CP_190_RESPECT_1": {
+        "ID": "CP_190_RESPECT_1",
+        "Text": "不愧是你"
+      },
+      "CP_190_RESPECT_2": {
+        "ID": "CP_190_RESPECT_2",
+        "Text": "我要認真了"
+      },
+      "CP_190_UNIQUE_1": {
+        "ID": "CP_190_UNIQUE_1",
+        "Text": "請別用這種俗氣的說法"
+      },
+      "CP_190_UNIQUE_2": {
+        "ID": "CP_190_UNIQUE_2",
+        "Text": "你成長了呢"
+      },
+      "CP_190_UNIQUE_3": {
+        "ID": "CP_190_UNIQUE_3",
+        "Text": "等……一下"
+      },
+      "CP_190_UNIQUE_4": {
+        "ID": "CP_190_UNIQUE_4",
+        "Text": "雖然是歪理，但也有點道理"
+      },
+      "CP_190_UNIQUE_5": {
+        "ID": "CP_190_UNIQUE_5",
+        "Text": "你和我是同類"
+      },
+      "CP_190_UNIQUE_6": {
+        "ID": "CP_190_UNIQUE_6",
+        "Text": "你知道他在說什麼嗎？"
+      },
+      "CP_190_UNIQUE_7": {
+        "ID": "CP_190_UNIQUE_7",
+        "Text": "「投」得好"
+      },
+      "CP_190_UNIQUE_8": {
+        "ID": "CP_190_UNIQUE_8",
+        "Text": "保持警戒"
+      },
+      "CP_190_UNIQUE_9": {
+        "ID": "CP_190_UNIQUE_9",
+        "Text": "對方不肯使出全力，讓人感覺不太好呢"
+      },
+      "CP_190_UNIQUE_10": {
+        "ID": "CP_190_UNIQUE_10",
+        "Text": "身為加茂家嫡長子，不能放過"
+      },
+      "CP_190_UNIQUE_11": {
+        "ID": "CP_190_UNIQUE_11",
+        "Text": "先發制人！"
+      },
+      "CP_190_UNIQUE_12": {
+        "ID": "CP_190_UNIQUE_12",
+        "Text": "沒傷害嗎！！"
+      },
+      "CP_190_READY": {
+        "ID": "CP_190_READY",
+        "Text": "我準備好了"
+      },
+      "CP_190_UNDERSTOODOKAY": {
+        "ID": "CP_190_UNDERSTOODOKAY",
+        "Text": "了解"
+      },
+      "CP_190_ENDSWITH": {
+        "ID": "CP_190_ENDSWITH",
+        "Text": "下場就是最後一場"
+      },
+      "CP_190_WAITAMINUTE": {
+        "ID": "CP_190_WAITAMINUTE",
+        "Text": "等等"
+      },
+      "CP_190_CHANGE": {
+        "ID": "CP_190_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_190_ITWASAGOODMATCH": {
+        "ID": "CP_190_ITWASAGOODMATCH",
+        "Text": "這是場好比賽"
+      },
+      "CP_190_EXIT": {
+        "ID": "CP_190_EXIT",
+        "Text": "我要休息了"
+      },
+      "CP_190_LETSATTACK": {
+        "ID": "CP_190_LETSATTACK",
+        "Text": "一口氣進攻吧"
+      },
+      "CP_190_FIGHTCAREFULLY": {
+        "ID": "CP_190_FIGHTCAREFULLY",
+        "Text": "保持警戒吧"
+      }
+    }
+  }
+]

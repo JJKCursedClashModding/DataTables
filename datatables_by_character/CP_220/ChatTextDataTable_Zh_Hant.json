@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220_GREETING_1": {
+        "ID": "CP_220_GREETING_1",
+        "Text": "請多關照"
+      },
+      "CP_220_GREETING_2": {
+        "ID": "CP_220_GREETING_2",
+        "Text": "覺悟吧"
+      },
+      "CP_220_PRAISE_1": {
+        "ID": "CP_220_PRAISE_1",
+        "Text": "真行啊"
+      },
+      "CP_220_PRAISE_2": {
+        "ID": "CP_220_PRAISE_2",
+        "Text": "不愧是你"
+      },
+      "CP_220_FOLLOW": {
+        "ID": "CP_220_FOLLOW",
+        "Text": "別在意"
+      },
+      "CP_220_APOLOGY": {
+        "ID": "CP_220_APOLOGY",
+        "Text": "抱歉"
+      },
+      "CP_220_GRATITUDE_1": {
+        "ID": "CP_220_GRATITUDE_1",
+        "Text": "感謝"
+      },
+      "CP_220_GRATITUDE_2": {
+        "ID": "CP_220_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_220_GOODBYE": {
+        "ID": "CP_220_GOODBYE",
+        "Text": "再會了"
+      },
+      "CP_220_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_220_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_220_ROGERTHAT": {
+        "ID": "CP_220_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_220_REJECTION": {
+        "ID": "CP_220_REJECTION",
+        "Text": "我拒絕"
+      },
+      "CP_220_ENCOURAGEMENT": {
+        "ID": "CP_220_ENCOURAGEMENT",
+        "Text": "就麻煩你照這樣下去"
+      },
+      "CP_220_PINCH": {
+        "ID": "CP_220_PINCH",
+        "Text": "糟了！！"
+      },
+      "CP_220_COMEFORWARD": {
+        "ID": "CP_220_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_220_COMEFORWARD_OUT": {
+        "ID": "CP_220_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_220_GODOWN": {
+        "ID": "CP_220_GODOWN",
+        "Text": "我先退後"
+      },
+      "CP_220_GODOWN_OUT": {
+        "ID": "CP_220_GODOWN_OUT",
+        "Text": "我先退後"
+      },
+      "CP_220_NOTE": {
+        "ID": "CP_220_NOTE",
+        "Text": "要來了，別大意！"
+      },
+      "CP_220_AIMATTHETARGET": {
+        "ID": "CP_220_AIMATTHETARGET",
+        "Text": "這傢伙就交給我"
+      },
+      "CP_220_AIMFORAJOINTATTACK": {
+        "ID": "CP_220_AIMFORAJOINTATTACK",
+        "Text": "用共連擊！！"
+      },
+      "CP_220_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_220_AIMFORAJOINTATTACK_OUT",
+        "Text": "用共連擊！！"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "我要用覺醒技！"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "我要用覺醒技！"
+      },
+      "CP_220_FIGHTCLOSEBY": {
+        "ID": "CP_220_FIGHTCLOSEBY",
+        "Text": "別遠離我"
+      },
+      "CP_220_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_220_FIGHTCLOSEBY_OUT",
+        "Text": "別遠離我"
+      },
+      "CP_220_FIGHTAWAY": {
+        "ID": "CP_220_FIGHTAWAY",
+        "Text": "拉開距離"
+      },
+      "CP_220_FIGHTAWAY_OUT": {
+        "ID": "CP_220_FIGHTAWAY_OUT",
+        "Text": "拉開距離"
+      },
+      "CP_220_LETMETAKECAREOFTHAT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT",
+        "Text": "這裡就交給我"
+      },
+      "CP_220_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT_OUT",
+        "Text": "這裡就交給我"
+      },
+      "CP_220_LETSWORKTOGETHER": {
+        "ID": "CP_220_LETSWORKTOGETHER",
+        "Text": "配合我"
+      },
+      "CP_220_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_220_LETSWORKTOGETHER_OUT",
+        "Text": "配合我"
+      },
+      "CP_220_LEVELREPORT_LOW": {
+        "ID": "CP_220_LEVELREPORT_LOW",
+        "Text": "我要準備了"
+      },
+      "CP_220_LEVELREPORT_MEDIUM": {
+        "ID": "CP_220_LEVELREPORT_MEDIUM",
+        "Text": "差不多要上了"
+      },
+      "CP_220_LEVELREPORT_HIGH": {
+        "ID": "CP_220_LEVELREPORT_HIGH",
+        "Text": "我要認真了"
+      },
+      "CP_220_PROVOCATION_1": {
+        "ID": "CP_220_PROVOCATION_1",
+        "Text": "就這種程度嗎？"
+      },
+      "CP_220_PROVOCATION_2": {
+        "ID": "CP_220_PROVOCATION_2",
+        "Text": "不怎麼樣呢"
+      },
+      "CP_220_RESPECT_1": {
+        "ID": "CP_220_RESPECT_1",
+        "Text": "好厲害的力量"
+      },
+      "CP_220_RESPECT_2": {
+        "ID": "CP_220_RESPECT_2",
+        "Text": "你還滿行的嘛"
+      },
+      "CP_220_UNIQUE_1": {
+        "ID": "CP_220_UNIQUE_1",
+        "Text": "是準一級"
+      },
+      "CP_220_UNIQUE_2": {
+        "ID": "CP_220_UNIQUE_2",
+        "Text": "你知道「天與咒縛」嗎？"
+      },
+      "CP_220_UNIQUE_3": {
+        "ID": "CP_220_UNIQUE_3",
+        "Text": "算做得好的"
+      },
+      "CP_220_UNIQUE_4": {
+        "ID": "CP_220_UNIQUE_4",
+        "Text": "不會死的，只是讓你暫時不能動"
+      },
+      "CP_220_UNIQUE_5": {
+        "ID": "CP_220_UNIQUE_5",
+        "Text": "動來動去的……"
+      },
+      "CP_220_UNIQUE_6": {
+        "ID": "CP_220_UNIQUE_6",
+        "Text": "這樣會不會讓太多了？"
+      },
+      "CP_220_UNIQUE_7": {
+        "ID": "CP_220_UNIQUE_7",
+        "Text": "實在是無法忍受"
+      },
+      "CP_220_UNIQUE_8": {
+        "ID": "CP_220_UNIQUE_8",
+        "Text": "我不是那種的"
+      },
+      "CP_220_UNIQUE_9": {
+        "ID": "CP_220_UNIQUE_9",
+        "Text": "這次絕對不會失手！"
+      },
+      "CP_220_UNIQUE_10": {
+        "ID": "CP_220_UNIQUE_10",
+        "Text": "你看過我的模樣後，還能說出這種台詞嗎"
+      },
+      "CP_220_UNIQUE_11": {
+        "ID": "CP_220_UNIQUE_11",
+        "Text": "抱歉，我睡一下"
+      },
+      "CP_220_UNIQUE_12": {
+        "ID": "CP_220_UNIQUE_12",
+        "Text": "這動作難以捉摸！"
+      },
+      "CP_220_READY": {
+        "ID": "CP_220_READY",
+        "Text": "我準備好了"
+      },
+      "CP_220_UNDERSTOODOKAY": {
+        "ID": "CP_220_UNDERSTOODOKAY",
+        "Text": "了解"
+      },
+      "CP_220_ENDSWITH": {
+        "ID": "CP_220_ENDSWITH",
+        "Text": "下次是最後了"
+      },
+      "CP_220_WAITAMINUTE": {
+        "ID": "CP_220_WAITAMINUTE",
+        "Text": "稍等一下"
+      },
+      "CP_220_CHANGE": {
+        "ID": "CP_220_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_220_ITWASAGOODMATCH": {
+        "ID": "CP_220_ITWASAGOODMATCH",
+        "Text": "這是場好戰鬥"
+      },
+      "CP_220_EXIT": {
+        "ID": "CP_220_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_220_LETSATTACK": {
+        "ID": "CP_220_LETSATTACK",
+        "Text": "該進攻了"
+      },
+      "CP_220_FIGHTCAREFULLY": {
+        "ID": "CP_220_FIGHTCAREFULLY",
+        "Text": "看看情況"
+      }
+    }
+  }
+]

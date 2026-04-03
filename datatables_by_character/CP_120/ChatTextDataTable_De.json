@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_120_GREETING_1": {
+        "ID": "CP_120_GREETING_1",
+        "Text": "Gib bitte dein Bestes."
+      },
+      "CP_120_GREETING_2": {
+        "ID": "CP_120_GREETING_2",
+        "Text": "Hey."
+      },
+      "CP_120_PRAISE_1": {
+        "ID": "CP_120_PRAISE_1",
+        "Text": "Gar nicht schlecht."
+      },
+      "CP_120_PRAISE_2": {
+        "ID": "CP_120_PRAISE_2",
+        "Text": "Wunderbar!"
+      },
+      "CP_120_FOLLOW": {
+        "ID": "CP_120_FOLLOW",
+        "Text": "Lass das nicht zu sehr an dich ran."
+      },
+      "CP_120_APOLOGY": {
+        "ID": "CP_120_APOLOGY",
+        "Text": "Entschuldige."
+      },
+      "CP_120_GRATITUDE_1": {
+        "ID": "CP_120_GRATITUDE_1",
+        "Text": "Besten Dank."
+      },
+      "CP_120_GRATITUDE_2": {
+        "ID": "CP_120_GRATITUDE_2",
+        "Text": "Du bist eine große Hilfe."
+      },
+      "CP_120_GOODBYE": {
+        "ID": "CP_120_GOODBYE",
+        "Text": "Ich muss los."
+      },
+      "CP_120_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_120_THANKYOUFORYOURHARDWORK",
+        "Text": "Gute Arbeit."
+      },
+      "CP_120_ROGERTHAT": {
+        "ID": "CP_120_ROGERTHAT",
+        "Text": "Keine Einwände."
+      },
+      "CP_120_REJECTION": {
+        "ID": "CP_120_REJECTION",
+        "Text": "Es fällt mir schwer, das zu akzeptieren."
+      },
+      "CP_120_ENCOURAGEMENT": {
+        "ID": "CP_120_ENCOURAGEMENT",
+        "Text": "Mach weiter so."
+      },
+      "CP_120_PINCH": {
+        "ID": "CP_120_PINCH",
+        "Text": "Okay, das nervt."
+      },
+      "CP_120_COMEFORWARD": {
+        "ID": "CP_120_COMEFORWARD",
+        "Text": "Ich trete nach vorn."
+      },
+      "CP_120_COMEFORWARD_OUT": {
+        "ID": "CP_120_COMEFORWARD_OUT",
+        "Text": "Ich trete nach vorn."
+      },
+      "CP_120_GODOWN": {
+        "ID": "CP_120_GODOWN",
+        "Text": "Ich trete zurück."
+      },
+      "CP_120_GODOWN_OUT": {
+        "ID": "CP_120_GODOWN_OUT",
+        "Text": "Ich trete zurück."
+      },
+      "CP_120_NOTE": {
+        "ID": "CP_120_NOTE",
+        "Text": "Jetzt nicht schlampig werden."
+      },
+      "CP_120_AIMATTHETARGET": {
+        "ID": "CP_120_AIMATTHETARGET",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_120_AIMFORAJOINTATTACK": {
+        "ID": "CP_120_AIMFORAJOINTATTACK",
+        "Text": "Wir setzen unsere Kombo ein."
+      },
+      "CP_120_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_120_AIMFORAJOINTATTACK_OUT",
+        "Text": "Wir setzen unsere Kombo ein."
+      },
+      "CP_120_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_120_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Ich schlage mit der Erweckter-Technik zu."
+      },
+      "CP_120_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_120_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Ich schlage mit der Erweckter-Technik zu."
+      },
+      "CP_120_FIGHTCLOSEBY": {
+        "ID": "CP_120_FIGHTCLOSEBY",
+        "Text": "Kannst du mal herkommen?"
+      },
+      "CP_120_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_120_FIGHTCLOSEBY_OUT",
+        "Text": "Kannst du mal herkommen?"
+      },
+      "CP_120_FIGHTAWAY": {
+        "ID": "CP_120_FIGHTAWAY",
+        "Text": "Ich trete etwas zurück."
+      },
+      "CP_120_FIGHTAWAY_OUT": {
+        "ID": "CP_120_FIGHTAWAY_OUT",
+        "Text": "Ich trete etwas zurück."
+      },
+      "CP_120_LETMETAKECAREOFTHAT": {
+        "ID": "CP_120_LETMETAKECAREOFTHAT",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_120_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_120_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_120_LETSWORKTOGETHER": {
+        "ID": "CP_120_LETSWORKTOGETHER",
+        "Text": "Kannst du mir hier mal helfen?"
+      },
+      "CP_120_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_120_LETSWORKTOGETHER_OUT",
+        "Text": "Kannst du mir hier mal helfen?"
+      },
+      "CP_120_LEVELREPORT_LOW": {
+        "ID": "CP_120_LEVELREPORT_LOW",
+        "Text": "Ich brauche mehr Zeit."
+      },
+      "CP_120_LEVELREPORT_MEDIUM": {
+        "ID": "CP_120_LEVELREPORT_MEDIUM",
+        "Text": "Ich halte mich nicht zurück."
+      },
+      "CP_120_LEVELREPORT_HIGH": {
+        "ID": "CP_120_LEVELREPORT_HIGH",
+        "Text": "Keine Kompromisse mehr."
+      },
+      "CP_120_PROVOCATION_1": {
+        "ID": "CP_120_PROVOCATION_1",
+        "Text": "Kommt da noch mehr?"
+      },
+      "CP_120_PROVOCATION_2": {
+        "ID": "CP_120_PROVOCATION_2",
+        "Text": "Versuch es ruhig, es hat aber keinen Zweck."
+      },
+      "CP_120_RESPECT_1": {
+        "ID": "CP_120_RESPECT_1",
+        "Text": "Hm. Du bist ziemlich gut."
+      },
+      "CP_120_RESPECT_2": {
+        "ID": "CP_120_RESPECT_2",
+        "Text": "Ich habe dich nicht genug angepriesen."
+      },
+      "CP_120_UNIQUE_1": {
+        "ID": "CP_120_UNIQUE_1",
+        "Text": "Erschaffen wir ein Paradies für Jujuzisten."
+      },
+      "CP_120_UNIQUE_2": {
+        "ID": "CP_120_UNIQUE_2",
+        "Text": "Dient mir, ihr Affen."
+      },
+      "CP_120_UNIQUE_3": {
+        "ID": "CP_120_UNIQUE_3",
+        "Text": "Entschuldige, ich habe keine Zeit, mit Affen zu plaudern."
+      },
+      "CP_120_UNIQUE_4": {
+        "ID": "CP_120_UNIQUE_4",
+        "Text": "Quantität vor Qualität. Was hast du jetzt vor?"
+      },
+      "CP_120_UNIQUE_5": {
+        "ID": "CP_120_UNIQUE_5",
+        "Text": "Na schön. Kämpf du für die Liebe. Ich kämpfe, um zu gewinnen."
+      },
+      "CP_120_UNIQUE_6": {
+        "ID": "CP_120_UNIQUE_6",
+        "Text": "Entschuldigung. Ich bin nicht gekommen, um dich zu beleidigen."
+      },
+      "CP_120_UNIQUE_7": {
+        "ID": "CP_120_UNIQUE_7",
+        "Text": "Ich bin zutiefst gerührt."
+      },
+      "CP_120_UNIQUE_8": {
+        "ID": "CP_120_UNIQUE_8",
+        "Text": "Die Welt, die ich immer wollte, befindet sich direkt vor mir!"
+      },
+      "CP_120_UNIQUE_9": {
+        "ID": "CP_120_UNIQUE_9",
+        "Text": "Wie bedauerlich!"
+      },
+      "CP_120_UNIQUE_10": {
+        "ID": "CP_120_UNIQUE_10",
+        "Text": "Quatsch!"
+      },
+      "CP_120_UNIQUE_11": {
+        "ID": "CP_120_UNIQUE_11",
+        "Text": "Mit großer Macht sollte man große Möglichkeiten schaffen."
+      },
+      "CP_120_READY": {
+        "ID": "CP_120_READY",
+        "Text": "Jetzt bin ich so weit."
+      },
+      "CP_120_UNDERSTOODOKAY": {
+        "ID": "CP_120_UNDERSTOODOKAY",
+        "Text": "Okay."
+      },
+      "CP_120_ENDSWITH": {
+        "ID": "CP_120_ENDSWITH",
+        "Text": "Mit dem Nächsten beende ich das Ganze."
+      },
+      "CP_120_WAITAMINUTE": {
+        "ID": "CP_120_WAITAMINUTE",
+        "Text": "Warte mal einen Moment."
+      },
+      "CP_120_CHANGE": {
+        "ID": "CP_120_CHANGE",
+        "Text": "Ich wechsle mich aus."
+      },
+      "CP_120_ITWASAGOODMATCH": {
+        "ID": "CP_120_ITWASAGOODMATCH",
+        "Text": "Das war ein guter Kampf."
+      },
+      "CP_120_EXIT": {
+        "ID": "CP_120_EXIT",
+        "Text": "Ich empfehle mich."
+      },
+      "CP_120_LETSATTACK": {
+        "ID": "CP_120_LETSATTACK",
+        "Text": "Dann greife ich wohl an."
+      },
+      "CP_120_FIGHTCAREFULLY": {
+        "ID": "CP_120_FIGHTCAREFULLY",
+        "Text": "Wir sollten vorsichtig sein."
+      }
+    }
+  }
+]

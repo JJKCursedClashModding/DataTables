@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_090_STAMP_001": {
+        "ID": "CP_090_STAMP_001",
+        "Text": "労働はクソ"
+      }
+    }
+  }
+]

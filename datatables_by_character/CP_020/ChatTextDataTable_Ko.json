@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_GREETING_1": {
+        "ID": "CP_020_GREETING_1",
+        "Text": "떠들어대지 마라"
+      },
+      "CP_020_GREETING_2": {
+        "ID": "CP_020_GREETING_2",
+        "Text": "네 주제를 알아라, 멍청한 놈"
+      },
+      "CP_020_PRAISE_1": {
+        "ID": "CP_020_PRAISE_1",
+        "Text": "상관없다"
+      },
+      "CP_020_PRAISE_2": {
+        "ID": "CP_020_PRAISE_2",
+        "Text": "나쁘지 않게 움직이는군"
+      },
+      "CP_020_FOLLOW": {
+        "ID": "CP_020_FOLLOW",
+        "Text": "성가시게 하지 마"
+      },
+      "CP_020_APOLOGY": {
+        "ID": "CP_020_APOLOGY",
+        "Text": "고작 이걸 가지고"
+      },
+      "CP_020_GRATITUDE_1": {
+        "ID": "CP_020_GRATITUDE_1",
+        "Text": "됐어, 그거면 됐다"
+      },
+      "CP_020_GRATITUDE_2": {
+        "ID": "CP_020_GRATITUDE_2",
+        "Text": "매료해줬군"
+      },
+      "CP_020_GOODBYE": {
+        "ID": "CP_020_GOODBYE",
+        "Text": "사라져라"
+      },
+      "CP_020_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_020_THANKYOUFORYOURHARDWORK",
+        "Text": "잘했다"
+      },
+      "CP_020_ROGERTHAT": {
+        "ID": "CP_020_ROGERTHAT",
+        "Text": "그래, 좋다"
+      },
+      "CP_020_REJECTION": {
+        "ID": "CP_020_REJECTION",
+        "Text": "거절한다"
+      },
+      "CP_020_ENCOURAGEMENT": {
+        "ID": "CP_020_ENCOURAGEMENT",
+        "Text": "그 정도냐?"
+      },
+      "CP_020_PINCH": {
+        "ID": "CP_020_PINCH",
+        "Text": "성가시군그래"
+      },
+      "CP_020_COMEFORWARD": {
+        "ID": "CP_020_COMEFORWARD",
+        "Text": "비켜"
+      },
+      "CP_020_COMEFORWARD_OUT": {
+        "ID": "CP_020_COMEFORWARD_OUT",
+        "Text": "비켜"
+      },
+      "CP_020_GODOWN": {
+        "ID": "CP_020_GODOWN",
+        "Text": "급한 일이다"
+      },
+      "CP_020_GODOWN_OUT": {
+        "ID": "CP_020_GODOWN_OUT",
+        "Text": "급한 일이다"
+      },
+      "CP_020_NOTE": {
+        "ID": "CP_020_NOTE",
+        "Text": "하찮군"
+      },
+      "CP_020_AIMATTHETARGET": {
+        "ID": "CP_020_AIMATTHETARGET",
+        "Text": "이 녀석을 죽이겠다"
+      },
+      "CP_020_AIMFORAJOINTATTACK": {
+        "ID": "CP_020_AIMFORAJOINTATTACK",
+        "Text": "협공 연격을 노린다"
+      },
+      "CP_020_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_020_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격을 노린다"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 노린다"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 노린다"
+      },
+      "CP_020_FIGHTCLOSEBY": {
+        "ID": "CP_020_FIGHTCLOSEBY",
+        "Text": "죽이러 가자, 따라 와"
+      },
+      "CP_020_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_020_FIGHTCLOSEBY_OUT",
+        "Text": "죽이러 가자, 따라 와"
+      },
+      "CP_020_FIGHTAWAY": {
+        "ID": "CP_020_FIGHTAWAY",
+        "Text": "거슬린다, 꺼져"
+      },
+      "CP_020_FIGHTAWAY_OUT": {
+        "ID": "CP_020_FIGHTAWAY_OUT",
+        "Text": "거슬린다, 꺼져"
+      },
+      "CP_020_LETMETAKECAREOFTHAT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT",
+        "Text": "방해하지 마"
+      },
+      "CP_020_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT_OUT",
+        "Text": "방해하지 마"
+      },
+      "CP_020_LETSWORKTOGETHER": {
+        "ID": "CP_020_LETSWORKTOGETHER",
+        "Text": "맞춰라, 안 그러면 죽인다"
+      },
+      "CP_020_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_020_LETSWORKTOGETHER_OUT",
+        "Text": "맞춰라, 안 그러면 죽인다"
+      },
+      "CP_020_LEVELREPORT_LOW": {
+        "ID": "CP_020_LEVELREPORT_LOW",
+        "Text": "아직이다"
+      },
+      "CP_020_LEVELREPORT_MEDIUM": {
+        "ID": "CP_020_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 때가 됐나"
+      },
+      "CP_020_LEVELREPORT_HIGH": {
+        "ID": "CP_020_LEVELREPORT_HIGH",
+        "Text": "흥이 오르는군"
+      },
+      "CP_020_PROVOCATION_1": {
+        "ID": "CP_020_PROVOCATION_1",
+        "Text": "자, 좀 더 발버둥 쳐봐"
+      },
+      "CP_020_PROVOCATION_2": {
+        "ID": "CP_020_PROVOCATION_2",
+        "Text": "무력하군"
+      },
+      "CP_020_RESPECT_1": {
+        "ID": "CP_020_RESPECT_1",
+        "Text": "더 저주를 담아라"
+      },
+      "CP_020_RESPECT_2": {
+        "ID": "CP_020_RESPECT_2",
+        "Text": "흥, 재미있군"
+      },
+      "CP_020_UNIQUE_1": {
+        "ID": "CP_020_UNIQUE_1",
+        "Text": "친히 가르쳐주지,\n진짜 주술이라는 걸 말이야"
+      },
+      "CP_020_UNIQUE_2": {
+        "ID": "CP_020_UNIQUE_2",
+        "Text": "그렇게 겁먹지 말라고"
+      },
+      "CP_020_UNIQUE_3": {
+        "ID": "CP_020_UNIQUE_3",
+        "Text": "비참하군…\n더할 나위 없이 비참하구나!"
+      },
+      "CP_020_UNIQUE_4": {
+        "ID": "CP_020_UNIQUE_4",
+        "Text": "불쾌하게 내 허락도 없이\n올려다보지 마라"
+      },
+      "CP_020_UNIQUE_5": {
+        "ID": "CP_020_UNIQUE_5",
+        "Text": "넌 재미없군"
+      },
+      "CP_020_UNIQUE_6": {
+        "ID": "CP_020_UNIQUE_6",
+        "Text": "네놈이 생명을 불태우는 건\n지금부터라 그거지?"
+      },
+      "CP_020_UNIQUE_7": {
+        "ID": "CP_020_UNIQUE_7",
+        "Text": "네놈이 죽든지 아무래도 상관없다"
+      },
+      "CP_020_UNIQUE_8": {
+        "ID": "CP_020_UNIQUE_8",
+        "Text": "보물을 가지고도 썩히는 꼴이군"
+      },
+      "CP_020_UNIQUE_9": {
+        "ID": "CP_020_UNIQUE_9",
+        "Text": "짜증 나네"
+      },
+      "CP_020_UNIQUE_10": {
+        "ID": "CP_020_UNIQUE_10",
+        "Text": "키힉큭큭크하하하하"
+      },
+      "CP_020_READY": {
+        "ID": "CP_020_READY",
+        "Text": "언제든 상관없다"
+      },
+      "CP_020_UNDERSTOODOKAY": {
+        "ID": "CP_020_UNDERSTOODOKAY",
+        "Text": "그래, 좋다"
+      },
+      "CP_020_ENDSWITH": {
+        "ID": "CP_020_ENDSWITH",
+        "Text": "다음이 끝이다"
+      },
+      "CP_020_WAITAMINUTE": {
+        "ID": "CP_020_WAITAMINUTE",
+        "Text": "기다려"
+      },
+      "CP_020_CHANGE": {
+        "ID": "CP_020_CHANGE",
+        "Text": "변경이다"
+      },
+      "CP_020_ITWASAGOODMATCH": {
+        "ID": "CP_020_ITWASAGOODMATCH",
+        "Text": "조금은 즐겼군"
+      },
+      "CP_020_EXIT": {
+        "ID": "CP_020_EXIT",
+        "Text": "나가겠다"
+      },
+      "CP_020_LETSATTACK": {
+        "ID": "CP_020_LETSATTACK",
+        "Text": "금방 끝내지"
+      },
+      "CP_020_FIGHTCAREFULLY": {
+        "ID": "CP_020_FIGHTCAREFULLY",
+        "Text": "즐길 수 있겠군"
+      }
+    }
+  }
+]

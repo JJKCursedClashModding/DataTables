@@ -1,0 +1,161 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCaptureDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCapture'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_060_CHARACTER_SELECT": {
+        "ID": "CP_060_CHARACTER_SELECT",
+        "CaptureType": "EGameCharacterCaptureType::CharacterSelect",
+        "Id_CharacterAnimation": "CP_060_CHARACTER_CAPTURE",
+        "CharacterIdleAnimationKey": "CharacterSelect_Idle_01",
+        "CharacterEnterAnimationKey": "CharacterSelect_Enter",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "WP_010_00",
+          "WP_010_10"
+        ],
+        "WeaponIdleAnimationName": [
+          "AM_WP_010_00_CharacterSelect_Idle_01",
+          "AM_WP_010_00_CharacterSelect_Idle_01"
+        ],
+        "WeaponEnterAnimationName": [
+          "AM_WP_010_00_CharacterSelect_Enter_01",
+          "AM_WP_010_00_CharacterSelect_Enter_01"
+        ]
+      },
+      "CP_060_STORYCHARACTER_SELECT": {
+        "ID": "CP_060_STORYCHARACTER_SELECT",
+        "CaptureType": "EGameCharacterCaptureType::StoryCharacterSelect",
+        "Id_CharacterAnimation": "CP_060_CHARACTER_CAPTURE",
+        "CharacterIdleAnimationKey": "StoryCharacterSelect_Idle_01",
+        "CharacterEnterAnimationKey": "StoryCharacterSelect_Enter",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "WP_010_00",
+          "WP_010_10"
+        ],
+        "WeaponIdleAnimationName": [
+          "AM_WP_010_00_CharacterSelect_Idle_01",
+          "AM_WP_010_00_CharacterSelect_Idle_01"
+        ],
+        "WeaponEnterAnimationName": [
+          "AM_WP_010_00_CharacterSelect_Enter_01",
+          "AM_WP_010_00_CharacterSelect_Enter_01"
+        ]
+      },
+      "CP_060_VS_ALLY": {
+        "ID": "CP_060_VS_ALLY",
+        "CaptureType": "EGameCharacterCaptureType::VsAlly",
+        "Id_CharacterAnimation": "None",
+        "CharacterIdleAnimationKey": "None",
+        "CharacterEnterAnimationKey": "None",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "None",
+          "None"
+        ],
+        "WeaponIdleAnimationName": [
+          "None",
+          "None"
+        ],
+        "WeaponEnterAnimationName": [
+          "None",
+          "None"
+        ]
+      },
+      "CP_060_VS_ENEMY": {
+        "ID": "CP_060_VS_ENEMY",
+        "CaptureType": "EGameCharacterCaptureType::VsEnemy",
+        "Id_CharacterAnimation": "None",
+        "CharacterIdleAnimationKey": "None",
+        "CharacterEnterAnimationKey": "None",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "None",
+          "None"
+        ],
+        "WeaponIdleAnimationName": [
+          "None",
+          "None"
+        ],
+        "WeaponEnterAnimationName": [
+          "None",
+          "None"
+        ]
+      },
+      "CP_060_FREE_BATTLE": {
+        "ID": "CP_060_FREE_BATTLE",
+        "CaptureType": "EGameCharacterCaptureType::FreeBattle",
+        "Id_CharacterAnimation": "CP_060_CHARACTER_CAPTURE",
+        "CharacterIdleAnimationKey": "FreeBattleCharacterSelect",
+        "CharacterEnterAnimationKey": "None",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "WP_010_00",
+          "WP_010_10"
+        ],
+        "WeaponIdleAnimationName": [
+          "AM_WP_010_00_FreeBattleCharacterSelect",
+          "AM_WP_010_00_FreeBattleCharacterSelect"
+        ],
+        "WeaponEnterAnimationName": [
+          "AM_WP_010_00_FreeBattleCharacterSelect",
+          "AM_WP_010_00_FreeBattleCharacterSelect"
+        ]
+      },
+      "CP_060_CUSTOMIZE": {
+        "ID": "CP_060_CUSTOMIZE",
+        "CaptureType": "EGameCharacterCaptureType::Customize",
+        "Id_CharacterAnimation": "None",
+        "CharacterIdleAnimationKey": "None",
+        "CharacterEnterAnimationKey": "None",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "None",
+          "None"
+        ],
+        "WeaponIdleAnimationName": [
+          "None",
+          "None"
+        ],
+        "WeaponEnterAnimationName": [
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

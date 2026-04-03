@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030_STAMP_001": {
+        "ID": "CP_030_STAMP_001",
+        "Text": "Yo tampoco quiero perder."
+      },
+      "CP_030_STAMP_002": {
+        "ID": "CP_030_STAMP_002",
+        "Text": "Te enseñaré de lo que soy capaz."
+      }
+    }
+  }
+]

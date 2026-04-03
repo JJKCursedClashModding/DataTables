@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_STAMP_001": {
+        "ID": "CP_170_STAMP_001",
+        "Text": "Ein Glückstreffer!"
+      },
+      "CP_170_STAMP_002": {
+        "ID": "CP_170_STAMP_002",
+        "Text": "Immer denkst du nur an dich!"
+      },
+      "CP_170_STAMP_003": {
+        "ID": "CP_170_STAMP_003",
+        "Text": "Oh Junge, armes Ding ..."
+      }
+    }
+  }
+]

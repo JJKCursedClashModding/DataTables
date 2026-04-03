@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_230_GREETING_1": {
+        "ID": "CP_230_GREETING_1",
+        "Text": "よろしく頼む"
+      },
+      "CP_230_GREETING_2": {
+        "ID": "CP_230_GREETING_2",
+        "Text": "始めるぞ"
+      },
+      "CP_230_PRAISE_1": {
+        "ID": "CP_230_PRAISE_1",
+        "Text": "上手いな"
+      },
+      "CP_230_PRAISE_2": {
+        "ID": "CP_230_PRAISE_2",
+        "Text": "やるな"
+      },
+      "CP_230_FOLLOW": {
+        "ID": "CP_230_FOLLOW",
+        "Text": "気にするな"
+      },
+      "CP_230_APOLOGY": {
+        "ID": "CP_230_APOLOGY",
+        "Text": "悪いな"
+      },
+      "CP_230_GRATITUDE_1": {
+        "ID": "CP_230_GRATITUDE_1",
+        "Text": "借りができたな"
+      },
+      "CP_230_GRATITUDE_2": {
+        "ID": "CP_230_GRATITUDE_2",
+        "Text": "助かった"
+      },
+      "CP_230_GOODBYE": {
+        "ID": "CP_230_GOODBYE",
+        "Text": "じゃあな"
+      },
+      "CP_230_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_230_THANKYOUFORYOURHARDWORK",
+        "Text": "お疲れ"
+      },
+      "CP_230_ROGERTHAT": {
+        "ID": "CP_230_ROGERTHAT",
+        "Text": "分かった"
+      },
+      "CP_230_REJECTION": {
+        "ID": "CP_230_REJECTION",
+        "Text": "ダメだ"
+      },
+      "CP_230_ENCOURAGEMENT": {
+        "ID": "CP_230_ENCOURAGEMENT",
+        "Text": "そんなもんじゃないだろ"
+      },
+      "CP_230_PINCH": {
+        "ID": "CP_230_PINCH",
+        "Text": "クソ！！"
+      },
+      "CP_230_COMEFORWARD": {
+        "ID": "CP_230_COMEFORWARD",
+        "Text": "前に出る！"
+      },
+      "CP_230_COMEFORWARD_OUT": {
+        "ID": "CP_230_COMEFORWARD_OUT",
+        "Text": "前に出る！"
+      },
+      "CP_230_GODOWN": {
+        "ID": "CP_230_GODOWN",
+        "Text": "後ろから狙う"
+      },
+      "CP_230_GODOWN_OUT": {
+        "ID": "CP_230_GODOWN_OUT",
+        "Text": "後ろから狙う"
+      },
+      "CP_230_NOTE": {
+        "ID": "CP_230_NOTE",
+        "Text": "来るぞ！"
+      },
+      "CP_230_AIMATTHETARGET": {
+        "ID": "CP_230_AIMATTHETARGET",
+        "Text": "俺がやる"
+      },
+      "CP_230_AIMFORAJOINTATTACK": {
+        "ID": "CP_230_AIMFORAJOINTATTACK",
+        "Text": "共連撃を狙う！"
+      },
+      "CP_230_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_230_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃を狙う！"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を決めるぞ！"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を決めるぞ！"
+      },
+      "CP_230_FIGHTCLOSEBY": {
+        "ID": "CP_230_FIGHTCLOSEBY",
+        "Text": "こっちに来い"
+      },
+      "CP_230_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_230_FIGHTCLOSEBY_OUT",
+        "Text": "こっちに来い"
+      },
+      "CP_230_FIGHTAWAY": {
+        "ID": "CP_230_FIGHTAWAY",
+        "Text": "離れるぞ"
+      },
+      "CP_230_FIGHTAWAY_OUT": {
+        "ID": "CP_230_FIGHTAWAY_OUT",
+        "Text": "離れるぞ"
+      },
+      "CP_230_LETMETAKECAREOFTHAT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT",
+        "Text": "任せろ"
+      },
+      "CP_230_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT_OUT",
+        "Text": "任せろ"
+      },
+      "CP_230_LETSWORKTOGETHER": {
+        "ID": "CP_230_LETSWORKTOGETHER",
+        "Text": "合わせろ！"
+      },
+      "CP_230_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_230_LETSWORKTOGETHER_OUT",
+        "Text": "合わせろ！"
+      },
+      "CP_230_LEVELREPORT_LOW": {
+        "ID": "CP_230_LEVELREPORT_LOW",
+        "Text": "少し時間をくれ"
+      },
+      "CP_230_LEVELREPORT_MEDIUM": {
+        "ID": "CP_230_LEVELREPORT_MEDIUM",
+        "Text": "これで十分だ！"
+      },
+      "CP_230_LEVELREPORT_HIGH": {
+        "ID": "CP_230_LEVELREPORT_HIGH",
+        "Text": "本気で行く"
+      },
+      "CP_230_PROVOCATION_1": {
+        "ID": "CP_230_PROVOCATION_1",
+        "Text": "その程度か"
+      },
+      "CP_230_PROVOCATION_2": {
+        "ID": "CP_230_PROVOCATION_2",
+        "Text": "ナメすぎだ"
+      },
+      "CP_230_RESPECT_1": {
+        "ID": "CP_230_RESPECT_1",
+        "Text": "悪くない動きだ"
+      },
+      "CP_230_RESPECT_2": {
+        "ID": "CP_230_RESPECT_2",
+        "Text": "やるようだな"
+      },
+      "CP_230_UNIQUE_1": {
+        "ID": "CP_230_UNIQUE_1",
+        "Text": "俺達は三人で一つだ"
+      },
+      "CP_230_UNIQUE_2": {
+        "ID": "CP_230_UNIQUE_2",
+        "Text": "どこに逃げても袋の鼠だ"
+      },
+      "CP_230_UNIQUE_3": {
+        "ID": "CP_230_UNIQUE_3",
+        "Text": "逃げ場がなくなったのはオマエの方だ！！"
+      },
+      "CP_230_UNIQUE_4": {
+        "ID": "CP_230_UNIQUE_4",
+        "Text": "まだ息があるな"
+      },
+      "CP_230_UNIQUE_5": {
+        "ID": "CP_230_UNIQUE_5",
+        "Text": "それが弟の前で命を張らない理由になるか？"
+      },
+      "CP_230_UNIQUE_6": {
+        "ID": "CP_230_UNIQUE_6",
+        "Text": "どけ！！！俺はお兄ちゃんだぞ！！！"
+      },
+      "CP_230_UNIQUE_7": {
+        "ID": "CP_230_UNIQUE_7",
+        "Text": "全力でお兄ちゃんを遂行する！！"
+      },
+      "CP_230_UNIQUE_8": {
+        "ID": "CP_230_UNIQUE_8",
+        "Text": "馬鹿ではあの二人には勝てん"
+      },
+      "CP_230_UNIQUE_9": {
+        "ID": "CP_230_UNIQUE_9",
+        "Text": "とりあえず一回呼んでみてくれないか？\nお兄ちゃんと"
+      },
+      "CP_230_UNIQUE_10": {
+        "ID": "CP_230_UNIQUE_10",
+        "Text": "違う！！俺はお兄ちゃんだ"
+      },
+      "CP_230_UNIQUE_11": {
+        "ID": "CP_230_UNIQUE_11",
+        "Text": "壊相！！血塗！！見ていろ！！\nこれがオマエ達のお兄ちゃんだ！！！"
+      },
+      "CP_230_UNIQUE_12": {
+        "ID": "CP_230_UNIQUE_12",
+        "Text": "今のが最後の勝機"
+      },
+      "CP_230_READY": {
+        "ID": "CP_230_READY",
+        "Text": "準備できたぞ"
+      },
+      "CP_230_UNDERSTOODOKAY": {
+        "ID": "CP_230_UNDERSTOODOKAY",
+        "Text": "いいだろう"
+      },
+      "CP_230_ENDSWITH": {
+        "ID": "CP_230_ENDSWITH",
+        "Text": "次で最後だ"
+      },
+      "CP_230_WAITAMINUTE": {
+        "ID": "CP_230_WAITAMINUTE",
+        "Text": "少し待て"
+      },
+      "CP_230_CHANGE": {
+        "ID": "CP_230_CHANGE",
+        "Text": "変更する"
+      },
+      "CP_230_ITWASAGOODMATCH": {
+        "ID": "CP_230_ITWASAGOODMATCH",
+        "Text": "いい試合だったな"
+      },
+      "CP_230_EXIT": {
+        "ID": "CP_230_EXIT",
+        "Text": "退出する"
+      },
+      "CP_230_LETSATTACK": {
+        "ID": "CP_230_LETSATTACK",
+        "Text": "攻める！"
+      },
+      "CP_230_FIGHTCAREFULLY": {
+        "ID": "CP_230_FIGHTCAREFULLY",
+        "Text": "慎重に行くぞ"
+      }
+    }
+  }
+]

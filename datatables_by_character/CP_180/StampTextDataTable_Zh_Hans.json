@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180_STAMP_001": {
+        "ID": "CP_180_STAMP_001",
+        "Text": "加油啊我，今天也很可爱"
+      },
+      "CP_180_STAMP_002": {
+        "ID": "CP_180_STAMP_002",
+        "Text": "真不可爱……"
+      }
+    }
+  }
+]

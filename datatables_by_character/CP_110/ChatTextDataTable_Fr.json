@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110_GREETING_1": {
+        "ID": "CP_110_GREETING_1",
+        "Text": "Je… me réjouis de combattre ensemble."
+      },
+      "CP_110_GREETING_2": {
+        "ID": "CP_110_GREETING_2",
+        "Text": "Je veux me rendre utile."
+      },
+      "CP_110_PRAISE_1": {
+        "ID": "CP_110_PRAISE_1",
+        "Text": "Bien joué."
+      },
+      "CP_110_PRAISE_2": {
+        "ID": "CP_110_PRAISE_2",
+        "Text": "Quel talent."
+      },
+      "CP_110_FOLLOW": {
+        "ID": "CP_110_FOLLOW",
+        "Text": "Pas de soucis."
+      },
+      "CP_110_APOLOGY": {
+        "ID": "CP_110_APOLOGY",
+        "Text": "Désolé."
+      },
+      "CP_110_GRATITUDE_1": {
+        "ID": "CP_110_GRATITUDE_1",
+        "Text": "Euh, merci !"
+      },
+      "CP_110_GRATITUDE_2": {
+        "ID": "CP_110_GRATITUDE_2",
+        "Text": "Merci pour le coup de main."
+      },
+      "CP_110_GOODBYE": {
+        "ID": "CP_110_GOODBYE",
+        "Text": "À plus tard."
+      },
+      "CP_110_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_110_THANKYOUFORYOURHARDWORK",
+        "Text": "Bien joué !"
+      },
+      "CP_110_ROGERTHAT": {
+        "ID": "CP_110_ROGERTHAT",
+        "Text": "Compris."
+      },
+      "CP_110_REJECTION": {
+        "ID": "CP_110_REJECTION",
+        "Text": "Je peux pas pour l'instant."
+      },
+      "CP_110_ENCOURAGEMENT": {
+        "ID": "CP_110_ENCOURAGEMENT",
+        "Text": "C'est bien comme ça !"
+      },
+      "CP_110_PINCH": {
+        "ID": "CP_110_PINCH",
+        "Text": "C'est pas bon…"
+      },
+      "CP_110_COMEFORWARD": {
+        "ID": "CP_110_COMEFORWARD",
+        "Text": "Je pars devant."
+      },
+      "CP_110_COMEFORWARD_OUT": {
+        "ID": "CP_110_COMEFORWARD_OUT",
+        "Text": "Je pars devant."
+      },
+      "CP_110_GODOWN": {
+        "ID": "CP_110_GODOWN",
+        "Text": "Je recule."
+      },
+      "CP_110_GODOWN_OUT": {
+        "ID": "CP_110_GODOWN_OUT",
+        "Text": "Je recule."
+      },
+      "CP_110_NOTE": {
+        "ID": "CP_110_NOTE",
+        "Text": "Attention !"
+      },
+      "CP_110_AIMATTHETARGET": {
+        "ID": "CP_110_AIMATTHETARGET",
+        "Text": "Je m'occupe de cette cible."
+      },
+      "CP_110_AIMFORAJOINTATTACK": {
+        "ID": "CP_110_AIMFORAJOINTATTACK",
+        "Text": "On peut utiliser notre combo !"
+      },
+      "CP_110_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_110_AIMFORAJOINTATTACK_OUT",
+        "Text": "On peut utiliser notre combo !"
+      },
+      "CP_110_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_110_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Ça mérite une technique éveillée."
+      },
+      "CP_110_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_110_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Ça mérite une technique éveillée."
+      },
+      "CP_110_FIGHTCLOSEBY": {
+        "ID": "CP_110_FIGHTCLOSEBY",
+        "Text": "Rapprochons-nous."
+      },
+      "CP_110_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_110_FIGHTCLOSEBY_OUT",
+        "Text": "Rapprochons-nous."
+      },
+      "CP_110_FIGHTAWAY": {
+        "ID": "CP_110_FIGHTAWAY",
+        "Text": "Gardons nos distances."
+      },
+      "CP_110_FIGHTAWAY_OUT": {
+        "ID": "CP_110_FIGHTAWAY_OUT",
+        "Text": "Gardons nos distances."
+      },
+      "CP_110_LETMETAKECAREOFTHAT": {
+        "ID": "CP_110_LETMETAKECAREOFTHAT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_110_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_110_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_110_LETSWORKTOGETHER": {
+        "ID": "CP_110_LETSWORKTOGETHER",
+        "Text": "Faisons ça ensemble."
+      },
+      "CP_110_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_110_LETSWORKTOGETHER_OUT",
+        "Text": "Faisons ça ensemble."
+      },
+      "CP_110_LEVELREPORT_LOW": {
+        "ID": "CP_110_LEVELREPORT_LOW",
+        "Text": "Pas assez d'énergie occulte."
+      },
+      "CP_110_LEVELREPORT_MEDIUM": {
+        "ID": "CP_110_LEVELREPORT_MEDIUM",
+        "Text": "J'ai besoin de plus d'énergie occulte."
+      },
+      "CP_110_LEVELREPORT_HIGH": {
+        "ID": "CP_110_LEVELREPORT_HIGH",
+        "Text": "Je vais tout donner."
+      },
+      "CP_110_PROVOCATION_1": {
+        "ID": "CP_110_PROVOCATION_1",
+        "Text": "Je peux pas perdre !"
+      },
+      "CP_110_PROVOCATION_2": {
+        "ID": "CP_110_PROVOCATION_2",
+        "Text": "Euh, donc… se rendre n'est pas une option ?"
+      },
+      "CP_110_RESPECT_1": {
+        "ID": "CP_110_RESPECT_1",
+        "Text": "Incroyable !"
+      },
+      "CP_110_RESPECT_2": {
+        "ID": "CP_110_RESPECT_2",
+        "Text": "Je dois garder le rythme !"
+      },
+      "CP_110_UNIQUE_1": {
+        "ID": "CP_110_UNIQUE_1",
+        "Text": "Je veux pouvoir continuer à me regarder dans un miroir !"
+      },
+      "CP_110_UNIQUE_2": {
+        "ID": "CP_110_UNIQUE_2",
+        "Text": "Rika, prête-moi ta force."
+      },
+      "CP_110_UNIQUE_3": {
+        "ID": "CP_110_UNIQUE_3",
+        "Text": "Je t'aime Rika."
+      },
+      "CP_110_UNIQUE_4": {
+        "ID": "CP_110_UNIQUE_4",
+        "Text": "Je ne te permets pas de me juger. Notre amour est pur."
+      },
+      "CP_110_UNIQUE_5": {
+        "ID": "CP_110_UNIQUE_5",
+        "Text": "Je t'ordonne de la traiter comme le plus précieux des trésors !"
+      },
+      "CP_110_UNIQUE_6": {
+        "ID": "CP_110_UNIQUE_6",
+        "Text": "Je te laisserai pas mourir !"
+      },
+      "CP_110_UNIQUE_7": {
+        "ID": "CP_110_UNIQUE_7",
+        "Text": "Je sais pas !"
+      },
+      "CP_110_UNIQUE_8": {
+        "ID": "CP_110_UNIQUE_8",
+        "Text": "C'est pas ce qu'on nous avait dit !"
+      },
+      "CP_110_UNIQUE_9": {
+        "ID": "CP_110_UNIQUE_9",
+        "Text": "Il me dit ça que maintenant ?"
+      },
+      "CP_110_UNIQUE_10": {
+        "ID": "CP_110_UNIQUE_10",
+        "Text": "Qu-qu'est-ce que je peux faire ?"
+      },
+      "CP_110_UNIQUE_11": {
+        "ID": "CP_110_UNIQUE_11",
+        "Text": "J'aide pas ceux qui insultent mes amis !"
+      },
+      "CP_110_UNIQUE_12": {
+        "ID": "CP_110_UNIQUE_12",
+        "Text": "J'ai décidé de changer, ici et maintenant !"
+      },
+      "CP_110_READY": {
+        "ID": "CP_110_READY",
+        "Text": "Prêt !"
+      },
+      "CP_110_UNDERSTOODOKAY": {
+        "ID": "CP_110_UNDERSTOODOKAY",
+        "Text": "Compris."
+      },
+      "CP_110_ENDSWITH": {
+        "ID": "CP_110_ENDSWITH",
+        "Text": "Le prochain sera le dernier."
+      },
+      "CP_110_WAITAMINUTE": {
+        "ID": "CP_110_WAITAMINUTE",
+        "Text": "Un instant."
+      },
+      "CP_110_CHANGE": {
+        "ID": "CP_110_CHANGE",
+        "Text": "Je change."
+      },
+      "CP_110_ITWASAGOODMATCH": {
+        "ID": "CP_110_ITWASAGOODMATCH",
+        "Text": "C'était un beau match."
+      },
+      "CP_110_EXIT": {
+        "ID": "CP_110_EXIT",
+        "Text": "Je m'en vais."
+      },
+      "CP_110_LETSATTACK": {
+        "ID": "CP_110_LETSATTACK",
+        "Text": "Attaquons."
+      },
+      "CP_110_FIGHTCAREFULLY": {
+        "ID": "CP_110_FIGHTCAREFULLY",
+        "Text": "Soyons prudents."
+      }
+    }
+  }
+]

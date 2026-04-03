@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_120_GREETING_1": {
+        "ID": "CP_120_GREETING_1",
+        "Text": "請多指教"
+      },
+      "CP_120_GREETING_2": {
+        "ID": "CP_120_GREETING_2",
+        "Text": "嗨"
+      },
+      "CP_120_PRAISE_1": {
+        "ID": "CP_120_PRAISE_1",
+        "Text": "你還滿行的"
+      },
+      "CP_120_PRAISE_2": {
+        "ID": "CP_120_PRAISE_2",
+        "Text": "這不是很棒嗎"
+      },
+      "CP_120_FOLLOW": {
+        "ID": "CP_120_FOLLOW",
+        "Text": "不需要沮喪"
+      },
+      "CP_120_APOLOGY": {
+        "ID": "CP_120_APOLOGY",
+        "Text": "抱歉啊"
+      },
+      "CP_120_GRATITUDE_1": {
+        "ID": "CP_120_GRATITUDE_1",
+        "Text": "謝謝"
+      },
+      "CP_120_GRATITUDE_2": {
+        "ID": "CP_120_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_120_GOODBYE": {
+        "ID": "CP_120_GOODBYE",
+        "Text": "我先告辭了"
+      },
+      "CP_120_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_120_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_120_ROGERTHAT": {
+        "ID": "CP_120_ROGERTHAT",
+        "Text": "我沒有異議"
+      },
+      "CP_120_REJECTION": {
+        "ID": "CP_120_REJECTION",
+        "Text": "令人難以接受啊"
+      },
+      "CP_120_ENCOURAGEMENT": {
+        "ID": "CP_120_ENCOURAGEMENT",
+        "Text": "就照這樣下去吧"
+      },
+      "CP_120_PINCH": {
+        "ID": "CP_120_PINCH",
+        "Text": "有點麻煩呢"
+      },
+      "CP_120_COMEFORWARD": {
+        "ID": "CP_120_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_120_COMEFORWARD_OUT": {
+        "ID": "CP_120_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_120_GODOWN": {
+        "ID": "CP_120_GODOWN",
+        "Text": "我退後"
+      },
+      "CP_120_GODOWN_OUT": {
+        "ID": "CP_120_GODOWN_OUT",
+        "Text": "我退後"
+      },
+      "CP_120_NOTE": {
+        "ID": "CP_120_NOTE",
+        "Text": "別大意"
+      },
+      "CP_120_AIMATTHETARGET": {
+        "ID": "CP_120_AIMATTHETARGET",
+        "Text": "交給我吧"
+      },
+      "CP_120_AIMFORAJOINTATTACK": {
+        "ID": "CP_120_AIMFORAJOINTATTACK",
+        "Text": "找機會用共連擊"
+      },
+      "CP_120_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_120_AIMFORAJOINTATTACK_OUT",
+        "Text": "找機會用共連擊"
+      },
+      "CP_120_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_120_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_120_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_120_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_120_FIGHTCLOSEBY": {
+        "ID": "CP_120_FIGHTCLOSEBY",
+        "Text": "可以靠過來嗎"
+      },
+      "CP_120_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_120_FIGHTCLOSEBY_OUT",
+        "Text": "可以靠過來嗎"
+      },
+      "CP_120_FIGHTAWAY": {
+        "ID": "CP_120_FIGHTAWAY",
+        "Text": "分散吧"
+      },
+      "CP_120_FIGHTAWAY_OUT": {
+        "ID": "CP_120_FIGHTAWAY_OUT",
+        "Text": "分散吧"
+      },
+      "CP_120_LETMETAKECAREOFTHAT": {
+        "ID": "CP_120_LETMETAKECAREOFTHAT",
+        "Text": "交給我就好了"
+      },
+      "CP_120_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_120_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交給我就好了"
+      },
+      "CP_120_LETSWORKTOGETHER": {
+        "ID": "CP_120_LETSWORKTOGETHER",
+        "Text": "可以幫我一下嗎"
+      },
+      "CP_120_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_120_LETSWORKTOGETHER_OUT",
+        "Text": "可以幫我一下嗎"
+      },
+      "CP_120_LEVELREPORT_LOW": {
+        "ID": "CP_120_LEVELREPORT_LOW",
+        "Text": "需要準備呢"
+      },
+      "CP_120_LEVELREPORT_MEDIUM": {
+        "ID": "CP_120_LEVELREPORT_MEDIUM",
+        "Text": "不要有所保留"
+      },
+      "CP_120_LEVELREPORT_HIGH": {
+        "ID": "CP_120_LEVELREPORT_HIGH",
+        "Text": "質或量我都不會妥協了"
+      },
+      "CP_120_PROVOCATION_1": {
+        "ID": "CP_120_PROVOCATION_1",
+        "Text": "你的力量就這點程度嗎？"
+      },
+      "CP_120_PROVOCATION_2": {
+        "ID": "CP_120_PROVOCATION_2",
+        "Text": "沒有意義"
+      },
+      "CP_120_RESPECT_1": {
+        "ID": "CP_120_RESPECT_1",
+        "Text": "哦……還真行"
+      },
+      "CP_120_RESPECT_2": {
+        "ID": "CP_120_RESPECT_2",
+        "Text": "我太小看你了"
+      },
+      "CP_120_UNIQUE_1": {
+        "ID": "CP_120_UNIQUE_1",
+        "Text": "讓我們建立咒術師的樂園吧"
+      },
+      "CP_120_UNIQUE_2": {
+        "ID": "CP_120_UNIQUE_2",
+        "Text": "服從我吧，猴子們"
+      },
+      "CP_120_UNIQUE_3": {
+        "ID": "CP_120_UNIQUE_3",
+        "Text": "抱歉，我沒空陪猴子閒聊"
+      },
+      "CP_120_UNIQUE_4": {
+        "ID": "CP_120_UNIQUE_4",
+        "Text": "首先是重量不重質，你會如何出招？"
+      },
+      "CP_120_UNIQUE_5": {
+        "ID": "CP_120_UNIQUE_5",
+        "Text": "既然如此，我就是大義"
+      },
+      "CP_120_UNIQUE_6": {
+        "ID": "CP_120_UNIQUE_6",
+        "Text": "真抱歉，我不是有心讓你感到不悅"
+      },
+      "CP_120_UNIQUE_7": {
+        "ID": "CP_120_UNIQUE_7",
+        "Text": "我現在！！非常感動！！"
+      },
+      "CP_120_UNIQUE_8": {
+        "ID": "CP_120_UNIQUE_8",
+        "Text": "我所期望的世界，此刻就在我眼前！"
+      },
+      "CP_120_UNIQUE_9": {
+        "ID": "CP_120_UNIQUE_9",
+        "Text": "真是令人嘆息！"
+      },
+      "CP_120_UNIQUE_10": {
+        "ID": "CP_120_UNIQUE_10",
+        "Text": "太扯了！！"
+      },
+      "CP_120_UNIQUE_11": {
+        "ID": "CP_120_UNIQUE_11",
+        "Text": "偉大的力量就該運用在偉大的目的上"
+      },
+      "CP_120_READY": {
+        "ID": "CP_120_READY",
+        "Text": "我準備好了"
+      },
+      "CP_120_UNDERSTOODOKAY": {
+        "ID": "CP_120_UNDERSTOODOKAY",
+        "Text": "知道了"
+      },
+      "CP_120_ENDSWITH": {
+        "ID": "CP_120_ENDSWITH",
+        "Text": "下次就會結束"
+      },
+      "CP_120_WAITAMINUTE": {
+        "ID": "CP_120_WAITAMINUTE",
+        "Text": "稍等一下吧"
+      },
+      "CP_120_CHANGE": {
+        "ID": "CP_120_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_120_ITWASAGOODMATCH": {
+        "ID": "CP_120_ITWASAGOODMATCH",
+        "Text": "這是場好比賽"
+      },
+      "CP_120_EXIT": {
+        "ID": "CP_120_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_120_LETSATTACK": {
+        "ID": "CP_120_LETSATTACK",
+        "Text": "進攻好了"
+      },
+      "CP_120_FIGHTCAREFULLY": {
+        "ID": "CP_120_FIGHTCAREFULLY",
+        "Text": "看來需要準備呢"
+      }
+    }
+  }
+]

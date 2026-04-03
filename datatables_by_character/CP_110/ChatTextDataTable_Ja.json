@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110_GREETING_1": {
+        "ID": "CP_110_GREETING_1",
+        "Text": "よ、よろしくお願いします"
+      },
+      "CP_110_GREETING_2": {
+        "ID": "CP_110_GREETING_2",
+        "Text": "少しでも皆の役に立つんだ！"
+      },
+      "CP_110_PRAISE_1": {
+        "ID": "CP_110_PRAISE_1",
+        "Text": "さすがだね"
+      },
+      "CP_110_PRAISE_2": {
+        "ID": "CP_110_PRAISE_2",
+        "Text": "やっぱり凄いなぁ"
+      },
+      "CP_110_FOLLOW": {
+        "ID": "CP_110_FOLLOW",
+        "Text": "気にしないで"
+      },
+      "CP_110_APOLOGY": {
+        "ID": "CP_110_APOLOGY",
+        "Text": "ごめん"
+      },
+      "CP_110_GRATITUDE_1": {
+        "ID": "CP_110_GRATITUDE_1",
+        "Text": "あ、ありがとう！"
+      },
+      "CP_110_GRATITUDE_2": {
+        "ID": "CP_110_GRATITUDE_2",
+        "Text": "助けられてばかりだね"
+      },
+      "CP_110_GOODBYE": {
+        "ID": "CP_110_GOODBYE",
+        "Text": "またね"
+      },
+      "CP_110_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_110_THANKYOUFORYOURHARDWORK",
+        "Text": "お疲れ！"
+      },
+      "CP_110_ROGERTHAT": {
+        "ID": "CP_110_ROGERTHAT",
+        "Text": "わかった"
+      },
+      "CP_110_REJECTION": {
+        "ID": "CP_110_REJECTION",
+        "Text": "今は難しいかな…"
+      },
+      "CP_110_ENCOURAGEMENT": {
+        "ID": "CP_110_ENCOURAGEMENT",
+        "Text": "この調子でいこう！"
+      },
+      "CP_110_PINCH": {
+        "ID": "CP_110_PINCH",
+        "Text": "まずいかも"
+      },
+      "CP_110_COMEFORWARD": {
+        "ID": "CP_110_COMEFORWARD",
+        "Text": "前に出るよ"
+      },
+      "CP_110_COMEFORWARD_OUT": {
+        "ID": "CP_110_COMEFORWARD_OUT",
+        "Text": "前に出るよ"
+      },
+      "CP_110_GODOWN": {
+        "ID": "CP_110_GODOWN",
+        "Text": "下がるね"
+      },
+      "CP_110_GODOWN_OUT": {
+        "ID": "CP_110_GODOWN_OUT",
+        "Text": "下がるね"
+      },
+      "CP_110_NOTE": {
+        "ID": "CP_110_NOTE",
+        "Text": "気をつけて！"
+      },
+      "CP_110_AIMATTHETARGET": {
+        "ID": "CP_110_AIMATTHETARGET",
+        "Text": "あれは僕がやるよ"
+      },
+      "CP_110_AIMFORAJOINTATTACK": {
+        "ID": "CP_110_AIMFORAJOINTATTACK",
+        "Text": "共連撃を狙おう"
+      },
+      "CP_110_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_110_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃を狙おう"
+      },
+      "CP_110_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_110_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を狙うよ"
+      },
+      "CP_110_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_110_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を狙うよ"
+      },
+      "CP_110_FIGHTCLOSEBY": {
+        "ID": "CP_110_FIGHTCLOSEBY",
+        "Text": "もっと近づこう"
+      },
+      "CP_110_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_110_FIGHTCLOSEBY_OUT",
+        "Text": "もっと近づこう"
+      },
+      "CP_110_FIGHTAWAY": {
+        "ID": "CP_110_FIGHTAWAY",
+        "Text": "距離を取ろう"
+      },
+      "CP_110_FIGHTAWAY_OUT": {
+        "ID": "CP_110_FIGHTAWAY_OUT",
+        "Text": "距離を取ろう"
+      },
+      "CP_110_LETMETAKECAREOFTHAT": {
+        "ID": "CP_110_LETMETAKECAREOFTHAT",
+        "Text": "僕に任せて"
+      },
+      "CP_110_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_110_LETMETAKECAREOFTHAT_OUT",
+        "Text": "僕に任せて"
+      },
+      "CP_110_LETSWORKTOGETHER": {
+        "ID": "CP_110_LETSWORKTOGETHER",
+        "Text": "一緒に仕掛けよう"
+      },
+      "CP_110_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_110_LETSWORKTOGETHER_OUT",
+        "Text": "一緒に仕掛けよう"
+      },
+      "CP_110_LEVELREPORT_LOW": {
+        "ID": "CP_110_LEVELREPORT_LOW",
+        "Text": "呪いが足りない"
+      },
+      "CP_110_LEVELREPORT_MEDIUM": {
+        "ID": "CP_110_LEVELREPORT_MEDIUM",
+        "Text": "もっと呪力を籠めなきゃ"
+      },
+      "CP_110_LEVELREPORT_HIGH": {
+        "ID": "CP_110_LEVELREPORT_HIGH",
+        "Text": "本気でいくよ"
+      },
+      "CP_110_PROVOCATION_1": {
+        "ID": "CP_110_PROVOCATION_1",
+        "Text": "僕は負けられないんだ"
+      },
+      "CP_110_PROVOCATION_2": {
+        "ID": "CP_110_PROVOCATION_2",
+        "Text": "その…諦めてくれませんか？"
+      },
+      "CP_110_RESPECT_1": {
+        "ID": "CP_110_RESPECT_1",
+        "Text": "すごいね！"
+      },
+      "CP_110_RESPECT_2": {
+        "ID": "CP_110_RESPECT_2",
+        "Text": "僕も負けてられない！"
+      },
+      "CP_110_UNIQUE_1": {
+        "ID": "CP_110_UNIQUE_1",
+        "Text": "生きてていいって自信が欲しいんだ"
+      },
+      "CP_110_UNIQUE_2": {
+        "ID": "CP_110_UNIQUE_2",
+        "Text": "里香ちゃん、力を貸して"
+      },
+      "CP_110_UNIQUE_3": {
+        "ID": "CP_110_UNIQUE_3",
+        "Text": "愛してるよ里香"
+      },
+      "CP_110_UNIQUE_4": {
+        "ID": "CP_110_UNIQUE_4",
+        "Text": "失礼だな 純愛だよ"
+      },
+      "CP_110_UNIQUE_5": {
+        "ID": "CP_110_UNIQUE_5",
+        "Text": "蝶よりも、花よりも丁重に扱え"
+      },
+      "CP_110_UNIQUE_6": {
+        "ID": "CP_110_UNIQUE_6",
+        "Text": "死なせない！！"
+      },
+      "CP_110_UNIQUE_7": {
+        "ID": "CP_110_UNIQUE_7",
+        "Text": "分かんないよ！"
+      },
+      "CP_110_UNIQUE_8": {
+        "ID": "CP_110_UNIQUE_8",
+        "Text": "話が違くない！？？"
+      },
+      "CP_110_UNIQUE_9": {
+        "ID": "CP_110_UNIQUE_9",
+        "Text": "事前に言ってよ！！"
+      },
+      "CP_110_UNIQUE_10": {
+        "ID": "CP_110_UNIQUE_10",
+        "Text": "どどどどどうしよう！！"
+      },
+      "CP_110_UNIQUE_11": {
+        "ID": "CP_110_UNIQUE_11",
+        "Text": "友達を侮辱する人の手伝いは\n僕にはできない！！"
+      },
+      "CP_110_UNIQUE_12": {
+        "ID": "CP_110_UNIQUE_12",
+        "Text": "ここで変わるって決めたじゃないか"
+      },
+      "CP_110_READY": {
+        "ID": "CP_110_READY",
+        "Text": "準備完了！"
+      },
+      "CP_110_UNDERSTOODOKAY": {
+        "ID": "CP_110_UNDERSTOODOKAY",
+        "Text": "わかった"
+      },
+      "CP_110_ENDSWITH": {
+        "ID": "CP_110_ENDSWITH",
+        "Text": "次でラスト"
+      },
+      "CP_110_WAITAMINUTE": {
+        "ID": "CP_110_WAITAMINUTE",
+        "Text": "ちょっと待って"
+      },
+      "CP_110_CHANGE": {
+        "ID": "CP_110_CHANGE",
+        "Text": "変更するよ"
+      },
+      "CP_110_ITWASAGOODMATCH": {
+        "ID": "CP_110_ITWASAGOODMATCH",
+        "Text": "いい試合だった"
+      },
+      "CP_110_EXIT": {
+        "ID": "CP_110_EXIT",
+        "Text": "退出するよ"
+      },
+      "CP_110_LETSATTACK": {
+        "ID": "CP_110_LETSATTACK",
+        "Text": "攻めよう"
+      },
+      "CP_110_FIGHTCAREFULLY": {
+        "ID": "CP_110_FIGHTCAREFULLY",
+        "Text": "慎重にいこう"
+      }
+    }
+  }
+]

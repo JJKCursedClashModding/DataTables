@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_230": {
+        "ID": "CN_230",
+        "CueSheetName": [
+          "CN_230",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesMan",
+        "Id_CharacterVoiceGroupSet": [
+          "CN_230",
+          "CN_230",
+          "CN_230",
+          "CN_230_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

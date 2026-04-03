@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_200_STAMP_001": {
+        "ID": "CP_200_STAMP_001",
+        "Text": "자, 수고했습니다. 해산, 해산"
+      },
+      "CP_200_STAMP_002": {
+        "ID": "CP_200_STAMP_002",
+        "Text": "승부는 이제부터 시작인데"
+      }
+    }
+  }
+]

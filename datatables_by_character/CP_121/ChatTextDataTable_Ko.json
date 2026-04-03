@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_GREETING_1": {
+        "ID": "CP_121_GREETING_1",
+        "Text": "잘 부탁해"
+      },
+      "CP_121_GREETING_2": {
+        "ID": "CP_121_GREETING_2",
+        "Text": "질 것 같지 않은걸"
+      },
+      "CP_121_PRAISE_1": {
+        "ID": "CP_121_PRAISE_1",
+        "Text": "강하네"
+      },
+      "CP_121_PRAISE_2": {
+        "ID": "CP_121_PRAISE_2",
+        "Text": "훌륭해"
+      },
+      "CP_121_FOLLOW": {
+        "ID": "CP_121_FOLLOW",
+        "Text": "괜찮아?"
+      },
+      "CP_121_APOLOGY": {
+        "ID": "CP_121_APOLOGY",
+        "Text": "미안"
+      },
+      "CP_121_GRATITUDE_1": {
+        "ID": "CP_121_GRATITUDE_1",
+        "Text": "도와줘서 고마워"
+      },
+      "CP_121_GRATITUDE_2": {
+        "ID": "CP_121_GRATITUDE_2",
+        "Text": "고마워"
+      },
+      "CP_121_GOODBYE": {
+        "ID": "CP_121_GOODBYE",
+        "Text": "다시 싸울 날을 기대할게"
+      },
+      "CP_121_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_121_THANKYOUFORYOURHARDWORK",
+        "Text": "수고 많았어"
+      },
+      "CP_121_ROGERTHAT": {
+        "ID": "CP_121_ROGERTHAT",
+        "Text": "문제없어"
+      },
+      "CP_121_REJECTION": {
+        "ID": "CP_121_REJECTION",
+        "Text": "안 들리는데?"
+      },
+      "CP_121_ENCOURAGEMENT": {
+        "ID": "CP_121_ENCOURAGEMENT",
+        "Text": "컨디션이 좋아 보이네"
+      },
+      "CP_121_PINCH": {
+        "ID": "CP_121_PINCH",
+        "Text": "방심했어"
+      },
+      "CP_121_COMEFORWARD": {
+        "ID": "CP_121_COMEFORWARD",
+        "Text": "전방은 내가 맡을게"
+      },
+      "CP_121_COMEFORWARD_OUT": {
+        "ID": "CP_121_COMEFORWARD_OUT",
+        "Text": "전방은 내가 맡을게"
+      },
+      "CP_121_GODOWN": {
+        "ID": "CP_121_GODOWN",
+        "Text": "일단 물러날게"
+      },
+      "CP_121_GODOWN_OUT": {
+        "ID": "CP_121_GODOWN_OUT",
+        "Text": "일단 물러날게"
+      },
+      "CP_121_NOTE": {
+        "ID": "CP_121_NOTE",
+        "Text": "온다!"
+      },
+      "CP_121_AIMATTHETARGET": {
+        "ID": "CP_121_AIMATTHETARGET",
+        "Text": "내가 맡을게"
+      },
+      "CP_121_AIMFORAJOINTATTACK": {
+        "ID": "CP_121_AIMFORAJOINTATTACK",
+        "Text": "협공 연격을 노릴까"
+      },
+      "CP_121_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_121_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격을 노릴까"
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기로 간다"
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기로 간다"
+      },
+      "CP_121_FIGHTCLOSEBY": {
+        "ID": "CP_121_FIGHTCLOSEBY",
+        "Text": "떨어지지 마"
+      },
+      "CP_121_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_121_FIGHTCLOSEBY_OUT",
+        "Text": "떨어지지 마"
+      },
+      "CP_121_FIGHTAWAY": {
+        "ID": "CP_121_FIGHTAWAY",
+        "Text": "거리를 둘까"
+      },
+      "CP_121_FIGHTAWAY_OUT": {
+        "ID": "CP_121_FIGHTAWAY_OUT",
+        "Text": "거리를 둘까"
+      },
+      "CP_121_LETMETAKECAREOFTHAT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT",
+        "Text": "여긴 내게 맡겨"
+      },
+      "CP_121_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT_OUT",
+        "Text": "여긴 내게 맡겨"
+      },
+      "CP_121_LETSWORKTOGETHER": {
+        "ID": "CP_121_LETSWORKTOGETHER",
+        "Text": "연계해서 싸우자"
+      },
+      "CP_121_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_121_LETSWORKTOGETHER_OUT",
+        "Text": "연계해서 싸우자"
+      },
+      "CP_121_LEVELREPORT_LOW": {
+        "ID": "CP_121_LEVELREPORT_LOW",
+        "Text": "아직 준비가 덜 됐어"
+      },
+      "CP_121_LEVELREPORT_MEDIUM": {
+        "ID": "CP_121_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 싸워볼까"
+      },
+      "CP_121_LEVELREPORT_HIGH": {
+        "ID": "CP_121_LEVELREPORT_HIGH",
+        "Text": "진지하게 싸우겠어"
+      },
+      "CP_121_PROVOCATION_1": {
+        "ID": "CP_121_PROVOCATION_1",
+        "Text": "진심으로 싸우는 게 그거야?"
+      },
+      "CP_121_PROVOCATION_2": {
+        "ID": "CP_121_PROVOCATION_2",
+        "Text": "아직 멀었군"
+      },
+      "CP_121_RESPECT_1": {
+        "ID": "CP_121_RESPECT_1",
+        "Text": "역시 훌륭해"
+      },
+      "CP_121_RESPECT_2": {
+        "ID": "CP_121_RESPECT_2",
+        "Text": "꽤 잘 싸우잖아"
+      },
+      "CP_121_UNIQUE_1": {
+        "ID": "CP_121_UNIQUE_1",
+        "Text": "약자를 괴롭히는 건 좋지 않아"
+      },
+      "CP_121_UNIQUE_2": {
+        "ID": "CP_121_UNIQUE_2",
+        "Text": "약자를 돕고 강자를 꺾는 것"
+      },
+      "CP_121_UNIQUE_3": {
+        "ID": "CP_121_UNIQUE_3",
+        "Text": "주술은 비주술사를 지키기 위해\n존재하는 거야"
+      },
+      "CP_121_UNIQUE_4": {
+        "ID": "CP_121_UNIQUE_4",
+        "Text": "뭐야, 강하시네"
+      },
+      "CP_121_UNIQUE_5": {
+        "ID": "CP_121_UNIQUE_5",
+        "Text": "그 표현은 안 쓰면 안 될까요?"
+      },
+      "CP_121_UNIQUE_6": {
+        "ID": "CP_121_UNIQUE_6",
+        "Text": "이기는 방식이 정해져 있는 녀석은\n승산만 만들어주면 쉽게 넘어오거든"
+      },
+      "CP_121_UNIQUE_7": {
+        "ID": "CP_121_UNIQUE_7",
+        "Text": "눈에 띄는 짓은 하지 말아줘.\n오늘 아침에 야단을 맞았거든"
+      },
+      "CP_121_UNIQUE_8": {
+        "ID": "CP_121_UNIQUE_8",
+        "Text": "우린 최강이니까"
+      },
+      "CP_121_UNIQUE_9": {
+        "ID": "CP_121_UNIQUE_9",
+        "Text": "그래? 그럼, 죽어"
+      },
+      "CP_121_UNIQUE_10": {
+        "ID": "CP_121_UNIQUE_10",
+        "Text": "\"약자 생존\"\n그게 사회의 합당한 모습이니까"
+      },
+      "CP_121_UNIQUE_11": {
+        "ID": "CP_121_UNIQUE_11",
+        "Text": "좀 더 진지하게 말해"
+      },
+      "CP_121_UNIQUE_12": {
+        "ID": "CP_121_UNIQUE_12",
+        "Text": "뭔가 이것저것 고민하는 것 같은데\n다 소용없어"
+      },
+      "CP_121_READY": {
+        "ID": "CP_121_READY",
+        "Text": "준비됐어"
+      },
+      "CP_121_UNDERSTOODOKAY": {
+        "ID": "CP_121_UNDERSTOODOKAY",
+        "Text": "알겠어"
+      },
+      "CP_121_ENDSWITH": {
+        "ID": "CP_121_ENDSWITH",
+        "Text": "다음 걸로 끝장을 낼까"
+      },
+      "CP_121_WAITAMINUTE": {
+        "ID": "CP_121_WAITAMINUTE",
+        "Text": "잠시 시간 좀 내줄래?"
+      },
+      "CP_121_CHANGE": {
+        "ID": "CP_121_CHANGE",
+        "Text": "변경할게"
+      },
+      "CP_121_ITWASAGOODMATCH": {
+        "ID": "CP_121_ITWASAGOODMATCH",
+        "Text": "좋은 시합이었지"
+      },
+      "CP_121_EXIT": {
+        "ID": "CP_121_EXIT",
+        "Text": "이만 나가볼게"
+      },
+      "CP_121_LETSATTACK": {
+        "ID": "CP_121_LETSATTACK",
+        "Text": "공격할까"
+      },
+      "CP_121_FIGHTCAREFULLY": {
+        "ID": "CP_121_FIGHTCAREFULLY",
+        "Text": "신중하게 나갈까"
+      }
+    }
+  }
+]

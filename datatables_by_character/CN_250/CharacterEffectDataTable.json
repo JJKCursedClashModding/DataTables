@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterEffectDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterEffect'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_250": {
+        "ID": "CN_250",
+        "bUseAuraEffectEnabled": true,
+        "CursedEnergy_AuraColor": {
+          "R": 0.1,
+          "G": 1,
+          "B": 1.5,
+          "A": 1,
+          "Hex": "59FFFF"
+        },
+        "CursedEnergy_BrightAuraColor": {
+          "R": 5.6,
+          "G": 8.7,
+          "B": 10,
+          "A": 1,
+          "Hex": "FFFFFF"
+        },
+        "Disappear_FogColor": {
+          "R": 0.4,
+          "G": 0.4,
+          "B": 0.4,
+          "A": 1,
+          "Hex": "AAAAAA"
+        },
+        "Disappear_GlowColor": {
+          "R": 0.2,
+          "G": 0.2,
+          "B": 0.2,
+          "A": 1,
+          "Hex": "7C7C7C"
+        },
+        "Id_Effect_CursedEnergy_LevelUp": "None",
+        "Id_Effect_CursedEnergy_Aura_2": "None",
+        "Id_Effect_CursedEnergy_Aura_3": "None",
+        "Id_Effect_Tension_LevelUp": "None",
+        "Id_Effect_Tension_Aura_2": "None",
+        "Id_Effect_Tension_Aura_3": "None",
+        "BuffDebuffEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "MapGroundEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "SimpleDomainCounterEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "ProjectionSorceryEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FreezingRestraintEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "FreezingRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "CentipedeRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "FileName_BP": [
+          "FX_CN_250_00101_BP",
+          "FX_CN_250_00301_BP",
+          "FX_CN_250_00401_BP",
+          "FX_CN_250_00402_BP",
+          "FX_CN_250_00501_BP",
+          "FX_CN_250_01101_BP",
+          "FX_CN_250_01102_BP",
+          "FX_CN_250_01103_BP",
+          "FX_CN_250_02101_BP",
+          "FX_CN_250_02102_BP",
+          "FX_CN_250_02103_BP",
+          "FX_CN_250_02201_BP",
+          "FX_CN_250_02301_BP",
+          "FX_CN_250_03101_BP",
+          "FX_CN_250_03102_BP",
+          "FX_CN_250_03103_BP",
+          "FX_CN_250_03104_BP",
+          "FX_CN_250_04101_BP",
+          "FX_CN_250_05101_BP",
+          "FX_CN_250_05102_BP",
+          "FX_CN_250_05103_BP",
+          "FX_CN_250_05104_BP",
+          "FX_CN_250_05105_BP",
+          "FX_CN_250_05106_BP",
+          "FX_CN_250_05107_BP",
+          "FX_CN_250_06101_BP",
+          "FX_CN_250_06102_BP",
+          "FX_CN_250_06103_BP",
+          "FX_CN_250_06104_BP",
+          "FX_CN_250_07111_BP",
+          "FX_CN_250_07211_BP",
+          "FX_CN_250_07212_BP",
+          "FX_CN_250_07213_BP",
+          "FX_CN_250_08111_BP",
+          "FX_CN_250_08121_BP",
+          "FX_CN_250_08131_BP",
+          "FX_CN_250_08211_BP",
+          "FX_CN_250_08301_BP",
+          "FX_CN_250_08302_BP",
+          "FX_CN_250_08303_BP",
+          "FX_CN_250_09101_BP",
+          "FX_CN_250_09102_BP",
+          "FX_CN_250_09211_BP",
+          "FX_CN_250_09212_BP",
+          "FX_CN_250_09221_BP",
+          "FX_CN_250_09222_BP",
+          "FX_CN_250_09241_BP",
+          "None"
+        ]
+      }
+    }
+  }
+]

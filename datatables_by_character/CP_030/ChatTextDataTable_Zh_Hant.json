@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030_GREETING_1": {
+        "ID": "CP_030_GREETING_1",
+        "Text": "請多指教"
+      },
+      "CP_030_GREETING_2": {
+        "ID": "CP_030_GREETING_2",
+        "Text": "你好"
+      },
+      "CP_030_PRAISE_1": {
+        "ID": "CP_030_PRAISE_1",
+        "Text": "你很行嘛"
+      },
+      "CP_030_PRAISE_2": {
+        "ID": "CP_030_PRAISE_2",
+        "Text": "做得好"
+      },
+      "CP_030_FOLLOW": {
+        "ID": "CP_030_FOLLOW",
+        "Text": "我不會責怪你"
+      },
+      "CP_030_APOLOGY": {
+        "ID": "CP_030_APOLOGY",
+        "Text": "抱歉……"
+      },
+      "CP_030_GRATITUDE_1": {
+        "ID": "CP_030_GRATITUDE_1",
+        "Text": "感謝"
+      },
+      "CP_030_GRATITUDE_2": {
+        "ID": "CP_030_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_030_GOODBYE": {
+        "ID": "CP_030_GOODBYE",
+        "Text": "那麼，下次見了"
+      },
+      "CP_030_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_030_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_030_ROGERTHAT": {
+        "ID": "CP_030_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_030_REJECTION": {
+        "ID": "CP_030_REJECTION",
+        "Text": "不行"
+      },
+      "CP_030_ENCOURAGEMENT": {
+        "ID": "CP_030_ENCOURAGEMENT",
+        "Text": "還有辦法"
+      },
+      "CP_030_PINCH": {
+        "ID": "CP_030_PINCH",
+        "Text": "真吃力"
+      },
+      "CP_030_COMEFORWARD": {
+        "ID": "CP_030_COMEFORWARD",
+        "Text": "前面就交給我"
+      },
+      "CP_030_COMEFORWARD_OUT": {
+        "ID": "CP_030_COMEFORWARD_OUT",
+        "Text": "前面就交給我"
+      },
+      "CP_030_GODOWN": {
+        "ID": "CP_030_GODOWN",
+        "Text": "背後就交給我"
+      },
+      "CP_030_GODOWN_OUT": {
+        "ID": "CP_030_GODOWN_OUT",
+        "Text": "背後就交給我"
+      },
+      "CP_030_NOTE": {
+        "ID": "CP_030_NOTE",
+        "Text": "強力攻擊要來了！"
+      },
+      "CP_030_AIMATTHETARGET": {
+        "ID": "CP_030_AIMATTHETARGET",
+        "Text": "瞄準這傢伙！"
+      },
+      "CP_030_AIMFORAJOINTATTACK": {
+        "ID": "CP_030_AIMFORAJOINTATTACK",
+        "Text": "用共連擊！！"
+      },
+      "CP_030_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_030_AIMFORAJOINTATTACK_OUT",
+        "Text": "用共連擊！！"
+      },
+      "CP_030_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_030_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "用覺醒技！"
+      },
+      "CP_030_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_030_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "用覺醒技！"
+      },
+      "CP_030_FIGHTCLOSEBY": {
+        "ID": "CP_030_FIGHTCLOSEBY",
+        "Text": "來吧"
+      },
+      "CP_030_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_030_FIGHTCLOSEBY_OUT",
+        "Text": "來吧"
+      },
+      "CP_030_FIGHTAWAY": {
+        "ID": "CP_030_FIGHTAWAY",
+        "Text": "保持距離！"
+      },
+      "CP_030_FIGHTAWAY_OUT": {
+        "ID": "CP_030_FIGHTAWAY_OUT",
+        "Text": "保持距離！"
+      },
+      "CP_030_LETMETAKECAREOFTHAT": {
+        "ID": "CP_030_LETMETAKECAREOFTHAT",
+        "Text": "交給我吧"
+      },
+      "CP_030_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_030_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交給我吧"
+      },
+      "CP_030_LETSWORKTOGETHER": {
+        "ID": "CP_030_LETSWORKTOGETHER",
+        "Text": "配合我"
+      },
+      "CP_030_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_030_LETSWORKTOGETHER_OUT",
+        "Text": "配合我"
+      },
+      "CP_030_LEVELREPORT_LOW": {
+        "ID": "CP_030_LEVELREPORT_LOW",
+        "Text": "咒力不夠"
+      },
+      "CP_030_LEVELREPORT_MEDIUM": {
+        "ID": "CP_030_LEVELREPORT_MEDIUM",
+        "Text": "差不多可以了"
+      },
+      "CP_030_LEVELREPORT_HIGH": {
+        "ID": "CP_030_LEVELREPORT_HIGH",
+        "Text": "用全力上！"
+      },
+      "CP_030_PROVOCATION_1": {
+        "ID": "CP_030_PROVOCATION_1",
+        "Text": "你不怎麼樣啊"
+      },
+      "CP_030_PROVOCATION_2": {
+        "ID": "CP_030_PROVOCATION_2",
+        "Text": "這種程度的話沒問題"
+      },
+      "CP_030_RESPECT_1": {
+        "ID": "CP_030_RESPECT_1",
+        "Text": "你很行嘛"
+      },
+      "CP_030_RESPECT_2": {
+        "ID": "CP_030_RESPECT_2",
+        "Text": "真厲害"
+      },
+      "CP_030_UNIQUE_1": {
+        "ID": "CP_030_UNIQUE_1",
+        "Text": "我不是正義的夥伴，是咒術師"
+      },
+      "CP_030_UNIQUE_2": {
+        "ID": "CP_030_UNIQUE_2",
+        "Text": "不是「能不能」，而是必須要做"
+      },
+      "CP_030_UNIQUE_3": {
+        "ID": "CP_030_UNIQUE_3",
+        "Text": "讓你兩招你就得意起來了……"
+      },
+      "CP_030_UNIQUE_4": {
+        "ID": "CP_030_UNIQUE_4",
+        "Text": "只有不平等的現實平等地存在著"
+      },
+      "CP_030_UNIQUE_5": {
+        "ID": "CP_030_UNIQUE_5",
+        "Text": "繞到背後的方式太單純了"
+      },
+      "CP_030_UNIQUE_6": {
+        "ID": "CP_030_UNIQUE_6",
+        "Text": "有警覺一點！！"
+      },
+      "CP_030_UNIQUE_7": {
+        "ID": "CP_030_UNIQUE_7",
+        "Text": "在自暴自棄了"
+      },
+      "CP_030_UNIQUE_8": {
+        "ID": "CP_030_UNIQUE_8",
+        "Text": "我沒有什麼特別的喜好"
+      },
+      "CP_030_UNIQUE_9": {
+        "ID": "CP_030_UNIQUE_9",
+        "Text": "我現在……感覺非常地不爽"
+      },
+      "CP_030_UNIQUE_10": {
+        "ID": "CP_030_UNIQUE_10",
+        "Text": "有一股太陽公公的味道"
+      },
+      "CP_030_UNIQUE_11": {
+        "ID": "CP_030_UNIQUE_11",
+        "Text": "是私情，請你想想辦法"
+      },
+      "CP_030_READY": {
+        "ID": "CP_030_READY",
+        "Text": "我準備好了"
+      },
+      "CP_030_UNDERSTOODOKAY": {
+        "ID": "CP_030_UNDERSTOODOKAY",
+        "Text": "知道了"
+      },
+      "CP_030_ENDSWITH": {
+        "ID": "CP_030_ENDSWITH",
+        "Text": "下次就會結束"
+      },
+      "CP_030_WAITAMINUTE": {
+        "ID": "CP_030_WAITAMINUTE",
+        "Text": "稍等一下"
+      },
+      "CP_030_CHANGE": {
+        "ID": "CP_030_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_030_ITWASAGOODMATCH": {
+        "ID": "CP_030_ITWASAGOODMATCH",
+        "Text": "這是場好比賽"
+      },
+      "CP_030_EXIT": {
+        "ID": "CP_030_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_030_LETSATTACK": {
+        "ID": "CP_030_LETSATTACK",
+        "Text": "我要一口氣進攻"
+      },
+      "CP_030_FIGHTCAREFULLY": {
+        "ID": "CP_030_FIGHTCAREFULLY",
+        "Text": "觀察情況"
+      }
+    }
+  }
+]

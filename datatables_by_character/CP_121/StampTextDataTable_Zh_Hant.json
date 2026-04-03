@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_STAMP_001": {
+        "ID": "CP_121_STAMP_001",
+        "Text": "鋤強扶弱"
+      },
+      "CP_121_STAMP_002": {
+        "ID": "CP_121_STAMP_002",
+        "Text": "我們是最強的"
+      }
+    }
+  }
+]

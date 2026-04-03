@@ -1,0 +1,112 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240": {
+        "ID": "CP_240",
+        "FloatValue": [
+          2,
+          5,
+          8,
+          0.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_240_ATTACKG": {
+        "ID": "CP_240_ATTACKG",
+        "FloatValue": [
+          3,
+          5,
+          5,
+          0.4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_240_SHIKIGAMI_OFFSET": {
+        "ID": "CP_240_SHIKIGAMI_OFFSET",
+        "FloatValue": [
+          -40,
+          -20,
+          60,
+          -40,
+          80,
+          0,
+          -10,
+          -80,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_240_SHIKIGAMI_CHASE": {
+        "ID": "CP_240_SHIKIGAMI_CHASE",
+        "FloatValue": [
+          2000,
+          3500,
+          720,
+          180,
+          20,
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_240_ATTACKG_SHOOT_CAMERA": {
+        "ID": "CP_240_ATTACKG_SHOOT_CAMERA",
+        "FloatValue": [
+          -320,
+          90,
+          50,
+          45,
+          45,
+          90,
+          2.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

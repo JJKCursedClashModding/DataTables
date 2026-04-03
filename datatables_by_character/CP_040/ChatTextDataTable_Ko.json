@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_GREETING_1": {
+        "ID": "CP_040_GREETING_1",
+        "Text": "잘 부탁해"
+      },
+      "CP_040_GREETING_2": {
+        "ID": "CP_040_GREETING_2",
+        "Text": "어디 해보자고"
+      },
+      "CP_040_PRAISE_1": {
+        "ID": "CP_040_PRAISE_1",
+        "Text": "제법이네"
+      },
+      "CP_040_PRAISE_2": {
+        "ID": "CP_040_PRAISE_2",
+        "Text": "잘했어!"
+      },
+      "CP_040_FOLLOW": {
+        "ID": "CP_040_FOLLOW",
+        "Text": "아직 괜찮아"
+      },
+      "CP_040_APOLOGY": {
+        "ID": "CP_040_APOLOGY",
+        "Text": "미안해"
+      },
+      "CP_040_GRATITUDE_1": {
+        "ID": "CP_040_GRATITUDE_1",
+        "Text": "고마워"
+      },
+      "CP_040_GRATITUDE_2": {
+        "ID": "CP_040_GRATITUDE_2",
+        "Text": "칭찬을 내리노라"
+      },
+      "CP_040_GOODBYE": {
+        "ID": "CP_040_GOODBYE",
+        "Text": "또 만나자"
+      },
+      "CP_040_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_040_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했어"
+      },
+      "CP_040_ROGERTHAT": {
+        "ID": "CP_040_ROGERTHAT",
+        "Text": "알았어!"
+      },
+      "CP_040_REJECTION": {
+        "ID": "CP_040_REJECTION",
+        "Text": "마음대로 하고 있어"
+      },
+      "CP_040_ENCOURAGEMENT": {
+        "ID": "CP_040_ENCOURAGEMENT",
+        "Text": "아직 더 할 수 있지?"
+      },
+      "CP_040_PINCH": {
+        "ID": "CP_040_PINCH",
+        "Text": "이젠 무리야~"
+      },
+      "CP_040_COMEFORWARD": {
+        "ID": "CP_040_COMEFORWARD",
+        "Text": "앞으로 나갈게"
+      },
+      "CP_040_COMEFORWARD_OUT": {
+        "ID": "CP_040_COMEFORWARD_OUT",
+        "Text": "앞으로 나갈게"
+      },
+      "CP_040_GODOWN": {
+        "ID": "CP_040_GODOWN",
+        "Text": "뒤로 물러날게"
+      },
+      "CP_040_GODOWN_OUT": {
+        "ID": "CP_040_GODOWN_OUT",
+        "Text": "뒤로 물러날게"
+      },
+      "CP_040_NOTE": {
+        "ID": "CP_040_NOTE",
+        "Text": "위험한 게 와!"
+      },
+      "CP_040_AIMATTHETARGET": {
+        "ID": "CP_040_AIMATTHETARGET",
+        "Text": "이 녀석은 맡겨줘"
+      },
+      "CP_040_AIMFORAJOINTATTACK": {
+        "ID": "CP_040_AIMFORAJOINTATTACK",
+        "Text": "협공 연격, 맞춰줘"
+      },
+      "CP_040_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_040_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격, 맞춰줘"
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 쓸 거야"
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 쓸 거야"
+      },
+      "CP_040_FIGHTCLOSEBY": {
+        "ID": "CP_040_FIGHTCLOSEBY",
+        "Text": "멀어지지 마!"
+      },
+      "CP_040_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_040_FIGHTCLOSEBY_OUT",
+        "Text": "멀어지지 마!"
+      },
+      "CP_040_FIGHTAWAY": {
+        "ID": "CP_040_FIGHTAWAY",
+        "Text": "흩어지자"
+      },
+      "CP_040_FIGHTAWAY_OUT": {
+        "ID": "CP_040_FIGHTAWAY_OUT",
+        "Text": "흩어지자"
+      },
+      "CP_040_LETMETAKECAREOFTHAT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT",
+        "Text": "맡겨줘"
+      },
+      "CP_040_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT_OUT",
+        "Text": "맡겨줘"
+      },
+      "CP_040_LETSWORKTOGETHER": {
+        "ID": "CP_040_LETSWORKTOGETHER",
+        "Text": "협력해서 치자"
+      },
+      "CP_040_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_040_LETSWORKTOGETHER_OUT",
+        "Text": "협력해서 치자"
+      },
+      "CP_040_LEVELREPORT_LOW": {
+        "ID": "CP_040_LEVELREPORT_LOW",
+        "Text": "아직이야"
+      },
+      "CP_040_LEVELREPORT_MEDIUM": {
+        "ID": "CP_040_LEVELREPORT_MEDIUM",
+        "Text": "몸이 좀 풀리네"
+      },
+      "CP_040_LEVELREPORT_HIGH": {
+        "ID": "CP_040_LEVELREPORT_HIGH",
+        "Text": "쏴주겠어!"
+      },
+      "CP_040_PROVOCATION_1": {
+        "ID": "CP_040_PROVOCATION_1",
+        "Text": "당신, 약하구나"
+      },
+      "CP_040_PROVOCATION_2": {
+        "ID": "CP_040_PROVOCATION_2",
+        "Text": "그 정도로 이길 줄 알았어?"
+      },
+      "CP_040_RESPECT_1": {
+        "ID": "CP_040_RESPECT_1",
+        "Text": "당신… 제법이네"
+      },
+      "CP_040_RESPECT_2": {
+        "ID": "CP_040_RESPECT_2",
+        "Text": "인정해줄게"
+      },
+      "CP_040_UNIQUE_1": {
+        "ID": "CP_040_UNIQUE_1",
+        "Text": "강해지려고 노력하는 내가 좋아"
+      },
+      "CP_040_UNIQUE_2": {
+        "ID": "CP_040_UNIQUE_2",
+        "Text": "난 쿠기사키 노바라라고!"
+      },
+      "CP_040_UNIQUE_3": {
+        "ID": "CP_040_UNIQUE_3",
+        "Text": "레이디의 배려심을 얕보지 마"
+      },
+      "CP_040_UNIQUE_4": {
+        "ID": "CP_040_UNIQUE_4",
+        "Text": "참을성 시합이나 해볼까?"
+      },
+      "CP_040_UNIQUE_5": {
+        "ID": "CP_040_UNIQUE_5",
+        "Text": "이건 아직 안 보여줬지?"
+      },
+      "CP_040_UNIQUE_6": {
+        "ID": "CP_040_UNIQUE_6",
+        "Text": "걱정하지 않아도\n당신도 금방 그쪽으로 보내줄게"
+      },
+      "CP_040_UNIQUE_7": {
+        "ID": "CP_040_UNIQUE_7",
+        "Text": "재촉하지 마!"
+      },
+      "CP_040_UNIQUE_8": {
+        "ID": "CP_040_UNIQUE_8",
+        "Text": "노올자~"
+      },
+      "CP_040_UNIQUE_9": {
+        "ID": "CP_040_UNIQUE_9",
+        "Text": "무리 무리 무리 무리!"
+      },
+      "CP_040_UNIQUE_10": {
+        "ID": "CP_040_UNIQUE_10",
+        "Text": "어떡해 아이고 어떡해"
+      },
+      "CP_040_READY": {
+        "ID": "CP_040_READY",
+        "Text": "준비 OK야"
+      },
+      "CP_040_UNDERSTOODOKAY": {
+        "ID": "CP_040_UNDERSTOODOKAY",
+        "Text": "알았어"
+      },
+      "CP_040_ENDSWITH": {
+        "ID": "CP_040_ENDSWITH",
+        "Text": "다음이 마지막이야"
+      },
+      "CP_040_WAITAMINUTE": {
+        "ID": "CP_040_WAITAMINUTE",
+        "Text": "잠깐 기다려"
+      },
+      "CP_040_CHANGE": {
+        "ID": "CP_040_CHANGE",
+        "Text": "변경할게"
+      },
+      "CP_040_ITWASAGOODMATCH": {
+        "ID": "CP_040_ITWASAGOODMATCH",
+        "Text": "좋은 시합이었네"
+      },
+      "CP_040_EXIT": {
+        "ID": "CP_040_EXIT",
+        "Text": "나갈게"
+      },
+      "CP_040_LETSATTACK": {
+        "ID": "CP_040_LETSATTACK",
+        "Text": "공격하자!"
+      },
+      "CP_040_FIGHTCAREFULLY": {
+        "ID": "CP_040_FIGHTCAREFULLY",
+        "Text": "상황을 보자"
+      }
+    }
+  }
+]

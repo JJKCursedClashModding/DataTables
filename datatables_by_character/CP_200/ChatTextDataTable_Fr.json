@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_200_GREETING_1": {
+        "ID": "CP_200_GREETING_1",
+        "Text": "Yo."
+      },
+      "CP_200_GREETING_2": {
+        "ID": "CP_200_GREETING_2",
+        "Text": "Ne me ridiculise pas."
+      },
+      "CP_200_PRAISE_1": {
+        "ID": "CP_200_PRAISE_1",
+        "Text": "Eh bien, tu t'en sors mieux que ce que je pensais."
+      },
+      "CP_200_PRAISE_2": {
+        "ID": "CP_200_PRAISE_2",
+        "Text": "Pas mal du tout."
+      },
+      "CP_200_FOLLOW": {
+        "ID": "CP_200_FOLLOW",
+        "Text": "Ne t'inquiète pas."
+      },
+      "CP_200_APOLOGY": {
+        "ID": "CP_200_APOLOGY",
+        "Text": "Désolé."
+      },
+      "CP_200_GRATITUDE_1": {
+        "ID": "CP_200_GRATITUDE_1",
+        "Text": "Ne t'attends pas à des remerciements."
+      },
+      "CP_200_GRATITUDE_2": {
+        "ID": "CP_200_GRATITUDE_2",
+        "Text": "Bon, d'accord, bien joué."
+      },
+      "CP_200_GOODBYE": {
+        "ID": "CP_200_GOODBYE",
+        "Text": "À plus tard."
+      },
+      "CP_200_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_200_THANKYOUFORYOURHARDWORK",
+        "Text": "Beau travail."
+      },
+      "CP_200_ROGERTHAT": {
+        "ID": "CP_200_ROGERTHAT",
+        "Text": "Bien."
+      },
+      "CP_200_REJECTION": {
+        "ID": "CP_200_REJECTION",
+        "Text": "Ça ne marchera pas."
+      },
+      "CP_200_ENCOURAGEMENT": {
+        "ID": "CP_200_ENCOURAGEMENT",
+        "Text": "Ça a suffi à te briser ?"
+      },
+      "CP_200_PINCH": {
+        "ID": "CP_200_PINCH",
+        "Text": "C'est vraiment lourd."
+      },
+      "CP_200_COMEFORWARD": {
+        "ID": "CP_200_COMEFORWARD",
+        "Text": "Je passe devant."
+      },
+      "CP_200_COMEFORWARD_OUT": {
+        "ID": "CP_200_COMEFORWARD_OUT",
+        "Text": "Je passe devant."
+      },
+      "CP_200_GODOWN": {
+        "ID": "CP_200_GODOWN",
+        "Text": "C'est à moi de reculer, hein ?"
+      },
+      "CP_200_GODOWN_OUT": {
+        "ID": "CP_200_GODOWN_OUT",
+        "Text": "C'est à moi de reculer, hein ?"
+      },
+      "CP_200_NOTE": {
+        "ID": "CP_200_NOTE",
+        "Text": "Vaudrait mieux esquiver."
+      },
+      "CP_200_AIMATTHETARGET": {
+        "ID": "CP_200_AIMATTHETARGET",
+        "Text": "Je m'occupe de cette cible."
+      },
+      "CP_200_AIMFORAJOINTATTACK": {
+        "ID": "CP_200_AIMFORAJOINTATTACK",
+        "Text": "On reste ensemble, suis-moi."
+      },
+      "CP_200_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_200_AIMFORAJOINTATTACK_OUT",
+        "Text": "On reste ensemble, suis-moi."
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Technique éveillée."
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Technique éveillée."
+      },
+      "CP_200_FIGHTCLOSEBY": {
+        "ID": "CP_200_FIGHTCLOSEBY",
+        "Text": "On devrait se rapprocher."
+      },
+      "CP_200_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_200_FIGHTCLOSEBY_OUT",
+        "Text": "On devrait se rapprocher."
+      },
+      "CP_200_FIGHTAWAY": {
+        "ID": "CP_200_FIGHTAWAY",
+        "Text": "Tu ferais mieux de reculer."
+      },
+      "CP_200_FIGHTAWAY_OUT": {
+        "ID": "CP_200_FIGHTAWAY_OUT",
+        "Text": "Tu ferais mieux de reculer."
+      },
+      "CP_200_LETMETAKECAREOFTHAT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_200_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Je m'en occupe."
+      },
+      "CP_200_LETSWORKTOGETHER": {
+        "ID": "CP_200_LETSWORKTOGETHER",
+        "Text": "Tu as intérêt à suivre."
+      },
+      "CP_200_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_200_LETSWORKTOGETHER_OUT",
+        "Text": "Tu as intérêt à suivre."
+      },
+      "CP_200_LEVELREPORT_LOW": {
+        "ID": "CP_200_LEVELREPORT_LOW",
+        "Text": "Non, pas maintenant."
+      },
+      "CP_200_LEVELREPORT_MEDIUM": {
+        "ID": "CP_200_LEVELREPORT_MEDIUM",
+        "Text": "Là, ça devient intéressant."
+      },
+      "CP_200_LEVELREPORT_HIGH": {
+        "ID": "CP_200_LEVELREPORT_HIGH",
+        "Text": "Je vais te tuer."
+      },
+      "CP_200_PROVOCATION_1": {
+        "ID": "CP_200_PROVOCATION_1",
+        "Text": "Doucement, doucement."
+      },
+      "CP_200_PROVOCATION_2": {
+        "ID": "CP_200_PROVOCATION_2",
+        "Text": "Tu es complètement à découvert."
+      },
+      "CP_200_RESPECT_1": {
+        "ID": "CP_200_RESPECT_1",
+        "Text": "Ça va finir par valoir le coup, on dirait."
+      },
+      "CP_200_RESPECT_2": {
+        "ID": "CP_200_RESPECT_2",
+        "Text": "Sérieusement ?"
+      },
+      "CP_200_UNIQUE_1": {
+        "ID": "CP_200_UNIQUE_1",
+        "Text": "Désolé, je capte plus."
+      },
+      "CP_200_UNIQUE_2": {
+        "ID": "CP_200_UNIQUE_2",
+        "Text": "Beau travail. Tu peux disposer."
+      },
+      "CP_200_UNIQUE_3": {
+        "ID": "CP_200_UNIQUE_3",
+        "Text": "Comme je n'ai pas d'énergie occulte, je suis comme l'homme invisible."
+      },
+      "CP_200_UNIQUE_4": {
+        "ID": "CP_200_UNIQUE_4",
+        "Text": "Tu peux remercier tes parents pour ce cadeau !"
+      },
+      "CP_200_UNIQUE_5": {
+        "ID": "CP_200_UNIQUE_5",
+        "Text": "Tant mieux."
+      },
+      "CP_200_UNIQUE_6": {
+        "ID": "CP_200_UNIQUE_6",
+        "Text": "Quel monstre."
+      },
+      "CP_200_UNIQUE_7": {
+        "ID": "CP_200_UNIQUE_7",
+        "Text": "Bah, qui sait après tout."
+      },
+      "CP_200_UNIQUE_8": {
+        "ID": "CP_200_UNIQUE_8",
+        "Text": "T'es pas mon genre."
+      },
+      "CP_200_UNIQUE_9": {
+        "ID": "CP_200_UNIQUE_9",
+        "Text": "Moi aussi j’ai du mal à retenir les noms."
+      },
+      "CP_200_UNIQUE_10": {
+        "ID": "CP_200_UNIQUE_10",
+        "Text": "Ah, je vois ce que tu veux dire."
+      },
+      "CP_200_UNIQUE_11": {
+        "ID": "CP_200_UNIQUE_11",
+        "Text": "Je fais une pause. À t'entendre, on dirait que je suis au chômage."
+      },
+      "CP_200_UNIQUE_12": {
+        "ID": "CP_200_UNIQUE_12",
+        "Text": "Aucun intérêt."
+      },
+      "CP_200_READY": {
+        "ID": "CP_200_READY",
+        "Text": "Quand tu veux."
+      },
+      "CP_200_UNDERSTOODOKAY": {
+        "ID": "CP_200_UNDERSTOODOKAY",
+        "Text": "Ouais."
+      },
+      "CP_200_ENDSWITH": {
+        "ID": "CP_200_ENDSWITH",
+        "Text": "Le prochain mettra un terme à tout ça."
+      },
+      "CP_200_WAITAMINUTE": {
+        "ID": "CP_200_WAITAMINUTE",
+        "Text": "Attends un peu."
+      },
+      "CP_200_CHANGE": {
+        "ID": "CP_200_CHANGE",
+        "Text": "Il est temps de rectifier le tir."
+      },
+      "CP_200_ITWASAGOODMATCH": {
+        "ID": "CP_200_ITWASAGOODMATCH",
+        "Text": "Ce combat n'était pas si mal."
+      },
+      "CP_200_EXIT": {
+        "ID": "CP_200_EXIT",
+        "Text": "Allez, ça suffit. À plus tard."
+      },
+      "CP_200_LETSATTACK": {
+        "ID": "CP_200_LETSATTACK",
+        "Text": "À nous de jouer."
+      },
+      "CP_200_FIGHTCAREFULLY": {
+        "ID": "CP_200_FIGHTCAREFULLY",
+        "Text": "Voyons où ça nous mène."
+      }
+    }
+  }
+]

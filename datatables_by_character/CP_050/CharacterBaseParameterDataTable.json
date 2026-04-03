@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterBaseParameterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterBaseParameter'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050": {
+        "ID": "CP_050",
+        "HitPoint": 500,
+        "HitPoint_Solo": 500,
+        "AttackRange": 1250,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      },
+      "CP_050_EX": {
+        "ID": "CP_050_EX",
+        "HitPoint": 500,
+        "HitPoint_Solo": 500,
+        "AttackRange": 1250,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1400,
+        "LargeCharacterDownRecoverTime": 15
+      },
+      "CP_050_EASY": {
+        "ID": "CP_050_EASY",
+        "HitPoint": 300,
+        "HitPoint_Solo": 300,
+        "AttackRange": 1250,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      },
+      "CP_050_NORMAL": {
+        "ID": "CP_050_NORMAL",
+        "HitPoint": 400,
+        "HitPoint_Solo": 400,
+        "AttackRange": 1250,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      }
+    }
+  }
+]

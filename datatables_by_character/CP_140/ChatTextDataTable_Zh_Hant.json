@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_GREETING_1": {
+        "ID": "CP_140_GREETING_1",
+        "Text": "不用打招呼了"
+      },
+      "CP_140_GREETING_2": {
+        "ID": "CP_140_GREETING_2",
+        "Text": "讓我看看你的本事吧"
+      },
+      "CP_140_PRAISE_1": {
+        "ID": "CP_140_PRAISE_1",
+        "Text": "我就稱讚你吧"
+      },
+      "CP_140_PRAISE_2": {
+        "ID": "CP_140_PRAISE_2",
+        "Text": "那種程度是當然的"
+      },
+      "CP_140_FOLLOW": {
+        "ID": "CP_140_FOLLOW",
+        "Text": "不用在意"
+      },
+      "CP_140_APOLOGY": {
+        "ID": "CP_140_APOLOGY",
+        "Text": "我有點大意了"
+      },
+      "CP_140_GRATITUDE_1": {
+        "ID": "CP_140_GRATITUDE_1",
+        "Text": "我不會道謝的"
+      },
+      "CP_140_GRATITUDE_2": {
+        "ID": "CP_140_GRATITUDE_2",
+        "Text": "可別以為我欠你人情"
+      },
+      "CP_140_GOODBYE": {
+        "ID": "CP_140_GOODBYE",
+        "Text": "再會了"
+      },
+      "CP_140_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_140_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_140_ROGERTHAT": {
+        "ID": "CP_140_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_140_REJECTION": {
+        "ID": "CP_140_REJECTION",
+        "Text": "不行"
+      },
+      "CP_140_ENCOURAGEMENT": {
+        "ID": "CP_140_ENCOURAGEMENT",
+        "Text": "哼，還不行啊"
+      },
+      "CP_140_PINCH": {
+        "ID": "CP_140_PINCH",
+        "Text": "已經撐不下去了"
+      },
+      "CP_140_COMEFORWARD": {
+        "ID": "CP_140_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_140_COMEFORWARD_OUT": {
+        "ID": "CP_140_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_140_GODOWN": {
+        "ID": "CP_140_GODOWN",
+        "Text": "我要退後"
+      },
+      "CP_140_GODOWN_OUT": {
+        "ID": "CP_140_GODOWN_OUT",
+        "Text": "我要退後"
+      },
+      "CP_140_NOTE": {
+        "ID": "CP_140_NOTE",
+        "Text": "小心一點"
+      },
+      "CP_140_AIMATTHETARGET": {
+        "ID": "CP_140_AIMATTHETARGET",
+        "Text": "那個交給我"
+      },
+      "CP_140_AIMFORAJOINTATTACK": {
+        "ID": "CP_140_AIMFORAJOINTATTACK",
+        "Text": "用共連擊吧"
+      },
+      "CP_140_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_140_AIMFORAJOINTATTACK_OUT",
+        "Text": "用共連擊吧"
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "使用覺醒技"
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "使用覺醒技"
+      },
+      "CP_140_FIGHTCLOSEBY": {
+        "ID": "CP_140_FIGHTCLOSEBY",
+        "Text": "集合過來"
+      },
+      "CP_140_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_140_FIGHTCLOSEBY_OUT",
+        "Text": "集合過來"
+      },
+      "CP_140_FIGHTAWAY": {
+        "ID": "CP_140_FIGHTAWAY",
+        "Text": "離我遠一點"
+      },
+      "CP_140_FIGHTAWAY_OUT": {
+        "ID": "CP_140_FIGHTAWAY_OUT",
+        "Text": "離我遠一點"
+      },
+      "CP_140_LETMETAKECAREOFTHAT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT",
+        "Text": "這是沒辦法的"
+      },
+      "CP_140_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT_OUT",
+        "Text": "這是沒辦法的"
+      },
+      "CP_140_LETSWORKTOGETHER": {
+        "ID": "CP_140_LETSWORKTOGETHER",
+        "Text": "我們聯手進攻"
+      },
+      "CP_140_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_140_LETSWORKTOGETHER_OUT",
+        "Text": "我們聯手進攻"
+      },
+      "CP_140_LEVELREPORT_LOW": {
+        "ID": "CP_140_LEVELREPORT_LOW",
+        "Text": "咒力不夠"
+      },
+      "CP_140_LEVELREPORT_MEDIUM": {
+        "ID": "CP_140_LEVELREPORT_MEDIUM",
+        "Text": "我還沒出全力"
+      },
+      "CP_140_LEVELREPORT_HIGH": {
+        "ID": "CP_140_LEVELREPORT_HIGH",
+        "Text": "差不多該了結了"
+      },
+      "CP_140_PROVOCATION_1": {
+        "ID": "CP_140_PROVOCATION_1",
+        "Text": "真是欠缺危機感"
+      },
+      "CP_140_PROVOCATION_2": {
+        "ID": "CP_140_PROVOCATION_2",
+        "Text": "傷到你的尊嚴了嗎？"
+      },
+      "CP_140_RESPECT_1": {
+        "ID": "CP_140_RESPECT_1",
+        "Text": "哼……還滿行的嘛"
+      },
+      "CP_140_RESPECT_2": {
+        "ID": "CP_140_RESPECT_2",
+        "Text": "就是要這樣才行"
+      },
+      "CP_140_UNIQUE_1": {
+        "ID": "CP_140_UNIQUE_1",
+        "Text": "萬物的醜態令我作嘔"
+      },
+      "CP_140_UNIQUE_2": {
+        "ID": "CP_140_UNIQUE_2",
+        "Text": "憎惡與殺意等等才是沒有遮掩的真相"
+      },
+      "CP_140_UNIQUE_3": {
+        "ID": "CP_140_UNIQUE_3",
+        "Text": "臭小子"
+      },
+      "CP_140_UNIQUE_4": {
+        "ID": "CP_140_UNIQUE_4",
+        "Text": "別小看我，臭小子！！"
+      },
+      "CP_140_UNIQUE_5": {
+        "ID": "CP_140_UNIQUE_5",
+        "Text": "既然打不中，把他拖進領域就行"
+      },
+      "CP_140_UNIQUE_6": {
+        "ID": "CP_140_UNIQUE_6",
+        "Text": "你這傢伙！！"
+      },
+      "CP_140_UNIQUE_7": {
+        "ID": "CP_140_UNIQUE_7",
+        "Text": "哼，但願這不是在找藉口"
+      },
+      "CP_140_UNIQUE_8": {
+        "ID": "CP_140_UNIQUE_8",
+        "Text": "搞不懂！！但是必須搞清楚！！"
+      },
+      "CP_140_UNIQUE_9": {
+        "ID": "CP_140_UNIQUE_9",
+        "Text": "你是看著哪裡這麼說啊！！"
+      },
+      "CP_140_UNIQUE_10": {
+        "ID": "CP_140_UNIQUE_10",
+        "Text": "哼！！我才不去"
+      },
+      "CP_140_READY": {
+        "ID": "CP_140_READY",
+        "Text": "我準備好了"
+      },
+      "CP_140_UNDERSTOODOKAY": {
+        "ID": "CP_140_UNDERSTOODOKAY",
+        "Text": "知道了"
+      },
+      "CP_140_ENDSWITH": {
+        "ID": "CP_140_ENDSWITH",
+        "Text": "下次就會結束"
+      },
+      "CP_140_WAITAMINUTE": {
+        "ID": "CP_140_WAITAMINUTE",
+        "Text": "等一下吧"
+      },
+      "CP_140_CHANGE": {
+        "ID": "CP_140_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_140_ITWASAGOODMATCH": {
+        "ID": "CP_140_ITWASAGOODMATCH",
+        "Text": "這是場好比賽"
+      },
+      "CP_140_EXIT": {
+        "ID": "CP_140_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_140_LETSATTACK": {
+        "ID": "CP_140_LETSATTACK",
+        "Text": "快點結束掉吧"
+      },
+      "CP_140_FIGHTCAREFULLY": {
+        "ID": "CP_140_FIGHTCAREFULLY",
+        "Text": "我不會冒險"
+      }
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ScriptCharacterClothesDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ScriptCharacterClothes'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_060_00": {
+        "ID": "CP_060_00",
+        "ClothesFileName": "T_UI_STDM_CP_060_00",
+        "FacialFileName": [
+          "T_UI_STDM_CP_060_00_00",
+          "T_UI_STDM_CP_060_00_01",
+          "None",
+          "T_UI_STDM_CP_060_00_03",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_00_07",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_00_11"
+        ]
+      },
+      "CP_060_01": {
+        "ID": "CP_060_01",
+        "ClothesFileName": "T_UI_STDM_CP_060_01",
+        "FacialFileName": [
+          "T_UI_STDM_CP_060_00_00",
+          "T_UI_STDM_CP_060_00_01",
+          "None",
+          "T_UI_STDM_CP_060_00_03",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_00_07",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_00_11"
+        ]
+      },
+      "CP_060_02": {
+        "ID": "CP_060_02",
+        "ClothesFileName": "T_UI_STDM_CP_060_02",
+        "FacialFileName": [
+          "T_UI_STDM_CP_060_02_00",
+          "T_UI_STDM_CP_060_02_01",
+          "None",
+          "T_UI_STDM_CP_060_02_03",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_02_07",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_02_11"
+        ]
+      },
+      "CP_060_03": {
+        "ID": "CP_060_03",
+        "ClothesFileName": "T_UI_STDM_CP_060_03",
+        "FacialFileName": [
+          "T_UI_STDM_CP_060_02_00",
+          "T_UI_STDM_CP_060_02_01",
+          "None",
+          "T_UI_STDM_CP_060_02_03",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_02_07",
+          "None",
+          "None",
+          "None",
+          "T_UI_STDM_CP_060_02_11"
+        ]
+      }
+    }
+  }
+]

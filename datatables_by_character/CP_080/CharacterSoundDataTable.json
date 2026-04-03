@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_080": {
+        "ID": "CP_080",
+        "CueSheetName": [
+          "CP_080",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::Gorilla",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_080",
+          "CP_080_TYPEA",
+          "CP_080_TYPEB",
+          "CP_080_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_080_CHARACTER_SELECT",
+          "CP_080_CHARACTER_RESELECT",
+          "CP_080_READY",
+          "CP_080_LOBBY_GO_TO_BATTLE",
+          "CP_080_LOBBY_CHANGED_MATCH_RULE",
+          "CP_080_RESULT_RANK_S",
+          "CP_080_RESULT_RANK_A",
+          "CP_080_RESULT_RANK_B_OR_LOWER",
+          "CP_080_RESULT_WINNING_STREAK_5",
+          "CP_080_RESULT_WINNING_STREAK_10",
+          "CP_080_RESULT_WINNING_STREAK_15",
+          "CP_080_RESULT_WINNING_STREAK_20",
+          "CP_080_RESULT_OPEN_RESULT_ITEM",
+          "CP_080_RESULT_PROMOTE_RANK",
+          "CP_080_RESULT_DEMOTE_RANK",
+          "CP_080_REMATCH_SUCCESS_REMATCH",
+          "CP_080_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_080_REMATCH_SELECT_FIND",
+          "CP_080_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_080_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

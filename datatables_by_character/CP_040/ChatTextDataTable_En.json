@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_GREETING_1": {
+        "ID": "CP_040_GREETING_1",
+        "Text": "Let's do this!"
+      },
+      "CP_040_GREETING_2": {
+        "ID": "CP_040_GREETING_2",
+        "Text": "What say we kick some ass?"
+      },
+      "CP_040_PRAISE_1": {
+        "ID": "CP_040_PRAISE_1",
+        "Text": "You're good..."
+      },
+      "CP_040_PRAISE_2": {
+        "ID": "CP_040_PRAISE_2",
+        "Text": "Well done!"
+      },
+      "CP_040_FOLLOW": {
+        "ID": "CP_040_FOLLOW",
+        "Text": "We'll be fine."
+      },
+      "CP_040_APOLOGY": {
+        "ID": "CP_040_APOLOGY",
+        "Text": "I'm sorry."
+      },
+      "CP_040_GRATITUDE_1": {
+        "ID": "CP_040_GRATITUDE_1",
+        "Text": "Thanks."
+      },
+      "CP_040_GRATITUDE_2": {
+        "ID": "CP_040_GRATITUDE_2",
+        "Text": "I'll make sure you get a medal."
+      },
+      "CP_040_GOODBYE": {
+        "ID": "CP_040_GOODBYE",
+        "Text": "Let's meet up again."
+      },
+      "CP_040_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_040_THANKYOUFORYOURHARDWORK",
+        "Text": "Good job."
+      },
+      "CP_040_ROGERTHAT": {
+        "ID": "CP_040_ROGERTHAT",
+        "Text": "Understood!"
+      },
+      "CP_040_REJECTION": {
+        "ID": "CP_040_REJECTION",
+        "Text": "Do what you want."
+      },
+      "CP_040_ENCOURAGEMENT": {
+        "ID": "CP_040_ENCOURAGEMENT",
+        "Text": "You're still in this, right?"
+      },
+      "CP_040_PINCH": {
+        "ID": "CP_040_PINCH",
+        "Text": "This is too much."
+      },
+      "CP_040_COMEFORWARD": {
+        "ID": "CP_040_COMEFORWARD",
+        "Text": "I'm going out in front!"
+      },
+      "CP_040_COMEFORWARD_OUT": {
+        "ID": "CP_040_COMEFORWARD_OUT",
+        "Text": "I'm going out in front!"
+      },
+      "CP_040_GODOWN": {
+        "ID": "CP_040_GODOWN",
+        "Text": "I'm dropping back."
+      },
+      "CP_040_GODOWN_OUT": {
+        "ID": "CP_040_GODOWN_OUT",
+        "Text": "I'm dropping back."
+      },
+      "CP_040_NOTE": {
+        "ID": "CP_040_NOTE",
+        "Text": "Here comes trouble."
+      },
+      "CP_040_AIMATTHETARGET": {
+        "ID": "CP_040_AIMATTHETARGET",
+        "Text": "Leave this one to me."
+      },
+      "CP_040_AIMFORAJOINTATTACK": {
+        "ID": "CP_040_AIMFORAJOINTATTACK",
+        "Text": "Let's give 'em a taste of our combo!"
+      },
+      "CP_040_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_040_AIMFORAJOINTATTACK_OUT",
+        "Text": "Let's give 'em a taste of our combo!"
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "An awakened move'll clinch it."
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "An awakened move'll clinch it."
+      },
+      "CP_040_FIGHTCLOSEBY": {
+        "ID": "CP_040_FIGHTCLOSEBY",
+        "Text": "Stay close!"
+      },
+      "CP_040_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_040_FIGHTCLOSEBY_OUT",
+        "Text": "Stay close!"
+      },
+      "CP_040_FIGHTAWAY": {
+        "ID": "CP_040_FIGHTAWAY",
+        "Text": "We need to get back."
+      },
+      "CP_040_FIGHTAWAY_OUT": {
+        "ID": "CP_040_FIGHTAWAY_OUT",
+        "Text": "We need to get back."
+      },
+      "CP_040_LETMETAKECAREOFTHAT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT",
+        "Text": "Leave it to me."
+      },
+      "CP_040_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Leave it to me."
+      },
+      "CP_040_LETSWORKTOGETHER": {
+        "ID": "CP_040_LETSWORKTOGETHER",
+        "Text": "Let's strike together."
+      },
+      "CP_040_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_040_LETSWORKTOGETHER_OUT",
+        "Text": "Let's strike together."
+      },
+      "CP_040_LEVELREPORT_LOW": {
+        "ID": "CP_040_LEVELREPORT_LOW",
+        "Text": "Not yet."
+      },
+      "CP_040_LEVELREPORT_MEDIUM": {
+        "ID": "CP_040_LEVELREPORT_MEDIUM",
+        "Text": "Now I'm warmed up!"
+      },
+      "CP_040_LEVELREPORT_HIGH": {
+        "ID": "CP_040_LEVELREPORT_HIGH",
+        "Text": "I'll blow you away!"
+      },
+      "CP_040_PROVOCATION_1": {
+        "ID": "CP_040_PROVOCATION_1",
+        "Text": "You're so weak."
+      },
+      "CP_040_PROVOCATION_2": {
+        "ID": "CP_040_PROVOCATION_2",
+        "Text": "Did you really imagine you'd be good enough to win?"
+      },
+      "CP_040_RESPECT_1": {
+        "ID": "CP_040_RESPECT_1",
+        "Text": "You're pretty good."
+      },
+      "CP_040_RESPECT_2": {
+        "ID": "CP_040_RESPECT_2",
+        "Text": "You've got skills."
+      },
+      "CP_040_UNIQUE_1": {
+        "ID": "CP_040_UNIQUE_1",
+        "Text": "I love myself when I'm kicking ass."
+      },
+      "CP_040_UNIQUE_2": {
+        "ID": "CP_040_UNIQUE_2",
+        "Text": "I'm Nobara Kugisaki!"
+      },
+      "CP_040_UNIQUE_3": {
+        "ID": "CP_040_UNIQUE_3",
+        "Text": "Girls know how to be discreet."
+      },
+      "CP_040_UNIQUE_4": {
+        "ID": "CP_040_UNIQUE_4",
+        "Text": "Let's play a game of chicken."
+      },
+      "CP_040_UNIQUE_5": {
+        "ID": "CP_040_UNIQUE_5",
+        "Text": "All right. I haven't shown you this one yet, have I?"
+      },
+      "CP_040_UNIQUE_6": {
+        "ID": "CP_040_UNIQUE_6",
+        "Text": "Don't worry, I'll send you along soon too."
+      },
+      "CP_040_UNIQUE_7": {
+        "ID": "CP_040_UNIQUE_7",
+        "Text": "Yeah, don't rush me, okay?"
+      },
+      "CP_040_UNIQUE_8": {
+        "ID": "CP_040_UNIQUE_8",
+        "Text": "Come down and play."
+      },
+      "CP_040_UNIQUE_9": {
+        "ID": "CP_040_UNIQUE_9",
+        "Text": "No way, no way, no way, no way."
+      },
+      "CP_040_UNIQUE_10": {
+        "ID": "CP_040_UNIQUE_10",
+        "Text": "What do we do? What do we do? It's a major problem!"
+      },
+      "CP_040_READY": {
+        "ID": "CP_040_READY",
+        "Text": "I'm ready!"
+      },
+      "CP_040_UNDERSTOODOKAY": {
+        "ID": "CP_040_UNDERSTOODOKAY",
+        "Text": "Got it."
+      },
+      "CP_040_ENDSWITH": {
+        "ID": "CP_040_ENDSWITH",
+        "Text": "The next one's the last one!"
+      },
+      "CP_040_WAITAMINUTE": {
+        "ID": "CP_040_WAITAMINUTE",
+        "Text": "Hold on a minute."
+      },
+      "CP_040_CHANGE": {
+        "ID": "CP_040_CHANGE",
+        "Text": "I'm changing it."
+      },
+      "CP_040_ITWASAGOODMATCH": {
+        "ID": "CP_040_ITWASAGOODMATCH",
+        "Text": "That was a good match."
+      },
+      "CP_040_EXIT": {
+        "ID": "CP_040_EXIT",
+        "Text": "I'm withdrawing."
+      },
+      "CP_040_LETSATTACK": {
+        "ID": "CP_040_LETSATTACK",
+        "Text": "I'm going on the offensive."
+      },
+      "CP_040_FIGHTCAREFULLY": {
+        "ID": "CP_040_FIGHTCAREFULLY",
+        "Text": "Stay vigilant."
+      }
+    }
+  }
+]

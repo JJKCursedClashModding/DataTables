@@ -1,0 +1,486 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterMaterialDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterMaterial'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_130_00": {
+        "ID": "CP_130_00",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Skin_P1",
+          "MI_CP_130_00_Outline_P1",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Skin_P2",
+          "MI_CP_130_00_Outline_P2",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Skin_P3",
+          "MI_CP_130_00_Outline_P3",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_10": {
+        "ID": "CP_130_10",
+        "MaterialName_P1": [
+          "MI_CP_130_10_Skin_P1",
+          "MI_CP_130_00_Outline_P1",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_10_Skin_P2",
+          "MI_CP_130_00_Outline_P2",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_10_Skin_P3",
+          "MI_CP_130_00_Outline_P3",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_10_Skin_P4",
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_10_Skin_P5",
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_10_Skin_P6",
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_10_Skin_P7",
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_20": {
+        "ID": "CP_130_20",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Outline_P1",
+          "MI_CP_130_20_Skin_P1",
+          "MI_CP_130_20_ClothesA_P1",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Outline_P2",
+          "MI_CP_130_20_Skin_P2",
+          "MI_CP_130_20_ClothesA_P2",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Outline_P3",
+          "MI_CP_130_20_Skin_P3",
+          "MI_CP_130_20_ClothesA_P3",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_20_ClothesA_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_20_ClothesA_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_20_ClothesA_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_20_ClothesA_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_21": {
+        "ID": "CP_130_21",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Outline_P1",
+          "MI_CP_130_20_Skin_P1",
+          "MI_CP_130_21_ClothesA_P1",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Outline_P2",
+          "MI_CP_130_20_Skin_P2",
+          "MI_CP_130_21_ClothesA_P2",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Outline_P3",
+          "MI_CP_130_20_Skin_P3",
+          "MI_CP_130_21_ClothesA_P3",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_21_ClothesA_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_21_ClothesA_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_21_ClothesA_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_21_ClothesA_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_22": {
+        "ID": "CP_130_22",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Outline_P1",
+          "MI_CP_130_20_Skin_P1",
+          "MI_CP_130_22_ClothesA_P1",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Outline_P2",
+          "MI_CP_130_20_Skin_P2",
+          "MI_CP_130_22_ClothesA_P2",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Outline_P3",
+          "MI_CP_130_20_Skin_P3",
+          "MI_CP_130_22_ClothesA_P3",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_22_ClothesA_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_22_ClothesA_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_22_ClothesA_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_22_ClothesA_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_23": {
+        "ID": "CP_130_23",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Outline_P1",
+          "MI_CP_130_20_Skin_P1",
+          "MI_CP_130_23_ClothesA_P1",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Outline_P2",
+          "MI_CP_130_20_Skin_P2",
+          "MI_CP_130_23_ClothesA_P2",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Outline_P3",
+          "MI_CP_130_20_Skin_P3",
+          "MI_CP_130_23_ClothesA_P3",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_23_ClothesA_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_23_ClothesA_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_23_ClothesA_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_23_ClothesA_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_130_24": {
+        "ID": "CP_130_24",
+        "MaterialName_P1": [
+          "MI_CP_130_00_Outline_P1",
+          "MI_CP_130_20_Skin_P1",
+          "MI_CP_130_24_ClothesA_P1",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P2": [
+          "MI_CP_130_00_Outline_P2",
+          "MI_CP_130_20_Skin_P2",
+          "MI_CP_130_24_ClothesA_P2",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P3": [
+          "MI_CP_130_00_Outline_P3",
+          "MI_CP_130_20_Skin_P3",
+          "MI_CP_130_24_ClothesA_P3",
+          "None",
+          "None",
+          "None"
+        ],
+        "MaterialName_P4": [
+          "MI_CP_130_00_Outline_P4",
+          "MI_CP_130_00_Skin_P4",
+          "MI_CP_130_24_ClothesA_P4",
+          "MI_CP_130_00_Metal_P4",
+          "None",
+          "None"
+        ],
+        "MaterialName_P5": [
+          "MI_CP_130_00_Outline_P5",
+          "MI_CP_130_00_Skin_P5",
+          "MI_CP_130_24_ClothesA_P5",
+          "MI_CP_130_00_Metal_P5",
+          "None",
+          "None"
+        ],
+        "MaterialName_P6": [
+          "MI_CP_130_00_Outline_P6",
+          "MI_CP_130_00_Skin_P6",
+          "MI_CP_130_24_ClothesA_P6",
+          "MI_CP_130_00_Metal_P6",
+          "None",
+          "None"
+        ],
+        "MaterialName_P7": [
+          "MI_CP_130_00_Outline_P7",
+          "MI_CP_130_00_Skin_P7",
+          "MI_CP_130_24_ClothesA_P7",
+          "MI_CP_130_00_Metal_P7",
+          "None",
+          "None"
+        ],
+        "MaterialName_P8": [
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

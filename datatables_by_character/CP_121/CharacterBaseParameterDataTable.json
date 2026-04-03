@@ -1,0 +1,56 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterBaseParameterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterBaseParameter'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121": {
+        "ID": "CP_121",
+        "HitPoint": 440,
+        "HitPoint_Solo": 440,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      },
+      "CP_121_EASY": {
+        "ID": "CP_121_EASY",
+        "HitPoint": 264,
+        "HitPoint_Solo": 264,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      },
+      "CP_121_NORMAL": {
+        "ID": "CP_121_NORMAL",
+        "HitPoint": 352,
+        "HitPoint_Solo": 352,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1000,
+        "LargeCharacterDownRecoverTime": 0
+      }
+    }
+  }
+]

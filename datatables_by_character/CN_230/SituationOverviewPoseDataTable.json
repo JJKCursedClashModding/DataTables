@@ -1,0 +1,75 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SituationOverviewPoseDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_SituationOverviewPose'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_230_POSE_00": {
+        "ID": "CN_230_POSE_00",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_01_CN_230",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "Id_CharacterAnimation_Ally": "None",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "WP_130_00",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "root",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "AM_WP_130_00_SituationOverview_01_R",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CN_230_SITUATION_OVERVIEW_ENEMY_01",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "WP_130_00",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "root",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "AM_WP_130_00_SituationOverview_01_R",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

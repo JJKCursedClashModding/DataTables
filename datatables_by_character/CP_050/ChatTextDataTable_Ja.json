@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050_GREETING_1": {
+        "ID": "CP_050_GREETING_1",
+        "Text": "よろしくー"
+      },
+      "CP_050_GREETING_2": {
+        "ID": "CP_050_GREETING_2",
+        "Text": "やあやあ調子はどうだい？"
+      },
+      "CP_050_PRAISE_1": {
+        "ID": "CP_050_PRAISE_1",
+        "Text": "いいね"
+      },
+      "CP_050_PRAISE_2": {
+        "ID": "CP_050_PRAISE_2",
+        "Text": "その調子でよろしく"
+      },
+      "CP_050_FOLLOW": {
+        "ID": "CP_050_FOLLOW",
+        "Text": "君に非はない"
+      },
+      "CP_050_APOLOGY": {
+        "ID": "CP_050_APOLOGY",
+        "Text": "メンゴ！！"
+      },
+      "CP_050_GRATITUDE_1": {
+        "ID": "CP_050_GRATITUDE_1",
+        "Text": "助かっちゃった"
+      },
+      "CP_050_GRATITUDE_2": {
+        "ID": "CP_050_GRATITUDE_2",
+        "Text": "さんきゅー"
+      },
+      "CP_050_GOODBYE": {
+        "ID": "CP_050_GOODBYE",
+        "Text": "んーばいばい！"
+      },
+      "CP_050_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_050_THANKYOUFORYOURHARDWORK",
+        "Text": "お疲れサマンサ"
+      },
+      "CP_050_ROGERTHAT": {
+        "ID": "CP_050_ROGERTHAT",
+        "Text": "りょーかーい"
+      },
+      "CP_050_REJECTION": {
+        "ID": "CP_050_REJECTION",
+        "Text": "えー"
+      },
+      "CP_050_ENCOURAGEMENT": {
+        "ID": "CP_050_ENCOURAGEMENT",
+        "Text": "期待してるよ"
+      },
+      "CP_050_PINCH": {
+        "ID": "CP_050_PINCH",
+        "Text": "ちょっと厄介だね"
+      },
+      "CP_050_COMEFORWARD": {
+        "ID": "CP_050_COMEFORWARD",
+        "Text": "はいどいてどいてー"
+      },
+      "CP_050_COMEFORWARD_OUT": {
+        "ID": "CP_050_COMEFORWARD_OUT",
+        "Text": "はいどいてどいてー"
+      },
+      "CP_050_GODOWN": {
+        "ID": "CP_050_GODOWN",
+        "Text": "後はよろしくー"
+      },
+      "CP_050_GODOWN_OUT": {
+        "ID": "CP_050_GODOWN_OUT",
+        "Text": "後はよろしくー"
+      },
+      "CP_050_NOTE": {
+        "ID": "CP_050_NOTE",
+        "Text": "避けないとやられちゃうよ"
+      },
+      "CP_050_AIMATTHETARGET": {
+        "ID": "CP_050_AIMATTHETARGET",
+        "Text": "そっちは任せたよ"
+      },
+      "CP_050_AIMFORAJOINTATTACK": {
+        "ID": "CP_050_AIMFORAJOINTATTACK",
+        "Text": "共連撃を狙うよ"
+      },
+      "CP_050_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_050_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃を狙うよ"
+      },
+      "CP_050_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_050_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を狙うよ"
+      },
+      "CP_050_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_050_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を狙うよ"
+      },
+      "CP_050_FIGHTCLOSEBY": {
+        "ID": "CP_050_FIGHTCLOSEBY",
+        "Text": "僕から離れないでね"
+      },
+      "CP_050_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_050_FIGHTCLOSEBY_OUT",
+        "Text": "僕から離れないでね"
+      },
+      "CP_050_FIGHTAWAY": {
+        "ID": "CP_050_FIGHTAWAY",
+        "Text": "早く離れたほうがいいよ"
+      },
+      "CP_050_FIGHTAWAY_OUT": {
+        "ID": "CP_050_FIGHTAWAY_OUT",
+        "Text": "早く離れたほうがいいよ"
+      },
+      "CP_050_LETMETAKECAREOFTHAT": {
+        "ID": "CP_050_LETMETAKECAREOFTHAT",
+        "Text": "まっかせなさーい"
+      },
+      "CP_050_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_050_LETMETAKECAREOFTHAT_OUT",
+        "Text": "まっかせなさーい"
+      },
+      "CP_050_LETSWORKTOGETHER": {
+        "ID": "CP_050_LETSWORKTOGETHER",
+        "Text": "僕に合わせられる？"
+      },
+      "CP_050_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_050_LETSWORKTOGETHER_OUT",
+        "Text": "僕に合わせられる？"
+      },
+      "CP_050_LEVELREPORT_LOW": {
+        "ID": "CP_050_LEVELREPORT_LOW",
+        "Text": "気が乗らないなぁ"
+      },
+      "CP_050_LEVELREPORT_MEDIUM": {
+        "ID": "CP_050_LEVELREPORT_MEDIUM",
+        "Text": "そろそろ仕掛けようか"
+      },
+      "CP_050_LEVELREPORT_HIGH": {
+        "ID": "CP_050_LEVELREPORT_HIGH",
+        "Text": "ちょっと本気出そうか"
+      },
+      "CP_050_PROVOCATION_1": {
+        "ID": "CP_050_PROVOCATION_1",
+        "Text": "君弱いもん"
+      },
+      "CP_050_PROVOCATION_2": {
+        "ID": "CP_050_PROVOCATION_2",
+        "Text": "これで負けたら言い訳できないよ？"
+      },
+      "CP_050_RESPECT_1": {
+        "ID": "CP_050_RESPECT_1",
+        "Text": "君器用だね"
+      },
+      "CP_050_RESPECT_2": {
+        "ID": "CP_050_RESPECT_2",
+        "Text": "上手いな…"
+      },
+      "CP_050_UNIQUE_1": {
+        "ID": "CP_050_UNIQUE_1",
+        "Text": "僕最強だから"
+      },
+      "CP_050_UNIQUE_2": {
+        "ID": "CP_050_UNIQUE_2",
+        "Text": "生徒の前なんでね、\nカッコつけさせてもらうよ"
+      },
+      "CP_050_UNIQUE_3": {
+        "ID": "CP_050_UNIQUE_3",
+        "Text": "誰が大したことないって？"
+      },
+      "CP_050_UNIQUE_4": {
+        "ID": "CP_050_UNIQUE_4",
+        "Text": "テンション上げてみんな！！"
+      },
+      "CP_050_UNIQUE_5": {
+        "ID": "CP_050_UNIQUE_5",
+        "Text": "やるでしょ　サプライズ！！"
+      },
+      "CP_050_UNIQUE_6": {
+        "ID": "CP_050_UNIQUE_6",
+        "Text": "君死刑ね"
+      },
+      "CP_050_UNIQUE_7": {
+        "ID": "CP_050_UNIQUE_7",
+        "Text": "いやーボロボロだねー"
+      },
+      "CP_050_UNIQUE_8": {
+        "ID": "CP_050_UNIQUE_8",
+        "Text": "アハハ～ぶっ殺すぞ～"
+      },
+      "CP_050_UNIQUE_9": {
+        "ID": "CP_050_UNIQUE_9",
+        "Text": "フォーメーションB"
+      },
+      "CP_050_UNIQUE_10": {
+        "ID": "CP_050_UNIQUE_10",
+        "Text": "なんでキレてんの？"
+      },
+      "CP_050_UNIQUE_11": {
+        "ID": "CP_050_UNIQUE_11",
+        "Text": "次"
+      },
+      "CP_050_READY": {
+        "ID": "CP_050_READY",
+        "Text": "準備OK！"
+      },
+      "CP_050_UNDERSTOODOKAY": {
+        "ID": "CP_050_UNDERSTOODOKAY",
+        "Text": "わかった"
+      },
+      "CP_050_ENDSWITH": {
+        "ID": "CP_050_ENDSWITH",
+        "Text": "次、ラストね"
+      },
+      "CP_050_WAITAMINUTE": {
+        "ID": "CP_050_WAITAMINUTE",
+        "Text": "ちょっと待ってね"
+      },
+      "CP_050_CHANGE": {
+        "ID": "CP_050_CHANGE",
+        "Text": "変更するね"
+      },
+      "CP_050_ITWASAGOODMATCH": {
+        "ID": "CP_050_ITWASAGOODMATCH",
+        "Text": "いい試合だったね"
+      },
+      "CP_050_EXIT": {
+        "ID": "CP_050_EXIT",
+        "Text": "退出するよ"
+      },
+      "CP_050_LETSATTACK": {
+        "ID": "CP_050_LETSATTACK",
+        "Text": "さっさと終わらせよう"
+      },
+      "CP_050_FIGHTCAREFULLY": {
+        "ID": "CP_050_FIGHTCAREFULLY",
+        "Text": "様子見かな"
+      }
+    }
+  }
+]

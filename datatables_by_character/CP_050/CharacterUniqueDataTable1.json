@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050": {
+        "ID": "CP_050",
+        "FloatValue": [
+          100,
+          5,
+          1.25,
+          0.25,
+          0.1,
+          0.1,
+          4,
+          3500,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKG": {
+        "ID": "CP_050_ATTACKG",
+        "FloatValue": [
+          0.7,
+          0.7,
+          0.7,
+          1.2,
+          450,
+          2000,
+          2000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKG_2": {
+        "ID": "CP_050_ATTACKG_2",
+        "FloatValue": [
+          3,
+          2,
+          1.25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_SHOCKWAVE": {
+        "ID": "CP_050_SHOCKWAVE",
+        "FloatValue": [
+          10,
+          4,
+          7,
+          10,
+          0.16,
+          30,
+          30,
+          260,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKH": {
+        "ID": "CP_050_ATTACKH",
+        "FloatValue": [
+          1.1,
+          500,
+          1100,
+          30,
+          35,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKG_SHOOT_CAMERA": {
+        "ID": "CP_050_ATTACKG_SHOOT_CAMERA",
+        "FloatValue": [
+          -200,
+          80,
+          30,
+          60,
+          30,
+          105,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKG_2_SHOOT_CAMERA": {
+        "ID": "CP_050_ATTACKG_2_SHOOT_CAMERA",
+        "FloatValue": [
+          -180,
+          60,
+          40,
+          60,
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_050_ATTACKH_SHOOT_CAMERA": {
+        "ID": "CP_050_ATTACKH_SHOOT_CAMERA",
+        "FloatValue": [
+          -260,
+          -170,
+          -100,
+          60,
+          30,
+          0,
+          0,
+          0,
+          12,
+          10,
+          -7,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

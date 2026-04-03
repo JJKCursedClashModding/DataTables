@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220_GREETING_1": {
+        "ID": "CP_220_GREETING_1",
+        "Text": "Legen wir los."
+      },
+      "CP_220_GREETING_2": {
+        "ID": "CP_220_GREETING_2",
+        "Text": "Mach dich bereit."
+      },
+      "CP_220_PRAISE_1": {
+        "ID": "CP_220_PRAISE_1",
+        "Text": "Beeindruckend."
+      },
+      "CP_220_PRAISE_2": {
+        "ID": "CP_220_PRAISE_2",
+        "Text": "Genau das habe ich erwartet."
+      },
+      "CP_220_FOLLOW": {
+        "ID": "CP_220_FOLLOW",
+        "Text": "Keine Sorge."
+      },
+      "CP_220_APOLOGY": {
+        "ID": "CP_220_APOLOGY",
+        "Text": "Tut mir leid."
+      },
+      "CP_220_GRATITUDE_1": {
+        "ID": "CP_220_GRATITUDE_1",
+        "Text": "Dir gebührt mein Dank."
+      },
+      "CP_220_GRATITUDE_2": {
+        "ID": "CP_220_GRATITUDE_2",
+        "Text": "Danke."
+      },
+      "CP_220_GOODBYE": {
+        "ID": "CP_220_GOODBYE",
+        "Text": "Bis später."
+      },
+      "CP_220_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_220_THANKYOUFORYOURHARDWORK",
+        "Text": "Gute Arbeit."
+      },
+      "CP_220_ROGERTHAT": {
+        "ID": "CP_220_ROGERTHAT",
+        "Text": "Korrekt."
+      },
+      "CP_220_REJECTION": {
+        "ID": "CP_220_REJECTION",
+        "Text": "Keine Chance."
+      },
+      "CP_220_ENCOURAGEMENT": {
+        "ID": "CP_220_ENCOURAGEMENT",
+        "Text": "Mach weiter so."
+      },
+      "CP_220_PINCH": {
+        "ID": "CP_220_PINCH",
+        "Text": "Das ist schlecht!"
+      },
+      "CP_220_COMEFORWARD": {
+        "ID": "CP_220_COMEFORWARD",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_220_COMEFORWARD_OUT": {
+        "ID": "CP_220_COMEFORWARD_OUT",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_220_GODOWN": {
+        "ID": "CP_220_GODOWN",
+        "Text": "Ich halte mich eine Weile zurück."
+      },
+      "CP_220_GODOWN_OUT": {
+        "ID": "CP_220_GODOWN_OUT",
+        "Text": "Ich halte mich eine Weile zurück."
+      },
+      "CP_220_NOTE": {
+        "ID": "CP_220_NOTE",
+        "Text": "Da kommen sie, sei wachsam!"
+      },
+      "CP_220_AIMATTHETARGET": {
+        "ID": "CP_220_AIMATTHETARGET",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_220_AIMFORAJOINTATTACK": {
+        "ID": "CP_220_AIMFORAJOINTATTACK",
+        "Text": "Teamangriff!"
+      },
+      "CP_220_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_220_AIMFORAJOINTATTACK_OUT",
+        "Text": "Teamangriff!"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Ich wähle die Erweckter-Technik!"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Ich wähle die Erweckter-Technik!"
+      },
+      "CP_220_FIGHTCLOSEBY": {
+        "ID": "CP_220_FIGHTCLOSEBY",
+        "Text": "Bleib in der Nähe."
+      },
+      "CP_220_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_220_FIGHTCLOSEBY_OUT",
+        "Text": "Bleib in der Nähe."
+      },
+      "CP_220_FIGHTAWAY": {
+        "ID": "CP_220_FIGHTAWAY",
+        "Text": "Halten wir Abstand."
+      },
+      "CP_220_FIGHTAWAY_OUT": {
+        "ID": "CP_220_FIGHTAWAY_OUT",
+        "Text": "Halten wir Abstand."
+      },
+      "CP_220_LETMETAKECAREOFTHAT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_220_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_220_LETSWORKTOGETHER": {
+        "ID": "CP_220_LETSWORKTOGETHER",
+        "Text": "Mach's mir nach."
+      },
+      "CP_220_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_220_LETSWORKTOGETHER_OUT",
+        "Text": "Mach's mir nach."
+      },
+      "CP_220_LEVELREPORT_LOW": {
+        "ID": "CP_220_LEVELREPORT_LOW",
+        "Text": "Ich bereite mich vor."
+      },
+      "CP_220_LEVELREPORT_MEDIUM": {
+        "ID": "CP_220_LEVELREPORT_MEDIUM",
+        "Text": "Wird Zeit, zu gehen."
+      },
+      "CP_220_LEVELREPORT_HIGH": {
+        "ID": "CP_220_LEVELREPORT_HIGH",
+        "Text": "Zeit, ernst zu machen."
+      },
+      "CP_220_PROVOCATION_1": {
+        "ID": "CP_220_PROVOCATION_1",
+        "Text": "Das war's?"
+      },
+      "CP_220_PROVOCATION_2": {
+        "ID": "CP_220_PROVOCATION_2",
+        "Text": "Nichts Besonderes."
+      },
+      "CP_220_RESPECT_1": {
+        "ID": "CP_220_RESPECT_1",
+        "Text": "Was für eine unglaubliche Kraft."
+      },
+      "CP_220_RESPECT_2": {
+        "ID": "CP_220_RESPECT_2",
+        "Text": "Scheint so, als hättest du was drauf."
+      },
+      "CP_220_UNIQUE_1": {
+        "ID": "CP_220_UNIQUE_1",
+        "Text": "Mittelstufe 1."
+      },
+      "CP_220_UNIQUE_2": {
+        "ID": "CP_220_UNIQUE_2",
+        "Text": "Bann des Himmels. Schon davon gehört?"
+      },
+      "CP_220_UNIQUE_3": {
+        "ID": "CP_220_UNIQUE_3",
+        "Text": "Das hast du gut gemacht."
+      },
+      "CP_220_UNIQUE_4": {
+        "ID": "CP_220_UNIQUE_4",
+        "Text": "Ich werde nicht sterben. Ich kann mich nur für 'ne Weile nicht bewegen."
+      },
+      "CP_220_UNIQUE_5": {
+        "ID": "CP_220_UNIQUE_5",
+        "Text": "Kannst du nicht stillhalten ...?"
+      },
+      "CP_220_UNIQUE_6": {
+        "ID": "CP_220_UNIQUE_6",
+        "Text": "Das ist doch ein großer Nachteil, oder?"
+      },
+      "CP_220_UNIQUE_7": {
+        "ID": "CP_220_UNIQUE_7",
+        "Text": "Das kann ich nicht ausstehen."
+      },
+      "CP_220_UNIQUE_8": {
+        "ID": "CP_220_UNIQUE_8",
+        "Text": "Ich bin nicht so gebaut."
+      },
+      "CP_220_UNIQUE_9": {
+        "ID": "CP_220_UNIQUE_9",
+        "Text": "Dieses Mal treffe ich!"
+      },
+      "CP_220_UNIQUE_10": {
+        "ID": "CP_220_UNIQUE_10",
+        "Text": "Ob du noch so was von dir gibst, wenn du siehst, wie ich aussehe?"
+      },
+      "CP_220_UNIQUE_11": {
+        "ID": "CP_220_UNIQUE_11",
+        "Text": "'tschuldige, ich lege mich mal kurz hin."
+      },
+      "CP_220_UNIQUE_12": {
+        "ID": "CP_220_UNIQUE_12",
+        "Text": "Ich kann den Bewegungen nicht folgen!"
+      },
+      "CP_220_READY": {
+        "ID": "CP_220_READY",
+        "Text": "Vorbereitungen abgeschlossen."
+      },
+      "CP_220_UNDERSTOODOKAY": {
+        "ID": "CP_220_UNDERSTOODOKAY",
+        "Text": "Verstanden."
+      },
+      "CP_220_ENDSWITH": {
+        "ID": "CP_220_ENDSWITH",
+        "Text": "Der Nächste ist der Letzte."
+      },
+      "CP_220_WAITAMINUTE": {
+        "ID": "CP_220_WAITAMINUTE",
+        "Text": "Warte mal 'nen Moment."
+      },
+      "CP_220_CHANGE": {
+        "ID": "CP_220_CHANGE",
+        "Text": "Ich ändere das."
+      },
+      "CP_220_ITWASAGOODMATCH": {
+        "ID": "CP_220_ITWASAGOODMATCH",
+        "Text": "Das war ein guter Kampf."
+      },
+      "CP_220_EXIT": {
+        "ID": "CP_220_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_220_LETSATTACK": {
+        "ID": "CP_220_LETSATTACK",
+        "Text": "Ich gehe in die Offensive."
+      },
+      "CP_220_FIGHTCAREFULLY": {
+        "ID": "CP_220_FIGHTCAREFULLY",
+        "Text": "Mal sehen, wie das läuft."
+      }
+    }
+  }
+]

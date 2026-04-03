@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_STAMP_001": {
+        "ID": "CP_121_STAMP_001",
+        "Text": "약자를 돕고 강자를 꺾는 것"
+      },
+      "CP_121_STAMP_002": {
+        "ID": "CP_121_STAMP_002",
+        "Text": "우린 최강이니까"
+      }
+    }
+  }
+]

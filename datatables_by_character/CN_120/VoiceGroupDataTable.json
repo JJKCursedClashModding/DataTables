@@ -1,0 +1,237 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_VoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_120_START_01": {
+        "ID": "CN_120_START_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_Intro_4_011010",
+          "VoBtl_CN_120_Intro_4_021010",
+          "VoBtl_CN_120_Intro_4_031010",
+          "VoBtl_CN_120_Intro_4_041010",
+          "None"
+        ]
+      },
+      "CN_120_DASH_01": {
+        "ID": "CN_120_DASH_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_01_1_010010",
+          "VoBtl_CN_120_01_1_010020",
+          "VoBtl_CN_120_01_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_JUMP_01": {
+        "ID": "CN_120_JUMP_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_02_1_010010",
+          "VoBtl_CN_120_02_1_010020",
+          "VoBtl_CN_120_02_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_STEP_01": {
+        "ID": "CN_120_STEP_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_03_1_010010",
+          "VoBtl_CN_120_03_1_010020",
+          "VoBtl_CN_120_03_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_NORMALATTACK1_01": {
+        "ID": "CN_120_NORMALATTACK1_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_04_1_010010",
+          "VoBtl_CN_120_04_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_NORMALATTACK2_01": {
+        "ID": "CN_120_NORMALATTACK2_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_06_1_010010",
+          "VoBtl_CN_120_06_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_NORMALATTACK3_01": {
+        "ID": "CN_120_NORMALATTACK3_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_08_1_010010",
+          "VoBtl_CN_120_08_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_ATTACK_WEAK_01": {
+        "ID": "CN_120_ATTACK_WEAK_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_17_1_010010",
+          "VoBtl_CN_120_17_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_ATTACK_WEAK_MEDIUM_01": {
+        "ID": "CN_120_ATTACK_WEAK_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_18_1_010010",
+          "VoBtl_CN_120_18_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_ATTACK_MEDIUM_01": {
+        "ID": "CN_120_ATTACK_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_19_1_010010",
+          "VoBtl_CN_120_19_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_ATTACK_HEAVY_01": {
+        "ID": "CN_120_ATTACK_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_20_1_010010",
+          "VoBtl_CN_120_20_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_ATTACK_FINISH_01": {
+        "ID": "CN_120_ATTACK_FINISH_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_20_1_010010",
+          "VoBtl_CN_120_20_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DAMAGE_WEAK_01": {
+        "ID": "CN_120_DAMAGE_WEAK_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_36_1_010010",
+          "VoBtl_CN_120_36_1_010020",
+          "VoBtl_CN_120_36_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DAMAGE_MEDIUM_01": {
+        "ID": "CN_120_DAMAGE_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_37_1_010010",
+          "VoBtl_CN_120_37_1_010020",
+          "VoBtl_CN_120_37_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DAMAGE_HEAVY_01": {
+        "ID": "CN_120_DAMAGE_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_38_1_010010",
+          "VoBtl_CN_120_38_1_010020",
+          "VoBtl_CN_120_38_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DAMAGE_LARGE_HEAVY_01": {
+        "ID": "CN_120_DAMAGE_LARGE_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_39_1_010010",
+          "VoBtl_CN_120_39_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DAMAGE_BLOW_01": {
+        "ID": "CN_120_DAMAGE_BLOW_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_40_1_010010",
+          "VoBtl_CN_120_40_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DOWN_BOUNDED_01": {
+        "ID": "CN_120_DOWN_BOUNDED_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_41_1_010010",
+          "VoBtl_CN_120_41_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DOWN_01": {
+        "ID": "CN_120_DOWN_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_49_1_010010",
+          "VoBtl_CN_120_49_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DOWN_END_01_PINCH": {
+        "ID": "CN_120_DOWN_END_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CN_120_50_1_011010",
+          "VoBtl_CN_120_50_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_BREAKFALL_01": {
+        "ID": "CN_120_BREAKFALL_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_48_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_120_DEAD_01": {
+        "ID": "CN_120_DEAD_01",
+        "Id_Voice": [
+          "VoBtl_CN_120_51_1_010010",
+          "VoBtl_CN_120_51_1_010020",
+          "VoBtl_CN_120_51_1_010030",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_010_GREETING_1": {
+        "ID": "CP_010_GREETING_1",
+        "Text": "Legen wir los!"
+      },
+      "CP_010_GREETING_2": {
+        "ID": "CP_010_GREETING_2",
+        "Text": "Geben wir alles."
+      },
+      "CP_010_PRAISE_1": {
+        "ID": "CP_010_PRAISE_1",
+        "Text": "Gar nicht schlecht!"
+      },
+      "CP_010_PRAISE_2": {
+        "ID": "CP_010_PRAISE_2",
+        "Text": "Du scheinst gut in Form zu sein!"
+      },
+      "CP_010_FOLLOW": {
+        "ID": "CP_010_FOLLOW",
+        "Text": "Keine Sorge!"
+      },
+      "CP_010_APOLOGY": {
+        "ID": "CP_010_APOLOGY",
+        "Text": "Tut mir leid."
+      },
+      "CP_010_GRATITUDE_1": {
+        "ID": "CP_010_GRATITUDE_1",
+        "Text": "Danke."
+      },
+      "CP_010_GRATITUDE_2": {
+        "ID": "CP_010_GRATITUDE_2",
+        "Text": "Danke dafür."
+      },
+      "CP_010_GOODBYE": {
+        "ID": "CP_010_GOODBYE",
+        "Text": "Wir sehen uns."
+      },
+      "CP_010_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_010_THANKYOUFORYOURHARDWORK",
+        "Text": "Gute Arbeit."
+      },
+      "CP_010_ROGERTHAT": {
+        "ID": "CP_010_ROGERTHAT",
+        "Text": "Yeah!"
+      },
+      "CP_010_REJECTION": {
+        "ID": "CP_010_REJECTION",
+        "Text": "Wie bitte?"
+      },
+      "CP_010_ENCOURAGEMENT": {
+        "ID": "CP_010_ENCOURAGEMENT",
+        "Text": "Ich verlasse mich auf dich!"
+      },
+      "CP_010_PINCH": {
+        "ID": "CP_010_PINCH",
+        "Text": "Hilfe!"
+      },
+      "CP_010_COMEFORWARD": {
+        "ID": "CP_010_COMEFORWARD",
+        "Text": "Ich rücke vor."
+      },
+      "CP_010_COMEFORWARD_OUT": {
+        "ID": "CP_010_COMEFORWARD_OUT",
+        "Text": "Ich rücke vor."
+      },
+      "CP_010_GODOWN": {
+        "ID": "CP_010_GODOWN",
+        "Text": "Ich trete zurück."
+      },
+      "CP_010_GODOWN_OUT": {
+        "ID": "CP_010_GODOWN_OUT",
+        "Text": "Ich trete zurück."
+      },
+      "CP_010_NOTE": {
+        "ID": "CP_010_NOTE",
+        "Text": "Der Nächste könnte schwierig werden."
+      },
+      "CP_010_AIMATTHETARGET": {
+        "ID": "CP_010_AIMATTHETARGET",
+        "Text": "Überlass das mir!"
+      },
+      "CP_010_AIMFORAJOINTATTACK": {
+        "ID": "CP_010_AIMFORAJOINTATTACK",
+        "Text": "Nutzen wir unsere Kombo!"
+      },
+      "CP_010_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_010_AIMFORAJOINTATTACK_OUT",
+        "Text": "Nutzen wir unsere Kombo!"
+      },
+      "CP_010_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_010_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Ich nutze die Erweckter-Technik!"
+      },
+      "CP_010_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_010_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Ich nutze die Erweckter-Technik!"
+      },
+      "CP_010_FIGHTCLOSEBY": {
+        "ID": "CP_010_FIGHTCLOSEBY",
+        "Text": "Kämpfen wir aus der Nähe."
+      },
+      "CP_010_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_010_FIGHTCLOSEBY_OUT",
+        "Text": "Kämpfen wir aus der Nähe."
+      },
+      "CP_010_FIGHTAWAY": {
+        "ID": "CP_010_FIGHTAWAY",
+        "Text": "Kämpfen wir auf Distanz."
+      },
+      "CP_010_FIGHTAWAY_OUT": {
+        "ID": "CP_010_FIGHTAWAY_OUT",
+        "Text": "Kämpfen wir auf Distanz."
+      },
+      "CP_010_LETMETAKECAREOFTHAT": {
+        "ID": "CP_010_LETMETAKECAREOFTHAT",
+        "Text": "Ich mache das."
+      },
+      "CP_010_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_010_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Ich mache das."
+      },
+      "CP_010_LETSWORKTOGETHER": {
+        "ID": "CP_010_LETSWORKTOGETHER",
+        "Text": "Arbeiten wir zusammen."
+      },
+      "CP_010_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_010_LETSWORKTOGETHER_OUT",
+        "Text": "Arbeiten wir zusammen."
+      },
+      "CP_010_LEVELREPORT_LOW": {
+        "ID": "CP_010_LEVELREPORT_LOW",
+        "Text": "Du bist nicht in Topform."
+      },
+      "CP_010_LEVELREPORT_MEDIUM": {
+        "ID": "CP_010_LEVELREPORT_MEDIUM",
+        "Text": "Jetzt habe ich einen Lauf!"
+      },
+      "CP_010_LEVELREPORT_HIGH": {
+        "ID": "CP_010_LEVELREPORT_HIGH",
+        "Text": "Ich habe da vielleicht etwas Großes auf Lager."
+      },
+      "CP_010_PROVOCATION_1": {
+        "ID": "CP_010_PROVOCATION_1",
+        "Text": "Ich übernehme keine Verantwortung, falls es wehtut."
+      },
+      "CP_010_PROVOCATION_2": {
+        "ID": "CP_010_PROVOCATION_2",
+        "Text": "Ahhhh. Betrüger!"
+      },
+      "CP_010_RESPECT_1": {
+        "ID": "CP_010_RESPECT_1",
+        "Text": "Wow, klasse."
+      },
+      "CP_010_RESPECT_2": {
+        "ID": "CP_010_RESPECT_2",
+        "Text": "Ich lasse nicht zu, dass du mich besiegst."
+      },
+      "CP_010_UNIQUE_1": {
+        "ID": "CP_010_UNIQUE_1",
+        "Text": "Ich werde gewinnen."
+      },
+      "CP_010_UNIQUE_2": {
+        "ID": "CP_010_UNIQUE_2",
+        "Text": "So sollte niemand sterben!"
+      },
+      "CP_010_UNIQUE_3": {
+        "ID": "CP_010_UNIQUE_3",
+        "Text": "Oh, klasse."
+      },
+      "CP_010_UNIQUE_4": {
+        "ID": "CP_010_UNIQUE_4",
+        "Text": "Verstehe ... Nein, doch nicht."
+      },
+      "CP_010_UNIQUE_5": {
+        "ID": "CP_010_UNIQUE_5",
+        "Text": "Das klingt gut, abgemacht!"
+      },
+      "CP_010_UNIQUE_6": {
+        "ID": "CP_010_UNIQUE_6",
+        "Text": "Was hattest du hier überhaupt vor?"
+      },
+      "CP_010_UNIQUE_7": {
+        "ID": "CP_010_UNIQUE_7",
+        "Text": "Okay, was auch immer."
+      },
+      "CP_010_UNIQUE_8": {
+        "ID": "CP_010_UNIQUE_8",
+        "Text": "Du bist drauf reingefallen."
+      },
+      "CP_010_UNIQUE_9": {
+        "ID": "CP_010_UNIQUE_9",
+        "Text": "Woah! Tut mir leid!"
+      },
+      "CP_010_UNIQUE_10": {
+        "ID": "CP_010_UNIQUE_10",
+        "Text": "Was machen wir nur? Was machen wir nur? Das ist ein echtes Problem."
+      },
+      "CP_010_READY": {
+        "ID": "CP_010_READY",
+        "Text": "Ich bin bereit!"
+      },
+      "CP_010_UNDERSTOODOKAY": {
+        "ID": "CP_010_UNDERSTOODOKAY",
+        "Text": "Verstanden."
+      },
+      "CP_010_ENDSWITH": {
+        "ID": "CP_010_ENDSWITH",
+        "Text": "Das ist der Letzte."
+      },
+      "CP_010_WAITAMINUTE": {
+        "ID": "CP_010_WAITAMINUTE",
+        "Text": "Hey, Auszeit."
+      },
+      "CP_010_CHANGE": {
+        "ID": "CP_010_CHANGE",
+        "Text": "Ich ändere es."
+      },
+      "CP_010_ITWASAGOODMATCH": {
+        "ID": "CP_010_ITWASAGOODMATCH",
+        "Text": "Das war ein guter Kampf."
+      },
+      "CP_010_EXIT": {
+        "ID": "CP_010_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_010_LETSATTACK": {
+        "ID": "CP_010_LETSATTACK",
+        "Text": "Ich greife an!"
+      },
+      "CP_010_FIGHTCAREFULLY": {
+        "ID": "CP_010_FIGHTCAREFULLY",
+        "Text": "Wir sollten ruhig bleiben."
+      }
+    }
+  }
+]

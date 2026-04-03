@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_GREETING_1": {
+        "ID": "CP_121_GREETING_1",
+        "Text": "よろしく頼むよ"
+      },
+      "CP_121_GREETING_2": {
+        "ID": "CP_121_GREETING_2",
+        "Text": "負ける気がしないね"
+      },
+      "CP_121_PRAISE_1": {
+        "ID": "CP_121_PRAISE_1",
+        "Text": "強いじゃないか"
+      },
+      "CP_121_PRAISE_2": {
+        "ID": "CP_121_PRAISE_2",
+        "Text": "素晴らしいね"
+      },
+      "CP_121_FOLLOW": {
+        "ID": "CP_121_FOLLOW",
+        "Text": "大丈夫かい？"
+      },
+      "CP_121_APOLOGY": {
+        "ID": "CP_121_APOLOGY",
+        "Text": "すまない"
+      },
+      "CP_121_GRATITUDE_1": {
+        "ID": "CP_121_GRATITUDE_1",
+        "Text": "助かるよ"
+      },
+      "CP_121_GRATITUDE_2": {
+        "ID": "CP_121_GRATITUDE_2",
+        "Text": "ありがとう"
+      },
+      "CP_121_GOODBYE": {
+        "ID": "CP_121_GOODBYE",
+        "Text": "また戦えるのを楽しみにしてるよ"
+      },
+      "CP_121_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_121_THANKYOUFORYOURHARDWORK",
+        "Text": "お疲れ様"
+      },
+      "CP_121_ROGERTHAT": {
+        "ID": "CP_121_ROGERTHAT",
+        "Text": "問題ないよ"
+      },
+      "CP_121_REJECTION": {
+        "ID": "CP_121_REJECTION",
+        "Text": "聞こえないな"
+      },
+      "CP_121_ENCOURAGEMENT": {
+        "ID": "CP_121_ENCOURAGEMENT",
+        "Text": "調子いいみたいだね"
+      },
+      "CP_121_PINCH": {
+        "ID": "CP_121_PINCH",
+        "Text": "油断した"
+      },
+      "CP_121_COMEFORWARD": {
+        "ID": "CP_121_COMEFORWARD",
+        "Text": "前は私が"
+      },
+      "CP_121_COMEFORWARD_OUT": {
+        "ID": "CP_121_COMEFORWARD_OUT",
+        "Text": "前は私が"
+      },
+      "CP_121_GODOWN": {
+        "ID": "CP_121_GODOWN",
+        "Text": "一旦下がる"
+      },
+      "CP_121_GODOWN_OUT": {
+        "ID": "CP_121_GODOWN_OUT",
+        "Text": "一旦下がる"
+      },
+      "CP_121_NOTE": {
+        "ID": "CP_121_NOTE",
+        "Text": "来るぞ！"
+      },
+      "CP_121_AIMATTHETARGET": {
+        "ID": "CP_121_AIMATTHETARGET",
+        "Text": "私が引き受けるよ"
+      },
+      "CP_121_AIMFORAJOINTATTACK": {
+        "ID": "CP_121_AIMFORAJOINTATTACK",
+        "Text": "共連撃を狙おうか"
+      },
+      "CP_121_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_121_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃を狙おうか"
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技でいくよ"
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技でいくよ"
+      },
+      "CP_121_FIGHTCLOSEBY": {
+        "ID": "CP_121_FIGHTCLOSEBY",
+        "Text": "離れないでね"
+      },
+      "CP_121_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_121_FIGHTCLOSEBY_OUT",
+        "Text": "離れないでね"
+      },
+      "CP_121_FIGHTAWAY": {
+        "ID": "CP_121_FIGHTAWAY",
+        "Text": "距離を取ろうか"
+      },
+      "CP_121_FIGHTAWAY_OUT": {
+        "ID": "CP_121_FIGHTAWAY_OUT",
+        "Text": "距離を取ろうか"
+      },
+      "CP_121_LETMETAKECAREOFTHAT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT",
+        "Text": "ここは任せて"
+      },
+      "CP_121_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT_OUT",
+        "Text": "ここは任せて"
+      },
+      "CP_121_LETSWORKTOGETHER": {
+        "ID": "CP_121_LETSWORKTOGETHER",
+        "Text": "連携していくよ"
+      },
+      "CP_121_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_121_LETSWORKTOGETHER_OUT",
+        "Text": "連携していくよ"
+      },
+      "CP_121_LEVELREPORT_LOW": {
+        "ID": "CP_121_LEVELREPORT_LOW",
+        "Text": "まだ準備が足りないね"
+      },
+      "CP_121_LEVELREPORT_MEDIUM": {
+        "ID": "CP_121_LEVELREPORT_MEDIUM",
+        "Text": "そろそろいけるかな"
+      },
+      "CP_121_LEVELREPORT_HIGH": {
+        "ID": "CP_121_LEVELREPORT_HIGH",
+        "Text": "本気でいかせてもらうよ"
+      },
+      "CP_121_PROVOCATION_1": {
+        "ID": "CP_121_PROVOCATION_1",
+        "Text": "それで本気かい？"
+      },
+      "CP_121_PROVOCATION_2": {
+        "ID": "CP_121_PROVOCATION_2",
+        "Text": "まだまだだね"
+      },
+      "CP_121_RESPECT_1": {
+        "ID": "CP_121_RESPECT_1",
+        "Text": "流石だね"
+      },
+      "CP_121_RESPECT_2": {
+        "ID": "CP_121_RESPECT_2",
+        "Text": "なかなかやるじゃないか"
+      },
+      "CP_121_UNIQUE_1": {
+        "ID": "CP_121_UNIQUE_1",
+        "Text": "弱い者イジメはよくないよ"
+      },
+      "CP_121_UNIQUE_2": {
+        "ID": "CP_121_UNIQUE_2",
+        "Text": "弱きを助け強きを挫く"
+      },
+      "CP_121_UNIQUE_3": {
+        "ID": "CP_121_UNIQUE_3",
+        "Text": "呪術は非術師を守るためにある"
+      },
+      "CP_121_UNIQUE_4": {
+        "ID": "CP_121_UNIQUE_4",
+        "Text": "なんだ強いじゃないですか"
+      },
+      "CP_121_UNIQUE_5": {
+        "ID": "CP_121_UNIQUE_5",
+        "Text": "その言い方やめてもらえます？"
+      },
+      "CP_121_UNIQUE_6": {
+        "ID": "CP_121_UNIQUE_6",
+        "Text": "勝ち方が決まってる奴は \n勝ち筋を作ると簡単にノってくる"
+      },
+      "CP_121_UNIQUE_7": {
+        "ID": "CP_121_UNIQUE_7",
+        "Text": "目立つのは勘弁してくれ\n今朝　怒られたばかりなんだ"
+      },
+      "CP_121_UNIQUE_8": {
+        "ID": "CP_121_UNIQUE_8",
+        "Text": "私達は最強なんだ"
+      },
+      "CP_121_UNIQUE_9": {
+        "ID": "CP_121_UNIQUE_9",
+        "Text": "そうか 死ね"
+      },
+      "CP_121_UNIQUE_10": {
+        "ID": "CP_121_UNIQUE_10",
+        "Text": "”弱者生存”それがあるべき社会の姿さ"
+      },
+      "CP_121_UNIQUE_11": {
+        "ID": "CP_121_UNIQUE_11",
+        "Text": "もう少し真面目に話して"
+      },
+      "CP_121_UNIQUE_12": {
+        "ID": "CP_121_UNIQUE_12",
+        "Text": "なんか色々考えてるみたいだけど意味ないよ"
+      },
+      "CP_121_READY": {
+        "ID": "CP_121_READY",
+        "Text": "準備できたよ"
+      },
+      "CP_121_UNDERSTOODOKAY": {
+        "ID": "CP_121_UNDERSTOODOKAY",
+        "Text": "わかったよ"
+      },
+      "CP_121_ENDSWITH": {
+        "ID": "CP_121_ENDSWITH",
+        "Text": "次で終わりにしようかな"
+      },
+      "CP_121_WAITAMINUTE": {
+        "ID": "CP_121_WAITAMINUTE",
+        "Text": "少し時間をくれるかい？"
+      },
+      "CP_121_CHANGE": {
+        "ID": "CP_121_CHANGE",
+        "Text": "変更するよ"
+      },
+      "CP_121_ITWASAGOODMATCH": {
+        "ID": "CP_121_ITWASAGOODMATCH",
+        "Text": "いい試合だったね"
+      },
+      "CP_121_EXIT": {
+        "ID": "CP_121_EXIT",
+        "Text": "退出させてもらうよ"
+      },
+      "CP_121_LETSATTACK": {
+        "ID": "CP_121_LETSATTACK",
+        "Text": "攻めようか"
+      },
+      "CP_121_FIGHTCAREFULLY": {
+        "ID": "CP_121_FIGHTCAREFULLY",
+        "Text": "慎重にいこうか"
+      }
+    }
+  }
+]

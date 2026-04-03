@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Character'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_260": {
+        "ID": "CN_260",
+        "Id_GlossaryText_Name": "GLS_NAME_CN_260",
+        "Id_GlossaryText_StoryName": "GLS_NAME_CN_260",
+        "Id_Character_Transformation": "None",
+        "CharacterGroup": "EGameCharacterGroup::None",
+        "CharacterPairGroup": "EGameCharacterPairGroup::None",
+        "Id_CharacterVariation": [
+          "CP_160_00",
+          "CP_160_01",
+          "CP_160_02",
+          "CP_160_03",
+          "CP_160_04",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_CharacterAnimationSet": "CP_160",
+        "Id_CharacterTrap": [
+          "None",
+          "None"
+        ],
+        "Id_CharacterEffect": "CP_160",
+        "Id_CharacterShikigami": [
+          "None"
+        ],
+        "Id_CharacterDecal": "None",
+        "Id_CharacterUnique": [
+          "CP_160",
+          "CP_160_ATTACKG",
+          "CP_160_ATTACKH",
+          "CP_160_ATTACKH_2",
+          "CP_160_ATTACKH_SHOOT_CAMERA_1",
+          "CP_160_ATTACKH_SHOOT_CAMERA_2",
+          "CP_160_ATTACKH_SHOOT_CAMERA_3",
+          "None",
+          "None"
+        ],
+        "DamageRate_AutoCombo": 0.7,
+        "LinkComboCursedEnergyExpRate": 1,
+        "AutoAttackDash_NextActionType": "EGameCharacterActionType::NormalAttackAir_1",
+        "AutoAttackDash_Distance": 50,
+        "Id_Action": "CN_260",
+        "Id_CommandList": "None",
+        "ActionControllerType": "EGameCharacterActionControllerType::CP_160",
+        "AIType": "EGameCharacterAIType::CP_160",
+        "AutoAimLimitAngleYaw": 120,
+        "AutoAimLimitAnglePitch": 120,
+        "SituationAttackVoicePlayDistance": 500,
+        "PvEAllyWeights": 0,
+        "StoryCharaGraphPlacementIndex": -1,
+        "Id_CharacterBaseParameter": "CP_160",
+        "Id_CharacterCursedEnergy": "CP_160",
+        "Id_CharacterSelect": "None",
+        "Id_CharacterCamera": "CN_260",
+        "Id_CharacterUI": "CN_260",
+        "Id_CharacterSpecialAttack": "CP_160",
+        "Id_CharacterOperation": "CP_160",
+        "Id_CharacterChat": "CP_160",
+        "Id_SituationOverview": "CP_160",
+        "Id_CharacterCapture": "CN_260",
+        "Id_CharacterArcade": "None",
+        "FootIKLimit": [
+          30,
+          0,
+          0,
+          0
+        ],
+        "CullingBoundingBoxScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "OverrideJustGuard_HitSlow_Attacker": -1,
+        "OverrideJustGuard_HitSlow_Time_Attacker": -1,
+        "Id_Item": "None"
+      }
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_160_GREETING_1": {
+        "ID": "CP_160_GREETING_1",
+        "Text": "I look forward to working with you."
+      },
+      "CP_160_GREETING_2": {
+        "ID": "CP_160_GREETING_2",
+        "Text": "I advise you not to look at my back."
+      },
+      "CP_160_PRAISE_1": {
+        "ID": "CP_160_PRAISE_1",
+        "Text": "You're doing well."
+      },
+      "CP_160_PRAISE_2": {
+        "ID": "CP_160_PRAISE_2",
+        "Text": "Excellent."
+      },
+      "CP_160_FOLLOW": {
+        "ID": "CP_160_FOLLOW",
+        "Text": "Don't worry about it."
+      },
+      "CP_160_APOLOGY": {
+        "ID": "CP_160_APOLOGY",
+        "Text": "I apologize."
+      },
+      "CP_160_GRATITUDE_1": {
+        "ID": "CP_160_GRATITUDE_1",
+        "Text": "Thanks."
+      },
+      "CP_160_GRATITUDE_2": {
+        "ID": "CP_160_GRATITUDE_2",
+        "Text": "You have my sincerest thanks."
+      },
+      "CP_160_GOODBYE": {
+        "ID": "CP_160_GOODBYE",
+        "Text": "See you around."
+      },
+      "CP_160_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_160_THANKYOUFORYOURHARDWORK",
+        "Text": "Good work today."
+      },
+      "CP_160_ROGERTHAT": {
+        "ID": "CP_160_ROGERTHAT",
+        "Text": "Okay."
+      },
+      "CP_160_REJECTION": {
+        "ID": "CP_160_REJECTION",
+        "Text": "I'd rather not."
+      },
+      "CP_160_ENCOURAGEMENT": {
+        "ID": "CP_160_ENCOURAGEMENT",
+        "Text": "Is that all you have?"
+      },
+      "CP_160_PINCH": {
+        "ID": "CP_160_PINCH",
+        "Text": "Now I'm in trouble."
+      },
+      "CP_160_COMEFORWARD": {
+        "ID": "CP_160_COMEFORWARD",
+        "Text": "I'm going in front."
+      },
+      "CP_160_COMEFORWARD_OUT": {
+        "ID": "CP_160_COMEFORWARD_OUT",
+        "Text": "I'm going in front."
+      },
+      "CP_160_GODOWN": {
+        "ID": "CP_160_GODOWN",
+        "Text": "I'm stepping back."
+      },
+      "CP_160_GODOWN_OUT": {
+        "ID": "CP_160_GODOWN_OUT",
+        "Text": "I'm stepping back."
+      },
+      "CP_160_NOTE": {
+        "ID": "CP_160_NOTE",
+        "Text": "Watch this!"
+      },
+      "CP_160_AIMATTHETARGET": {
+        "ID": "CP_160_AIMATTHETARGET",
+        "Text": "I'll go after this one."
+      },
+      "CP_160_AIMFORAJOINTATTACK": {
+        "ID": "CP_160_AIMFORAJOINTATTACK",
+        "Text": "Join me for this attack."
+      },
+      "CP_160_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_160_AIMFORAJOINTATTACK_OUT",
+        "Text": "Join me for this attack."
+      },
+      "CP_160_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_160_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "I'm going for an awakened move."
+      },
+      "CP_160_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_160_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "I'm going for an awakened move."
+      },
+      "CP_160_FIGHTCLOSEBY": {
+        "ID": "CP_160_FIGHTCLOSEBY",
+        "Text": "Get closer."
+      },
+      "CP_160_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_160_FIGHTCLOSEBY_OUT",
+        "Text": "Get closer."
+      },
+      "CP_160_FIGHTAWAY": {
+        "ID": "CP_160_FIGHTAWAY",
+        "Text": "Get away."
+      },
+      "CP_160_FIGHTAWAY_OUT": {
+        "ID": "CP_160_FIGHTAWAY_OUT",
+        "Text": "Get away."
+      },
+      "CP_160_LETMETAKECAREOFTHAT": {
+        "ID": "CP_160_LETMETAKECAREOFTHAT",
+        "Text": "Leave it to me."
+      },
+      "CP_160_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_160_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Leave it to me."
+      },
+      "CP_160_LETSWORKTOGETHER": {
+        "ID": "CP_160_LETSWORKTOGETHER",
+        "Text": "We'll strike together."
+      },
+      "CP_160_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_160_LETSWORKTOGETHER_OUT",
+        "Text": "We'll strike together."
+      },
+      "CP_160_LEVELREPORT_LOW": {
+        "ID": "CP_160_LEVELREPORT_LOW",
+        "Text": "Not enough Cursed Energy."
+      },
+      "CP_160_LEVELREPORT_MEDIUM": {
+        "ID": "CP_160_LEVELREPORT_MEDIUM",
+        "Text": "There's still not enough."
+      },
+      "CP_160_LEVELREPORT_HIGH": {
+        "ID": "CP_160_LEVELREPORT_HIGH",
+        "Text": "I'll give this my all."
+      },
+      "CP_160_PROVOCATION_1": {
+        "ID": "CP_160_PROVOCATION_1",
+        "Text": "Perhaps I can do this with minimal effort."
+      },
+      "CP_160_PROVOCATION_2": {
+        "ID": "CP_160_PROVOCATION_2",
+        "Text": "What a letdown."
+      },
+      "CP_160_RESPECT_1": {
+        "ID": "CP_160_RESPECT_1",
+        "Text": "Not bad."
+      },
+      "CP_160_RESPECT_2": {
+        "ID": "CP_160_RESPECT_2",
+        "Text": "You're good."
+      },
+      "CP_160_UNIQUE_1": {
+        "ID": "CP_160_UNIQUE_1",
+        "Text": "If it is what my brothers desire, I will gladly give my life to grant that wish for them."
+      },
+      "CP_160_UNIQUE_2": {
+        "ID": "CP_160_UNIQUE_2",
+        "Text": "The thing is, I'm a bit insecure about my back."
+      },
+      "CP_160_UNIQUE_3": {
+        "ID": "CP_160_UNIQUE_3",
+        "Text": "Actually, on second thought, please forget everything I just said."
+      },
+      "CP_160_UNIQUE_4": {
+        "ID": "CP_160_UNIQUE_4",
+        "Text": "Ughhhhhhh."
+      },
+      "CP_160_UNIQUE_5": {
+        "ID": "CP_160_UNIQUE_5",
+        "Text": "Death by Wasp!"
+      },
+      "CP_160_UNIQUE_6": {
+        "ID": "CP_160_UNIQUE_6",
+        "Text": "It gets musty!"
+      },
+      "CP_160_UNIQUE_7": {
+        "ID": "CP_160_UNIQUE_7",
+        "Text": "Damn it!"
+      },
+      "CP_160_UNIQUE_8": {
+        "ID": "CP_160_UNIQUE_8",
+        "Text": "How are you able to move that well?"
+      },
+      "CP_160_UNIQUE_9": {
+        "ID": "CP_160_UNIQUE_9",
+        "Text": "I cannot release the Technique!"
+      },
+      "CP_160_UNIQUE_10": {
+        "ID": "CP_160_UNIQUE_10",
+        "Text": "Kechizuuuu!"
+      },
+      "CP_160_READY": {
+        "ID": "CP_160_READY",
+        "Text": "I'm ready."
+      },
+      "CP_160_UNDERSTOODOKAY": {
+        "ID": "CP_160_UNDERSTOODOKAY",
+        "Text": "Understood."
+      },
+      "CP_160_ENDSWITH": {
+        "ID": "CP_160_ENDSWITH",
+        "Text": "I'll end it with this."
+      },
+      "CP_160_WAITAMINUTE": {
+        "ID": "CP_160_WAITAMINUTE",
+        "Text": "One moment please."
+      },
+      "CP_160_CHANGE": {
+        "ID": "CP_160_CHANGE",
+        "Text": "I'll change it."
+      },
+      "CP_160_ITWASAGOODMATCH": {
+        "ID": "CP_160_ITWASAGOODMATCH",
+        "Text": "That was a good match."
+      },
+      "CP_160_EXIT": {
+        "ID": "CP_160_EXIT",
+        "Text": "I withdraw."
+      },
+      "CP_160_LETSATTACK": {
+        "ID": "CP_160_LETSATTACK",
+        "Text": "Let's attack."
+      },
+      "CP_160_FIGHTCAREFULLY": {
+        "ID": "CP_160_FIGHTCAREFULLY",
+        "Text": "Let's see what they do."
+      }
+    }
+  }
+]

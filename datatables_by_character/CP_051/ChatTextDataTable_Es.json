@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_051_GREETING_1": {
+        "ID": "CP_051_GREETING_1",
+        "Text": "¡Buenas!"
+      },
+      "CP_051_GREETING_2": {
+        "ID": "CP_051_GREETING_2",
+        "Text": "Perfecto."
+      },
+      "CP_051_PRAISE_1": {
+        "ID": "CP_051_PRAISE_1",
+        "Text": "No ha estado mal."
+      },
+      "CP_051_PRAISE_2": {
+        "ID": "CP_051_PRAISE_2",
+        "Text": "¡No está nada mal!"
+      },
+      "CP_051_FOLLOW": {
+        "ID": "CP_051_FOLLOW",
+        "Text": "No se te da tan mal."
+      },
+      "CP_051_APOLOGY": {
+        "ID": "CP_051_APOLOGY",
+        "Text": "He metido la pata pero bien."
+      },
+      "CP_051_GRATITUDE_1": {
+        "ID": "CP_051_GRATITUDE_1",
+        "Text": "Me debes una."
+      },
+      "CP_051_GRATITUDE_2": {
+        "ID": "CP_051_GRATITUDE_2",
+        "Text": "Nunca pensé que me salvarías tú a mí."
+      },
+      "CP_051_GOODBYE": {
+        "ID": "CP_051_GOODBYE",
+        "Text": "Nos vemos."
+      },
+      "CP_051_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_051_THANKYOUFORYOURHARDWORK",
+        "Text": "Así se hace."
+      },
+      "CP_051_ROGERTHAT": {
+        "ID": "CP_051_ROGERTHAT",
+        "Text": "Puf, cómo no."
+      },
+      "CP_051_REJECTION": {
+        "ID": "CP_051_REJECTION",
+        "Text": "Bah, que le den."
+      },
+      "CP_051_ENCOURAGEMENT": {
+        "ID": "CP_051_ENCOURAGEMENT",
+        "Text": "Esto es pan comido."
+      },
+      "CP_051_PINCH": {
+        "ID": "CP_051_PINCH",
+        "Text": "Bah, qué rollo."
+      },
+      "CP_051_COMEFORWARD": {
+        "ID": "CP_051_COMEFORWARD",
+        "Text": "Largo de aquí."
+      },
+      "CP_051_COMEFORWARD_OUT": {
+        "ID": "CP_051_COMEFORWARD_OUT",
+        "Text": "Largo de aquí."
+      },
+      "CP_051_GODOWN": {
+        "ID": "CP_051_GODOWN",
+        "Text": "Todo tuyo."
+      },
+      "CP_051_GODOWN_OUT": {
+        "ID": "CP_051_GODOWN_OUT",
+        "Text": "Te lo dejo a ti."
+      },
+      "CP_051_NOTE": {
+        "ID": "CP_051_NOTE",
+        "Text": "Como no lo esquives, ya puedes decir adiós."
+      },
+      "CP_051_AIMATTHETARGET": {
+        "ID": "CP_051_AIMATTHETARGET",
+        "Text": "Yo me encargo de este tío."
+      },
+      "CP_051_AIMFORAJOINTATTACK": {
+        "ID": "CP_051_AIMFORAJOINTATTACK",
+        "Text": "Que se entere de lo que es bueno."
+      },
+      "CP_051_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_051_AIMFORAJOINTATTACK_OUT",
+        "Text": "Que se entere de lo que es bueno."
+      },
+      "CP_051_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_051_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Voy a soltar una habilidad avivada. Que no te dé, ¿eh?"
+      },
+      "CP_051_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_051_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Voy a soltar una habilidad avivada. Que no te dé, ¿eh?"
+      },
+      "CP_051_FIGHTCLOSEBY": {
+        "ID": "CP_051_FIGHTCLOSEBY",
+        "Text": "De esta no sales."
+      },
+      "CP_051_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_051_FIGHTCLOSEBY_OUT",
+        "Text": "De esta no te vas a librar."
+      },
+      "CP_051_FIGHTAWAY": {
+        "ID": "CP_051_FIGHTAWAY",
+        "Text": "Yo que vosotros me alejaría echando leches."
+      },
+      "CP_051_FIGHTAWAY_OUT": {
+        "ID": "CP_051_FIGHTAWAY_OUT",
+        "Text": "Yo que vosotros me alejaría echando leches."
+      },
+      "CP_051_LETMETAKECAREOFTHAT": {
+        "ID": "CP_051_LETMETAKECAREOFTHAT",
+        "Text": "Esto está chupado."
+      },
+      "CP_051_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_051_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Esto está chupado."
+      },
+      "CP_051_LETSWORKTOGETHER": {
+        "ID": "CP_051_LETSWORKTOGETHER",
+        "Text": "Tú sígueme."
+      },
+      "CP_051_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_051_LETSWORKTOGETHER_OUT",
+        "Text": "Tú sígueme."
+      },
+      "CP_051_LEVELREPORT_LOW": {
+        "ID": "CP_051_LEVELREPORT_LOW",
+        "Text": "Aún no estoy en mi salsa."
+      },
+      "CP_051_LEVELREPORT_MEDIUM": {
+        "ID": "CP_051_LEVELREPORT_MEDIUM",
+        "Text": "Parece que vas a darme guerra."
+      },
+      "CP_051_LEVELREPORT_HIGH": {
+        "ID": "CP_051_LEVELREPORT_HIGH",
+        "Text": "¡Je! Procuraré no dejarte para el arrastre."
+      },
+      "CP_051_PROVOCATION_1": {
+        "ID": "CP_051_PROVOCATION_1",
+        "Text": "Vas a ver el abismo que nos separa."
+      },
+      "CP_051_PROVOCATION_2": {
+        "ID": "CP_051_PROVOCATION_2",
+        "Text": "Si me pides perdón entre lágrimas, te perdono la vida."
+      },
+      "CP_051_RESPECT_1": {
+        "ID": "CP_051_RESPECT_1",
+        "Text": "No eres tan mediocre como creía."
+      },
+      "CP_051_RESPECT_2": {
+        "ID": "CP_051_RESPECT_2",
+        "Text": "B-bueno, no está nada mal esa técnica."
+      },
+      "CP_051_UNIQUE_1": {
+        "ID": "CP_051_UNIQUE_1",
+        "Text": "¿No te cansas de soltar esas chorradas para sentirte mejor?"
+      },
+      "CP_051_UNIQUE_2": {
+        "ID": "CP_051_UNIQUE_2",
+        "Text": "Proteger a los débiles es agotador."
+      },
+      "CP_051_UNIQUE_3": {
+        "ID": "CP_051_UNIQUE_3",
+        "Text": "¿Un argumento moral? Con el asco que les tengo."
+      },
+      "CP_051_UNIQUE_4": {
+        "ID": "CP_051_UNIQUE_4",
+        "Text": "Lo siento, tengo unos ojos envidiables."
+      },
+      "CP_051_UNIQUE_5": {
+        "ID": "CP_051_UNIQUE_5",
+        "Text": "Bah, da igual. Ya se nos ocurrirá algo."
+      },
+      "CP_051_UNIQUE_6": {
+        "ID": "CP_051_UNIQUE_6",
+        "Text": "¿Qué pasa? ¿Te da miedito?"
+      },
+      "CP_051_UNIQUE_7": {
+        "ID": "CP_051_UNIQUE_7",
+        "Text": "¿Tú crees? Ya, igual sí. ¡Puede que sí!"
+      },
+      "CP_051_UNIQUE_8": {
+        "ID": "CP_051_UNIQUE_8",
+        "Text": "Solo puedo salvar a la gente que quiere que la salven."
+      },
+      "CP_051_UNIQUE_9": {
+        "ID": "CP_051_UNIQUE_9",
+        "Text": "Tanto en el cielo como en la tierra, soy el elegido."
+      },
+      "CP_051_UNIQUE_10": {
+        "ID": "CP_051_UNIQUE_10",
+        "Text": "¡La he pifiado!"
+      },
+      "CP_051_UNIQUE_11": {
+        "ID": "CP_051_UNIQUE_11",
+        "Text": "¡Aquí estoy, vivito y coleando!"
+      },
+      "CP_051_UNIQUE_12": {
+        "ID": "CP_051_UNIQUE_12",
+        "Text": "¿Estás llorando?"
+      },
+      "CP_051_READY": {
+        "ID": "CP_051_READY",
+        "Text": "Rapidito, ¿eh?"
+      },
+      "CP_051_UNDERSTOODOKAY": {
+        "ID": "CP_051_UNDERSTOODOKAY",
+        "Text": "¡Sí!"
+      },
+      "CP_051_ENDSWITH": {
+        "ID": "CP_051_ENDSWITH",
+        "Text": "¡Se acabó lo que se daba!"
+      },
+      "CP_051_WAITAMINUTE": {
+        "ID": "CP_051_WAITAMINUTE",
+        "Text": "Un momento."
+      },
+      "CP_051_CHANGE": {
+        "ID": "CP_051_CHANGE",
+        "Text": "Cambio."
+      },
+      "CP_051_ITWASAGOODMATCH": {
+        "ID": "CP_051_ITWASAGOODMATCH",
+        "Text": "Ha sido una buena pelea, ¿eh?"
+      },
+      "CP_051_EXIT": {
+        "ID": "CP_051_EXIT",
+        "Text": "¡Hasta luego!"
+      },
+      "CP_051_LETSATTACK": {
+        "ID": "CP_051_LETSATTACK",
+        "Text": "Voy a acabar con esto rapidito."
+      },
+      "CP_051_FIGHTCAREFULLY": {
+        "ID": "CP_051_FIGHTCAREFULLY",
+        "Text": "Bueno, a ver qué tal se da."
+      }
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180": {
+        "ID": "CP_180",
+        "FloatValue": [
+          0.1,
+          1.15,
+          360,
+          0,
+          330,
+          0.4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_180_ATTACKC": {
+        "ID": "CP_180_ATTACKC",
+        "FloatValue": [
+          0.3,
+          0.1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_180_ATTACKF": {
+        "ID": "CP_180_ATTACKF",
+        "FloatValue": [
+          0.5,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_180_ATTACKG": {
+        "ID": "CP_180_ATTACKG",
+        "FloatValue": [
+          0.5,
+          60,
+          15,
+          40,
+          80,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_180_ATTACKG_SHOOT_CAMERA": {
+        "ID": "CP_180_ATTACKG_SHOOT_CAMERA",
+        "FloatValue": [
+          -180,
+          -150,
+          100,
+          80,
+          80,
+          110,
+          0.25,
+          3,
+          10,
+          -10,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_180_ATTACKH_SHOOT_CAMERA": {
+        "ID": "CP_180_ATTACKH_SHOOT_CAMERA",
+        "FloatValue": [
+          -130,
+          67,
+          -10,
+          30,
+          30,
+          110,
+          0.35,
+          3,
+          0,
+          -3,
+          -15,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

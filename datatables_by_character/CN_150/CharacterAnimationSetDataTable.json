@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterAnimationSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterAnimationSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_150": {
+        "ID": "CN_150",
+        "Id_CharacterAnimation": [
+          "CN_150",
+          "None",
+          "None",
+          "None",
+          "None",
+          "CN_150_GUARD",
+          "None",
+          "None",
+          "CN_150_JUMP",
+          "None",
+          "CN_150_ATTACKA",
+          "None",
+          "CN_150_ATTACKB",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "CN_150_DAMAGE",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

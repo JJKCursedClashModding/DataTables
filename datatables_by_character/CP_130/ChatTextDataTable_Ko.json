@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_130_GREETING_1": {
+        "ID": "CP_130_GREETING_1",
+        "Text": "잘 부탁해~"
+      },
+      "CP_130_GREETING_2": {
+        "ID": "CP_130_GREETING_2",
+        "Text": "즐겁게 해줄래?"
+      },
+      "CP_130_PRAISE_1": {
+        "ID": "CP_130_PRAISE_1",
+        "Text": "잘 움직이네"
+      },
+      "CP_130_PRAISE_2": {
+        "ID": "CP_130_PRAISE_2",
+        "Text": "넌 재능이 있어"
+      },
+      "CP_130_FOLLOW": {
+        "ID": "CP_130_FOLLOW",
+        "Text": "신경 쓰지 말고 계속하자"
+      },
+      "CP_130_APOLOGY": {
+        "ID": "CP_130_APOLOGY",
+        "Text": "미안 미안"
+      },
+      "CP_130_GRATITUDE_1": {
+        "ID": "CP_130_GRATITUDE_1",
+        "Text": "고마워"
+      },
+      "CP_130_GRATITUDE_2": {
+        "ID": "CP_130_GRATITUDE_2",
+        "Text": "덕분에 살았네"
+      },
+      "CP_130_GOODBYE": {
+        "ID": "CP_130_GOODBYE",
+        "Text": "즐거웠어"
+      },
+      "CP_130_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_130_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했어!"
+      },
+      "CP_130_ROGERTHAT": {
+        "ID": "CP_130_ROGERTHAT",
+        "Text": "알았어"
+      },
+      "CP_130_REJECTION": {
+        "ID": "CP_130_REJECTION",
+        "Text": "사양할래"
+      },
+      "CP_130_ENCOURAGEMENT": {
+        "ID": "CP_130_ENCOURAGEMENT",
+        "Text": "신나게 해보자"
+      },
+      "CP_130_PINCH": {
+        "ID": "CP_130_PINCH",
+        "Text": "아차"
+      },
+      "CP_130_COMEFORWARD": {
+        "ID": "CP_130_COMEFORWARD",
+        "Text": "내가 갈게"
+      },
+      "CP_130_COMEFORWARD_OUT": {
+        "ID": "CP_130_COMEFORWARD_OUT",
+        "Text": "내가 갈게"
+      },
+      "CP_130_GODOWN": {
+        "ID": "CP_130_GODOWN",
+        "Text": "뒤는 부탁할게~"
+      },
+      "CP_130_GODOWN_OUT": {
+        "ID": "CP_130_GODOWN_OUT",
+        "Text": "뒤는 부탁할게~"
+      },
+      "CP_130_NOTE": {
+        "ID": "CP_130_NOTE",
+        "Text": "피하는 게 좋으려나?"
+      },
+      "CP_130_AIMATTHETARGET": {
+        "ID": "CP_130_AIMATTHETARGET",
+        "Text": "이 녀석은 내가 맡을게"
+      },
+      "CP_130_AIMFORAJOINTATTACK": {
+        "ID": "CP_130_AIMFORAJOINTATTACK",
+        "Text": "협공 연격, 잘 부탁할게"
+      },
+      "CP_130_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_130_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격, 잘 부탁할게"
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 쓸게"
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 쓸게"
+      },
+      "CP_130_FIGHTCLOSEBY": {
+        "ID": "CP_130_FIGHTCLOSEBY",
+        "Text": "이쪽으로 와줘"
+      },
+      "CP_130_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_130_FIGHTCLOSEBY_OUT",
+        "Text": "이쪽으로 와줘"
+      },
+      "CP_130_FIGHTAWAY": {
+        "ID": "CP_130_FIGHTAWAY",
+        "Text": "떨어져서 싸울까?"
+      },
+      "CP_130_FIGHTAWAY_OUT": {
+        "ID": "CP_130_FIGHTAWAY_OUT",
+        "Text": "떨어져서 싸울까?"
+      },
+      "CP_130_LETMETAKECAREOFTHAT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT",
+        "Text": "맡겨줘"
+      },
+      "CP_130_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT_OUT",
+        "Text": "맡겨줘"
+      },
+      "CP_130_LETSWORKTOGETHER": {
+        "ID": "CP_130_LETSWORKTOGETHER",
+        "Text": "협력할까?"
+      },
+      "CP_130_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_130_LETSWORKTOGETHER_OUT",
+        "Text": "협력할까?"
+      },
+      "CP_130_LEVELREPORT_LOW": {
+        "ID": "CP_130_LEVELREPORT_LOW",
+        "Text": "주력이 부족해"
+      },
+      "CP_130_LEVELREPORT_MEDIUM": {
+        "ID": "CP_130_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 충분하려나"
+      },
+      "CP_130_LEVELREPORT_HIGH": {
+        "ID": "CP_130_LEVELREPORT_HIGH",
+        "Text": "진심으로 해볼까"
+      },
+      "CP_130_PROVOCATION_1": {
+        "ID": "CP_130_PROVOCATION_1",
+        "Text": "너무 약하면 실험이 안 되는데"
+      },
+      "CP_130_PROVOCATION_2": {
+        "ID": "CP_130_PROVOCATION_2",
+        "Text": "뭐야, 겨우 이 정도야?"
+      },
+      "CP_130_RESPECT_1": {
+        "ID": "CP_130_RESPECT_1",
+        "Text": "하하, 재미있어"
+      },
+      "CP_130_RESPECT_2": {
+        "ID": "CP_130_RESPECT_2",
+        "Text": "넌 강하네, 실험체로 딱 좋겠어"
+      },
+      "CP_130_UNIQUE_1": {
+        "ID": "CP_130_UNIQUE_1",
+        "Text": "매너는 지키자"
+      },
+      "CP_130_UNIQUE_2": {
+        "ID": "CP_130_UNIQUE_2",
+        "Text": "육체의 형태는 영혼의 형태에\n끌려가는 거지"
+      },
+      "CP_130_UNIQUE_3": {
+        "ID": "CP_130_UNIQUE_3",
+        "Text": "저주다워졌네"
+      },
+      "CP_130_UNIQUE_4": {
+        "ID": "CP_130_UNIQUE_4",
+        "Text": "몸과 달리 영혼은\n몇 번이고 죽일 수 있어"
+      },
+      "CP_130_UNIQUE_5": {
+        "ID": "CP_130_UNIQUE_5",
+        "Text": "너랑 하는 대화는\n스트레스가 없어서 좋아"
+      },
+      "CP_130_UNIQUE_6": {
+        "ID": "CP_130_UNIQUE_6",
+        "Text": "이 얼마나 신선한 영감인가"
+      },
+      "CP_130_UNIQUE_7": {
+        "ID": "CP_130_UNIQUE_7",
+        "Text": "자, 2라운드야"
+      },
+      "CP_130_UNIQUE_8": {
+        "ID": "CP_130_UNIQUE_8",
+        "Text": "거짓말 되게 못 하네!"
+      },
+      "CP_130_UNIQUE_9": {
+        "ID": "CP_130_UNIQUE_9",
+        "Text": "포옹이라도 할까?"
+      },
+      "CP_130_UNIQUE_10": {
+        "ID": "CP_130_UNIQUE_10",
+        "Text": "훗후훗후하~하핫핫"
+      },
+      "CP_130_READY": {
+        "ID": "CP_130_READY",
+        "Text": "준비됐어"
+      },
+      "CP_130_UNDERSTOODOKAY": {
+        "ID": "CP_130_UNDERSTOODOKAY",
+        "Text": "오케이~"
+      },
+      "CP_130_ENDSWITH": {
+        "ID": "CP_130_ENDSWITH",
+        "Text": "다음이 마지막이야~"
+      },
+      "CP_130_WAITAMINUTE": {
+        "ID": "CP_130_WAITAMINUTE",
+        "Text": "잠깐 기다려봐"
+      },
+      "CP_130_CHANGE": {
+        "ID": "CP_130_CHANGE",
+        "Text": "변경하자"
+      },
+      "CP_130_ITWASAGOODMATCH": {
+        "ID": "CP_130_ITWASAGOODMATCH",
+        "Text": "좋은 시합이었어"
+      },
+      "CP_130_EXIT": {
+        "ID": "CP_130_EXIT",
+        "Text": "나갈게"
+      },
+      "CP_130_LETSATTACK": {
+        "ID": "CP_130_LETSATTACK",
+        "Text": "공격하자"
+      },
+      "CP_130_FIGHTCAREFULLY": {
+        "ID": "CP_130_FIGHTCAREFULLY",
+        "Text": "교활하게 가자"
+      }
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_190_GREETING_1": {
+        "ID": "CP_190_GREETING_1",
+        "Text": "Haz lo mejor que puedas."
+      },
+      "CP_190_GREETING_2": {
+        "ID": "CP_190_GREETING_2",
+        "Text": "Es imposible que pierda."
+      },
+      "CP_190_PRAISE_1": {
+        "ID": "CP_190_PRAISE_1",
+        "Text": "Buena reacción."
+      },
+      "CP_190_PRAISE_2": {
+        "ID": "CP_190_PRAISE_2",
+        "Text": "Increíble."
+      },
+      "CP_190_FOLLOW": {
+        "ID": "CP_190_FOLLOW",
+        "Text": "Te cubro."
+      },
+      "CP_190_APOLOGY": {
+        "ID": "CP_190_APOLOGY",
+        "Text": "Lo lamento."
+      },
+      "CP_190_GRATITUDE_1": {
+        "ID": "CP_190_GRATITUDE_1",
+        "Text": "Gracias."
+      },
+      "CP_190_GRATITUDE_2": {
+        "ID": "CP_190_GRATITUDE_2",
+        "Text": "Te lo agradezco de corazón."
+      },
+      "CP_190_GOODBYE": {
+        "ID": "CP_190_GOODBYE",
+        "Text": "Disculpa."
+      },
+      "CP_190_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_190_THANKYOUFORYOURHARDWORK",
+        "Text": "Peleaste bien."
+      },
+      "CP_190_ROGERTHAT": {
+        "ID": "CP_190_ROGERTHAT",
+        "Text": "Está bien."
+      },
+      "CP_190_REJECTION": {
+        "ID": "CP_190_REJECTION",
+        "Text": "Eso no funcionará."
+      },
+      "CP_190_ENCOURAGEMENT": {
+        "ID": "CP_190_ENCOURAGEMENT",
+        "Text": "Sigue así."
+      },
+      "CP_190_PINCH": {
+        "ID": "CP_190_PINCH",
+        "Text": "Esto no se ve bien."
+      },
+      "CP_190_COMEFORWARD": {
+        "ID": "CP_190_COMEFORWARD",
+        "Text": "Voy al frente."
+      },
+      "CP_190_COMEFORWARD_OUT": {
+        "ID": "CP_190_COMEFORWARD_OUT",
+        "Text": "Voy al frente."
+      },
+      "CP_190_GODOWN": {
+        "ID": "CP_190_GODOWN",
+        "Text": "Me retiraré por un momento."
+      },
+      "CP_190_GODOWN_OUT": {
+        "ID": "CP_190_GODOWN_OUT",
+        "Text": "Me retiraré por un momento."
+      },
+      "CP_190_NOTE": {
+        "ID": "CP_190_NOTE",
+        "Text": "Será mejor estar alerta."
+      },
+      "CP_190_AIMATTHETARGET": {
+        "ID": "CP_190_AIMATTHETARGET",
+        "Text": "Me encargaré de aquel."
+      },
+      "CP_190_AIMFORAJOINTATTACK": {
+        "ID": "CP_190_AIMFORAJOINTATTACK",
+        "Text": "Hagámoslo juntos."
+      },
+      "CP_190_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_190_AIMFORAJOINTATTACK_OUT",
+        "Text": "Hagámoslo juntos."
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "¡Hora de un movimiento del despertar!"
+      },
+      "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_190_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "¡Hora de un movimiento del despertar!"
+      },
+      "CP_190_FIGHTCLOSEBY": {
+        "ID": "CP_190_FIGHTCLOSEBY",
+        "Text": "No te alejes mucho."
+      },
+      "CP_190_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_190_FIGHTCLOSEBY_OUT",
+        "Text": "No te alejes mucho."
+      },
+      "CP_190_FIGHTAWAY": {
+        "ID": "CP_190_FIGHTAWAY",
+        "Text": "Mantengamos nuestra distancia."
+      },
+      "CP_190_FIGHTAWAY_OUT": {
+        "ID": "CP_190_FIGHTAWAY_OUT",
+        "Text": "Mantengamos nuestra distancia."
+      },
+      "CP_190_LETMETAKECAREOFTHAT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT",
+        "Text": "Déjenmelo a mí."
+      },
+      "CP_190_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_190_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjenmelo a mí."
+      },
+      "CP_190_LETSWORKTOGETHER": {
+        "ID": "CP_190_LETSWORKTOGETHER",
+        "Text": "Ataquemos juntos."
+      },
+      "CP_190_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_190_LETSWORKTOGETHER_OUT",
+        "Text": "Ataquemos juntos."
+      },
+      "CP_190_LEVELREPORT_LOW": {
+        "ID": "CP_190_LEVELREPORT_LOW",
+        "Text": "Deja que me prepare."
+      },
+      "CP_190_LEVELREPORT_MEDIUM": {
+        "ID": "CP_190_LEVELREPORT_MEDIUM",
+        "Text": "Es momento de irse."
+      },
+      "CP_190_LEVELREPORT_HIGH": {
+        "ID": "CP_190_LEVELREPORT_HIGH",
+        "Text": "Daré todo lo que tengo."
+      },
+      "CP_190_PROVOCATION_1": {
+        "ID": "CP_190_PROVOCATION_1",
+        "Text": "Háganlo de verdad."
+      },
+      "CP_190_PROVOCATION_2": {
+        "ID": "CP_190_PROVOCATION_2",
+        "Text": "¿No quieres luchar?"
+      },
+      "CP_190_RESPECT_1": {
+        "ID": "CP_190_RESPECT_1",
+        "Text": "Eso es."
+      },
+      "CP_190_RESPECT_2": {
+        "ID": "CP_190_RESPECT_2",
+        "Text": "Es hora de ponerse serios."
+      },
+      "CP_190_UNIQUE_1": {
+        "ID": "CP_190_UNIQUE_1",
+        "Text": "No es necesario utilizar un término tan profano."
+      },
+      "CP_190_UNIQUE_2": {
+        "ID": "CP_190_UNIQUE_2",
+        "Text": "Has mejorado."
+      },
+      "CP_190_UNIQUE_3": {
+        "ID": "CP_190_UNIQUE_3",
+        "Text": "¿Qué? Espera."
+      },
+      "CP_190_UNIQUE_4": {
+        "ID": "CP_190_UNIQUE_4",
+        "Text": "Tiene un punto."
+      },
+      "CP_190_UNIQUE_5": {
+        "ID": "CP_190_UNIQUE_5",
+        "Text": "Después de todo, somos iguales."
+      },
+      "CP_190_UNIQUE_6": {
+        "ID": "CP_190_UNIQUE_6",
+        "Text": "¿Entiendes realmente lo que quiere decir cuando dice esas cosas?"
+      },
+      "CP_190_UNIQUE_7": {
+        "ID": "CP_190_UNIQUE_7",
+        "Text": "Excelente lanzamiento."
+      },
+      "CP_190_UNIQUE_8": {
+        "ID": "CP_190_UNIQUE_8",
+        "Text": "Mantente alerta."
+      },
+      "CP_190_UNIQUE_9": {
+        "ID": "CP_190_UNIQUE_9",
+        "Text": "No me gusta que me ocultes algo así."
+      },
+      "CP_190_UNIQUE_10": {
+        "ID": "CP_190_UNIQUE_10",
+        "Text": "Como futuro líder del clan Kamo, decreto que esto debe terminar."
+      },
+      "CP_190_UNIQUE_11": {
+        "ID": "CP_190_UNIQUE_11",
+        "Text": "Atacaré primero."
+      },
+      "CP_190_UNIQUE_12": {
+        "ID": "CP_190_UNIQUE_12",
+        "Text": "¡¿Sin daños?!"
+      },
+      "CP_190_READY": {
+        "ID": "CP_190_READY",
+        "Text": "Todo listo para irnos."
+      },
+      "CP_190_UNDERSTOODOKAY": {
+        "ID": "CP_190_UNDERSTOODOKAY",
+        "Text": "Comprendo."
+      },
+      "CP_190_ENDSWITH": {
+        "ID": "CP_190_ENDSWITH",
+        "Text": "Con este acabamos."
+      },
+      "CP_190_WAITAMINUTE": {
+        "ID": "CP_190_WAITAMINUTE",
+        "Text": "Espera un momento."
+      },
+      "CP_190_CHANGE": {
+        "ID": "CP_190_CHANGE",
+        "Text": "Hora de un cambio."
+      },
+      "CP_190_ITWASAGOODMATCH": {
+        "ID": "CP_190_ITWASAGOODMATCH",
+        "Text": "Fue un buen enfrentamiento."
+      },
+      "CP_190_EXIT": {
+        "ID": "CP_190_EXIT",
+        "Text": "Tengo que irme."
+      },
+      "CP_190_LETSATTACK": {
+        "ID": "CP_190_LETSATTACK",
+        "Text": "No hay que rendirse."
+      },
+      "CP_190_FIGHTCAREFULLY": {
+        "ID": "CP_190_FIGHTCAREFULLY",
+        "Text": "Mantente alerta."
+      }
+    }
+  }
+]

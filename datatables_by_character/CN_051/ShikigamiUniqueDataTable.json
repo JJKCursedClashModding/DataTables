@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiUniqueDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ShikigamiUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_051": {
+        "ID": "CN_051",
+        "FloatValue": [
+          1,
+          0,
+          0,
+          0,
+          0.08,
+          0.03,
+          0.07,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_051_10": {
+        "ID": "CN_051_10",
+        "FloatValue": [
+          1,
+          0,
+          0,
+          0,
+          0.08,
+          0.03,
+          0.07,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_051_10_AttackA": {
+        "ID": "CN_051_10_AttackA",
+        "FloatValue": [
+          0.018,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

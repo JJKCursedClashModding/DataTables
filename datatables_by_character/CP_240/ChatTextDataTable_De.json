@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240_GREETING_1": {
+        "ID": "CP_240_GREETING_1",
+        "Text": "Ich arbeite gern mit dir zusammen."
+      },
+      "CP_240_GREETING_2": {
+        "ID": "CP_240_GREETING_2",
+        "Text": "Ich hoffe, wir können etwas Spaß haben."
+      },
+      "CP_240_PRAISE_1": {
+        "ID": "CP_240_PRAISE_1",
+        "Text": "Hehe, nicht schlecht."
+      },
+      "CP_240_PRAISE_2": {
+        "ID": "CP_240_PRAISE_2",
+        "Text": "Du bist echt beeindruckend."
+      },
+      "CP_240_FOLLOW": {
+        "ID": "CP_240_FOLLOW",
+        "Text": "Keine Probleme."
+      },
+      "CP_240_APOLOGY": {
+        "ID": "CP_240_APOLOGY",
+        "Text": "Entschuldige."
+      },
+      "CP_240_GRATITUDE_1": {
+        "ID": "CP_240_GRATITUDE_1",
+        "Text": "Du bist wirklich zuverlässig. Danke."
+      },
+      "CP_240_GRATITUDE_2": {
+        "ID": "CP_240_GRATITUDE_2",
+        "Text": "Ich muss mich bei dir bedanken."
+      },
+      "CP_240_GOODBYE": {
+        "ID": "CP_240_GOODBYE",
+        "Text": "Ich gebe alles."
+      },
+      "CP_240_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_240_THANKYOUFORYOURHARDWORK",
+        "Text": "Gute Arbeit."
+      },
+      "CP_240_ROGERTHAT": {
+        "ID": "CP_240_ROGERTHAT",
+        "Text": "Laut und deutlich."
+      },
+      "CP_240_REJECTION": {
+        "ID": "CP_240_REJECTION",
+        "Text": "Entschuldige, aber da muss ich dir widersprechen."
+      },
+      "CP_240_ENCOURAGEMENT": {
+        "ID": "CP_240_ENCOURAGEMENT",
+        "Text": "Du bist so viel mehr."
+      },
+      "CP_240_PINCH": {
+        "ID": "CP_240_PINCH",
+        "Text": "Hab ich's vermasselt?"
+      },
+      "CP_240_COMEFORWARD": {
+        "ID": "CP_240_COMEFORWARD",
+        "Text": "Ich übernehme die Führung."
+      },
+      "CP_240_COMEFORWARD_OUT": {
+        "ID": "CP_240_COMEFORWARD_OUT",
+        "Text": "Ich übernehme die Führung."
+      },
+      "CP_240_GODOWN": {
+        "ID": "CP_240_GODOWN",
+        "Text": "Du solltest lieber zurücktreten."
+      },
+      "CP_240_GODOWN_OUT": {
+        "ID": "CP_240_GODOWN_OUT",
+        "Text": "Du solltest lieber zurücktreten."
+      },
+      "CP_240_NOTE": {
+        "ID": "CP_240_NOTE",
+        "Text": "Pass auf."
+      },
+      "CP_240_AIMATTHETARGET": {
+        "ID": "CP_240_AIMATTHETARGET",
+        "Text": "Den anderen überlasse ich dir."
+      },
+      "CP_240_AIMFORAJOINTATTACK": {
+        "ID": "CP_240_AIMFORAJOINTATTACK",
+        "Text": "Nutzen wir unsere Kombo."
+      },
+      "CP_240_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_240_AIMFORAJOINTATTACK_OUT",
+        "Text": "Nutzen wir unsere Kombo."
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Das schreit nach der Erweckter-Technik."
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Das schreit nach der Erweckter-Technik."
+      },
+      "CP_240_FIGHTCLOSEBY": {
+        "ID": "CP_240_FIGHTCLOSEBY",
+        "Text": "Kannst du näher rangehen?"
+      },
+      "CP_240_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_240_FIGHTCLOSEBY_OUT",
+        "Text": "Kannst du näher rangehen?"
+      },
+      "CP_240_FIGHTAWAY": {
+        "ID": "CP_240_FIGHTAWAY",
+        "Text": "Denkst du wirklich, du kannst vor mir weglaufen?"
+      },
+      "CP_240_FIGHTAWAY_OUT": {
+        "ID": "CP_240_FIGHTAWAY_OUT",
+        "Text": "Denkst du wirklich, du kannst vor mir weglaufen?"
+      },
+      "CP_240_LETMETAKECAREOFTHAT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT",
+        "Text": "Ich lege los."
+      },
+      "CP_240_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Ich lege los."
+      },
+      "CP_240_LETSWORKTOGETHER": {
+        "ID": "CP_240_LETSWORKTOGETHER",
+        "Text": "Arbeitest du mit mir zusammen?"
+      },
+      "CP_240_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_240_LETSWORKTOGETHER_OUT",
+        "Text": "Arbeitest du mit mir zusammen?"
+      },
+      "CP_240_LEVELREPORT_LOW": {
+        "ID": "CP_240_LEVELREPORT_LOW",
+        "Text": "Nicht jetzt."
+      },
+      "CP_240_LEVELREPORT_MEDIUM": {
+        "ID": "CP_240_LEVELREPORT_MEDIUM",
+        "Text": "Wird es Zeit, zu gehen?"
+      },
+      "CP_240_LEVELREPORT_HIGH": {
+        "ID": "CP_240_LEVELREPORT_HIGH",
+        "Text": "Ich kann es mir nicht leisten, großzügig zu sein."
+      },
+      "CP_240_PROVOCATION_1": {
+        "ID": "CP_240_PROVOCATION_1",
+        "Text": "Bei diesem Kampf verdiene ich so gut wie gar nichts."
+      },
+      "CP_240_PROVOCATION_2": {
+        "ID": "CP_240_PROVOCATION_2",
+        "Text": "Du gegen mich? Das kann man kaum einen Kampf nennen."
+      },
+      "CP_240_RESPECT_1": {
+        "ID": "CP_240_RESPECT_1",
+        "Text": "Was für ein interessanter Typ."
+      },
+      "CP_240_RESPECT_2": {
+        "ID": "CP_240_RESPECT_2",
+        "Text": "Ich habe dich wohl falsch eingeschätzt."
+      },
+      "CP_240_UNIQUE_1": {
+        "ID": "CP_240_UNIQUE_1",
+        "Text": "Ein Leben, das quasi Dienstpotenzial verkörpert."
+      },
+      "CP_240_UNIQUE_2": {
+        "ID": "CP_240_UNIQUE_2",
+        "Text": "Selbstverständlich stehe ich auf der Seite des Geldes."
+      },
+      "CP_240_UNIQUE_3": {
+        "ID": "CP_240_UNIQUE_3",
+        "Text": "Tu mir doch den Gefallen und stirb, ja?"
+      },
+      "CP_240_UNIQUE_4": {
+        "ID": "CP_240_UNIQUE_4",
+        "Text": "Ich freue mich schon auf das Bonusgeld."
+      },
+      "CP_240_UNIQUE_5": {
+        "ID": "CP_240_UNIQUE_5",
+        "Text": "Etwas, das nicht gegen Geld ausgetauscht werden kann, ist wertlos. Was nützt es, wenn man damit kein Geld machen kann?"
+      },
+      "CP_240_UNIQUE_6": {
+        "ID": "CP_240_UNIQUE_6",
+        "Text": "Ich verstehe so eine Zurückhaltung nicht, es sei denn, es geht um Geld."
+      },
+      "CP_240_UNIQUE_7": {
+        "ID": "CP_240_UNIQUE_7",
+        "Text": "Oh, es ist Jahre her, seit ich das letzte Mal mein Leben riskiert habe."
+      },
+      "CP_240_UNIQUE_8": {
+        "ID": "CP_240_UNIQUE_8",
+        "Text": "Was denkst du, ist proportional zur Bedeutung und zum Wert eines Lebens?"
+      },
+      "CP_240_UNIQUE_9": {
+        "ID": "CP_240_UNIQUE_9",
+        "Text": "Ich habe viel trainiert, damit ich ohne meine Fluchtechnik kämpfen kann."
+      },
+      "CP_240_UNIQUE_10": {
+        "ID": "CP_240_UNIQUE_10",
+        "Text": "Ich schulde nicht gerne jemandem was."
+      },
+      "CP_240_UNIQUE_11": {
+        "ID": "CP_240_UNIQUE_11",
+        "Text": "Meine Fluchtechnik lässt mich nur Krähen kontrollieren."
+      },
+      "CP_240_READY": {
+        "ID": "CP_240_READY",
+        "Text": "Ich bin jederzeit bereit."
+      },
+      "CP_240_UNDERSTOODOKAY": {
+        "ID": "CP_240_UNDERSTOODOKAY",
+        "Text": "Okay."
+      },
+      "CP_240_ENDSWITH": {
+        "ID": "CP_240_ENDSWITH",
+        "Text": "Ich übernehme als Nächstes."
+      },
+      "CP_240_WAITAMINUTE": {
+        "ID": "CP_240_WAITAMINUTE",
+        "Text": "Kannst du kurz warten?"
+      },
+      "CP_240_CHANGE": {
+        "ID": "CP_240_CHANGE",
+        "Text": "Überlass das mir."
+      },
+      "CP_240_ITWASAGOODMATCH": {
+        "ID": "CP_240_ITWASAGOODMATCH",
+        "Text": "Haha, das war mal ein guter Kampf."
+      },
+      "CP_240_EXIT": {
+        "ID": "CP_240_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_240_LETSATTACK": {
+        "ID": "CP_240_LETSATTACK",
+        "Text": "Zeit, zuzuschlagen."
+      },
+      "CP_240_FIGHTCAREFULLY": {
+        "ID": "CP_240_FIGHTCAREFULLY",
+        "Text": "Wir müssen vorsichtig vorgehen."
+      }
+    }
+  }
+]

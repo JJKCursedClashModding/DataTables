@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_GREETING_1": {
+        "ID": "CP_040_GREETING_1",
+        "Text": "¡Al lío!"
+      },
+      "CP_040_GREETING_2": {
+        "ID": "CP_040_GREETING_2",
+        "Text": "¿Y si le damos la del pulpo?"
+      },
+      "CP_040_PRAISE_1": {
+        "ID": "CP_040_PRAISE_1",
+        "Text": "Eres fuerte, ¿eh?"
+      },
+      "CP_040_PRAISE_2": {
+        "ID": "CP_040_PRAISE_2",
+        "Text": "¡Toma ya!"
+      },
+      "CP_040_FOLLOW": {
+        "ID": "CP_040_FOLLOW",
+        "Text": "Nos las apañaremos."
+      },
+      "CP_040_APOLOGY": {
+        "ID": "CP_040_APOLOGY",
+        "Text": "Perdona."
+      },
+      "CP_040_GRATITUDE_1": {
+        "ID": "CP_040_GRATITUDE_1",
+        "Text": "Gracias."
+      },
+      "CP_040_GRATITUDE_2": {
+        "ID": "CP_040_GRATITUDE_2",
+        "Text": "Ya te daré una medalla."
+      },
+      "CP_040_GOODBYE": {
+        "ID": "CP_040_GOODBYE",
+        "Text": "Ya nos veremos."
+      },
+      "CP_040_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_040_THANKYOUFORYOURHARDWORK",
+        "Text": "Así se hace."
+      },
+      "CP_040_ROGERTHAT": {
+        "ID": "CP_040_ROGERTHAT",
+        "Text": "¡Oído!"
+      },
+      "CP_040_REJECTION": {
+        "ID": "CP_040_REJECTION",
+        "Text": "Haz lo que te dé la gana."
+      },
+      "CP_040_ENCOURAGEMENT": {
+        "ID": "CP_040_ENCOURAGEMENT",
+        "Text": "No vas a tirar la toalla aún, ¿no?"
+      },
+      "CP_040_PINCH": {
+        "ID": "CP_040_PINCH",
+        "Text": "Esto ya es pasarse."
+      },
+      "CP_040_COMEFORWARD": {
+        "ID": "CP_040_COMEFORWARD",
+        "Text": "¡Voy a pasar a la ofensiva!"
+      },
+      "CP_040_COMEFORWARD_OUT": {
+        "ID": "CP_040_COMEFORWARD_OUT",
+        "Text": "¡Voy a pasar a la ofensiva!"
+      },
+      "CP_040_GODOWN": {
+        "ID": "CP_040_GODOWN",
+        "Text": "Voy a quedarme atrás."
+      },
+      "CP_040_GODOWN_OUT": {
+        "ID": "CP_040_GODOWN_OUT",
+        "Text": "Voy a quedarme atrás."
+      },
+      "CP_040_NOTE": {
+        "ID": "CP_040_NOTE",
+        "Text": "La cosa se va a poner fea."
+      },
+      "CP_040_AIMATTHETARGET": {
+        "ID": "CP_040_AIMATTHETARGET",
+        "Text": "Tú ven a jugar conmigo."
+      },
+      "CP_040_AIMFORAJOINTATTACK": {
+        "ID": "CP_040_AIMFORAJOINTATTACK",
+        "Text": "¡A ver si les gusta nuestro combo!"
+      },
+      "CP_040_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_040_AIMFORAJOINTATTACK_OUT",
+        "Text": "¡A ver si les gusta nuestro combo!"
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Voy a rematar con una habilidad avivada."
+      },
+      "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_040_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Voy a rematar con una habilidad avivada."
+      },
+      "CP_040_FIGHTCLOSEBY": {
+        "ID": "CP_040_FIGHTCLOSEBY",
+        "Text": "¡No te alejes!"
+      },
+      "CP_040_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_040_FIGHTCLOSEBY_OUT",
+        "Text": "¡No te alejes!"
+      },
+      "CP_040_FIGHTAWAY": {
+        "ID": "CP_040_FIGHTAWAY",
+        "Text": "Hay que retroceder."
+      },
+      "CP_040_FIGHTAWAY_OUT": {
+        "ID": "CP_040_FIGHTAWAY_OUT",
+        "Text": "Hay que retroceder."
+      },
+      "CP_040_LETMETAKECAREOFTHAT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_040_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_040_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_040_LETSWORKTOGETHER": {
+        "ID": "CP_040_LETSWORKTOGETHER",
+        "Text": "Vamos a atacar juntos."
+      },
+      "CP_040_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_040_LETSWORKTOGETHER_OUT",
+        "Text": "Vamos a atacar juntos."
+      },
+      "CP_040_LEVELREPORT_LOW": {
+        "ID": "CP_040_LEVELREPORT_LOW",
+        "Text": "Aún no."
+      },
+      "CP_040_LEVELREPORT_MEDIUM": {
+        "ID": "CP_040_LEVELREPORT_MEDIUM",
+        "Text": "¡Ya he entrado en calor!"
+      },
+      "CP_040_LEVELREPORT_HIGH": {
+        "ID": "CP_040_LEVELREPORT_HIGH",
+        "Text": "¡Voy a mandarte por los aires!"
+      },
+      "CP_040_PROVOCATION_1": {
+        "ID": "CP_040_PROVOCATION_1",
+        "Text": "Qué blandengue."
+      },
+      "CP_040_PROVOCATION_2": {
+        "ID": "CP_040_PROVOCATION_2",
+        "Text": "¿Y te creías que ibas a ganarme así?"
+      },
+      "CP_040_RESPECT_1": {
+        "ID": "CP_040_RESPECT_1",
+        "Text": "No lo haces nada mal."
+      },
+      "CP_040_RESPECT_2": {
+        "ID": "CP_040_RESPECT_2",
+        "Text": "Tienes talento."
+      },
+      "CP_040_UNIQUE_1": {
+        "ID": "CP_040_UNIQUE_1",
+        "Text": "Qué gusto da repartir cera."
+      },
+      "CP_040_UNIQUE_2": {
+        "ID": "CP_040_UNIQUE_2",
+        "Text": "¡Soy Nobara Kugisaki!"
+      },
+      "CP_040_UNIQUE_3": {
+        "ID": "CP_040_UNIQUE_3",
+        "Text": "Las chicas sabemos ser discretas."
+      },
+      "CP_040_UNIQUE_4": {
+        "ID": "CP_040_UNIQUE_4",
+        "Text": "A ver quién se acojona antes."
+      },
+      "CP_040_UNIQUE_5": {
+        "ID": "CP_040_UNIQUE_5",
+        "Text": "Oye, este truco aún no lo has visto, ¿no?"
+      },
+      "CP_040_UNIQUE_6": {
+        "ID": "CP_040_UNIQUE_6",
+        "Text": "Tranqui. No tardaréis en reuniros."
+      },
+      "CP_040_UNIQUE_7": {
+        "ID": "CP_040_UNIQUE_7",
+        "Text": "Que sí, leñe. No me metas prisa, ¿vale?"
+      },
+      "CP_040_UNIQUE_8": {
+        "ID": "CP_040_UNIQUE_8",
+        "Text": "Ven a jugar, anda."
+      },
+      "CP_040_UNIQUE_9": {
+        "ID": "CP_040_UNIQUE_9",
+        "Text": "¡Ay, no! ¡Qué asco, tú!"
+      },
+      "CP_040_UNIQUE_10": {
+        "ID": "CP_040_UNIQUE_10",
+        "Text": "¡Ay, madre! ¿Qué hacemos? Vaya lío...\n"
+      },
+      "CP_040_READY": {
+        "ID": "CP_040_READY",
+        "Text": "¡Cuando quieras!"
+      },
+      "CP_040_UNDERSTOODOKAY": {
+        "ID": "CP_040_UNDERSTOODOKAY",
+        "Text": "Eso está hecho."
+      },
+      "CP_040_ENDSWITH": {
+        "ID": "CP_040_ENDSWITH",
+        "Text": "¡Se acabó lo que se daba!"
+      },
+      "CP_040_WAITAMINUTE": {
+        "ID": "CP_040_WAITAMINUTE",
+        "Text": "Un minutito."
+      },
+      "CP_040_CHANGE": {
+        "ID": "CP_040_CHANGE",
+        "Text": "Toca cambiar."
+      },
+      "CP_040_ITWASAGOODMATCH": {
+        "ID": "CP_040_ITWASAGOODMATCH",
+        "Text": "Ha sido una buena pelea."
+      },
+      "CP_040_EXIT": {
+        "ID": "CP_040_EXIT",
+        "Text": "Voy a retirarme."
+      },
+      "CP_040_LETSATTACK": {
+        "ID": "CP_040_LETSATTACK",
+        "Text": "Hora de pasar a la acción."
+      },
+      "CP_040_FIGHTCAREFULLY": {
+        "ID": "CP_040_FIGHTCAREFULLY",
+        "Text": "No bajes la guardia."
+      }
+    }
+  }
+]

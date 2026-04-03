@@ -1,0 +1,212 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVariationDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVariation'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_00": {
+        "ID": "CP_210_00",
+        "FileName_BP": "CP_210_00_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_00",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_00",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_00",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_00"
+      },
+      "CP_210_01": {
+        "ID": "CP_210_01",
+        "FileName_BP": "CP_210_01_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_01",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_01",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_01",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_01"
+      },
+      "CP_210_02": {
+        "ID": "CP_210_02",
+        "FileName_BP": "CP_210_02_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_02",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_02",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_02",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_02"
+      },
+      "CP_210_03": {
+        "ID": "CP_210_03",
+        "FileName_BP": "CP_210_03_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_03",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_03",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_03",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_03"
+      },
+      "CP_210_04": {
+        "ID": "CP_210_04",
+        "FileName_BP": "CP_210_04_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_04",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_04",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_04",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_04"
+      },
+      "CP_210_10": {
+        "ID": "CP_210_10",
+        "FileName_BP": "CP_210_10_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_10",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_10",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_10",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_10"
+      },
+      "CP_210_11": {
+        "ID": "CP_210_11",
+        "FileName_BP": "CP_210_11_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_11",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_11",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_11",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_11"
+      },
+      "CP_210_12": {
+        "ID": "CP_210_12",
+        "FileName_BP": "CP_210_12_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_12",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_12",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_12",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_12"
+      },
+      "CP_210_13": {
+        "ID": "CP_210_13",
+        "FileName_BP": "CP_210_13_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_13",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_13",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_13",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_13"
+      },
+      "CP_210_14": {
+        "ID": "CP_210_14",
+        "FileName_BP": "CP_210_14_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_14",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_14",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_14",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_14"
+      },
+      "CP_210_20": {
+        "ID": "CP_210_20",
+        "FileName_BP": "CP_210_20_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_20",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_20",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_20",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_20"
+      },
+      "CP_210_21": {
+        "ID": "CP_210_21",
+        "FileName_BP": "CP_210_21_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_21",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_21",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_21",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_21"
+      },
+      "CP_210_22": {
+        "ID": "CP_210_22",
+        "FileName_BP": "CP_210_22_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_22",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_22",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_22",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_22"
+      },
+      "CP_210_23": {
+        "ID": "CP_210_23",
+        "FileName_BP": "CP_210_23_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_23",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_23",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_23",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_23"
+      },
+      "CP_210_24": {
+        "ID": "CP_210_24",
+        "FileName_BP": "CP_210_24_BP",
+        "Id_CharacterMaterial": "CP_210_00",
+        "Id_CharacterWeapon": "CP_210_00",
+        "Id_CharacterSound": "CP_210",
+        "Id_CharacterImage": "CP_210_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "ITM_COSTUME_CP_210_24",
+        "ImageFileName": "T_UI_Item_Costume_CP_210_24",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_Costume_CP_210_24",
+        "FreeBattleImageFileName": "T_UI_FreeBattleImage_CP_210_24"
+      }
+    }
+  }
+]

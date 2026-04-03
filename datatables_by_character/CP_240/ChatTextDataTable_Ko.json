@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240_GREETING_1": {
+        "ID": "CP_240_GREETING_1",
+        "Text": "잘 부탁해"
+      },
+      "CP_240_GREETING_2": {
+        "ID": "CP_240_GREETING_2",
+        "Text": "조금은 즐길 수 있으면 좋겠네"
+      },
+      "CP_240_PRAISE_1": {
+        "ID": "CP_240_PRAISE_1",
+        "Text": "후후, 제법이네"
+      },
+      "CP_240_PRAISE_2": {
+        "ID": "CP_240_PRAISE_2",
+        "Text": "너, 대단하네"
+      },
+      "CP_240_FOLLOW": {
+        "ID": "CP_240_FOLLOW",
+        "Text": "별 문제 아니야"
+      },
+      "CP_240_APOLOGY": {
+        "ID": "CP_240_APOLOGY",
+        "Text": "미안해"
+      },
+      "CP_240_GRATITUDE_1": {
+        "ID": "CP_240_GRATITUDE_1",
+        "Text": "믿음직스럽네, 고마워"
+      },
+      "CP_240_GRATITUDE_2": {
+        "ID": "CP_240_GRATITUDE_2",
+        "Text": "감사 인사를 해야겠네"
+      },
+      "CP_240_GOODBYE": {
+        "ID": "CP_240_GOODBYE",
+        "Text": "이만 갈게"
+      },
+      "CP_240_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_240_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했어"
+      },
+      "CP_240_ROGERTHAT": {
+        "ID": "CP_240_ROGERTHAT",
+        "Text": "완전히 이해했어"
+      },
+      "CP_240_REJECTION": {
+        "ID": "CP_240_REJECTION",
+        "Text": "유감이지만 찬동할 수 없어"
+      },
+      "CP_240_ENCOURAGEMENT": {
+        "ID": "CP_240_ENCOURAGEMENT",
+        "Text": "너는 그 정도가 아닐 텐데"
+      },
+      "CP_240_PINCH": {
+        "ID": "CP_240_PINCH",
+        "Text": "실수했나"
+      },
+      "CP_240_COMEFORWARD": {
+        "ID": "CP_240_COMEFORWARD",
+        "Text": "앞으로 나설까"
+      },
+      "CP_240_COMEFORWARD_OUT": {
+        "ID": "CP_240_COMEFORWARD_OUT",
+        "Text": "앞으로 나설까"
+      },
+      "CP_240_GODOWN": {
+        "ID": "CP_240_GODOWN",
+        "Text": "물러나야 하려나"
+      },
+      "CP_240_GODOWN_OUT": {
+        "ID": "CP_240_GODOWN_OUT",
+        "Text": "물러나야 하려나"
+      },
+      "CP_240_NOTE": {
+        "ID": "CP_240_NOTE",
+        "Text": "거기 위험해"
+      },
+      "CP_240_AIMATTHETARGET": {
+        "ID": "CP_240_AIMATTHETARGET",
+        "Text": "너, 그쪽은 맡길게"
+      },
+      "CP_240_AIMFORAJOINTATTACK": {
+        "ID": "CP_240_AIMFORAJOINTATTACK",
+        "Text": "협공 연격을 노릴까"
+      },
+      "CP_240_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_240_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격을 노릴까"
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 노릴게"
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 노릴게"
+      },
+      "CP_240_FIGHTCLOSEBY": {
+        "ID": "CP_240_FIGHTCLOSEBY",
+        "Text": "너, 가까이 올 수 있겠니?"
+      },
+      "CP_240_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_240_FIGHTCLOSEBY_OUT",
+        "Text": "너, 가까이 올 수 있겠니?"
+      },
+      "CP_240_FIGHTAWAY": {
+        "ID": "CP_240_FIGHTAWAY",
+        "Text": "나와 거리를 둬 주겠니?"
+      },
+      "CP_240_FIGHTAWAY_OUT": {
+        "ID": "CP_240_FIGHTAWAY_OUT",
+        "Text": "나와 거리를 둬 주겠니?"
+      },
+      "CP_240_LETMETAKECAREOFTHAT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT",
+        "Text": "내가 갈게"
+      },
+      "CP_240_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT_OUT",
+        "Text": "내가 갈게"
+      },
+      "CP_240_LETSWORKTOGETHER": {
+        "ID": "CP_240_LETSWORKTOGETHER",
+        "Text": "협력해줄래?"
+      },
+      "CP_240_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_240_LETSWORKTOGETHER_OUT",
+        "Text": "협력해줄래?"
+      },
+      "CP_240_LEVELREPORT_LOW": {
+        "ID": "CP_240_LEVELREPORT_LOW",
+        "Text": "지금은 아니야"
+      },
+      "CP_240_LEVELREPORT_MEDIUM": {
+        "ID": "CP_240_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 갈까"
+      },
+      "CP_240_LEVELREPORT_HIGH": {
+        "ID": "CP_240_LEVELREPORT_HIGH",
+        "Text": "힘을 아낀다는 사치는 안 부려"
+      },
+      "CP_240_PROVOCATION_1": {
+        "ID": "CP_240_PROVOCATION_1",
+        "Text": "이 싸움, 너는 한푼도 되지 않아"
+      },
+      "CP_240_PROVOCATION_2": {
+        "ID": "CP_240_PROVOCATION_2",
+        "Text": "너랑 나라면 승부가 되지 않겠네"
+      },
+      "CP_240_RESPECT_1": {
+        "ID": "CP_240_RESPECT_1",
+        "Text": "재미있는 아이네"
+      },
+      "CP_240_RESPECT_2": {
+        "ID": "CP_240_RESPECT_2",
+        "Text": "너를 너무 낮게 본 것 같네"
+      },
+      "CP_240_UNIQUE_1": {
+        "ID": "CP_240_UNIQUE_1",
+        "Text": "용익 잠재력 그 자체가 목숨이야"
+      },
+      "CP_240_UNIQUE_2": {
+        "ID": "CP_240_UNIQUE_2",
+        "Text": "나는 돈의 편이야"
+      },
+      "CP_240_UNIQUE_3": {
+        "ID": "CP_240_UNIQUE_3",
+        "Text": "날 위해 죽어주겠니?"
+      },
+      "CP_240_UNIQUE_4": {
+        "ID": "CP_240_UNIQUE_4",
+        "Text": "상여금, 기대할게요"
+      },
+      "CP_240_UNIQUE_5": {
+        "ID": "CP_240_UNIQUE_5",
+        "Text": "돈으로 바꿀 수 없는 건 가치가 없어,\n왜냐? 돈으로 바꿀 수 없으니까"
+      },
+      "CP_240_UNIQUE_6": {
+        "ID": "CP_240_UNIQUE_6",
+        "Text": "돈 외의 갈등 관계는\n이해할 수가 없어"
+      },
+      "CP_240_UNIQUE_7": {
+        "ID": "CP_240_UNIQUE_7",
+        "Text": "이게 몇 년 만이지?\n내 목숨에 손가락이 닿은 것은"
+      },
+      "CP_240_UNIQUE_8": {
+        "ID": "CP_240_UNIQUE_8",
+        "Text": "목숨의 가치, 생명의 무게는\n무엇과 비례한다고 생각하니?"
+      },
+      "CP_240_UNIQUE_9": {
+        "ID": "CP_240_UNIQUE_9",
+        "Text": "필사적으로 단련했어,\n술식 없이도 싸울 수 있게 말이야"
+      },
+      "CP_240_UNIQUE_10": {
+        "ID": "CP_240_UNIQUE_10",
+        "Text": "남에게 빚지는 건 성미에 안 맞거든"
+      },
+      "CP_240_UNIQUE_11": {
+        "ID": "CP_240_UNIQUE_11",
+        "Text": "내 술식은 \"까마귀를 조종한다\"\n그게 다야"
+      },
+      "CP_240_READY": {
+        "ID": "CP_240_READY",
+        "Text": "언제든 상관없어"
+      },
+      "CP_240_UNDERSTOODOKAY": {
+        "ID": "CP_240_UNDERSTOODOKAY",
+        "Text": "알았어"
+      },
+      "CP_240_ENDSWITH": {
+        "ID": "CP_240_ENDSWITH",
+        "Text": "다음으로 끝낼게"
+      },
+      "CP_240_WAITAMINUTE": {
+        "ID": "CP_240_WAITAMINUTE",
+        "Text": "조금 기다려줄래?"
+      },
+      "CP_240_CHANGE": {
+        "ID": "CP_240_CHANGE",
+        "Text": "변경할게"
+      },
+      "CP_240_ITWASAGOODMATCH": {
+        "ID": "CP_240_ITWASAGOODMATCH",
+        "Text": "후후, 좋은 시합이었어"
+      },
+      "CP_240_EXIT": {
+        "ID": "CP_240_EXIT",
+        "Text": "나갈게"
+      },
+      "CP_240_LETSATTACK": {
+        "ID": "CP_240_LETSATTACK",
+        "Text": "공격해야겠어"
+      },
+      "CP_240_FIGHTCAREFULLY": {
+        "ID": "CP_240_FIGHTCAREFULLY",
+        "Text": "신중하게 해야 해"
+      }
+    }
+  }
+]

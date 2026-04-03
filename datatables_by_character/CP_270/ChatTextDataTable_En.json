@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_270_GREETING_1": {
+        "ID": "CP_270_GREETING_1",
+        "Text": "Let's enjoy this."
+      },
+      "CP_270_GREETING_2": {
+        "ID": "CP_270_GREETING_2",
+        "Text": "Steeled yourself, now?"
+      },
+      "CP_270_PRAISE_1": {
+        "ID": "CP_270_PRAISE_1",
+        "Text": "Well done."
+      },
+      "CP_270_PRAISE_2": {
+        "ID": "CP_270_PRAISE_2",
+        "Text": "Fantastic."
+      },
+      "CP_270_FOLLOW": {
+        "ID": "CP_270_FOLLOW",
+        "Text": "Don't worry about it."
+      },
+      "CP_270_APOLOGY": {
+        "ID": "CP_270_APOLOGY",
+        "Text": "Sorry."
+      },
+      "CP_270_GRATITUDE_1": {
+        "ID": "CP_270_GRATITUDE_1",
+        "Text": "Thank you kindly."
+      },
+      "CP_270_GRATITUDE_2": {
+        "ID": "CP_270_GRATITUDE_2",
+        "Text": "Don't think I owe you for this."
+      },
+      "CP_270_GOODBYE": {
+        "ID": "CP_270_GOODBYE",
+        "Text": "Later."
+      },
+      "CP_270_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_270_THANKYOUFORYOURHARDWORK",
+        "Text": "Nice job."
+      },
+      "CP_270_ROGERTHAT": {
+        "ID": "CP_270_ROGERTHAT",
+        "Text": "Very well then."
+      },
+      "CP_270_REJECTION": {
+        "ID": "CP_270_REJECTION",
+        "Text": "I refuse."
+      },
+      "CP_270_ENCOURAGEMENT": {
+        "ID": "CP_270_ENCOURAGEMENT",
+        "Text": "I expected more."
+      },
+      "CP_270_PINCH": {
+        "ID": "CP_270_PINCH",
+        "Text": "This is bad..."
+      },
+      "CP_270_COMEFORWARD": {
+        "ID": "CP_270_COMEFORWARD",
+        "Text": "I'm going in front."
+      },
+      "CP_270_COMEFORWARD_OUT": {
+        "ID": "CP_270_COMEFORWARD_OUT",
+        "Text": "I'm going in front."
+      },
+      "CP_270_GODOWN": {
+        "ID": "CP_270_GODOWN",
+        "Text": "I'll back off for a bit."
+      },
+      "CP_270_GODOWN_OUT": {
+        "ID": "CP_270_GODOWN_OUT",
+        "Text": "I'll back off for a bit."
+      },
+      "CP_270_NOTE": {
+        "ID": "CP_270_NOTE",
+        "Text": "Be careful, they're coming."
+      },
+      "CP_270_AIMATTHETARGET": {
+        "ID": "CP_270_AIMATTHETARGET",
+        "Text": "I'll take care of this one."
+      },
+      "CP_270_AIMFORAJOINTATTACK": {
+        "ID": "CP_270_AIMFORAJOINTATTACK",
+        "Text": "We'll unleash a joint attack!"
+      },
+      "CP_270_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_270_AIMFORAJOINTATTACK_OUT",
+        "Text": "We'll unleash a joint attack!"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "We'll settle this with an awakened move!"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "We'll settle this with an awakened move!"
+      },
+      "CP_270_FIGHTCLOSEBY": {
+        "ID": "CP_270_FIGHTCLOSEBY",
+        "Text": "Come this way."
+      },
+      "CP_270_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_270_FIGHTCLOSEBY_OUT",
+        "Text": "Come this way."
+      },
+      "CP_270_FIGHTAWAY": {
+        "ID": "CP_270_FIGHTAWAY",
+        "Text": "Scatter."
+      },
+      "CP_270_FIGHTAWAY_OUT": {
+        "ID": "CP_270_FIGHTAWAY_OUT",
+        "Text": "Scatter."
+      },
+      "CP_270_LETMETAKECAREOFTHAT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT",
+        "Text": "Leave it to me."
+      },
+      "CP_270_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Leave it to me."
+      },
+      "CP_270_LETSWORKTOGETHER": {
+        "ID": "CP_270_LETSWORKTOGETHER",
+        "Text": "Follow my lead!"
+      },
+      "CP_270_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_270_LETSWORKTOGETHER_OUT",
+        "Text": "Follow my lead!"
+      },
+      "CP_270_LEVELREPORT_LOW": {
+        "ID": "CP_270_LEVELREPORT_LOW",
+        "Text": "You're not even trying."
+      },
+      "CP_270_LEVELREPORT_MEDIUM": {
+        "ID": "CP_270_LEVELREPORT_MEDIUM",
+        "Text": "Let's get started."
+      },
+      "CP_270_LEVELREPORT_HIGH": {
+        "ID": "CP_270_LEVELREPORT_HIGH",
+        "Text": "Should I get serious?"
+      },
+      "CP_270_PROVOCATION_1": {
+        "ID": "CP_270_PROVOCATION_1",
+        "Text": "This won't make the booze taste better."
+      },
+      "CP_270_PROVOCATION_2": {
+        "ID": "CP_270_PROVOCATION_2",
+        "Text": "You're pathetically weak."
+      },
+      "CP_270_RESPECT_1": {
+        "ID": "CP_270_RESPECT_1",
+        "Text": "That's what I'm talking about."
+      },
+      "CP_270_RESPECT_2": {
+        "ID": "CP_270_RESPECT_2",
+        "Text": "You're not bad..."
+      },
+      "CP_270_UNIQUE_1": {
+        "ID": "CP_270_UNIQUE_1",
+        "Text": "I see, you're pretty feeble."
+      },
+      "CP_270_UNIQUE_2": {
+        "ID": "CP_270_UNIQUE_2",
+        "Text": "Do you know how many frames go into a single second of animation?"
+      },
+      "CP_270_UNIQUE_3": {
+        "ID": "CP_270_UNIQUE_3",
+        "Text": "Upping resolution and frame rate is the trend. 4K this, and 60 frames per second that."
+      },
+      "CP_270_UNIQUE_4": {
+        "ID": "CP_270_UNIQUE_4",
+        "Text": "Grave circumstances, indeed."
+      },
+      "CP_270_UNIQUE_5": {
+        "ID": "CP_270_UNIQUE_5",
+        "Text": "Dull as a doorknob."
+      },
+      "CP_270_UNIQUE_6": {
+        "ID": "CP_270_UNIQUE_6",
+        "Text": "I'll crush you before you can use a Technique!"
+      },
+      "CP_270_UNIQUE_7": {
+        "ID": "CP_270_UNIQUE_7",
+        "Text": "Who, drinking? Me?"
+      },
+      "CP_270_UNIQUE_8": {
+        "ID": "CP_270_UNIQUE_8",
+        "Text": "Hey, give me booze."
+      },
+      "CP_270_UNIQUE_9": {
+        "ID": "CP_270_UNIQUE_9",
+        "Text": "Do I need to repeat myself?"
+      },
+      "CP_270_UNIQUE_10": {
+        "ID": "CP_270_UNIQUE_10",
+        "Text": "Hey, now, is this a joke?"
+      },
+      "CP_270_UNIQUE_11": {
+        "ID": "CP_270_UNIQUE_11",
+        "Text": "...Humph. A ghost."
+      },
+      "CP_270_UNIQUE_12": {
+        "ID": "CP_270_UNIQUE_12",
+        "Text": "Well, if that's the case, I'll put you up to the test."
+      },
+      "CP_270_READY": {
+        "ID": "CP_270_READY",
+        "Text": "I'm ready."
+      },
+      "CP_270_UNDERSTOODOKAY": {
+        "ID": "CP_270_UNDERSTOODOKAY",
+        "Text": "Got it."
+      },
+      "CP_270_ENDSWITH": {
+        "ID": "CP_270_ENDSWITH",
+        "Text": "The next one will finish it."
+      },
+      "CP_270_WAITAMINUTE": {
+        "ID": "CP_270_WAITAMINUTE",
+        "Text": "Wait a sec."
+      },
+      "CP_270_CHANGE": {
+        "ID": "CP_270_CHANGE",
+        "Text": "I'm changing it."
+      },
+      "CP_270_ITWASAGOODMATCH": {
+        "ID": "CP_270_ITWASAGOODMATCH",
+        "Text": "Not too shabby."
+      },
+      "CP_270_EXIT": {
+        "ID": "CP_270_EXIT",
+        "Text": "I'm withdrawing."
+      },
+      "CP_270_LETSATTACK": {
+        "ID": "CP_270_LETSATTACK",
+        "Text": "Let's take the offensive."
+      },
+      "CP_270_FIGHTCAREFULLY": {
+        "ID": "CP_270_FIGHTCAREFULLY",
+        "Text": "Let's see how this goes."
+      }
+    }
+  }
+]

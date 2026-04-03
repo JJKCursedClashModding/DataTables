@@ -1,0 +1,83 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AttackSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_AttackSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_111_ATTACKA": {
+        "ID": "CN_111_ATTACKA",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CN_111_ATTACKA_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_111_ATTACKB": {
+        "ID": "CN_111_ATTACKB",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CN_111_ATTACKB_01_01",
+          "CN_111_ATTACKB_01_02",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_111_ATTACKC": {
+        "ID": "CN_111_ATTACKC",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CN_111_ATTACKC_01_SETUP_01",
+          "CN_111_ATTACKC_01_01",
+          "CN_111_ATTACKC_01_02",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

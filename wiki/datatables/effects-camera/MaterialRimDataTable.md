@@ -1,0 +1,18 @@
+# MaterialRimDataTable
+
+**Source:** `input_json/MaterialRimDataTable.json`.
+
+**Row struct (from export):** `Class'GameDataTableRow_MaterialRim'`
+
+## Fields
+
+Each line is a row field path (nested structs use dot notation; `[]` marks array-of-struct). The literal **Unknown** is the official description placeholder; the bracketed line is an AI guess from the field name only.
+
+- **Color.X** — Unknown (AI - Possible description: Inferred from name: x. Verify in blueprints or binary if accuracy matters.)
+- **Color.Y** — Unknown (AI - Possible description: Inferred from name: y. Verify in blueprints or binary if accuracy matters.)
+- **Color.Z** — Unknown (AI - Possible description: Inferred from name: z. Verify in blueprints or binary if accuracy matters.)
+- **FadeInTime** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **FadeOutTime** — Unknown (AI - Possible description: Duration in seconds unless engine uses normalized time.)
+- **ID** — Unknown (AI - Possible description: Primary identifier for this row; used as DataTable row name and for lookups.)
+- **Intensity** — Unknown (AI - Possible description: Inferred from name: intensity. Verify in blueprints or binary if accuracy matters.)
+- **Offset** — Unknown (AI - Possible description: Inferred from name: offset. Verify in blueprints or binary if accuracy matters.)

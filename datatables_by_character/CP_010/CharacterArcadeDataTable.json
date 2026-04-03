@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterArcadeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterArcade'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_010": {
+        "ID": "CP_010",
+        "Id_MissionCharacter": "ARCADE_CP_010",
+        "Id_ArcadeMissionSet": [
+          "ARCADE_MISSION_A",
+          "ARCADE_MISSION_B",
+          "ARCADE_MISSION_C",
+          "ARCADE_MISSION_D",
+          "ARCADE_MISSION_E",
+          "ARCADE_MISSION_F"
+        ],
+        "ClearFlagConditions": [
+          0,
+          0,
+          0,
+          0,
+          15,
+          31
+        ]
+      }
+    }
+  }
+]

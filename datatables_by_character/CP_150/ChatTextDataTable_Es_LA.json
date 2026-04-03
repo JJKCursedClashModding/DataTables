@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_150_GREETING_1": {
+        "ID": "CP_150_GREETING_1",
+        "Text": "Contaré contigo."
+      },
+      "CP_150_GREETING_2": {
+        "ID": "CP_150_GREETING_2",
+        "Text": "Disfrutemos esto."
+      },
+      "CP_150_PRAISE_1": {
+        "ID": "CP_150_PRAISE_1",
+        "Text": "De hecho, eres hábil."
+      },
+      "CP_150_PRAISE_2": {
+        "ID": "CP_150_PRAISE_2",
+        "Text": "Una reacción maravillosa."
+      },
+      "CP_150_FOLLOW": {
+        "ID": "CP_150_FOLLOW",
+        "Text": "No te lo tomes en serio."
+      },
+      "CP_150_APOLOGY": {
+        "ID": "CP_150_APOLOGY",
+        "Text": "Eso fue mi culpa."
+      },
+      "CP_150_GRATITUDE_1": {
+        "ID": "CP_150_GRATITUDE_1",
+        "Text": "Te lo agradezco."
+      },
+      "CP_150_GRATITUDE_2": {
+        "ID": "CP_150_GRATITUDE_2",
+        "Text": "Te debo una."
+      },
+      "CP_150_GOODBYE": {
+        "ID": "CP_150_GOODBYE",
+        "Text": "Espero nuestra próxima pelea."
+      },
+      "CP_150_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_150_THANKYOUFORYOURHARDWORK",
+        "Text": "Disfruté de la pelea."
+      },
+      "CP_150_ROGERTHAT": {
+        "ID": "CP_150_ROGERTHAT",
+        "Text": "Bien."
+      },
+      "CP_150_REJECTION": {
+        "ID": "CP_150_REJECTION",
+        "Text": "No puedo hacer eso."
+      },
+      "CP_150_ENCOURAGEMENT": {
+        "ID": "CP_150_ENCOURAGEMENT",
+        "Text": "Aún no terminaste, ¿verdad?"
+      },
+      "CP_150_PINCH": {
+        "ID": "CP_150_PINCH",
+        "Text": "Te subestimé demasiado..."
+      },
+      "CP_150_COMEFORWARD": {
+        "ID": "CP_150_COMEFORWARD",
+        "Text": "Los atacaré de cerca."
+      },
+      "CP_150_COMEFORWARD_OUT": {
+        "ID": "CP_150_COMEFORWARD_OUT",
+        "Text": "Los atacaré de cerca."
+      },
+      "CP_150_GODOWN": {
+        "ID": "CP_150_GODOWN",
+        "Text": "Atacaré desde más atrás."
+      },
+      "CP_150_GODOWN_OUT": {
+        "ID": "CP_150_GODOWN_OUT",
+        "Text": "Atacaré desde más atrás."
+      },
+      "CP_150_NOTE": {
+        "ID": "CP_150_NOTE",
+        "Text": "¡Ya viene!"
+      },
+      "CP_150_AIMATTHETARGET": {
+        "ID": "CP_150_AIMATTHETARGET",
+        "Text": "Acabaré con ese."
+      },
+      "CP_150_AIMFORAJOINTATTACK": {
+        "ID": "CP_150_AIMFORAJOINTATTACK",
+        "Text": "Agobiemos juntos al rival."
+      },
+      "CP_150_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_150_AIMFORAJOINTATTACK_OUT",
+        "Text": "Agobiemos juntos al rival."
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Usaré mi movimiento del despertar."
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Usaré mi movimiento del despertar."
+      },
+      "CP_150_FIGHTCLOSEBY": {
+        "ID": "CP_150_FIGHTCLOSEBY",
+        "Text": "Para mí."
+      },
+      "CP_150_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_150_FIGHTCLOSEBY_OUT",
+        "Text": "Para mí."
+      },
+      "CP_150_FIGHTAWAY": {
+        "ID": "CP_150_FIGHTAWAY",
+        "Text": "Quedémonos atrás."
+      },
+      "CP_150_FIGHTAWAY_OUT": {
+        "ID": "CP_150_FIGHTAWAY_OUT",
+        "Text": "Quedémonos atrás."
+      },
+      "CP_150_LETMETAKECAREOFTHAT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT",
+        "Text": "Puedo hacerlo por mi cuenta."
+      },
+      "CP_150_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Puedo hacerlo por mi cuenta."
+      },
+      "CP_150_LETSWORKTOGETHER": {
+        "ID": "CP_150_LETSWORKTOGETHER",
+        "Text": "Trabajemos en equipo."
+      },
+      "CP_150_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_150_LETSWORKTOGETHER_OUT",
+        "Text": "Trabajemos en equipo."
+      },
+      "CP_150_LEVELREPORT_LOW": {
+        "ID": "CP_150_LEVELREPORT_LOW",
+        "Text": "Necesito algo más de tiempo."
+      },
+      "CP_150_LEVELREPORT_MEDIUM": {
+        "ID": "CP_150_LEVELREPORT_MEDIUM",
+        "Text": "Esto bastará."
+      },
+      "CP_150_LEVELREPORT_HIGH": {
+        "ID": "CP_150_LEVELREPORT_HIGH",
+        "Text": "Mi energía maldita se está acumulando."
+      },
+      "CP_150_PROVOCATION_1": {
+        "ID": "CP_150_PROVOCATION_1",
+        "Text": "Qué decepción."
+      },
+      "CP_150_PROVOCATION_2": {
+        "ID": "CP_150_PROVOCATION_2",
+        "Text": "¿Eso es todo?"
+      },
+      "CP_150_RESPECT_1": {
+        "ID": "CP_150_RESPECT_1",
+        "Text": "Gracias por darme algo de diversión."
+      },
+      "CP_150_RESPECT_2": {
+        "ID": "CP_150_RESPECT_2",
+        "Text": "Al parecer, tendré que tomarlos relativamente en serio."
+      },
+      "CP_150_UNIQUE_1": {
+        "ID": "CP_150_UNIQUE_1",
+        "Text": "Ya basta, niños necios."
+      },
+      "CP_150_UNIQUE_2": {
+        "ID": "CP_150_UNIQUE_2",
+        "Text": "Ya no deberías usar rituales malditos."
+      },
+      "CP_150_UNIQUE_3": {
+        "ID": "CP_150_UNIQUE_3",
+        "Text": "¿Y cómo van a atacar?"
+      },
+      "CP_150_UNIQUE_4": {
+        "ID": "CP_150_UNIQUE_4",
+        "Text": "¡Estoy disfrutando de esta pelea!"
+      },
+      "CP_150_UNIQUE_5": {
+        "ID": "CP_150_UNIQUE_5",
+        "Text": "Cada vez me gusta más y más esta pelea."
+      },
+      "CP_150_UNIQUE_6": {
+        "ID": "CP_150_UNIQUE_6",
+        "Text": "Qué concentración tan tremenda."
+      },
+      "CP_150_UNIQUE_7": {
+        "ID": "CP_150_UNIQUE_7",
+        "Text": "Admito que es una buena arma."
+      },
+      "CP_150_UNIQUE_8": {
+        "ID": "CP_150_UNIQUE_8",
+        "Text": "Hubiese preferido evitar usar esto."
+      },
+      "CP_150_UNIQUE_9": {
+        "ID": "CP_150_UNIQUE_9",
+        "Text": "¿Usarán eso de nuevo?"
+      },
+      "CP_150_UNIQUE_10": {
+        "ID": "CP_150_UNIQUE_10",
+        "Text": "¡No puedo salir de esto!"
+      },
+      "CP_150_READY": {
+        "ID": "CP_150_READY",
+        "Text": "Estoy lista."
+      },
+      "CP_150_UNDERSTOODOKAY": {
+        "ID": "CP_150_UNDERSTOODOKAY",
+        "Text": "Entendido."
+      },
+      "CP_150_ENDSWITH": {
+        "ID": "CP_150_ENDSWITH",
+        "Text": "Lo siguiente es lo último."
+      },
+      "CP_150_WAITAMINUTE": {
+        "ID": "CP_150_WAITAMINUTE",
+        "Text": "Espera."
+      },
+      "CP_150_CHANGE": {
+        "ID": "CP_150_CHANGE",
+        "Text": "Lo cambiaré."
+      },
+      "CP_150_ITWASAGOODMATCH": {
+        "ID": "CP_150_ITWASAGOODMATCH",
+        "Text": "Buen enfrentamiento."
+      },
+      "CP_150_EXIT": {
+        "ID": "CP_150_EXIT",
+        "Text": "Me retiro."
+      },
+      "CP_150_LETSATTACK": {
+        "ID": "CP_150_LETSATTACK",
+        "Text": "Ataquemos."
+      },
+      "CP_150_FIGHTCAREFULLY": {
+        "ID": "CP_150_FIGHTCAREFULLY",
+        "Text": "Pelea con cuidado."
+      }
+    }
+  }
+]

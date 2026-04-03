@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVoiceGroupSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVoiceGroupSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_250": {
+        "ID": "CN_250",
+        "Id_CharacterVoiceGroup_DefaultAction": "CN_250_DEFAULTACTION",
+        "Id_CharacterVoiceGroup_NormalAttack1": "CN_250_NORMALATTACK1",
+        "Id_CharacterVoiceGroup_NormalAttack1_1": "CN_250_NORMALATTACK1_1",
+        "Id_CharacterVoiceGroup_NormalAttack2": "CN_250_NORMALATTACK2",
+        "Id_CharacterVoiceGroup_NormalAttack2_1": "CN_250_NORMALATTACK2_1",
+        "Id_CharacterVoiceGroup_NormalAttack3": "CN_250_NORMALATTACK3",
+        "Id_CharacterVoiceGroup_NormalAttack3_1": "CN_250_NORMALATTACK3_1",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_1": "CN_250_CURSEDENERGYATTACK1_1",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_2": "CN_250_CURSEDENERGYATTACK1_2",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_3": "CN_250_CURSEDENERGYATTACK1_3",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_1": "CN_250_CURSEDENERGYATTACK2_1",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_2": "CN_250_CURSEDENERGYATTACK2_2",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_3": "CN_250_CURSEDENERGYATTACK2_3",
+        "Id_CharacterVoiceGroup_SuperCursedEnergyAttack": "CN_250_SUPERCURSEDENERGYATTACK",
+        "Id_CharacterVoiceGroup_ExtraAttack1": "CN_250_EXTRAATTACK",
+        "Id_CharacterVoiceGroup_ExtraAttack2": "None",
+        "Id_CharacterVoiceGroup_Attack": "CN_250_ATTACK",
+        "Id_CharacterVoiceGroup_SituationAttack": "CN_250_SITUATIONATTACK",
+        "Id_CharacterVoiceGroup_System": "None",
+        "Id_CharacterVoiceGroup_Damage1": "CN_250_DAMAGE",
+        "Id_CharacterVoiceGroup_Down": "CN_250_DOWN",
+        "Id_CharacterVoiceGroup_Guard": "CN_250_GUARD",
+        "Id_CharacterVoiceGroup_SpecialDamage": "CN_250_SPECIALDAMAGE",
+        "Id_CharacterVoiceGroup_Unique": "None"
+      },
+      "CN_250_PINCH": {
+        "ID": "CN_250_PINCH",
+        "Id_CharacterVoiceGroup_DefaultAction": "CN_250_DEFAULTACTION",
+        "Id_CharacterVoiceGroup_NormalAttack1": "CN_250_NORMALATTACK1_PINCH",
+        "Id_CharacterVoiceGroup_NormalAttack1_1": "CN_250_NORMALATTACK1_1_PINCH",
+        "Id_CharacterVoiceGroup_NormalAttack2": "CN_250_NORMALATTACK2_PINCH",
+        "Id_CharacterVoiceGroup_NormalAttack2_1": "CN_250_NORMALATTACK2_1_PINCH",
+        "Id_CharacterVoiceGroup_NormalAttack3": "CN_250_NORMALATTACK3_PINCH",
+        "Id_CharacterVoiceGroup_NormalAttack3_1": "CN_250_NORMALATTACK3_1_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_1": "CN_250_CURSEDENERGYATTACK1_1_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_2": "CN_250_CURSEDENERGYATTACK1_2_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_3": "CN_250_CURSEDENERGYATTACK1_3_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_1": "CN_250_CURSEDENERGYATTACK2_1_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_2": "CN_250_CURSEDENERGYATTACK2_2_PINCH",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_3": "CN_250_CURSEDENERGYATTACK2_3_PINCH",
+        "Id_CharacterVoiceGroup_SuperCursedEnergyAttack": "CN_250_SUPERCURSEDENERGYATTACK_PINCH",
+        "Id_CharacterVoiceGroup_ExtraAttack1": "CN_250_EXTRAATTACK_PINCH",
+        "Id_CharacterVoiceGroup_ExtraAttack2": "None",
+        "Id_CharacterVoiceGroup_Attack": "CN_250_ATTACK_PINCH",
+        "Id_CharacterVoiceGroup_SituationAttack": "CN_250_SITUATIONATTACK",
+        "Id_CharacterVoiceGroup_System": "None",
+        "Id_CharacterVoiceGroup_Damage1": "CN_250_DAMAGE",
+        "Id_CharacterVoiceGroup_Down": "CN_250_DOWN_PINCH",
+        "Id_CharacterVoiceGroup_Guard": "CN_250_GUARD_PINCH",
+        "Id_CharacterVoiceGroup_SpecialDamage": "CN_250_SPECIALDAMAGE",
+        "Id_CharacterVoiceGroup_Unique": "None"
+      }
+    }
+  }
+]

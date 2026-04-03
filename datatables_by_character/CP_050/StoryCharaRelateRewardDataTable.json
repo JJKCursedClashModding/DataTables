@@ -1,0 +1,77 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateRewardDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateReward'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050_CP_090": {
+        "ID": "CP_050_CP_090",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_090",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_090_03",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_090_04",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_090_05"
+        ]
+      },
+      "CP_050_CP_110": {
+        "ID": "CP_050_CP_110",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_110",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_110_02",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_110_03",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_110_04",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_110_05"
+        ]
+      },
+      "CP_050_CP_120": {
+        "ID": "CP_050_CP_120",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_120",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_120_04",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_120_05"
+        ]
+      },
+      "CP_050_CP_140": {
+        "ID": "CP_050_CP_140",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_140",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_140_02",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_140_03",
+          "None",
+          "None"
+        ]
+      },
+      "CP_050_CP_150": {
+        "ID": "CP_050_CP_150",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_150",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_150_02",
+          "ITM_SET_CHARA_RELATE_CP_050_CP_150_03",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

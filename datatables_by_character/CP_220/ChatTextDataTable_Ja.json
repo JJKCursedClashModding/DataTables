@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220_GREETING_1": {
+        "ID": "CP_220_GREETING_1",
+        "Text": "よろしく頼ム"
+      },
+      "CP_220_GREETING_2": {
+        "ID": "CP_220_GREETING_2",
+        "Text": "覚悟しておくんだナ"
+      },
+      "CP_220_PRAISE_1": {
+        "ID": "CP_220_PRAISE_1",
+        "Text": "やるナ"
+      },
+      "CP_220_PRAISE_2": {
+        "ID": "CP_220_PRAISE_2",
+        "Text": "流石だナ"
+      },
+      "CP_220_FOLLOW": {
+        "ID": "CP_220_FOLLOW",
+        "Text": "気にするナ"
+      },
+      "CP_220_APOLOGY": {
+        "ID": "CP_220_APOLOGY",
+        "Text": "すまなイ"
+      },
+      "CP_220_GRATITUDE_1": {
+        "ID": "CP_220_GRATITUDE_1",
+        "Text": "礼を言ウ"
+      },
+      "CP_220_GRATITUDE_2": {
+        "ID": "CP_220_GRATITUDE_2",
+        "Text": "助かっタ"
+      },
+      "CP_220_GOODBYE": {
+        "ID": "CP_220_GOODBYE",
+        "Text": "じゃあナ"
+      },
+      "CP_220_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_220_THANKYOUFORYOURHARDWORK",
+        "Text": "お疲レ"
+      },
+      "CP_220_ROGERTHAT": {
+        "ID": "CP_220_ROGERTHAT",
+        "Text": "御意"
+      },
+      "CP_220_REJECTION": {
+        "ID": "CP_220_REJECTION",
+        "Text": "断ル"
+      },
+      "CP_220_ENCOURAGEMENT": {
+        "ID": "CP_220_ENCOURAGEMENT",
+        "Text": "その調子で頼ム"
+      },
+      "CP_220_PINCH": {
+        "ID": "CP_220_PINCH",
+        "Text": "まずイ！！"
+      },
+      "CP_220_COMEFORWARD": {
+        "ID": "CP_220_COMEFORWARD",
+        "Text": "前に出ル"
+      },
+      "CP_220_COMEFORWARD_OUT": {
+        "ID": "CP_220_COMEFORWARD_OUT",
+        "Text": "前に出ル"
+      },
+      "CP_220_GODOWN": {
+        "ID": "CP_220_GODOWN",
+        "Text": "一旦下がル"
+      },
+      "CP_220_GODOWN_OUT": {
+        "ID": "CP_220_GODOWN_OUT",
+        "Text": "一旦下がル"
+      },
+      "CP_220_NOTE": {
+        "ID": "CP_220_NOTE",
+        "Text": "来る　油断するナ！"
+      },
+      "CP_220_AIMATTHETARGET": {
+        "ID": "CP_220_AIMATTHETARGET",
+        "Text": "コイツは俺がやル"
+      },
+      "CP_220_AIMFORAJOINTATTACK": {
+        "ID": "CP_220_AIMFORAJOINTATTACK",
+        "Text": "共連撃ダ！！"
+      },
+      "CP_220_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_220_AIMFORAJOINTATTACK_OUT",
+        "Text": "共連撃ダ！！"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "覚醒技を決めル！"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "覚醒技を決めル！"
+      },
+      "CP_220_FIGHTCLOSEBY": {
+        "ID": "CP_220_FIGHTCLOSEBY",
+        "Text": "離れるナ"
+      },
+      "CP_220_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_220_FIGHTCLOSEBY_OUT",
+        "Text": "離れるナ"
+      },
+      "CP_220_FIGHTAWAY": {
+        "ID": "CP_220_FIGHTAWAY",
+        "Text": "距離を取レ"
+      },
+      "CP_220_FIGHTAWAY_OUT": {
+        "ID": "CP_220_FIGHTAWAY_OUT",
+        "Text": "距離を取レ"
+      },
+      "CP_220_LETMETAKECAREOFTHAT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT",
+        "Text": "ここは俺がやル"
+      },
+      "CP_220_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT_OUT",
+        "Text": "ここは俺がやル"
+      },
+      "CP_220_LETSWORKTOGETHER": {
+        "ID": "CP_220_LETSWORKTOGETHER",
+        "Text": "合わせロ"
+      },
+      "CP_220_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_220_LETSWORKTOGETHER_OUT",
+        "Text": "合わせロ"
+      },
+      "CP_220_LEVELREPORT_LOW": {
+        "ID": "CP_220_LEVELREPORT_LOW",
+        "Text": "準備すル"
+      },
+      "CP_220_LEVELREPORT_MEDIUM": {
+        "ID": "CP_220_LEVELREPORT_MEDIUM",
+        "Text": "そろそろ行くゾ"
+      },
+      "CP_220_LEVELREPORT_HIGH": {
+        "ID": "CP_220_LEVELREPORT_HIGH",
+        "Text": "本気で行ク"
+      },
+      "CP_220_PROVOCATION_1": {
+        "ID": "CP_220_PROVOCATION_1",
+        "Text": "その程度カ"
+      },
+      "CP_220_PROVOCATION_2": {
+        "ID": "CP_220_PROVOCATION_2",
+        "Text": "大したことないナ"
+      },
+      "CP_220_RESPECT_1": {
+        "ID": "CP_220_RESPECT_1",
+        "Text": "すごい力だナ"
+      },
+      "CP_220_RESPECT_2": {
+        "ID": "CP_220_RESPECT_2",
+        "Text": "なかなかやるようだナ"
+      },
+      "CP_220_UNIQUE_1": {
+        "ID": "CP_220_UNIQUE_1",
+        "Text": "準一級ダ"
+      },
+      "CP_220_UNIQUE_2": {
+        "ID": "CP_220_UNIQUE_2",
+        "Text": "”天与呪縛”　知っているカ？"
+      },
+      "CP_220_UNIQUE_3": {
+        "ID": "CP_220_UNIQUE_3",
+        "Text": "よくやった方ダ"
+      },
+      "CP_220_UNIQUE_4": {
+        "ID": "CP_220_UNIQUE_4",
+        "Text": "死にはしないさ　暫く動けんがナ"
+      },
+      "CP_220_UNIQUE_5": {
+        "ID": "CP_220_UNIQUE_5",
+        "Text": "ちょこまかト…"
+      },
+      "CP_220_UNIQUE_6": {
+        "ID": "CP_220_UNIQUE_6",
+        "Text": "これはハンデが過ぎないカ？"
+      },
+      "CP_220_UNIQUE_7": {
+        "ID": "CP_220_UNIQUE_7",
+        "Text": "どうしようもなク　我慢ならんのダ"
+      },
+      "CP_220_UNIQUE_8": {
+        "ID": "CP_220_UNIQUE_8",
+        "Text": "俺は　そういうんじゃなイ"
+      },
+      "CP_220_UNIQUE_9": {
+        "ID": "CP_220_UNIQUE_9",
+        "Text": "今度こそ外さン！"
+      },
+      "CP_220_UNIQUE_10": {
+        "ID": "CP_220_UNIQUE_10",
+        "Text": "俺の姿を見た後でモ　そんな台詞が吐けるかナ"
+      },
+      "CP_220_UNIQUE_11": {
+        "ID": "CP_220_UNIQUE_11",
+        "Text": "スマン　少し寝ル"
+      },
+      "CP_220_UNIQUE_12": {
+        "ID": "CP_220_UNIQUE_12",
+        "Text": "捉え所のない動キ！"
+      },
+      "CP_220_READY": {
+        "ID": "CP_220_READY",
+        "Text": "準備は出来タ"
+      },
+      "CP_220_UNDERSTOODOKAY": {
+        "ID": "CP_220_UNDERSTOODOKAY",
+        "Text": "了解しタ"
+      },
+      "CP_220_ENDSWITH": {
+        "ID": "CP_220_ENDSWITH",
+        "Text": "次で最後ダ"
+      },
+      "CP_220_WAITAMINUTE": {
+        "ID": "CP_220_WAITAMINUTE",
+        "Text": "少し待ってくレ"
+      },
+      "CP_220_CHANGE": {
+        "ID": "CP_220_CHANGE",
+        "Text": "変更すル"
+      },
+      "CP_220_ITWASAGOODMATCH": {
+        "ID": "CP_220_ITWASAGOODMATCH",
+        "Text": "いい戦いだったナ"
+      },
+      "CP_220_EXIT": {
+        "ID": "CP_220_EXIT",
+        "Text": "退出すル"
+      },
+      "CP_220_LETSATTACK": {
+        "ID": "CP_220_LETSATTACK",
+        "Text": "攻めるゾ"
+      },
+      "CP_220_FIGHTCAREFULLY": {
+        "ID": "CP_220_FIGHTCAREFULLY",
+        "Text": "様子を見ル"
+      }
+    }
+  }
+]

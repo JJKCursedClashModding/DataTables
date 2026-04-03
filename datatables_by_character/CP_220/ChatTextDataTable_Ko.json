@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220_GREETING_1": {
+        "ID": "CP_220_GREETING_1",
+        "Text": "잘 부탁해"
+      },
+      "CP_220_GREETING_2": {
+        "ID": "CP_220_GREETING_2",
+        "Text": "각오해"
+      },
+      "CP_220_PRAISE_1": {
+        "ID": "CP_220_PRAISE_1",
+        "Text": "제법이군"
+      },
+      "CP_220_PRAISE_2": {
+        "ID": "CP_220_PRAISE_2",
+        "Text": "역시 대단해"
+      },
+      "CP_220_FOLLOW": {
+        "ID": "CP_220_FOLLOW",
+        "Text": "신경쓰지 마"
+      },
+      "CP_220_APOLOGY": {
+        "ID": "CP_220_APOLOGY",
+        "Text": "미안하다"
+      },
+      "CP_220_GRATITUDE_1": {
+        "ID": "CP_220_GRATITUDE_1",
+        "Text": "고마워"
+      },
+      "CP_220_GRATITUDE_2": {
+        "ID": "CP_220_GRATITUDE_2",
+        "Text": "덕분에 살았어"
+      },
+      "CP_220_GOODBYE": {
+        "ID": "CP_220_GOODBYE",
+        "Text": "그럼 안녕"
+      },
+      "CP_220_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_220_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했어"
+      },
+      "CP_220_ROGERTHAT": {
+        "ID": "CP_220_ROGERTHAT",
+        "Text": "알았어"
+      },
+      "CP_220_REJECTION": {
+        "ID": "CP_220_REJECTION",
+        "Text": "거절한다"
+      },
+      "CP_220_ENCOURAGEMENT": {
+        "ID": "CP_220_ENCOURAGEMENT",
+        "Text": "그 기세로 부탁해"
+      },
+      "CP_220_PINCH": {
+        "ID": "CP_220_PINCH",
+        "Text": "이런!!"
+      },
+      "CP_220_COMEFORWARD": {
+        "ID": "CP_220_COMEFORWARD",
+        "Text": "앞으로 간다"
+      },
+      "CP_220_COMEFORWARD_OUT": {
+        "ID": "CP_220_COMEFORWARD_OUT",
+        "Text": "앞으로 간다"
+      },
+      "CP_220_GODOWN": {
+        "ID": "CP_220_GODOWN",
+        "Text": "일단 물러날게"
+      },
+      "CP_220_GODOWN_OUT": {
+        "ID": "CP_220_GODOWN_OUT",
+        "Text": "일단 물러날게"
+      },
+      "CP_220_NOTE": {
+        "ID": "CP_220_NOTE",
+        "Text": "온다, 방심하지 마!"
+      },
+      "CP_220_AIMATTHETARGET": {
+        "ID": "CP_220_AIMATTHETARGET",
+        "Text": "이 녀석은 내가 맡는다"
+      },
+      "CP_220_AIMFORAJOINTATTACK": {
+        "ID": "CP_220_AIMFORAJOINTATTACK",
+        "Text": "협공 연격이다!!"
+      },
+      "CP_220_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_220_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격이다!!"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 쓴다!"
+      },
+      "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_220_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 쓴다!"
+      },
+      "CP_220_FIGHTCLOSEBY": {
+        "ID": "CP_220_FIGHTCLOSEBY",
+        "Text": "떨어지지 마"
+      },
+      "CP_220_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_220_FIGHTCLOSEBY_OUT",
+        "Text": "떨어지지 마"
+      },
+      "CP_220_FIGHTAWAY": {
+        "ID": "CP_220_FIGHTAWAY",
+        "Text": "거리를 둬"
+      },
+      "CP_220_FIGHTAWAY_OUT": {
+        "ID": "CP_220_FIGHTAWAY_OUT",
+        "Text": "거리를 둬"
+      },
+      "CP_220_LETMETAKECAREOFTHAT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT",
+        "Text": "여기는 내가 맡을게"
+      },
+      "CP_220_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_220_LETMETAKECAREOFTHAT_OUT",
+        "Text": "여기는 내가 맡을게"
+      },
+      "CP_220_LETSWORKTOGETHER": {
+        "ID": "CP_220_LETSWORKTOGETHER",
+        "Text": "합을 맞춰"
+      },
+      "CP_220_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_220_LETSWORKTOGETHER_OUT",
+        "Text": "합을 맞춰"
+      },
+      "CP_220_LEVELREPORT_LOW": {
+        "ID": "CP_220_LEVELREPORT_LOW",
+        "Text": "준비하자"
+      },
+      "CP_220_LEVELREPORT_MEDIUM": {
+        "ID": "CP_220_LEVELREPORT_MEDIUM",
+        "Text": "슬슬 간다"
+      },
+      "CP_220_LEVELREPORT_HIGH": {
+        "ID": "CP_220_LEVELREPORT_HIGH",
+        "Text": "진심으로 하겠어"
+      },
+      "CP_220_PROVOCATION_1": {
+        "ID": "CP_220_PROVOCATION_1",
+        "Text": "그 정도인가?"
+      },
+      "CP_220_PROVOCATION_2": {
+        "ID": "CP_220_PROVOCATION_2",
+        "Text": "대단할 거 없네"
+      },
+      "CP_220_RESPECT_1": {
+        "ID": "CP_220_RESPECT_1",
+        "Text": "대단한 힘이네"
+      },
+      "CP_220_RESPECT_2": {
+        "ID": "CP_220_RESPECT_2",
+        "Text": "제법 하는군"
+      },
+      "CP_220_UNIQUE_1": {
+        "ID": "CP_220_UNIQUE_1",
+        "Text": "준1급이다"
+      },
+      "CP_220_UNIQUE_2": {
+        "ID": "CP_220_UNIQUE_2",
+        "Text": "\"천여주박\"이란 걸 아나?"
+      },
+      "CP_220_UNIQUE_3": {
+        "ID": "CP_220_UNIQUE_3",
+        "Text": "잘 싸웠다"
+      },
+      "CP_220_UNIQUE_4": {
+        "ID": "CP_220_UNIQUE_4",
+        "Text": "죽진 않을 거야,\n당분간 움직이진 못하겠지만"
+      },
+      "CP_220_UNIQUE_5": {
+        "ID": "CP_220_UNIQUE_5",
+        "Text": "잘도 촐랑촐랑…"
+      },
+      "CP_220_UNIQUE_6": {
+        "ID": "CP_220_UNIQUE_6",
+        "Text": "이건 핸디캡이 지나친 거 아닌가?"
+      },
+      "CP_220_UNIQUE_7": {
+        "ID": "CP_220_UNIQUE_7",
+        "Text": "도저히 참을 수가 없어"
+      },
+      "CP_220_UNIQUE_8": {
+        "ID": "CP_220_UNIQUE_8",
+        "Text": "나는 그런 거 아니야"
+      },
+      "CP_220_UNIQUE_9": {
+        "ID": "CP_220_UNIQUE_9",
+        "Text": "이번에야말로 안 놓친다!"
+      },
+      "CP_220_UNIQUE_10": {
+        "ID": "CP_220_UNIQUE_10",
+        "Text": "내 모습을 본 뒤에도\n과연 그런 말이 나올까?"
+      },
+      "CP_220_UNIQUE_11": {
+        "ID": "CP_220_UNIQUE_11",
+        "Text": "미안, 조금 잘게"
+      },
+      "CP_220_UNIQUE_12": {
+        "ID": "CP_220_UNIQUE_12",
+        "Text": "포착할 수 없는 동작!"
+      },
+      "CP_220_READY": {
+        "ID": "CP_220_READY",
+        "Text": "준비는 됐어"
+      },
+      "CP_220_UNDERSTOODOKAY": {
+        "ID": "CP_220_UNDERSTOODOKAY",
+        "Text": "알겠어"
+      },
+      "CP_220_ENDSWITH": {
+        "ID": "CP_220_ENDSWITH",
+        "Text": "다음이 마지막이야"
+      },
+      "CP_220_WAITAMINUTE": {
+        "ID": "CP_220_WAITAMINUTE",
+        "Text": "잠깐 기다려줘"
+      },
+      "CP_220_CHANGE": {
+        "ID": "CP_220_CHANGE",
+        "Text": "변경할게"
+      },
+      "CP_220_ITWASAGOODMATCH": {
+        "ID": "CP_220_ITWASAGOODMATCH",
+        "Text": "좋은 싸움이었어"
+      },
+      "CP_220_EXIT": {
+        "ID": "CP_220_EXIT",
+        "Text": "나갈게"
+      },
+      "CP_220_LETSATTACK": {
+        "ID": "CP_220_LETSATTACK",
+        "Text": "공격하자"
+      },
+      "CP_220_FIGHTCAREFULLY": {
+        "ID": "CP_220_FIGHTCAREFULLY",
+        "Text": "좀 지켜보자"
+      }
+    }
+  }
+]

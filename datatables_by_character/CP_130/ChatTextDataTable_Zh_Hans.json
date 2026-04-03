@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_130_GREETING_1": {
+        "ID": "CP_130_GREETING_1",
+        "Text": "请多指教～"
+      },
+      "CP_130_GREETING_2": {
+        "ID": "CP_130_GREETING_2",
+        "Text": "你会让我玩得尽兴吗？"
+      },
+      "CP_130_PRAISE_1": {
+        "ID": "CP_130_PRAISE_1",
+        "Text": "你真会动"
+      },
+      "CP_130_PRAISE_2": {
+        "ID": "CP_130_PRAISE_2",
+        "Text": "你有才能喔"
+      },
+      "CP_130_FOLLOW": {
+        "ID": "CP_130_FOLLOW",
+        "Text": "别在意，继续吧"
+      },
+      "CP_130_APOLOGY": {
+        "ID": "CP_130_APOLOGY",
+        "Text": "抱歉抱歉"
+      },
+      "CP_130_GRATITUDE_1": {
+        "ID": "CP_130_GRATITUDE_1",
+        "Text": "谢啦"
+      },
+      "CP_130_GRATITUDE_2": {
+        "ID": "CP_130_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_130_GOODBYE": {
+        "ID": "CP_130_GOODBYE",
+        "Text": "我很开心喔"
+      },
+      "CP_130_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_130_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_130_ROGERTHAT": {
+        "ID": "CP_130_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_130_REJECTION": {
+        "ID": "CP_130_REJECTION",
+        "Text": "抱歉啊"
+      },
+      "CP_130_ENCOURAGEMENT": {
+        "ID": "CP_130_ENCOURAGEMENT",
+        "Text": "High一点啦"
+      },
+      "CP_130_PINCH": {
+        "ID": "CP_130_PINCH",
+        "Text": "糟糕"
+      },
+      "CP_130_COMEFORWARD": {
+        "ID": "CP_130_COMEFORWARD",
+        "Text": "我上了"
+      },
+      "CP_130_COMEFORWARD_OUT": {
+        "ID": "CP_130_COMEFORWARD_OUT",
+        "Text": "我上了"
+      },
+      "CP_130_GODOWN": {
+        "ID": "CP_130_GODOWN",
+        "Text": "之后就拜托了～"
+      },
+      "CP_130_GODOWN_OUT": {
+        "ID": "CP_130_GODOWN_OUT",
+        "Text": "之后就拜托了～"
+      },
+      "CP_130_NOTE": {
+        "ID": "CP_130_NOTE",
+        "Text": "是不是避开比较好啊？"
+      },
+      "CP_130_AIMATTHETARGET": {
+        "ID": "CP_130_AIMATTHETARGET",
+        "Text": "这家伙交给我"
+      },
+      "CP_130_AIMFORAJOINTATTACK": {
+        "ID": "CP_130_AIMFORAJOINTATTACK",
+        "Text": "麻烦你进行共连击喔"
+      },
+      "CP_130_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_130_AIMFORAJOINTATTACK_OUT",
+        "Text": "麻烦你进行共连击喔"
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "用觉醒技上啰"
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "用觉醒技上啰"
+      },
+      "CP_130_FIGHTCLOSEBY": {
+        "ID": "CP_130_FIGHTCLOSEBY",
+        "Text": "过来我这里嘛"
+      },
+      "CP_130_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_130_FIGHTCLOSEBY_OUT",
+        "Text": "过来我这里嘛"
+      },
+      "CP_130_FIGHTAWAY": {
+        "ID": "CP_130_FIGHTAWAY",
+        "Text": "分散战斗吧"
+      },
+      "CP_130_FIGHTAWAY_OUT": {
+        "ID": "CP_130_FIGHTAWAY_OUT",
+        "Text": "分散战斗吧"
+      },
+      "CP_130_LETMETAKECAREOFTHAT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT",
+        "Text": "交给我吧"
+      },
+      "CP_130_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交给我吧"
+      },
+      "CP_130_LETSWORKTOGETHER": {
+        "ID": "CP_130_LETSWORKTOGETHER",
+        "Text": "一起合作吧"
+      },
+      "CP_130_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_130_LETSWORKTOGETHER_OUT",
+        "Text": "一起合作吧"
+      },
+      "CP_130_LEVELREPORT_LOW": {
+        "ID": "CP_130_LEVELREPORT_LOW",
+        "Text": "咒力不够啊"
+      },
+      "CP_130_LEVELREPORT_MEDIUM": {
+        "ID": "CP_130_LEVELREPORT_MEDIUM",
+        "Text": "差不多充足了"
+      },
+      "CP_130_LEVELREPORT_HIGH": {
+        "ID": "CP_130_LEVELREPORT_HIGH",
+        "Text": "认真打吧"
+      },
+      "CP_130_PROVOCATION_1": {
+        "ID": "CP_130_PROVOCATION_1",
+        "Text": "太弱的话就算不上实验了"
+      },
+      "CP_130_PROVOCATION_2": {
+        "ID": "CP_130_PROVOCATION_2",
+        "Text": "怎么了，就这样吗"
+      },
+      "CP_130_RESPECT_1": {
+        "ID": "CP_130_RESPECT_1",
+        "Text": "哈哈，真有趣"
+      },
+      "CP_130_RESPECT_2": {
+        "ID": "CP_130_RESPECT_2",
+        "Text": "你很强呢，最适合当实验体了"
+      },
+      "CP_130_UNIQUE_1": {
+        "ID": "CP_130_UNIQUE_1",
+        "Text": "要遵守规矩喔"
+      },
+      "CP_130_UNIQUE_2": {
+        "ID": "CP_130_UNIQUE_2",
+        "Text": "肉体形状会受到灵魂形状的影响"
+      },
+      "CP_130_UNIQUE_3": {
+        "ID": "CP_130_UNIQUE_3",
+        "Text": "你越来越像诅咒了"
+      },
+      "CP_130_UNIQUE_4": {
+        "ID": "CP_130_UNIQUE_4",
+        "Text": "和肉体不同，灵魂可以杀很多次"
+      },
+      "CP_130_UNIQUE_5": {
+        "ID": "CP_130_UNIQUE_5",
+        "Text": "和你说话没有压力，真是太好了"
+      },
+      "CP_130_UNIQUE_6": {
+        "ID": "CP_130_UNIQUE_6",
+        "Text": "这是多么新鲜的灵感"
+      },
+      "CP_130_UNIQUE_7": {
+        "ID": "CP_130_UNIQUE_7",
+        "Text": "来吧，开始第二回合"
+      },
+      "CP_130_UNIQUE_8": {
+        "ID": "CP_130_UNIQUE_8",
+        "Text": "真不会说谎！"
+      },
+      "CP_130_UNIQUE_9": {
+        "ID": "CP_130_UNIQUE_9",
+        "Text": "要来拥抱一下吗？"
+      },
+      "CP_130_UNIQUE_10": {
+        "ID": "CP_130_UNIQUE_10",
+        "Text": "呵呵呵呵，哈哈哈哈！"
+      },
+      "CP_130_READY": {
+        "ID": "CP_130_READY",
+        "Text": "我准备好了"
+      },
+      "CP_130_UNDERSTOODOKAY": {
+        "ID": "CP_130_UNDERSTOODOKAY",
+        "Text": "OK"
+      },
+      "CP_130_ENDSWITH": {
+        "ID": "CP_130_ENDSWITH",
+        "Text": "接下来是最后啰"
+      },
+      "CP_130_WAITAMINUTE": {
+        "ID": "CP_130_WAITAMINUTE",
+        "Text": "稍等一下"
+      },
+      "CP_130_CHANGE": {
+        "ID": "CP_130_CHANGE",
+        "Text": "来变更吧"
+      },
+      "CP_130_ITWASAGOODMATCH": {
+        "ID": "CP_130_ITWASAGOODMATCH",
+        "Text": "这是场好比赛"
+      },
+      "CP_130_EXIT": {
+        "ID": "CP_130_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_130_LETSATTACK": {
+        "ID": "CP_130_LETSATTACK",
+        "Text": "进攻吧"
+      },
+      "CP_130_FIGHTCAREFULLY": {
+        "ID": "CP_130_FIGHTCAREFULLY",
+        "Text": "用点心机吧"
+      }
+    }
+  }
+]

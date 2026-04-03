@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_GREETING_1": {
+        "ID": "CP_140_GREETING_1",
+        "Text": "Je me passerai des présentations."
+      },
+      "CP_140_GREETING_2": {
+        "ID": "CP_140_GREETING_2",
+        "Text": "Montre-moi ce que tu sais faire."
+      },
+      "CP_140_PRAISE_1": {
+        "ID": "CP_140_PRAISE_1",
+        "Text": "C'était digne d'éloges."
+      },
+      "CP_140_PRAISE_2": {
+        "ID": "CP_140_PRAISE_2",
+        "Text": "Tu as fait ce qu'il fallait."
+      },
+      "CP_140_FOLLOW": {
+        "ID": "CP_140_FOLLOW",
+        "Text": "T'inquiète pas pour ça."
+      },
+      "CP_140_APOLOGY": {
+        "ID": "CP_140_APOLOGY",
+        "Text": "J'ai raté mon coup."
+      },
+      "CP_140_GRATITUDE_1": {
+        "ID": "CP_140_GRATITUDE_1",
+        "Text": "N'attends pas de remerciements de ma part."
+      },
+      "CP_140_GRATITUDE_2": {
+        "ID": "CP_140_GRATITUDE_2",
+        "Text": "Ne crois pas que je te suis redevable."
+      },
+      "CP_140_GOODBYE": {
+        "ID": "CP_140_GOODBYE",
+        "Text": "Au revoir."
+      },
+      "CP_140_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_140_THANKYOUFORYOURHARDWORK",
+        "Text": "Tu t'es bien battu."
+      },
+      "CP_140_ROGERTHAT": {
+        "ID": "CP_140_ROGERTHAT",
+        "Text": "OK."
+      },
+      "CP_140_REJECTION": {
+        "ID": "CP_140_REJECTION",
+        "Text": "Inutile."
+      },
+      "CP_140_ENCOURAGEMENT": {
+        "ID": "CP_140_ENCOURAGEMENT",
+        "Text": "Oh, ce n'est pas fini."
+      },
+      "CP_140_PINCH": {
+        "ID": "CP_140_PINCH",
+        "Text": "J'ai atteint mes limites."
+      },
+      "CP_140_COMEFORWARD": {
+        "ID": "CP_140_COMEFORWARD",
+        "Text": "Je passe devant."
+      },
+      "CP_140_COMEFORWARD_OUT": {
+        "ID": "CP_140_COMEFORWARD_OUT",
+        "Text": "Je passe devant."
+      },
+      "CP_140_GODOWN": {
+        "ID": "CP_140_GODOWN",
+        "Text": "Je recule."
+      },
+      "CP_140_GODOWN_OUT": {
+        "ID": "CP_140_GODOWN_OUT",
+        "Text": "Je recule."
+      },
+      "CP_140_NOTE": {
+        "ID": "CP_140_NOTE",
+        "Text": "Reste sur tes gardes."
+      },
+      "CP_140_AIMATTHETARGET": {
+        "ID": "CP_140_AIMATTHETARGET",
+        "Text": "Je m'occupe de cette cible."
+      },
+      "CP_140_AIMFORAJOINTATTACK": {
+        "ID": "CP_140_AIMFORAJOINTATTACK",
+        "Text": "On va faire notre combo."
+      },
+      "CP_140_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_140_AIMFORAJOINTATTACK_OUT",
+        "Text": "On va faire notre combo."
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Je vais lancer une technique éveillée."
+      },
+      "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_140_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Je vais lancer une technique éveillée."
+      },
+      "CP_140_FIGHTCLOSEBY": {
+        "ID": "CP_140_FIGHTCLOSEBY",
+        "Text": "Rapproche-toi."
+      },
+      "CP_140_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_140_FIGHTCLOSEBY_OUT",
+        "Text": "Rapproche-toi."
+      },
+      "CP_140_FIGHTAWAY": {
+        "ID": "CP_140_FIGHTAWAY",
+        "Text": "Garde tes distances."
+      },
+      "CP_140_FIGHTAWAY_OUT": {
+        "ID": "CP_140_FIGHTAWAY_OUT",
+        "Text": "Garde tes distances."
+      },
+      "CP_140_LETMETAKECAREOFTHAT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT",
+        "Text": "Tu ne sers à rien."
+      },
+      "CP_140_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_140_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Tu ne sers à rien."
+      },
+      "CP_140_LETSWORKTOGETHER": {
+        "ID": "CP_140_LETSWORKTOGETHER",
+        "Text": "Attaquons ensemble."
+      },
+      "CP_140_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_140_LETSWORKTOGETHER_OUT",
+        "Text": "Attaquons ensemble."
+      },
+      "CP_140_LEVELREPORT_LOW": {
+        "ID": "CP_140_LEVELREPORT_LOW",
+        "Text": "Pas assez d'énergie occulte."
+      },
+      "CP_140_LEVELREPORT_MEDIUM": {
+        "ID": "CP_140_LEVELREPORT_MEDIUM",
+        "Text": "Il est trop tôt pour déchaîner toute ma puissance."
+      },
+      "CP_140_LEVELREPORT_HIGH": {
+        "ID": "CP_140_LEVELREPORT_HIGH",
+        "Text": "Il est temps d'en finir."
+      },
+      "CP_140_PROVOCATION_1": {
+        "ID": "CP_140_PROVOCATION_1",
+        "Text": "Tu ne sens pas le danger ? Pas du tout ?"
+      },
+      "CP_140_PROVOCATION_2": {
+        "ID": "CP_140_PROVOCATION_2",
+        "Text": "On est moins sûr de soi, hein ?"
+      },
+      "CP_140_RESPECT_1": {
+        "ID": "CP_140_RESPECT_1",
+        "Text": "Tu te débrouilles pas mal du tout."
+      },
+      "CP_140_RESPECT_2": {
+        "ID": "CP_140_RESPECT_2",
+        "Text": "Ça, ça me plaît."
+      },
+      "CP_140_UNIQUE_1": {
+        "ID": "CP_140_UNIQUE_1",
+        "Text": "C'est franchement répugnant."
+      },
+      "CP_140_UNIQUE_2": {
+        "ID": "CP_140_UNIQUE_2",
+        "Text": "La colère ou la folie meurtrière sont bien authentiques."
+      },
+      "CP_140_UNIQUE_3": {
+        "ID": "CP_140_UNIQUE_3",
+        "Text": "Espèce de crevure."
+      },
+      "CP_140_UNIQUE_4": {
+        "ID": "CP_140_UNIQUE_4",
+        "Text": "De quoi tu m'as traité ?"
+      },
+      "CP_140_UNIQUE_5": {
+        "ID": "CP_140_UNIQUE_5",
+        "Text": "Il me suffit de l'attirer de force dans mon territoire."
+      },
+      "CP_140_UNIQUE_6": {
+        "ID": "CP_140_UNIQUE_6",
+        "Text": "Enfoiré !"
+      },
+      "CP_140_UNIQUE_7": {
+        "ID": "CP_140_UNIQUE_7",
+        "Text": "J'espère que ce n'est pas qu'un prétexte."
+      },
+      "CP_140_UNIQUE_8": {
+        "ID": "CP_140_UNIQUE_8",
+        "Text": "Quel est son secret ?"
+      },
+      "CP_140_UNIQUE_9": {
+        "ID": "CP_140_UNIQUE_9",
+        "Text": "C'est ça que tu appelles « sains et saufs » ?"
+      },
+      "CP_140_UNIQUE_10": {
+        "ID": "CP_140_UNIQUE_10",
+        "Text": "Je serai même pas là."
+      },
+      "CP_140_READY": {
+        "ID": "CP_140_READY",
+        "Text": "Je suis prêt, maintenant."
+      },
+      "CP_140_UNDERSTOODOKAY": {
+        "ID": "CP_140_UNDERSTOODOKAY",
+        "Text": "OK."
+      },
+      "CP_140_ENDSWITH": {
+        "ID": "CP_140_ENDSWITH",
+        "Text": "Je vais en finir avec mon prochain coup."
+      },
+      "CP_140_WAITAMINUTE": {
+        "ID": "CP_140_WAITAMINUTE",
+        "Text": "Attends un peu."
+      },
+      "CP_140_CHANGE": {
+        "ID": "CP_140_CHANGE",
+        "Text": "Je change."
+      },
+      "CP_140_ITWASAGOODMATCH": {
+        "ID": "CP_140_ITWASAGOODMATCH",
+        "Text": "C'était un beau match."
+      },
+      "CP_140_EXIT": {
+        "ID": "CP_140_EXIT",
+        "Text": "Je m'en vais."
+      },
+      "CP_140_LETSATTACK": {
+        "ID": "CP_140_LETSATTACK",
+        "Text": "Je vais régler ça en moins de deux."
+      },
+      "CP_140_FIGHTCAREFULLY": {
+        "ID": "CP_140_FIGHTCAREFULLY",
+        "Text": "Ne prenons aucun risque."
+      }
+    }
+  }
+]

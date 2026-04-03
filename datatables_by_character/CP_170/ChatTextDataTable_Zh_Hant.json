@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_GREETING_1": {
+        "ID": "CP_170_GREETING_1",
+        "Text": "請多指教"
+      },
+      "CP_170_GREETING_2": {
+        "ID": "CP_170_GREETING_2",
+        "Text": "你可別拖累我啊"
+      },
+      "CP_170_PRAISE_1": {
+        "ID": "CP_170_PRAISE_1",
+        "Text": "我也可以誇獎你一下喔"
+      },
+      "CP_170_PRAISE_2": {
+        "ID": "CP_170_PRAISE_2",
+        "Text": "你還滿厲害的嘛"
+      },
+      "CP_170_FOLLOW": {
+        "ID": "CP_170_FOLLOW",
+        "Text": "不是你的錯"
+      },
+      "CP_170_APOLOGY": {
+        "ID": "CP_170_APOLOGY",
+        "Text": "抱歉啊"
+      },
+      "CP_170_GRATITUDE_1": {
+        "ID": "CP_170_GRATITUDE_1",
+        "Text": "先當你欠我一次"
+      },
+      "CP_170_GRATITUDE_2": {
+        "ID": "CP_170_GRATITUDE_2",
+        "Text": "謝謝"
+      },
+      "CP_170_GOODBYE": {
+        "ID": "CP_170_GOODBYE",
+        "Text": "下次再見面吧？"
+      },
+      "CP_170_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_170_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_170_ROGERTHAT": {
+        "ID": "CP_170_ROGERTHAT",
+        "Text": "知道了"
+      },
+      "CP_170_REJECTION": {
+        "ID": "CP_170_REJECTION",
+        "Text": "不要"
+      },
+      "CP_170_ENCOURAGEMENT": {
+        "ID": "CP_170_ENCOURAGEMENT",
+        "Text": "我認為你不只有這樣"
+      },
+      "CP_170_PINCH": {
+        "ID": "CP_170_PINCH",
+        "Text": "這樣下去就……！"
+      },
+      "CP_170_COMEFORWARD": {
+        "ID": "CP_170_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_170_COMEFORWARD_OUT": {
+        "ID": "CP_170_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_170_GODOWN": {
+        "ID": "CP_170_GODOWN",
+        "Text": "我先拉開距離"
+      },
+      "CP_170_GODOWN_OUT": {
+        "ID": "CP_170_GODOWN_OUT",
+        "Text": "我先拉開距離"
+      },
+      "CP_170_NOTE": {
+        "ID": "CP_170_NOTE",
+        "Text": "那裡很危險！"
+      },
+      "CP_170_AIMATTHETARGET": {
+        "ID": "CP_170_AIMATTHETARGET",
+        "Text": "我來了結那傢伙"
+      },
+      "CP_170_AIMFORAJOINTATTACK": {
+        "ID": "CP_170_AIMFORAJOINTATTACK",
+        "Text": "試著配合我用共連擊"
+      },
+      "CP_170_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_170_AIMFORAJOINTATTACK_OUT",
+        "Text": "試著配合我用共連擊"
+      },
+      "CP_170_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_170_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "我要用覺醒技"
+      },
+      "CP_170_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_170_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "我要用覺醒技"
+      },
+      "CP_170_FIGHTCLOSEBY": {
+        "ID": "CP_170_FIGHTCLOSEBY",
+        "Text": "應該在近距離戰鬥"
+      },
+      "CP_170_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_170_FIGHTCLOSEBY_OUT",
+        "Text": "應該在近距離戰鬥"
+      },
+      "CP_170_FIGHTAWAY": {
+        "ID": "CP_170_FIGHTAWAY",
+        "Text": "應該先拉開距離"
+      },
+      "CP_170_FIGHTAWAY_OUT": {
+        "ID": "CP_170_FIGHTAWAY_OUT",
+        "Text": "應該先拉開距離"
+      },
+      "CP_170_LETMETAKECAREOFTHAT": {
+        "ID": "CP_170_LETMETAKECAREOFTHAT",
+        "Text": "交給我"
+      },
+      "CP_170_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_170_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交給我"
+      },
+      "CP_170_LETSWORKTOGETHER": {
+        "ID": "CP_170_LETSWORKTOGETHER",
+        "Text": "支援就交給我"
+      },
+      "CP_170_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_170_LETSWORKTOGETHER_OUT",
+        "Text": "支援就交給我"
+      },
+      "CP_170_LEVELREPORT_LOW": {
+        "ID": "CP_170_LEVELREPORT_LOW",
+        "Text": "還不是時候"
+      },
+      "CP_170_LEVELREPORT_MEDIUM": {
+        "ID": "CP_170_LEVELREPORT_MEDIUM",
+        "Text": "不可以大意"
+      },
+      "CP_170_LEVELREPORT_HIGH": {
+        "ID": "CP_170_LEVELREPORT_HIGH",
+        "Text": "差不多該認真了"
+      },
+      "CP_170_PROVOCATION_1": {
+        "ID": "CP_170_PROVOCATION_1",
+        "Text": "我來教你怎麼說話"
+      },
+      "CP_170_PROVOCATION_2": {
+        "ID": "CP_170_PROVOCATION_2",
+        "Text": "你碰得到我嗎"
+      },
+      "CP_170_RESPECT_1": {
+        "ID": "CP_170_RESPECT_1",
+        "Text": "你真強啊"
+      },
+      "CP_170_RESPECT_2": {
+        "ID": "CP_170_RESPECT_2",
+        "Text": "你比我想像中厲害"
+      },
+      "CP_170_UNIQUE_1": {
+        "ID": "CP_170_UNIQUE_1",
+        "Text": "真是任性的人！"
+      },
+      "CP_170_UNIQUE_2": {
+        "ID": "CP_170_UNIQUE_2",
+        "Text": "偶爾也該像這樣往下看"
+      },
+      "CP_170_UNIQUE_3": {
+        "ID": "CP_170_UNIQUE_3",
+        "Text": "你在笑什麼！"
+      },
+      "CP_170_UNIQUE_4": {
+        "ID": "CP_170_UNIQUE_4",
+        "Text": "要挑釁的話記得先找對人"
+      },
+      "CP_170_UNIQUE_5": {
+        "ID": "CP_170_UNIQUE_5",
+        "Text": "你很瘋耶"
+      },
+      "CP_170_UNIQUE_6": {
+        "ID": "CP_170_UNIQUE_6",
+        "Text": "什麼？想打嗎？"
+      },
+      "CP_170_UNIQUE_7": {
+        "ID": "CP_170_UNIQUE_7",
+        "Text": "我之後再安慰你"
+      },
+      "CP_170_UNIQUE_8": {
+        "ID": "CP_170_UNIQUE_8",
+        "Text": "騙子……"
+      },
+      "CP_170_UNIQUE_9": {
+        "ID": "CP_170_UNIQUE_9",
+        "Text": "可不會這樣就了事喔"
+      },
+      "CP_170_UNIQUE_10": {
+        "ID": "CP_170_UNIQUE_10",
+        "Text": "你對機械很熟呢，是阿宅嗎？"
+      },
+      "CP_170_UNIQUE_11": {
+        "ID": "CP_170_UNIQUE_11",
+        "Text": "啊？"
+      },
+      "CP_170_READY": {
+        "ID": "CP_170_READY",
+        "Text": "要讓我等多久？"
+      },
+      "CP_170_UNDERSTOODOKAY": {
+        "ID": "CP_170_UNDERSTOODOKAY",
+        "Text": "嗯"
+      },
+      "CP_170_ENDSWITH": {
+        "ID": "CP_170_ENDSWITH",
+        "Text": "這次是最後了"
+      },
+      "CP_170_WAITAMINUTE": {
+        "ID": "CP_170_WAITAMINUTE",
+        "Text": "可以等我一下嗎"
+      },
+      "CP_170_CHANGE": {
+        "ID": "CP_170_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_170_ITWASAGOODMATCH": {
+        "ID": "CP_170_ITWASAGOODMATCH",
+        "Text": "這場比賽不錯"
+      },
+      "CP_170_EXIT": {
+        "ID": "CP_170_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_170_LETSATTACK": {
+        "ID": "CP_170_LETSATTACK",
+        "Text": "現在是進攻的時候吧"
+      },
+      "CP_170_FIGHTCAREFULLY": {
+        "ID": "CP_170_FIGHTCAREFULLY",
+        "Text": "應該慎重行動"
+      }
+    }
+  }
+]

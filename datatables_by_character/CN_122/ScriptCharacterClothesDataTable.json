@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ScriptCharacterClothesDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ScriptCharacterClothes'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_122_00": {
+        "ID": "CN_122_00",
+        "ClothesFileName": "T_UI_STDM_CN_122_00",
+        "FacialFileName": [
+          "T_UI_STDM_CN_122_00_00",
+          "T_UI_STDM_CN_122_00_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

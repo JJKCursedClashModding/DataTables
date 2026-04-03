@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_It",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240_GREETING_1": {
+        "ID": "CP_240_GREETING_1",
+        "Text": "Mi fa piacere collaborare."
+      },
+      "CP_240_GREETING_2": {
+        "ID": "CP_240_GREETING_2",
+        "Text": "Mi auguro di poterci divertire un po'."
+      },
+      "CP_240_PRAISE_1": {
+        "ID": "CP_240_PRAISE_1",
+        "Text": "Eheh, niente male."
+      },
+      "CP_240_PRAISE_2": {
+        "ID": "CP_240_PRAISE_2",
+        "Text": "Sei incredibile."
+      },
+      "CP_240_FOLLOW": {
+        "ID": "CP_240_FOLLOW",
+        "Text": "Nessun problema."
+      },
+      "CP_240_APOLOGY": {
+        "ID": "CP_240_APOLOGY",
+        "Text": "Chiedo scusa."
+      },
+      "CP_240_GRATITUDE_1": {
+        "ID": "CP_240_GRATITUDE_1",
+        "Text": "Sei una vera garanzia. Grazie."
+      },
+      "CP_240_GRATITUDE_2": {
+        "ID": "CP_240_GRATITUDE_2",
+        "Text": "Devo ringraziarti."
+      },
+      "CP_240_GOODBYE": {
+        "ID": "CP_240_GOODBYE",
+        "Text": "Vado io."
+      },
+      "CP_240_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_240_THANKYOUFORYOURHARDWORK",
+        "Text": "Ben fatto."
+      },
+      "CP_240_ROGERTHAT": {
+        "ID": "CP_240_ROGERTHAT",
+        "Text": "Comprendo perfettamente."
+      },
+      "CP_240_REJECTION": {
+        "ID": "CP_240_REJECTION",
+        "Text": "Spiacente, ma devo dissentire."
+      },
+      "CP_240_ENCOURAGEMENT": {
+        "ID": "CP_240_ENCOURAGEMENT",
+        "Text": "Sei meglio di così."
+      },
+      "CP_240_PINCH": {
+        "ID": "CP_240_PINCH",
+        "Text": "Ho fatto un casino?"
+      },
+      "CP_240_COMEFORWARD": {
+        "ID": "CP_240_COMEFORWARD",
+        "Text": "Qui ci penso io."
+      },
+      "CP_240_COMEFORWARD_OUT": {
+        "ID": "CP_240_COMEFORWARD_OUT",
+        "Text": "Qui ci penso io."
+      },
+      "CP_240_GODOWN": {
+        "ID": "CP_240_GODOWN",
+        "Text": "Forse è meglio farsi da parte."
+      },
+      "CP_240_GODOWN_OUT": {
+        "ID": "CP_240_GODOWN_OUT",
+        "Text": "Forse è meglio farsi da parte."
+      },
+      "CP_240_NOTE": {
+        "ID": "CP_240_NOTE",
+        "Text": "Attenzione."
+      },
+      "CP_240_AIMATTHETARGET": {
+        "ID": "CP_240_AIMATTHETARGET",
+        "Text": "L'altro lo lascio a te."
+      },
+      "CP_240_AIMFORAJOINTATTACK": {
+        "ID": "CP_240_AIMFORAJOINTATTACK",
+        "Text": "Usiamo la nostra combo."
+      },
+      "CP_240_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_240_AIMFORAJOINTATTACK_OUT",
+        "Text": "Usiamo la nostra combo."
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "È il momento di una Mossa Risveglio."
+      },
+      "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_240_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "È il momento di una Mossa Risveglio."
+      },
+      "CP_240_FIGHTCLOSEBY": {
+        "ID": "CP_240_FIGHTCLOSEBY",
+        "Text": "Puoi avvicinarti?"
+      },
+      "CP_240_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_240_FIGHTCLOSEBY_OUT",
+        "Text": "Puoi avvicinarti?"
+      },
+      "CP_240_FIGHTAWAY": {
+        "ID": "CP_240_FIGHTAWAY",
+        "Text": "Pensi di potermi sfuggire?"
+      },
+      "CP_240_FIGHTAWAY_OUT": {
+        "ID": "CP_240_FIGHTAWAY_OUT",
+        "Text": "Pensi di potermi sfuggire?"
+      },
+      "CP_240_LETMETAKECAREOFTHAT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT",
+        "Text": "Vado."
+      },
+      "CP_240_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_240_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Vado."
+      },
+      "CP_240_LETSWORKTOGETHER": {
+        "ID": "CP_240_LETSWORKTOGETHER",
+        "Text": "Ti va di collaborare?"
+      },
+      "CP_240_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_240_LETSWORKTOGETHER_OUT",
+        "Text": "Ti va di collaborare?"
+      },
+      "CP_240_LEVELREPORT_LOW": {
+        "ID": "CP_240_LEVELREPORT_LOW",
+        "Text": "Non adesso."
+      },
+      "CP_240_LEVELREPORT_MEDIUM": {
+        "ID": "CP_240_LEVELREPORT_MEDIUM",
+        "Text": "È ora di andare?"
+      },
+      "CP_240_LEVELREPORT_HIGH": {
+        "ID": "CP_240_LEVELREPORT_HIGH",
+        "Text": "La generosità è un lusso che non posso concedermi."
+      },
+      "CP_240_PROVOCATION_1": {
+        "ID": "CP_240_PROVOCATION_1",
+        "Text": "Non ci guadagno niente da questo incontro."
+      },
+      "CP_240_PROVOCATION_2": {
+        "ID": "CP_240_PROVOCATION_2",
+        "Text": "Tu contro di me? Beh, non c'è partita, direi."
+      },
+      "CP_240_RESPECT_1": {
+        "ID": "CP_240_RESPECT_1",
+        "Text": "Che tipo interessante."
+      },
+      "CP_240_RESPECT_2": {
+        "ID": "CP_240_RESPECT_2",
+        "Text": "Temo che il mio giudizio nei tuoi confronti sia stato fallace."
+      },
+      "CP_240_UNIQUE_1": {
+        "ID": "CP_240_UNIQUE_1",
+        "Text": "Una vita passata a incarnare il potenziale inespresso."
+      },
+      "CP_240_UNIQUE_2": {
+        "ID": "CP_240_UNIQUE_2",
+        "Text": "Sono dalla parte dei soldi, ovvio."
+      },
+      "CP_240_UNIQUE_3": {
+        "ID": "CP_240_UNIQUE_3",
+        "Text": "Muori per me, d'accordo?"
+      },
+      "CP_240_UNIQUE_4": {
+        "ID": "CP_240_UNIQUE_4",
+        "Text": "Non vedo l'ora di ricevere i soldi extra."
+      },
+      "CP_240_UNIQUE_5": {
+        "ID": "CP_240_UNIQUE_5",
+        "Text": "Una cosa che non può essere scambiata per soldi non ha alcun valore. Se non puoi guadagnarci, a che serve?"
+      },
+      "CP_240_UNIQUE_6": {
+        "ID": "CP_240_UNIQUE_6",
+        "Text": "Non capisco tutto questo contegno, a meno che non sia per soldi."
+      },
+      "CP_240_UNIQUE_7": {
+        "ID": "CP_240_UNIQUE_7",
+        "Text": "Oh, è da anni che non rischio la vita."
+      },
+      "CP_240_UNIQUE_8": {
+        "ID": "CP_240_UNIQUE_8",
+        "Text": "Secondo te, a cosa possono corrispondere il peso e il valore della vita?"
+      },
+      "CP_240_UNIQUE_9": {
+        "ID": "CP_240_UNIQUE_9",
+        "Text": "Mi sono allenata duramente per poter combattere senza la mia tecnica."
+      },
+      "CP_240_UNIQUE_10": {
+        "ID": "CP_240_UNIQUE_10",
+        "Text": "Non sono una a cui piace essere in debito."
+      },
+      "CP_240_UNIQUE_11": {
+        "ID": "CP_240_UNIQUE_11",
+        "Text": "La mia tecnica mi permette solo di controllare gli uccelli."
+      },
+      "CP_240_READY": {
+        "ID": "CP_240_READY",
+        "Text": "Sono pronta ad andare."
+      },
+      "CP_240_UNDERSTOODOKAY": {
+        "ID": "CP_240_UNDERSTOODOKAY",
+        "Text": "OK."
+      },
+      "CP_240_ENDSWITH": {
+        "ID": "CP_240_ENDSWITH",
+        "Text": "Ora vado io."
+      },
+      "CP_240_WAITAMINUTE": {
+        "ID": "CP_240_WAITAMINUTE",
+        "Text": "Puoi aspettare un attimo?"
+      },
+      "CP_240_CHANGE": {
+        "ID": "CP_240_CHANGE",
+        "Text": "Permettimi."
+      },
+      "CP_240_ITWASAGOODMATCH": {
+        "ID": "CP_240_ITWASAGOODMATCH",
+        "Text": "Eheh, questo sì che è stato un bell'incontro."
+      },
+      "CP_240_EXIT": {
+        "ID": "CP_240_EXIT",
+        "Text": "Mi ritiro."
+      },
+      "CP_240_LETSATTACK": {
+        "ID": "CP_240_LETSATTACK",
+        "Text": "È ora di colpire."
+      },
+      "CP_240_FIGHTCAREFULLY": {
+        "ID": "CP_240_FIGHTCAREFULLY",
+        "Text": "Dobbiamo fare attenzione."
+      }
+    }
+  }
+]

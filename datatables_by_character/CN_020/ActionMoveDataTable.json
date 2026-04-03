@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActionMoveDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ActionMove'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_020": {
+        "ID": "CN_020",
+        "Foreground_Angle": 180,
+        "Foreground_Speed_Rate": 1,
+        "Target_Speed_Distance": 1500,
+        "Target_Speed_Rate": 0.8,
+        "ParallelAttack_Speed_Rate": 1,
+        "Run_Rotation_Time": 0.175,
+        "Run_Speed_Start": 550,
+        "Run_Speed_End": 650,
+        "Run_InterpolateTime": 0.5,
+        "Run_EasingType": "EGameEasingType::None",
+        "Run_Blend_Exp": 2,
+        "Run_Rotation_Rate": 0.2,
+        "Run_Inertia_Rate": 0.5,
+        "Run_Inertia_Time": 0.5,
+        "Run_Lean_Rate": 0.3,
+        "Run_Lean_Max": 1,
+        "Guard_Inertia_Rate": 0.5,
+        "Guard_Inertia_RateZ": 0.5,
+        "GuardAir_Inertia_Rate": 0.3,
+        "GuardAir_Inertia_RateZ": 0.5,
+        "GuardAir_Speed_Start": 10,
+        "GuardAir_Speed_End": 2000,
+        "GuardAir_InterpolateTime": 0.5,
+        "GuardAir_EasingType": "EGameEasingType::None",
+        "GuardAir_Blend_Exp": 0.5,
+        "Landing_Inertia_Rate": 0.3,
+        "Landing_Inertia_RateZ": 0.5,
+        "Rigidity_Landing": "EGameActionRigidityType::Normal"
+      }
+    }
+  }
+]

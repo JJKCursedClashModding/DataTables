@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterEffectDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterEffect'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020": {
+        "ID": "CP_020",
+        "bUseAuraEffectEnabled": true,
+        "CursedEnergy_AuraColor": {
+          "R": 0.01,
+          "G": 0.01,
+          "B": 0.01,
+          "A": 1,
+          "Hex": "191919"
+        },
+        "CursedEnergy_BrightAuraColor": {
+          "R": 10,
+          "G": 1,
+          "B": 1,
+          "A": 1,
+          "Hex": "FFFFFF"
+        },
+        "Disappear_FogColor": {
+          "R": 0.03,
+          "G": 0.03,
+          "B": 0.03,
+          "A": 1,
+          "Hex": "303030"
+        },
+        "Disappear_GlowColor": {
+          "R": 0.03,
+          "G": 0.03,
+          "B": 0.03,
+          "A": 1,
+          "Hex": "303030"
+        },
+        "Id_Effect_CursedEnergy_LevelUp": "FX_CP_020_00312",
+        "Id_Effect_CursedEnergy_Aura_2": "FX_CP_020_00321",
+        "Id_Effect_CursedEnergy_Aura_3": "FX_CP_020_00331",
+        "Id_Effect_Tension_LevelUp": "None",
+        "Id_Effect_Tension_Aura_2": "None",
+        "Id_Effect_Tension_Aura_3": "None",
+        "BuffDebuffEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "MapGroundEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "SimpleDomainCounterEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "ProjectionSorceryEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FreezingRestraintEffectScale": {
+          "X": 1.1,
+          "Y": 1.1,
+          "Z": 1
+        },
+        "FreezingRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "CentipedeRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "FileName_BP": [
+          "FX_CP_020_00111_BP",
+          "FX_CP_020_00211_BP",
+          "FX_CP_020_00312_BP",
+          "FX_CP_020_00321_BP",
+          "FX_CP_020_00331_BP",
+          "FX_CP_020_01101_BP",
+          "FX_CP_020_01111_BP",
+          "FX_CP_020_01211_BP",
+          "FX_CP_020_01221_BP",
+          "FX_CP_020_07121_BP",
+          "FX_CP_020_07122_BP",
+          "FX_CP_020_07131_BP",
+          "FX_CP_020_07132_BP",
+          "FX_CP_020_08121_BP",
+          "FX_CP_020_08122_BP",
+          "FX_CP_020_08123_BP",
+          "FX_CP_020_08124_BP",
+          "FX_CP_020_08125_BP",
+          "FX_CP_020_08131_BP",
+          "FX_CP_020_08132_BP",
+          "FX_CP_020_08135_BP",
+          "FX_CP_020_09101_BP",
+          "FX_CP_020_00341_BP",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

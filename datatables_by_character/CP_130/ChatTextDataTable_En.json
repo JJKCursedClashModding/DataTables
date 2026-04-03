@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_130_GREETING_1": {
+        "ID": "CP_130_GREETING_1",
+        "Text": "Let's do this!"
+      },
+      "CP_130_GREETING_2": {
+        "ID": "CP_130_GREETING_2",
+        "Text": "Show me a good time, would you?"
+      },
+      "CP_130_PRAISE_1": {
+        "ID": "CP_130_PRAISE_1",
+        "Text": "Your speed is impressive."
+      },
+      "CP_130_PRAISE_2": {
+        "ID": "CP_130_PRAISE_2",
+        "Text": "You have talent."
+      },
+      "CP_130_FOLLOW": {
+        "ID": "CP_130_FOLLOW",
+        "Text": "Don't let that worry you."
+      },
+      "CP_130_APOLOGY": {
+        "ID": "CP_130_APOLOGY",
+        "Text": "Ah, sorry!"
+      },
+      "CP_130_GRATITUDE_1": {
+        "ID": "CP_130_GRATITUDE_1",
+        "Text": "I'm grateful."
+      },
+      "CP_130_GRATITUDE_2": {
+        "ID": "CP_130_GRATITUDE_2",
+        "Text": "You're a big help."
+      },
+      "CP_130_GOODBYE": {
+        "ID": "CP_130_GOODBYE",
+        "Text": "That was fun."
+      },
+      "CP_130_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_130_THANKYOUFORYOURHARDWORK",
+        "Text": "Nice work."
+      },
+      "CP_130_ROGERTHAT": {
+        "ID": "CP_130_ROGERTHAT",
+        "Text": "All right."
+      },
+      "CP_130_REJECTION": {
+        "ID": "CP_130_REJECTION",
+        "Text": "I refuse."
+      },
+      "CP_130_ENCOURAGEMENT": {
+        "ID": "CP_130_ENCOURAGEMENT",
+        "Text": "Come on!"
+      },
+      "CP_130_PINCH": {
+        "ID": "CP_130_PINCH",
+        "Text": "Uh oh."
+      },
+      "CP_130_COMEFORWARD": {
+        "ID": "CP_130_COMEFORWARD",
+        "Text": "I'll go ahead."
+      },
+      "CP_130_COMEFORWARD_OUT": {
+        "ID": "CP_130_COMEFORWARD_OUT",
+        "Text": "I'll go ahead."
+      },
+      "CP_130_GODOWN": {
+        "ID": "CP_130_GODOWN",
+        "Text": "Over to you."
+      },
+      "CP_130_GODOWN_OUT": {
+        "ID": "CP_130_GODOWN_OUT",
+        "Text": "Over to you."
+      },
+      "CP_130_NOTE": {
+        "ID": "CP_130_NOTE",
+        "Text": "I should dodge this."
+      },
+      "CP_130_AIMATTHETARGET": {
+        "ID": "CP_130_AIMATTHETARGET",
+        "Text": "I'll take care of this one."
+      },
+      "CP_130_AIMFORAJOINTATTACK": {
+        "ID": "CP_130_AIMFORAJOINTATTACK",
+        "Text": "Join me for this attack."
+      },
+      "CP_130_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_130_AIMFORAJOINTATTACK_OUT",
+        "Text": "Join me for this attack."
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Here goes an awakened move."
+      },
+      "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_130_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Here goes an awakened move."
+      },
+      "CP_130_FIGHTCLOSEBY": {
+        "ID": "CP_130_FIGHTCLOSEBY",
+        "Text": "Come over here."
+      },
+      "CP_130_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_130_FIGHTCLOSEBY_OUT",
+        "Text": "Come over here."
+      },
+      "CP_130_FIGHTAWAY": {
+        "ID": "CP_130_FIGHTAWAY",
+        "Text": "Let's fight from a distance."
+      },
+      "CP_130_FIGHTAWAY_OUT": {
+        "ID": "CP_130_FIGHTAWAY_OUT",
+        "Text": "Let's fight from a distance."
+      },
+      "CP_130_LETMETAKECAREOFTHAT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT",
+        "Text": "I got this!"
+      },
+      "CP_130_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_130_LETMETAKECAREOFTHAT_OUT",
+        "Text": "I got this!"
+      },
+      "CP_130_LETSWORKTOGETHER": {
+        "ID": "CP_130_LETSWORKTOGETHER",
+        "Text": "Let's work together."
+      },
+      "CP_130_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_130_LETSWORKTOGETHER_OUT",
+        "Text": "Let's work together."
+      },
+      "CP_130_LEVELREPORT_LOW": {
+        "ID": "CP_130_LEVELREPORT_LOW",
+        "Text": "Not enough Cursed Energy."
+      },
+      "CP_130_LEVELREPORT_MEDIUM": {
+        "ID": "CP_130_LEVELREPORT_MEDIUM",
+        "Text": "And that should do it."
+      },
+      "CP_130_LEVELREPORT_HIGH": {
+        "ID": "CP_130_LEVELREPORT_HIGH",
+        "Text": "Want to see what I'm capable of?"
+      },
+      "CP_130_PROVOCATION_1": {
+        "ID": "CP_130_PROVOCATION_1",
+        "Text": "The experiment won't really work if you're too weak."
+      },
+      "CP_130_PROVOCATION_2": {
+        "ID": "CP_130_PROVOCATION_2",
+        "Text": "Humph. Nothing special."
+      },
+      "CP_130_RESPECT_1": {
+        "ID": "CP_130_RESPECT_1",
+        "Text": "Ha ha! How interesting!"
+      },
+      "CP_130_RESPECT_2": {
+        "ID": "CP_130_RESPECT_2",
+        "Text": "You'll make the perfect test subject."
+      },
+      "CP_130_UNIQUE_1": {
+        "ID": "CP_130_UNIQUE_1",
+        "Text": "You ought to learn some manners."
+      },
+      "CP_130_UNIQUE_2": {
+        "ID": "CP_130_UNIQUE_2",
+        "Text": "The shape of the body is therefore always determined by the shape of the soul."
+      },
+      "CP_130_UNIQUE_3": {
+        "ID": "CP_130_UNIQUE_3",
+        "Text": "You're sounding more like a Curse every day."
+      },
+      "CP_130_UNIQUE_4": {
+        "ID": "CP_130_UNIQUE_4",
+        "Text": "Unlike his body, I can keep killing his soul over and over again."
+      },
+      "CP_130_UNIQUE_5": {
+        "ID": "CP_130_UNIQUE_5",
+        "Text": "I love how stress-free it can be talking to you."
+      },
+      "CP_130_UNIQUE_6": {
+        "ID": "CP_130_UNIQUE_6",
+        "Text": "What fresh inspiration this is."
+      },
+      "CP_130_UNIQUE_7": {
+        "ID": "CP_130_UNIQUE_7",
+        "Text": "Now, time for round two."
+      },
+      "CP_130_UNIQUE_8": {
+        "ID": "CP_130_UNIQUE_8",
+        "Text": "You suck at lying!"
+      },
+      "CP_130_UNIQUE_9": {
+        "ID": "CP_130_UNIQUE_9",
+        "Text": "Shall we share a little hug?"
+      },
+      "CP_130_UNIQUE_10": {
+        "ID": "CP_130_UNIQUE_10",
+        "Text": "Hehehe... Hahahahaha!"
+      },
+      "CP_130_READY": {
+        "ID": "CP_130_READY",
+        "Text": "I'm ready."
+      },
+      "CP_130_UNDERSTOODOKAY": {
+        "ID": "CP_130_UNDERSTOODOKAY",
+        "Text": "Okay."
+      },
+      "CP_130_ENDSWITH": {
+        "ID": "CP_130_ENDSWITH",
+        "Text": "The next one's the last."
+      },
+      "CP_130_WAITAMINUTE": {
+        "ID": "CP_130_WAITAMINUTE",
+        "Text": "Just a minute."
+      },
+      "CP_130_CHANGE": {
+        "ID": "CP_130_CHANGE",
+        "Text": "Let's change."
+      },
+      "CP_130_ITWASAGOODMATCH": {
+        "ID": "CP_130_ITWASAGOODMATCH",
+        "Text": "That was a good match."
+      },
+      "CP_130_EXIT": {
+        "ID": "CP_130_EXIT",
+        "Text": "I'm withdrawing."
+      },
+      "CP_130_LETSATTACK": {
+        "ID": "CP_130_LETSATTACK",
+        "Text": "Let's get 'em."
+      },
+      "CP_130_FIGHTCAREFULLY": {
+        "ID": "CP_130_FIGHTCAREFULLY",
+        "Text": "Let's be cunning."
+      }
+    }
+  }
+]

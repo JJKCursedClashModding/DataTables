@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ScriptCharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ScriptCharacter'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030": {
+        "ID": "CP_030",
+        "Id_ScriptCharacterClothes": [
+          "CP_030_00",
+          "CP_030_01",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

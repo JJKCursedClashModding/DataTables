@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030": {
+        "ID": "CP_030",
+        "FloatValue": [
+          5,
+          3500,
+          1000,
+          2,
+          3,
+          120,
+          400,
+          1,
+          150,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

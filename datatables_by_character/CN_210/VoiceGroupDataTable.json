@@ -1,0 +1,197 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_VoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_210_APPEARANCE_01": {
+        "ID": "CN_210_APPEARANCE_01",
+        "Id_Voice": [
+          "VoBtl_CN_210_Intro_1_011010",
+          "VoBtl_CN_210_Intro_1_021010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_APPEARANCE_02": {
+        "ID": "CN_210_APPEARANCE_02",
+        "Id_Voice": [
+          "VoBtl_CN_210_Intro_2_011010",
+          "VoBtl_CN_210_Intro_2_021010",
+          "VoBtl_CN_210_Intro_2_031010",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_VICTORY_01": {
+        "ID": "CN_210_VICTORY_01",
+        "Id_Voice": [
+          "VoBtl_CN_210_Victory_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_VICTORY_02": {
+        "ID": "CN_210_VICTORY_02",
+        "Id_Voice": [
+          "VoBtl_CN_210_Victory_2_011010",
+          "VoBtl_CN_210_Victory_2_021010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_START": {
+        "ID": "CN_210_START",
+        "Id_Voice": [
+          "VoBtl_CN_210_Intro_4_011010",
+          "VoBtl_CN_210_Intro_4_021010",
+          "VoBtl_CN_210_Intro_4_031010",
+          "VoBtl_CN_210_Intro_4_041010",
+          "None"
+        ]
+      },
+      "CN_210_IDLE": {
+        "ID": "CN_210_IDLE",
+        "Id_Voice": [
+          "VoBtl_CN_210_23_1_010010",
+          "VoBtl_CN_210_23_1_010020",
+          "VoBtl_CN_210_23_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_FIRSTATTACK": {
+        "ID": "CN_210_FIRSTATTACK",
+        "Id_Voice": [
+          "VoBtl_CN_210_26_1_010010",
+          "VoBtl_CN_210_26_1_010020",
+          "VoBtl_CN_210_26_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_LEVELUP_02": {
+        "ID": "CN_210_LEVELUP_02",
+        "Id_Voice": [
+          "VoBtl_CN_210_28_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_LEVELUP_03": {
+        "ID": "CN_210_LEVELUP_03",
+        "Id_Voice": [
+          "VoBtl_CN_210_29_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_LEVELUP_MAX": {
+        "ID": "CN_210_LEVELUP_MAX",
+        "Id_Voice": [
+          "VoBtl_CN_210_30_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_KILL": {
+        "ID": "CN_210_KILL",
+        "Id_Voice": [
+          "VoBtl_CN_210_32_1_010010",
+          "VoBtl_CN_210_32_1_010020",
+          "VoBtl_CN_210_32_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_TAGCOMBO_ATTACKER": {
+        "ID": "CN_210_TAGCOMBO_ATTACKER",
+        "Id_Voice": [
+          "VoBtl_CN_210_33_1_010010",
+          "VoBtl_CN_210_33_1_010020",
+          "VoBtl_CN_210_33_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_GUARDBREAK": {
+        "ID": "CN_210_GUARDBREAK",
+        "Id_Voice": [
+          "VoBtl_CN_210_46_1_010010",
+          "VoBtl_CN_210_46_1_010020",
+          "VoBtl_CN_210_46_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_DEAD": {
+        "ID": "CN_210_DEAD",
+        "Id_Voice": [
+          "VoBtl_CN_210_50_1_010010",
+          "VoBtl_CN_210_50_1_010020",
+          "VoBtl_CN_210_50_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_DOMAINEXPANSION_END": {
+        "ID": "CN_210_DOMAINEXPANSION_END",
+        "Id_Voice": [
+          "VoBtl_CN_210_68_1_010050",
+          "VoBtl_CN_210_68_1_010060",
+          "VoBtl_CN_210_68_1_010070",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_ALLY_DEAD": {
+        "ID": "CN_210_ALLY_DEAD",
+        "Id_Voice": [
+          "VoBtl_CN_210_69_1_010010",
+          "VoBtl_CN_210_69_1_010020",
+          "VoBtl_CN_210_69_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_TAGCOMBO_RECEIVER": {
+        "ID": "CN_210_TAGCOMBO_RECEIVER",
+        "Id_Voice": [
+          "VoBtl_CN_210_70_1_010010",
+          "VoBtl_CN_210_70_1_010020",
+          "VoBtl_CN_210_70_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_210_SPECIALATTACK_END": {
+        "ID": "CN_210_SPECIALATTACK_END",
+        "Id_Voice": [
+          "VoBtl_CN_210_71_1_010010",
+          "VoBtl_CN_210_71_1_010020",
+          "VoBtl_CN_210_71_1_010030",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

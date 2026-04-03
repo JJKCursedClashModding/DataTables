@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterEffectDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterEffect'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_120": {
+        "ID": "CP_120",
+        "bUseAuraEffectEnabled": true,
+        "CursedEnergy_AuraColor": {
+          "R": 0.1,
+          "G": 1,
+          "B": 1.5,
+          "A": 1,
+          "Hex": "59FFFF"
+        },
+        "CursedEnergy_BrightAuraColor": {
+          "R": 5.6,
+          "G": 8.7,
+          "B": 10,
+          "A": 1,
+          "Hex": "FFFFFF"
+        },
+        "Disappear_FogColor": {
+          "R": 0.4,
+          "G": 0.4,
+          "B": 0.4,
+          "A": 1,
+          "Hex": "AAAAAA"
+        },
+        "Disappear_GlowColor": {
+          "R": 0.2,
+          "G": 0.2,
+          "B": 0.2,
+          "A": 1,
+          "Hex": "7C7C7C"
+        },
+        "Id_Effect_CursedEnergy_LevelUp": "None",
+        "Id_Effect_CursedEnergy_Aura_2": "None",
+        "Id_Effect_CursedEnergy_Aura_3": "None",
+        "Id_Effect_Tension_LevelUp": "None",
+        "Id_Effect_Tension_Aura_2": "None",
+        "Id_Effect_Tension_Aura_3": "None",
+        "BuffDebuffEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "MapGroundEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "SimpleDomainCounterEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1.15
+        },
+        "CrimsonBindEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "ProjectionSorceryEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FreezingRestraintEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "FreezingRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "CentipedeRestraintEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "FileName_BP": [
+          "FX_CP_120_00111_BP",
+          "FX_CP_120_00112_BP",
+          "FX_CP_120_00113_BP",
+          "FX_CP_120_00114_BP",
+          "FX_CP_120_00115_BP",
+          "FX_CP_120_00116_BP",
+          "FX_CP_120_00121_BP",
+          "FX_CP_120_00122_BP",
+          "FX_CP_120_00132_BP",
+          "FX_CP_120_00133_BP",
+          "FX_CP_120_01101_BP",
+          "FX_CP_120_02201_BP",
+          "FX_CP_120_02202_BP",
+          "FX_CP_120_04101_BP",
+          "FX_CP_120_07111_BP",
+          "FX_CP_120_07121_BP",
+          "FX_CP_120_07131_BP",
+          "FX_CN_070_00131_BP",
+          "FX_CN_070_00132_BP",
+          "FX_CN_070_00133_BP",
+          "FX_CN_070_00134_BP",
+          "FX_CP_120_06201_BP",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

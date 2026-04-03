@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateLevelDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateLevel'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_CP_010": {
+        "ID": "CP_020_CP_010",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_020_CP_030": {
+        "ID": "CP_020_CP_030",
+        "bFriendly": [
+          false,
+          true,
+          true,
+          false,
+          false
+        ]
+      },
+      "CP_020_CP_050": {
+        "ID": "CP_020_CP_050",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

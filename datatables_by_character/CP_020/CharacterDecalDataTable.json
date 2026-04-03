@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterDecalDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterDecal'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020": {
+        "ID": "CP_020",
+        "FileName_BP": [
+          "DCL_00300_BP",
+          "DCL_00310_BP",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

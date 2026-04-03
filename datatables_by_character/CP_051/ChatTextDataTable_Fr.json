@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_051_GREETING_1": {
+        "ID": "CP_051_GREETING_1",
+        "Text": "Yo !"
+      },
+      "CP_051_GREETING_2": {
+        "ID": "CP_051_GREETING_2",
+        "Text": "Bon, ok."
+      },
+      "CP_051_PRAISE_1": {
+        "ID": "CP_051_PRAISE_1",
+        "Text": "T'as bien géré."
+      },
+      "CP_051_PRAISE_2": {
+        "ID": "CP_051_PRAISE_2",
+        "Text": "Pas mal du tout !"
+      },
+      "CP_051_FOLLOW": {
+        "ID": "CP_051_FOLLOW",
+        "Text": "Tu t'en sors pas trop mal."
+      },
+      "CP_051_APOLOGY": {
+        "ID": "CP_051_APOLOGY",
+        "Text": "J’ai échoué."
+      },
+      "CP_051_GRATITUDE_1": {
+        "ID": "CP_051_GRATITUDE_1",
+        "Text": "Tu m'en dois une."
+      },
+      "CP_051_GRATITUDE_2": {
+        "ID": "CP_051_GRATITUDE_2",
+        "Text": "J'aurais jamais pensé que tu me sauverais."
+      },
+      "CP_051_GOODBYE": {
+        "ID": "CP_051_GOODBYE",
+        "Text": "À plus."
+      },
+      "CP_051_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_051_THANKYOUFORYOURHARDWORK",
+        "Text": "Bien joué."
+      },
+      "CP_051_ROGERTHAT": {
+        "ID": "CP_051_ROGERTHAT",
+        "Text": "Ouais, bien sûr."
+      },
+      "CP_051_REJECTION": {
+        "ID": "CP_051_REJECTION",
+        "Text": "Ouais, c'est mort."
+      },
+      "CP_051_ENCOURAGEMENT": {
+        "ID": "CP_051_ENCOURAGEMENT",
+        "Text": "Aucun problème."
+      },
+      "CP_051_PINCH": {
+        "ID": "CP_051_PINCH",
+        "Text": "Qu'est-ce que c'est lourd."
+      },
+      "CP_051_COMEFORWARD": {
+        "ID": "CP_051_COMEFORWARD",
+        "Text": "Hors de mon chemin."
+      },
+      "CP_051_COMEFORWARD_OUT": {
+        "ID": "CP_051_COMEFORWARD_OUT",
+        "Text": "Hors de mon chemin."
+      },
+      "CP_051_GODOWN": {
+        "ID": "CP_051_GODOWN",
+        "Text": "Le reste dépend de toi."
+      },
+      "CP_051_GODOWN_OUT": {
+        "ID": "CP_051_GODOWN_OUT",
+        "Text": "Le reste dépend de toi."
+      },
+      "CP_051_NOTE": {
+        "ID": "CP_051_NOTE",
+        "Text": "Je te préviens, tu ferais mieux d'esquiver."
+      },
+      "CP_051_AIMATTHETARGET": {
+        "ID": "CP_051_AIMATTHETARGET",
+        "Text": "Je m’occupe de lui."
+      },
+      "CP_051_AIMFORAJOINTATTACK": {
+        "ID": "CP_051_AIMFORAJOINTATTACK",
+        "Text": "Ça va faire mal."
+      },
+      "CP_051_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_051_AIMFORAJOINTATTACK_OUT",
+        "Text": "Ça va faire mal."
+      },
+      "CP_051_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_051_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Voilà une technique éveillée. Fais gaffe, te fais pas toucher."
+      },
+      "CP_051_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_051_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Voilà une technique éveillée. Fais gaffe, te fais pas toucher."
+      },
+      "CP_051_FIGHTCLOSEBY": {
+        "ID": "CP_051_FIGHTCLOSEBY",
+        "Text": "Tu ne t'échapperas pas."
+      },
+      "CP_051_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_051_FIGHTCLOSEBY_OUT",
+        "Text": "Tu ne t'échapperas pas."
+      },
+      "CP_051_FIGHTAWAY": {
+        "ID": "CP_051_FIGHTAWAY",
+        "Text": "À votre place, je m'éloignerais vite."
+      },
+      "CP_051_FIGHTAWAY_OUT": {
+        "ID": "CP_051_FIGHTAWAY_OUT",
+        "Text": "À votre place, je m'éloignerais vite."
+      },
+      "CP_051_LETMETAKECAREOFTHAT": {
+        "ID": "CP_051_LETMETAKECAREOFTHAT",
+        "Text": "Je gère."
+      },
+      "CP_051_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_051_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Je gère."
+      },
+      "CP_051_LETSWORKTOGETHER": {
+        "ID": "CP_051_LETSWORKTOGETHER",
+        "Text": "Je montre l'exemple."
+      },
+      "CP_051_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_051_LETSWORKTOGETHER_OUT",
+        "Text": "Je montre l'exemple."
+      },
+      "CP_051_LEVELREPORT_LOW": {
+        "ID": "CP_051_LEVELREPORT_LOW",
+        "Text": "Je le sens pas."
+      },
+      "CP_051_LEVELREPORT_MEDIUM": {
+        "ID": "CP_051_LEVELREPORT_MEDIUM",
+        "Text": "Tu as du cran, on dirait."
+      },
+      "CP_051_LEVELREPORT_HIGH": {
+        "ID": "CP_051_LEVELREPORT_HIGH",
+        "Text": "Ha ! J'essaierai de pas te démolir."
+      },
+      "CP_051_PROVOCATION_1": {
+        "ID": "CP_051_PROVOCATION_1",
+        "Text": "Je vais te montrer ce qu'est un fossé infranchissable."
+      },
+      "CP_051_PROVOCATION_2": {
+        "ID": "CP_051_PROVOCATION_2",
+        "Text": "Si tu t'excuses en pleurant, je te laisserai vivre."
+      },
+      "CP_051_RESPECT_1": {
+        "ID": "CP_051_RESPECT_1",
+        "Text": "T'es pas n'importe qui, on dirait."
+      },
+      "CP_051_RESPECT_2": {
+        "ID": "CP_051_RESPECT_2",
+        "Text": "Ok, j'avoue, c'est une belle technique."
+      },
+      "CP_051_UNIQUE_1": {
+        "ID": "CP_051_UNIQUE_1",
+        "Text": "C'est quand que t'arrêtes de débiter cette merde pour te sentir mieux ?"
+      },
+      "CP_051_UNIQUE_2": {
+        "ID": "CP_051_UNIQUE_2",
+        "Text": "Ça me fatigue de devoir toujours faire attention, sérieux..."
+      },
+      "CP_051_UNIQUE_3": {
+        "ID": "CP_051_UNIQUE_3",
+        "Text": "Les débats de morale ? J'ai horreur de ça."
+      },
+      "CP_051_UNIQUE_4": {
+        "ID": "CP_051_UNIQUE_4",
+        "Text": "Malheureusement pour toi, j'ai de très bons yeux."
+      },
+      "CP_051_UNIQUE_5": {
+        "ID": "CP_051_UNIQUE_5",
+        "Text": "T’inquiète, tout va bien se passer !"
+      },
+      "CP_051_UNIQUE_6": {
+        "ID": "CP_051_UNIQUE_6",
+        "Text": "Dis donc, t'as la trouille ou quoi ?"
+      },
+      "CP_051_UNIQUE_7": {
+        "ID": "CP_051_UNIQUE_7",
+        "Text": "Ah ouais ? Tu crois, vraiment ? Sans déconner ?"
+      },
+      "CP_051_UNIQUE_8": {
+        "ID": "CP_051_UNIQUE_8",
+        "Text": "Je ne peux sauver que ceux qui sont prêts à l’être."
+      },
+      "CP_051_UNIQUE_9": {
+        "ID": "CP_051_UNIQUE_9",
+        "Text": "Sur la terre comme au ciel, je suis le seul qui puisse être vénéré !"
+      },
+      "CP_051_UNIQUE_10": {
+        "ID": "CP_051_UNIQUE_10",
+        "Text": "J'ai échoué !"
+      },
+      "CP_051_UNIQUE_11": {
+        "ID": "CP_051_UNIQUE_11",
+        "Text": "Je suis en pleine forme !"
+      },
+      "CP_051_UNIQUE_12": {
+        "ID": "CP_051_UNIQUE_12",
+        "Text": "Tu pleures ?"
+      },
+      "CP_051_READY": {
+        "ID": "CP_051_READY",
+        "Text": "Allez, dépêche-toi."
+      },
+      "CP_051_UNDERSTOODOKAY": {
+        "ID": "CP_051_UNDERSTOODOKAY",
+        "Text": "Ouais."
+      },
+      "CP_051_ENDSWITH": {
+        "ID": "CP_051_ENDSWITH",
+        "Text": "Le prochain sera le dernier !"
+      },
+      "CP_051_WAITAMINUTE": {
+        "ID": "CP_051_WAITAMINUTE",
+        "Text": "Attends un peu."
+      },
+      "CP_051_CHANGE": {
+        "ID": "CP_051_CHANGE",
+        "Text": "Changement."
+      },
+      "CP_051_ITWASAGOODMATCH": {
+        "ID": "CP_051_ITWASAGOODMATCH",
+        "Text": "C'était un beau match, hein ?"
+      },
+      "CP_051_EXIT": {
+        "ID": "CP_051_EXIT",
+        "Text": "À plus tard !"
+      },
+      "CP_051_LETSATTACK": {
+        "ID": "CP_051_LETSATTACK",
+        "Text": "Je vais régler ça en moins de deux."
+      },
+      "CP_051_FIGHTCAREFULLY": {
+        "ID": "CP_051_FIGHTCAREFULLY",
+        "Text": "Oh, on va voir ce que ça donne."
+      }
+    }
+  }
+]

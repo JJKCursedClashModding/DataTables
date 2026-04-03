@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_150_GREETING_1": {
+        "ID": "CP_150_GREETING_1",
+        "Text": "請多指教"
+      },
+      "CP_150_GREETING_2": {
+        "ID": "CP_150_GREETING_2",
+        "Text": "可得讓我享受一番啊"
+      },
+      "CP_150_PRAISE_1": {
+        "ID": "CP_150_PRAISE_1",
+        "Text": "比預想的還厲害呢"
+      },
+      "CP_150_PRAISE_2": {
+        "ID": "CP_150_PRAISE_2",
+        "Text": "反應能力真是優秀"
+      },
+      "CP_150_FOLLOW": {
+        "ID": "CP_150_FOLLOW",
+        "Text": "不用介意……"
+      },
+      "CP_150_APOLOGY": {
+        "ID": "CP_150_APOLOGY",
+        "Text": "是我不好"
+      },
+      "CP_150_GRATITUDE_1": {
+        "ID": "CP_150_GRATITUDE_1",
+        "Text": "感謝"
+      },
+      "CP_150_GRATITUDE_2": {
+        "ID": "CP_150_GRATITUDE_2",
+        "Text": "欠你人情了啊"
+      },
+      "CP_150_GOODBYE": {
+        "ID": "CP_150_GOODBYE",
+        "Text": "我會期待下次對戰的日子"
+      },
+      "CP_150_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_150_THANKYOUFORYOURHARDWORK",
+        "Text": "這是場令人開心的戰鬥"
+      },
+      "CP_150_ROGERTHAT": {
+        "ID": "CP_150_ROGERTHAT",
+        "Text": "好吧"
+      },
+      "CP_150_REJECTION": {
+        "ID": "CP_150_REJECTION",
+        "Text": "恕難從命"
+      },
+      "CP_150_ENCOURAGEMENT": {
+        "ID": "CP_150_ENCOURAGEMENT",
+        "Text": "還沒結束才對吧"
+      },
+      "CP_150_PINCH": {
+        "ID": "CP_150_PINCH",
+        "Text": "我太小看你了……"
+      },
+      "CP_150_COMEFORWARD": {
+        "ID": "CP_150_COMEFORWARD",
+        "Text": "直接進攻"
+      },
+      "CP_150_COMEFORWARD_OUT": {
+        "ID": "CP_150_COMEFORWARD_OUT",
+        "Text": "直接進攻"
+      },
+      "CP_150_GODOWN": {
+        "ID": "CP_150_GODOWN",
+        "Text": "我從後面瞄準"
+      },
+      "CP_150_GODOWN_OUT": {
+        "ID": "CP_150_GODOWN_OUT",
+        "Text": "我從後面瞄準"
+      },
+      "CP_150_NOTE": {
+        "ID": "CP_150_NOTE",
+        "Text": "要來了！"
+      },
+      "CP_150_AIMATTHETARGET": {
+        "ID": "CP_150_AIMATTHETARGET",
+        "Text": "我來解決那傢伙"
+      },
+      "CP_150_AIMFORAJOINTATTACK": {
+        "ID": "CP_150_AIMFORAJOINTATTACK",
+        "Text": "找機會用共連擊"
+      },
+      "CP_150_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_150_AIMFORAJOINTATTACK_OUT",
+        "Text": "找機會用共連擊"
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_150_FIGHTCLOSEBY": {
+        "ID": "CP_150_FIGHTCLOSEBY",
+        "Text": "到這邊"
+      },
+      "CP_150_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_150_FIGHTCLOSEBY_OUT",
+        "Text": "到這邊"
+      },
+      "CP_150_FIGHTAWAY": {
+        "ID": "CP_150_FIGHTAWAY",
+        "Text": "分散開吧"
+      },
+      "CP_150_FIGHTAWAY_OUT": {
+        "ID": "CP_150_FIGHTAWAY_OUT",
+        "Text": "分散開吧"
+      },
+      "CP_150_LETMETAKECAREOFTHAT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT",
+        "Text": "我一個人就夠了"
+      },
+      "CP_150_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT_OUT",
+        "Text": "我一個人就夠了"
+      },
+      "CP_150_LETSWORKTOGETHER": {
+        "ID": "CP_150_LETSWORKTOGETHER",
+        "Text": "我們一起合作吧"
+      },
+      "CP_150_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_150_LETSWORKTOGETHER_OUT",
+        "Text": "我們一起合作吧"
+      },
+      "CP_150_LEVELREPORT_LOW": {
+        "ID": "CP_150_LEVELREPORT_LOW",
+        "Text": "需要一點時間"
+      },
+      "CP_150_LEVELREPORT_MEDIUM": {
+        "ID": "CP_150_LEVELREPORT_MEDIUM",
+        "Text": "足夠了"
+      },
+      "CP_150_LEVELREPORT_HIGH": {
+        "ID": "CP_150_LEVELREPORT_HIGH",
+        "Text": "咒力充滿了"
+      },
+      "CP_150_PROVOCATION_1": {
+        "ID": "CP_150_PROVOCATION_1",
+        "Text": "令人失望啊"
+      },
+      "CP_150_PROVOCATION_2": {
+        "ID": "CP_150_PROVOCATION_2",
+        "Text": "那就是你的真本事嗎"
+      },
+      "CP_150_RESPECT_1": {
+        "ID": "CP_150_RESPECT_1",
+        "Text": "謝謝你讓我玩得很盡興"
+      },
+      "CP_150_RESPECT_2": {
+        "ID": "CP_150_RESPECT_2",
+        "Text": "你也多少拿出點真本事比較好"
+      },
+      "CP_150_UNIQUE_1": {
+        "ID": "CP_150_UNIQUE_1",
+        "Text": "住手吧，愚昧的孩兒們"
+      },
+      "CP_150_UNIQUE_2": {
+        "ID": "CP_150_UNIQUE_2",
+        "Text": "別再用咒術比較好"
+      },
+      "CP_150_UNIQUE_3": {
+        "ID": "CP_150_UNIQUE_3",
+        "Text": "好了……你要怎麼進攻？"
+      },
+      "CP_150_UNIQUE_4": {
+        "ID": "CP_150_UNIQUE_4",
+        "Text": "我正在享受著戰鬥"
+      },
+      "CP_150_UNIQUE_5": {
+        "ID": "CP_150_UNIQUE_5",
+        "Text": "戰鬥的愉悅不會衰退！"
+      },
+      "CP_150_UNIQUE_6": {
+        "ID": "CP_150_UNIQUE_6",
+        "Text": "好驚人的集中力……！"
+      },
+      "CP_150_UNIQUE_7": {
+        "ID": "CP_150_UNIQUE_7",
+        "Text": "這的確是好東西"
+      },
+      "CP_150_UNIQUE_8": {
+        "ID": "CP_150_UNIQUE_8",
+        "Text": "我本來想盡量避免使用這招"
+      },
+      "CP_150_UNIQUE_9": {
+        "ID": "CP_150_UNIQUE_9",
+        "Text": "那個又要來了！！"
+      },
+      "CP_150_UNIQUE_10": {
+        "ID": "CP_150_UNIQUE_10",
+        "Text": "出不去！！"
+      },
+      "CP_150_READY": {
+        "ID": "CP_150_READY",
+        "Text": "我準備好了"
+      },
+      "CP_150_UNDERSTOODOKAY": {
+        "ID": "CP_150_UNDERSTOODOKAY",
+        "Text": "我知道了"
+      },
+      "CP_150_ENDSWITH": {
+        "ID": "CP_150_ENDSWITH",
+        "Text": "下次就會結束"
+      },
+      "CP_150_WAITAMINUTE": {
+        "ID": "CP_150_WAITAMINUTE",
+        "Text": "請等一下"
+      },
+      "CP_150_CHANGE": {
+        "ID": "CP_150_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_150_ITWASAGOODMATCH": {
+        "ID": "CP_150_ITWASAGOODMATCH",
+        "Text": "這是場好比賽"
+      },
+      "CP_150_EXIT": {
+        "ID": "CP_150_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_150_LETSATTACK": {
+        "ID": "CP_150_LETSATTACK",
+        "Text": "進攻吧"
+      },
+      "CP_150_FIGHTCAREFULLY": {
+        "ID": "CP_150_FIGHTCAREFULLY",
+        "Text": "慎重戰鬥吧"
+      }
+    }
+  }
+]

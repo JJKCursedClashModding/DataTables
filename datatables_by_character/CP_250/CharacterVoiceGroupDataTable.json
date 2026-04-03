@@ -1,0 +1,665 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_250_DEFAULTACTION": {
+        "ID": "CP_250_DEFAULTACTION",
+        "Id_VoiceGroup": [
+          "CP_250_START_01",
+          "CP_250_DASH_01",
+          "CP_250_JUMP_01",
+          "CP_250_STEP_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK1": {
+        "ID": "CP_250_NORMALATTACK1",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK1_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK1_PINCH": {
+        "ID": "CP_250_NORMALATTACK1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK1_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK1_1": {
+        "ID": "CP_250_NORMALATTACK1_1",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK1_1_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK1_1_PINCH": {
+        "ID": "CP_250_NORMALATTACK1_1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK1_1_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK2": {
+        "ID": "CP_250_NORMALATTACK2",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK2_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK2_PINCH": {
+        "ID": "CP_250_NORMALATTACK2_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK2_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK2_1": {
+        "ID": "CP_250_NORMALATTACK2_1",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK2_1_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK2_1_PINCH": {
+        "ID": "CP_250_NORMALATTACK2_1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK2_1_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK3": {
+        "ID": "CP_250_NORMALATTACK3",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK3_01_01",
+          "CP_250_NORMALATTACK3_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK3_PINCH": {
+        "ID": "CP_250_NORMALATTACK3_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK3_01_PINCH",
+          "CP_250_NORMALATTACK3_02_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK3_1": {
+        "ID": "CP_250_NORMALATTACK3_1",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK3_1_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_NORMALATTACK3_1_PINCH": {
+        "ID": "CP_250_NORMALATTACK3_1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_NORMALATTACK3_1_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_1": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_1",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_1_01_01",
+          "CP_250_CURSEDENERGYATTACK1_1_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_1_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_1_01_PINCH",
+          "CP_250_CURSEDENERGYATTACK1_1_02_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_2": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_2",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_2_01_01",
+          "CP_250_CURSEDENERGYATTACK1_2_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_2_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_2_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_2_01_PINCH",
+          "CP_250_CURSEDENERGYATTACK1_2_02_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_3": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_3",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_3_01_01",
+          "CP_250_CURSEDENERGYATTACK1_3_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK1_3_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK1_3_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK1_3_01_PINCH",
+          "CP_250_CURSEDENERGYATTACK1_3_02_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_1": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_1",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_1_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_1_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_1_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_1_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_2": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_2",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_2_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_2_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_2_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_2_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_3": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_3",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_3_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_CURSEDENERGYATTACK2_3_PINCH": {
+        "ID": "CP_250_CURSEDENERGYATTACK2_3_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_CURSEDENERGYATTACK2_3_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_SUPERCURSEDENERGYATTACK": {
+        "ID": "CP_250_SUPERCURSEDENERGYATTACK",
+        "Id_VoiceGroup": [
+          "CP_250_SUPERCURSEDENERGYATTACK_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_SUPERCURSEDENERGYATTACK_PINCH": {
+        "ID": "CP_250_SUPERCURSEDENERGYATTACK_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_SUPERCURSEDENERGYATTACK_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_ATTACK": {
+        "ID": "CP_250_ATTACK",
+        "Id_VoiceGroup": [
+          "CP_250_ATTACK_WEAK_01",
+          "CP_250_ATTACK_WEAK_MEDIUM_01",
+          "CP_250_ATTACK_MEDIUM_01",
+          "CP_250_ATTACK_HEAVY_01",
+          "CP_250_ATTACK_FINISH_01",
+          "None",
+          "CP_250_ATTACK_CHARGE_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_ATTACK_PINCH": {
+        "ID": "CP_250_ATTACK_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_ATTACK_WEAK_01",
+          "CP_250_ATTACK_WEAK_MEDIUM_01",
+          "CP_250_ATTACK_MEDIUM_01",
+          "CP_250_ATTACK_HEAVY_01_PINCH",
+          "CP_250_ATTACK_FINISH_01",
+          "None",
+          "CP_250_ATTACK_CHARGE_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_SITUATIONATTACK": {
+        "ID": "CP_250_SITUATIONATTACK",
+        "Id_VoiceGroup": [
+          "None",
+          "CP_250_ATTACK_GUARDBREAK_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_DAMAGE": {
+        "ID": "CP_250_DAMAGE",
+        "Id_VoiceGroup": [
+          "CP_250_DAMAGE_WEAK_01",
+          "CP_250_DAMAGE_MEDIUM_01",
+          "CP_250_DAMAGE_HEAVY_01",
+          "CP_250_DAMAGE_LARGE_HEAVY_01",
+          "CP_250_DAMAGE_BLOW_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_SPECIALDAMAGE": {
+        "ID": "CP_250_SPECIALDAMAGE",
+        "Id_VoiceGroup": [
+          "CP_250_SPECIALDAMAGE_THUNDER_01",
+          "CP_250_SPECIALDAMAGE_RESTRAINT_01",
+          "CP_250_SPECIALDAMAGE_ASSAULT_01",
+          "CP_250_SPECIALDAMAGE_TRAP_01",
+          "CP_250_SPECIALDAMAGE_SEALED_01",
+          "CP_250_SPECIALDAMAGE_HAIRPIN_01",
+          "CP_250_SPECIALDAMAGE_RESONANCE_01",
+          "CP_250_SPECIALDAMAGE_ASSIST_01",
+          "CP_250_SPECIALDAMAGE_PULL_01",
+          "CP_250_SPECIALDAMAGE_BOOGIEWOOGIE_01",
+          "CP_250_SPECIALDAMAGE_ROT_TECHNIQUE_01",
+          "CP_250_SPECIALDAMAGE_SPEED_DOWN_01",
+          "CP_250_SPECIALDAMAGE_CONSUME_CURSEDENERGY_01"
+        ]
+      },
+      "CP_250_DOWN": {
+        "ID": "CP_250_DOWN",
+        "Id_VoiceGroup": [
+          "CP_250_DOWN_BOUNDED_01",
+          "CP_250_DOWN_01",
+          "None",
+          "CP_250_BREAKFALL_01",
+          "CP_250_DEAD_01",
+          "CP_250_REVIVAL_01",
+          "CP_250_REVIVAL_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_DOWN_PINCH": {
+        "ID": "CP_250_DOWN_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_DOWN_BOUNDED_01",
+          "CP_250_DOWN_01",
+          "CP_250_DOWN_END_01_PINCH",
+          "CP_250_BREAKFALL_01",
+          "CP_250_DEAD_01",
+          "CP_250_REVIVAL_01",
+          "CP_250_REVIVAL_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_GUARD": {
+        "ID": "CP_250_GUARD",
+        "Id_VoiceGroup": [
+          "CP_250_JUST_GUARD_01",
+          "CP_250_GUARD_01",
+          "CP_250_GUARD_01",
+          "None",
+          "CP_250_GUARD_BREAK_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_250_GUARD_PINCH": {
+        "ID": "CP_250_GUARD_PINCH",
+        "Id_VoiceGroup": [
+          "CP_250_JUST_GUARD_01",
+          "CP_250_GUARD_01_PINCH",
+          "CP_250_GUARD_01_PINCH",
+          "CP_250_GUARD_END_01",
+          "CP_250_GUARD_BREAK_01_PINCH",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

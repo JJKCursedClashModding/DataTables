@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_270_GREETING_1": {
+        "ID": "CP_270_GREETING_1",
+        "Text": "Habrá que disfrutarlo."
+      },
+      "CP_270_GREETING_2": {
+        "ID": "CP_270_GREETING_2",
+        "Text": "¿Ya te has armado de valor?"
+      },
+      "CP_270_PRAISE_1": {
+        "ID": "CP_270_PRAISE_1",
+        "Text": "Así se hace."
+      },
+      "CP_270_PRAISE_2": {
+        "ID": "CP_270_PRAISE_2",
+        "Text": "Estupendo."
+      },
+      "CP_270_FOLLOW": {
+        "ID": "CP_270_FOLLOW",
+        "Text": "Ni lo menciones."
+      },
+      "CP_270_APOLOGY": {
+        "ID": "CP_270_APOLOGY",
+        "Text": "Perdona."
+      },
+      "CP_270_GRATITUDE_1": {
+        "ID": "CP_270_GRATITUDE_1",
+        "Text": "Te lo agradezco mucho."
+      },
+      "CP_270_GRATITUDE_2": {
+        "ID": "CP_270_GRATITUDE_2",
+        "Text": "Que conste que no te debo nada."
+      },
+      "CP_270_GOODBYE": {
+        "ID": "CP_270_GOODBYE",
+        "Text": "Nos vemos."
+      },
+      "CP_270_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_270_THANKYOUFORYOURHARDWORK",
+        "Text": "Buen trabajo."
+      },
+      "CP_270_ROGERTHAT": {
+        "ID": "CP_270_ROGERTHAT",
+        "Text": "Como quieras."
+      },
+      "CP_270_REJECTION": {
+        "ID": "CP_270_REJECTION",
+        "Text": "Ni hablar."
+      },
+      "CP_270_ENCOURAGEMENT": {
+        "ID": "CP_270_ENCOURAGEMENT",
+        "Text": "Me esperaba más."
+      },
+      "CP_270_PINCH": {
+        "ID": "CP_270_PINCH",
+        "Text": "Mal asunto."
+      },
+      "CP_270_COMEFORWARD": {
+        "ID": "CP_270_COMEFORWARD",
+        "Text": "Yo me ocupo del frente."
+      },
+      "CP_270_COMEFORWARD_OUT": {
+        "ID": "CP_270_COMEFORWARD_OUT",
+        "Text": "Yo me ocupo del frente."
+      },
+      "CP_270_GODOWN": {
+        "ID": "CP_270_GODOWN",
+        "Text": "Voy a retroceder un poco."
+      },
+      "CP_270_GODOWN_OUT": {
+        "ID": "CP_270_GODOWN_OUT",
+        "Text": "Voy a retroceder un poco."
+      },
+      "CP_270_NOTE": {
+        "ID": "CP_270_NOTE",
+        "Text": "Ahí vienen. Ten cuidado."
+      },
+      "CP_270_AIMATTHETARGET": {
+        "ID": "CP_270_AIMATTHETARGET",
+        "Text": "Esa es mi presa."
+      },
+      "CP_270_AIMFORAJOINTATTACK": {
+        "ID": "CP_270_AIMFORAJOINTATTACK",
+        "Text": "¡Vamos a ejecutar un ataque conjunto!"
+      },
+      "CP_270_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_270_AIMFORAJOINTATTACK_OUT",
+        "Text": "¡Vamos a ejecutar un ataque conjunto!"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "¡Lo arreglaremos con una habilidad avivada!"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "¡Lo arreglaremos con una habilidad avivada!"
+      },
+      "CP_270_FIGHTCLOSEBY": {
+        "ID": "CP_270_FIGHTCLOSEBY",
+        "Text": "Ven por aquí."
+      },
+      "CP_270_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_270_FIGHTCLOSEBY_OUT",
+        "Text": "Ven por aquí."
+      },
+      "CP_270_FIGHTAWAY": {
+        "ID": "CP_270_FIGHTAWAY",
+        "Text": "Hay que separarse."
+      },
+      "CP_270_FIGHTAWAY_OUT": {
+        "ID": "CP_270_FIGHTAWAY_OUT",
+        "Text": "Hay que separarse."
+      },
+      "CP_270_LETMETAKECAREOFTHAT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_270_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_270_LETSWORKTOGETHER": {
+        "ID": "CP_270_LETSWORKTOGETHER",
+        "Text": "¡Tú sígueme!"
+      },
+      "CP_270_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_270_LETSWORKTOGETHER_OUT",
+        "Text": "¡Tú sígueme!"
+      },
+      "CP_270_LEVELREPORT_LOW": {
+        "ID": "CP_270_LEVELREPORT_LOW",
+        "Text": "Ni lo estás intentando."
+      },
+      "CP_270_LEVELREPORT_MEDIUM": {
+        "ID": "CP_270_LEVELREPORT_MEDIUM",
+        "Text": "Comencemos."
+      },
+      "CP_270_LEVELREPORT_HIGH": {
+        "ID": "CP_270_LEVELREPORT_HIGH",
+        "Text": "¿Debería ponerme serio?"
+      },
+      "CP_270_PROVOCATION_1": {
+        "ID": "CP_270_PROVOCATION_1",
+        "Text": "Yo solo quiero beber. Esto me parece superfluo."
+      },
+      "CP_270_PROVOCATION_2": {
+        "ID": "CP_270_PROVOCATION_2",
+        "Text": "Eres tan débil…"
+      },
+      "CP_270_RESPECT_1": {
+        "ID": "CP_270_RESPECT_1",
+        "Text": "Eso es."
+      },
+      "CP_270_RESPECT_2": {
+        "ID": "CP_270_RESPECT_2",
+        "Text": "No se te da tan mal…"
+      },
+      "CP_270_UNIQUE_1": {
+        "ID": "CP_270_UNIQUE_1",
+        "Text": "Ya veo que eres bastante débil."
+      },
+      "CP_270_UNIQUE_2": {
+        "ID": "CP_270_UNIQUE_2",
+        "Text": "¿Sabes cuántos fotogramas hay en un solo segundo de animación?"
+      },
+      "CP_270_UNIQUE_3": {
+        "ID": "CP_270_UNIQUE_3",
+        "Text": "La moda es mejorar la resolución y los fotogramas. Que si 4K, que si 60 FPS…"
+      },
+      "CP_270_UNIQUE_4": {
+        "ID": "CP_270_UNIQUE_4",
+        "Text": "Un asunto muy serio, sin duda."
+      },
+      "CP_270_UNIQUE_5": {
+        "ID": "CP_270_UNIQUE_5",
+        "Text": "Cuanta tontería."
+      },
+      "CP_270_UNIQUE_6": {
+        "ID": "CP_270_UNIQUE_6",
+        "Text": "¡Voy a aplastarte antes de que puedas usar una técnica!"
+      },
+      "CP_270_UNIQUE_7": {
+        "ID": "CP_270_UNIQUE_7",
+        "Text": "¿Bebiendo? ¿Yo?"
+      },
+      "CP_270_UNIQUE_8": {
+        "ID": "CP_270_UNIQUE_8",
+        "Text": "Oye, dame algo de beber."
+      },
+      "CP_270_UNIQUE_9": {
+        "ID": "CP_270_UNIQUE_9",
+        "Text": "¿Te lo tengo que repetir?"
+      },
+      "CP_270_UNIQUE_10": {
+        "ID": "CP_270_UNIQUE_10",
+        "Text": "Pero bueno. ¿Es una broma?"
+      },
+      "CP_270_UNIQUE_11": {
+        "ID": "CP_270_UNIQUE_11",
+        "Text": "Uf. Un fantasma."
+      },
+      "CP_270_UNIQUE_12": {
+        "ID": "CP_270_UNIQUE_12",
+        "Text": "En ese caso, te pondré a prueba."
+      },
+      "CP_270_READY": {
+        "ID": "CP_270_READY",
+        "Text": "Cuando quieras."
+      },
+      "CP_270_UNDERSTOODOKAY": {
+        "ID": "CP_270_UNDERSTOODOKAY",
+        "Text": "Hecho."
+      },
+      "CP_270_ENDSWITH": {
+        "ID": "CP_270_ENDSWITH",
+        "Text": "Con esto se acaba todo."
+      },
+      "CP_270_WAITAMINUTE": {
+        "ID": "CP_270_WAITAMINUTE",
+        "Text": "Dame un segundo."
+      },
+      "CP_270_CHANGE": {
+        "ID": "CP_270_CHANGE",
+        "Text": "Toca cambiar."
+      },
+      "CP_270_ITWASAGOODMATCH": {
+        "ID": "CP_270_ITWASAGOODMATCH",
+        "Text": "¡No ha estado mal!"
+      },
+      "CP_270_EXIT": {
+        "ID": "CP_270_EXIT",
+        "Text": "Voy a retirarme."
+      },
+      "CP_270_LETSATTACK": {
+        "ID": "CP_270_LETSATTACK",
+        "Text": "Tomemos la ofensiva."
+      },
+      "CP_270_FIGHTCAREFULLY": {
+        "ID": "CP_270_FIGHTCAREFULLY",
+        "Text": "A ver qué tal se da."
+      }
+    }
+  }
+]

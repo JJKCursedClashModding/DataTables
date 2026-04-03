@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCaptureDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCapture'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_230_VS_ENEMY": {
+        "ID": "CN_230_VS_ENEMY",
+        "CaptureType": "EGameCharacterCaptureType::VsEnemy",
+        "Id_CharacterAnimation": "None",
+        "CharacterIdleAnimationKey": "None",
+        "CharacterEnterAnimationKey": "None",
+        "Id_ShikigamiCharacter": "None",
+        "ShikigamiDefaultMaterialPattern": 0,
+        "Id_ShikigamiCharacterAnimation": "None",
+        "ShikigamiCharacterIdleAnimationKey": "None",
+        "ShikigamiCharacterEnterAnimationKey": "None",
+        "Id_AnimationWeapon": [
+          "None",
+          "None"
+        ],
+        "WeaponIdleAnimationName": [
+          "None",
+          "None"
+        ],
+        "WeaponEnterAnimationName": [
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_250": {
+        "ID": "CN_250",
+        "FloatValue": [
+          0.4,
+          0.2,
+          0.4,
+          0.6,
+          3,
+          0.1,
+          0.027,
+          0.15,
+          0.2,
+          2,
+          0.9,
+          1,
+          1.1,
+          0
+        ]
+      },
+      "CN_250_NORMALATTACK": {
+        "ID": "CN_250_NORMALATTACK",
+        "FloatValue": [
+          2500,
+          1250,
+          0.55,
+          8,
+          0.045,
+          255,
+          0.026,
+          150,
+          7,
+          0.35,
+          2250,
+          800,
+          1.68,
+          0.4
+        ]
+      },
+      "CN_250_ATTACKG_1": {
+        "ID": "CN_250_ATTACKG_1",
+        "FloatValue": [
+          2.05,
+          0.14,
+          3,
+          0.01,
+          0.6,
+          0.17,
+          0,
+          0.21,
+          0.21,
+          0.127,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKG_2": {
+        "ID": "CN_250_ATTACKG_2",
+        "FloatValue": [
+          2,
+          0.14,
+          5,
+          0.01,
+          0.8,
+          0.17,
+          0,
+          0.14,
+          0.24,
+          0.127,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKG_3": {
+        "ID": "CN_250_ATTACKG_3",
+        "FloatValue": [
+          2,
+          0.14,
+          6,
+          0.01,
+          1.1,
+          0.17,
+          0,
+          0.108,
+          0.25,
+          0.127,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKH_1": {
+        "ID": "CN_250_ATTACKH_1",
+        "FloatValue": [
+          1000,
+          1.4,
+          125,
+          1000,
+          1.6,
+          140,
+          0.15,
+          0.25,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKH_2": {
+        "ID": "CN_250_ATTACKH_2",
+        "FloatValue": [
+          1000,
+          1.7,
+          125,
+          1250,
+          2.1,
+          140,
+          0.15,
+          0.25,
+          0.5,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKH_3": {
+        "ID": "CN_250_ATTACKH_3",
+        "FloatValue": [
+          1000,
+          2,
+          125,
+          1500,
+          2.55,
+          140,
+          0.15,
+          0.25,
+          0.6,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_250_ATTACKI": {
+        "ID": "CN_250_ATTACKI",
+        "FloatValue": [
+          1.6,
+          1250,
+          0.2,
+          95,
+          250,
+          0.13,
+          300,
+          1300,
+          0.12,
+          1100,
+          1400,
+          0.035,
+          0.69,
+          0.75
+        ]
+      }
+    }
+  }
+]

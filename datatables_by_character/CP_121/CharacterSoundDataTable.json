@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121": {
+        "ID": "CP_121",
+        "CueSheetName": [
+          "CP_121",
+          "CN_200"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesMan",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_121",
+          "CP_121_TYPEA",
+          "CP_121_TYPEB",
+          "CP_121_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_121_CHARACTER_SELECT",
+          "CP_121_CHARACTER_RESELECT",
+          "CP_121_READY",
+          "CP_121_LOBBY_GO_TO_BATTLE",
+          "CP_121_LOBBY_CHANGED_MATCH_RULE",
+          "CP_121_RESULT_RANK_S",
+          "CP_121_RESULT_RANK_A",
+          "CP_121_RESULT_RANK_B_OR_LOWER",
+          "CP_121_RESULT_WINNING_STREAK_5",
+          "CP_121_RESULT_WINNING_STREAK_10",
+          "CP_121_RESULT_WINNING_STREAK_15",
+          "CP_121_RESULT_WINNING_STREAK_20",
+          "CP_121_RESULT_OPEN_RESULT_ITEM",
+          "CP_121_RESULT_PROMOTE_RANK",
+          "CP_121_RESULT_DEMOTE_RANK",
+          "CP_121_REMATCH_SUCCESS_REMATCH",
+          "CP_121_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_121_REMATCH_SELECT_FIND",
+          "CP_121_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_121_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      },
+      "CP_121_10": {
+        "ID": "CP_121_10",
+        "CueSheetName": [
+          "CP_121",
+          "CN_200"
+        ],
+        "FootstepType": "EGameFootstepType::BareFoot",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_121",
+          "CP_121_TYPEA",
+          "CP_121_TYPEB",
+          "CP_121_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_121_CHARACTER_SELECT",
+          "CP_121_CHARACTER_RESELECT",
+          "CP_121_READY",
+          "CP_121_LOBBY_GO_TO_BATTLE",
+          "CP_121_LOBBY_CHANGED_MATCH_RULE",
+          "CP_121_RESULT_RANK_S",
+          "CP_121_RESULT_RANK_A",
+          "CP_121_RESULT_RANK_B_OR_LOWER",
+          "CP_121_RESULT_WINNING_STREAK_5",
+          "CP_121_RESULT_WINNING_STREAK_10",
+          "CP_121_RESULT_WINNING_STREAK_15",
+          "CP_121_RESULT_WINNING_STREAK_20",
+          "CP_121_RESULT_OPEN_RESULT_ITEM",
+          "CP_121_RESULT_PROMOTE_RANK",
+          "CP_121_RESULT_DEMOTE_RANK",
+          "CP_121_REMATCH_SUCCESS_REMATCH",
+          "CP_121_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_121_REMATCH_SELECT_FIND",
+          "CP_121_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_121_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

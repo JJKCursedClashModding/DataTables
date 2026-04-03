@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180_GREETING_1": {
+        "ID": "CP_180_GREETING_1",
+        "Text": "请多指教～"
+      },
+      "CP_180_GREETING_2": {
+        "ID": "CP_180_GREETING_2",
+        "Text": "看我表现吧"
+      },
+      "CP_180_PRAISE_1": {
+        "ID": "CP_180_PRAISE_1",
+        "Text": "你很厉害嘛"
+      },
+      "CP_180_PRAISE_2": {
+        "ID": "CP_180_PRAISE_2",
+        "Text": "没想到你还满厉害的"
+      },
+      "CP_180_FOLLOW": {
+        "ID": "CP_180_FOLLOW",
+        "Text": "我来帮你"
+      },
+      "CP_180_APOLOGY": {
+        "ID": "CP_180_APOLOGY",
+        "Text": "抱歉"
+      },
+      "CP_180_GRATITUDE_1": {
+        "ID": "CP_180_GRATITUDE_1",
+        "Text": "谢谢"
+      },
+      "CP_180_GRATITUDE_2": {
+        "ID": "CP_180_GRATITUDE_2",
+        "Text": "得救了"
+      },
+      "CP_180_GOODBYE": {
+        "ID": "CP_180_GOODBYE",
+        "Text": "下次见啰"
+      },
+      "CP_180_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_180_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_180_ROGERTHAT": {
+        "ID": "CP_180_ROGERTHAT",
+        "Text": "了解"
+      },
+      "CP_180_REJECTION": {
+        "ID": "CP_180_REJECTION",
+        "Text": "才不要"
+      },
+      "CP_180_ENCOURAGEMENT": {
+        "ID": "CP_180_ENCOURAGEMENT",
+        "Text": "喂，要加快速度了！"
+      },
+      "CP_180_PINCH": {
+        "ID": "CP_180_PINCH",
+        "Text": "糟糕……！"
+      },
+      "CP_180_COMEFORWARD": {
+        "ID": "CP_180_COMEFORWARD",
+        "Text": "前面交给我"
+      },
+      "CP_180_COMEFORWARD_OUT": {
+        "ID": "CP_180_COMEFORWARD_OUT",
+        "Text": "前面交给我"
+      },
+      "CP_180_GODOWN": {
+        "ID": "CP_180_GODOWN",
+        "Text": "我来支援"
+      },
+      "CP_180_GODOWN_OUT": {
+        "ID": "CP_180_GODOWN_OUT",
+        "Text": "我来支援"
+      },
+      "CP_180_NOTE": {
+        "ID": "CP_180_NOTE",
+        "Text": "小心！"
+      },
+      "CP_180_AIMATTHETARGET": {
+        "ID": "CP_180_AIMATTHETARGET",
+        "Text": "我来对付那家伙"
+      },
+      "CP_180_AIMFORAJOINTATTACK": {
+        "ID": "CP_180_AIMFORAJOINTATTACK",
+        "Text": "我要用共连击"
+      },
+      "CP_180_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_180_AIMFORAJOINTATTACK_OUT",
+        "Text": "我要用共连击"
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_180_FIGHTCLOSEBY": {
+        "ID": "CP_180_FIGHTCLOSEBY",
+        "Text": "别离太远！"
+      },
+      "CP_180_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_180_FIGHTCLOSEBY_OUT",
+        "Text": "别离太远！"
+      },
+      "CP_180_FIGHTAWAY": {
+        "ID": "CP_180_FIGHTAWAY",
+        "Text": "保持距离！"
+      },
+      "CP_180_FIGHTAWAY_OUT": {
+        "ID": "CP_180_FIGHTAWAY_OUT",
+        "Text": "保持距离！"
+      },
+      "CP_180_LETMETAKECAREOFTHAT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT",
+        "Text": "这里交给我"
+      },
+      "CP_180_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT_OUT",
+        "Text": "这里交给我"
+      },
+      "CP_180_LETSWORKTOGETHER": {
+        "ID": "CP_180_LETSWORKTOGETHER",
+        "Text": "联手攻击吧！"
+      },
+      "CP_180_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_180_LETSWORKTOGETHER_OUT",
+        "Text": "联手攻击吧！"
+      },
+      "CP_180_LEVELREPORT_LOW": {
+        "ID": "CP_180_LEVELREPORT_LOW",
+        "Text": "现在没办法"
+      },
+      "CP_180_LEVELREPORT_MEDIUM": {
+        "ID": "CP_180_LEVELREPORT_MEDIUM",
+        "Text": "差不多可以了吧"
+      },
+      "CP_180_LEVELREPORT_HIGH": {
+        "ID": "CP_180_LEVELREPORT_HIGH",
+        "Text": "我一定要打倒你！"
+      },
+      "CP_180_PROVOCATION_1": {
+        "ID": "CP_180_PROVOCATION_1",
+        "Text": "打不到的吧"
+      },
+      "CP_180_PROVOCATION_2": {
+        "ID": "CP_180_PROVOCATION_2",
+        "Text": "这样就没了？"
+      },
+      "CP_180_RESPECT_1": {
+        "ID": "CP_180_RESPECT_1",
+        "Text": "哦，很行嘛"
+      },
+      "CP_180_RESPECT_2": {
+        "ID": "CP_180_RESPECT_2",
+        "Text": "要我认同你也可以"
+      },
+      "CP_180_UNIQUE_1": {
+        "ID": "CP_180_UNIQUE_1",
+        "Text": "加油啊我，今天也很可爱"
+      },
+      "CP_180_UNIQUE_2": {
+        "ID": "CP_180_UNIQUE_2",
+        "Text": "好～任务要开始了～"
+      },
+      "CP_180_UNIQUE_3": {
+        "ID": "CP_180_UNIQUE_3",
+        "Text": "这个人直觉好准……"
+      },
+      "CP_180_UNIQUE_4": {
+        "ID": "CP_180_UNIQUE_4",
+        "Text": "一开始就拖拖拉拉的"
+      },
+      "CP_180_UNIQUE_5": {
+        "ID": "CP_180_UNIQUE_5",
+        "Text": "真会给人添麻烦"
+      },
+      "CP_180_UNIQUE_6": {
+        "ID": "CP_180_UNIQUE_6",
+        "Text": "我会把你教育得可爱一点"
+      },
+      "CP_180_UNIQUE_7": {
+        "ID": "CP_180_UNIQUE_7",
+        "Text": "真不可爱……"
+      },
+      "CP_180_UNIQUE_8": {
+        "ID": "CP_180_UNIQUE_8",
+        "Text": "我会好好教你的"
+      },
+      "CP_180_UNIQUE_9": {
+        "ID": "CP_180_UNIQUE_9",
+        "Text": "咦！？为什么！？"
+      },
+      "CP_180_UNIQUE_10": {
+        "ID": "CP_180_UNIQUE_10",
+        "Text": "那是什么，新的拷问方式吗！？"
+      },
+      "CP_180_UNIQUE_11": {
+        "ID": "CP_180_UNIQUE_11",
+        "Text": "你是不是认为咒术师是实力主义？"
+      },
+      "CP_180_UNIQUE_12": {
+        "ID": "CP_180_UNIQUE_12",
+        "Text": "真粗鲁……"
+      },
+      "CP_180_READY": {
+        "ID": "CP_180_READY",
+        "Text": "我准备好了"
+      },
+      "CP_180_UNDERSTOODOKAY": {
+        "ID": "CP_180_UNDERSTOODOKAY",
+        "Text": "知道了"
+      },
+      "CP_180_ENDSWITH": {
+        "ID": "CP_180_ENDSWITH",
+        "Text": "下场是最后一场"
+      },
+      "CP_180_WAITAMINUTE": {
+        "ID": "CP_180_WAITAMINUTE",
+        "Text": "等一下"
+      },
+      "CP_180_CHANGE": {
+        "ID": "CP_180_CHANGE",
+        "Text": "我要变更"
+      },
+      "CP_180_ITWASAGOODMATCH": {
+        "ID": "CP_180_ITWASAGOODMATCH",
+        "Text": "这是场好比赛对吧？"
+      },
+      "CP_180_EXIT": {
+        "ID": "CP_180_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_180_LETSATTACK": {
+        "ID": "CP_180_LETSATTACK",
+        "Text": "进攻吧！"
+      },
+      "CP_180_FIGHTCAREFULLY": {
+        "ID": "CP_180_FIGHTCAREFULLY",
+        "Text": "慎重地上吧"
+      }
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_270_GREETING_1": {
+        "ID": "CP_270_GREETING_1",
+        "Text": "就让我玩玩吧"
+      },
+      "CP_270_GREETING_2": {
+        "ID": "CP_270_GREETING_2",
+        "Text": "做好觉悟了吗？"
+      },
+      "CP_270_PRAISE_1": {
+        "ID": "CP_270_PRAISE_1",
+        "Text": "做得好"
+      },
+      "CP_270_PRAISE_2": {
+        "ID": "CP_270_PRAISE_2",
+        "Text": "精采"
+      },
+      "CP_270_FOLLOW": {
+        "ID": "CP_270_FOLLOW",
+        "Text": "别在意"
+      },
+      "CP_270_APOLOGY": {
+        "ID": "CP_270_APOLOGY",
+        "Text": "抱歉啊"
+      },
+      "CP_270_GRATITUDE_1": {
+        "ID": "CP_270_GRATITUDE_1",
+        "Text": "向你致谢"
+      },
+      "CP_270_GRATITUDE_2": {
+        "ID": "CP_270_GRATITUDE_2",
+        "Text": "可别以为这样就让我欠了人情"
+      },
+      "CP_270_GOODBYE": {
+        "ID": "CP_270_GOODBYE",
+        "Text": "再会了"
+      },
+      "CP_270_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_270_THANKYOUFORYOURHARDWORK",
+        "Text": "辛苦了"
+      },
+      "CP_270_ROGERTHAT": {
+        "ID": "CP_270_ROGERTHAT",
+        "Text": "好吧"
+      },
+      "CP_270_REJECTION": {
+        "ID": "CP_270_REJECTION",
+        "Text": "我拒绝"
+      },
+      "CP_270_ENCOURAGEMENT": {
+        "ID": "CP_270_ENCOURAGEMENT",
+        "Text": "就这种程度吗？"
+      },
+      "CP_270_PINCH": {
+        "ID": "CP_270_PINCH",
+        "Text": "不妙……"
+      },
+      "CP_270_COMEFORWARD": {
+        "ID": "CP_270_COMEFORWARD",
+        "Text": "我到前面去"
+      },
+      "CP_270_COMEFORWARD_OUT": {
+        "ID": "CP_270_COMEFORWARD_OUT",
+        "Text": "我到前面去"
+      },
+      "CP_270_GODOWN": {
+        "ID": "CP_270_GODOWN",
+        "Text": "我先暂退"
+      },
+      "CP_270_GODOWN_OUT": {
+        "ID": "CP_270_GODOWN_OUT",
+        "Text": "我先暂退"
+      },
+      "CP_270_NOTE": {
+        "ID": "CP_270_NOTE",
+        "Text": "要来了，小心点"
+      },
+      "CP_270_AIMATTHETARGET": {
+        "ID": "CP_270_AIMATTHETARGET",
+        "Text": "那家伙就交给我"
+      },
+      "CP_270_AIMFORAJOINTATTACK": {
+        "ID": "CP_270_AIMFORAJOINTATTACK",
+        "Text": "我要用共连击！"
+      },
+      "CP_270_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_270_AIMFORAJOINTATTACK_OUT",
+        "Text": "我要用共连击！"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_270_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "我要用觉醒技！"
+      },
+      "CP_270_FIGHTCLOSEBY": {
+        "ID": "CP_270_FIGHTCLOSEBY",
+        "Text": "过来这里"
+      },
+      "CP_270_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_270_FIGHTCLOSEBY_OUT",
+        "Text": "过来这里"
+      },
+      "CP_270_FIGHTAWAY": {
+        "ID": "CP_270_FIGHTAWAY",
+        "Text": "散开"
+      },
+      "CP_270_FIGHTAWAY_OUT": {
+        "ID": "CP_270_FIGHTAWAY_OUT",
+        "Text": "散开"
+      },
+      "CP_270_LETMETAKECAREOFTHAT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT",
+        "Text": "交给我"
+      },
+      "CP_270_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_270_LETMETAKECAREOFTHAT_OUT",
+        "Text": "交给我"
+      },
+      "CP_270_LETSWORKTOGETHER": {
+        "ID": "CP_270_LETSWORKTOGETHER",
+        "Text": "配合我！"
+      },
+      "CP_270_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_270_LETSWORKTOGETHER_OUT",
+        "Text": "配合我！"
+      },
+      "CP_270_LEVELREPORT_LOW": {
+        "ID": "CP_270_LEVELREPORT_LOW",
+        "Text": "我没干劲"
+      },
+      "CP_270_LEVELREPORT_MEDIUM": {
+        "ID": "CP_270_LEVELREPORT_MEDIUM",
+        "Text": "开始进攻吧"
+      },
+      "CP_270_LEVELREPORT_HIGH": {
+        "ID": "CP_270_LEVELREPORT_HIGH",
+        "Text": "来认真一下吧"
+      },
+      "CP_270_PROVOCATION_1": {
+        "ID": "CP_270_PROVOCATION_1",
+        "Text": "这连当配酒小菜都不够格"
+      },
+      "CP_270_PROVOCATION_2": {
+        "ID": "CP_270_PROVOCATION_2",
+        "Text": "你真弱啊"
+      },
+      "CP_270_RESPECT_1": {
+        "ID": "CP_270_RESPECT_1",
+        "Text": "了不起"
+      },
+      "CP_270_RESPECT_2": {
+        "ID": "CP_270_RESPECT_2",
+        "Text": "真行啊"
+      },
+      "CP_270_UNIQUE_1": {
+        "ID": "CP_270_UNIQUE_1",
+        "Text": "原来如此，难怪那麽弱"
+      },
+      "CP_270_UNIQUE_2": {
+        "ID": "CP_270_UNIQUE_2",
+        "Text": "你知道动画1秒有几帧吗？"
+      },
+      "CP_270_UNIQUE_3": {
+        "ID": "CP_270_UNIQUE_3",
+        "Text": "最近总想提高分辨率和帧率的风潮\n什么4K和60fps的很没品味，你不认为吗！！"
+      },
+      "CP_270_UNIQUE_4": {
+        "ID": "CP_270_UNIQUE_4",
+        "Text": "这情况很严重啊"
+      },
+      "CP_270_UNIQUE_5": {
+        "ID": "CP_270_UNIQUE_5",
+        "Text": "有点太迟钝了呢"
+      },
+      "CP_270_UNIQUE_6": {
+        "ID": "CP_270_UNIQUE_6",
+        "Text": "在对方使出招式前就用速度击溃！！"
+      },
+      "CP_270_UNIQUE_7": {
+        "ID": "CP_270_UNIQUE_7",
+        "Text": "窝没喝啦"
+      },
+      "CP_270_UNIQUE_8": {
+        "ID": "CP_270_UNIQUE_8",
+        "Text": "喂，给我酒"
+      },
+      "CP_270_UNIQUE_9": {
+        "ID": "CP_270_UNIQUE_9",
+        "Text": "要我再说一次吗？"
+      },
+      "CP_270_UNIQUE_10": {
+        "ID": "CP_270_UNIQUE_10",
+        "Text": "喂喂喂，开玩笑的吧？"
+      },
+      "CP_270_UNIQUE_11": {
+        "ID": "CP_270_UNIQUE_11",
+        "Text": "……哼，是亡灵"
+      },
+      "CP_270_UNIQUE_12": {
+        "ID": "CP_270_UNIQUE_12",
+        "Text": "那么我也提供相对的考验吧"
+      },
+      "CP_270_READY": {
+        "ID": "CP_270_READY",
+        "Text": "我准备好了"
+      },
+      "CP_270_UNDERSTOODOKAY": {
+        "ID": "CP_270_UNDERSTOODOKAY",
+        "Text": "知道了"
+      },
+      "CP_270_ENDSWITH": {
+        "ID": "CP_270_ENDSWITH",
+        "Text": "下次就会结束"
+      },
+      "CP_270_WAITAMINUTE": {
+        "ID": "CP_270_WAITAMINUTE",
+        "Text": "稍等"
+      },
+      "CP_270_CHANGE": {
+        "ID": "CP_270_CHANGE",
+        "Text": "我要变更"
+      },
+      "CP_270_ITWASAGOODMATCH": {
+        "ID": "CP_270_ITWASAGOODMATCH",
+        "Text": "还不错啊"
+      },
+      "CP_270_EXIT": {
+        "ID": "CP_270_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_270_LETSATTACK": {
+        "ID": "CP_270_LETSATTACK",
+        "Text": "进攻吧"
+      },
+      "CP_270_FIGHTCAREFULLY": {
+        "ID": "CP_270_FIGHTCAREFULLY",
+        "Text": "看看情况"
+      }
+    }
+  }
+]

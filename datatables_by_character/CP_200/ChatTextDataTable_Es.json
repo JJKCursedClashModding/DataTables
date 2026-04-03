@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_200_GREETING_1": {
+        "ID": "CP_200_GREETING_1",
+        "Text": "Buenas."
+      },
+      "CP_200_GREETING_2": {
+        "ID": "CP_200_GREETING_2",
+        "Text": "No me dejes mal."
+      },
+      "CP_200_PRAISE_1": {
+        "ID": "CP_200_PRAISE_1",
+        "Text": "Mira, eres mejor de lo que creía."
+      },
+      "CP_200_PRAISE_2": {
+        "ID": "CP_200_PRAISE_2",
+        "Text": "No ha estado mal."
+      },
+      "CP_200_FOLLOW": {
+        "ID": "CP_200_FOLLOW",
+        "Text": "No te rayes."
+      },
+      "CP_200_APOLOGY": {
+        "ID": "CP_200_APOLOGY",
+        "Text": "Perdona, ¿eh?"
+      },
+      "CP_200_GRATITUDE_1": {
+        "ID": "CP_200_GRATITUDE_1",
+        "Text": "No pienso darte las gracias."
+      },
+      "CP_200_GRATITUDE_2": {
+        "ID": "CP_200_GRATITUDE_2",
+        "Text": "Buena, la verdad."
+      },
+      "CP_200_GOODBYE": {
+        "ID": "CP_200_GOODBYE",
+        "Text": "Nos vemos."
+      },
+      "CP_200_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_200_THANKYOUFORYOURHARDWORK",
+        "Text": "Buen trabajo."
+      },
+      "CP_200_ROGERTHAT": {
+        "ID": "CP_200_ROGERTHAT",
+        "Text": "No ha estado mal."
+      },
+      "CP_200_REJECTION": {
+        "ID": "CP_200_REJECTION",
+        "Text": "No va a servir de nada."
+      },
+      "CP_200_ENCOURAGEMENT": {
+        "ID": "CP_200_ENCOURAGEMENT",
+        "Text": "¿Te has roto con tan poco?"
+      },
+      "CP_200_PINCH": {
+        "ID": "CP_200_PINCH",
+        "Text": "Qué pesadilla."
+      },
+      "CP_200_COMEFORWARD": {
+        "ID": "CP_200_COMEFORWARD",
+        "Text": "Ya me ocupo yo del frente."
+      },
+      "CP_200_COMEFORWARD_OUT": {
+        "ID": "CP_200_COMEFORWARD_OUT",
+        "Text": "Ya me ocupo yo del frente."
+      },
+      "CP_200_GODOWN": {
+        "ID": "CP_200_GODOWN",
+        "Text": "Habrá que retroceder, ¿eh?"
+      },
+      "CP_200_GODOWN_OUT": {
+        "ID": "CP_200_GODOWN_OUT",
+        "Text": "Habrá que retroceder, ¿eh?"
+      },
+      "CP_200_NOTE": {
+        "ID": "CP_200_NOTE",
+        "Text": "Yo que tú lo esquivaría."
+      },
+      "CP_200_AIMATTHETARGET": {
+        "ID": "CP_200_AIMATTHETARGET",
+        "Text": "Esa es mi presa."
+      },
+      "CP_200_AIMFORAJOINTATTACK": {
+        "ID": "CP_200_AIMFORAJOINTATTACK",
+        "Text": "Tú haz lo que te diga."
+      },
+      "CP_200_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_200_AIMFORAJOINTATTACK_OUT",
+        "Text": "Tú haz lo que te diga."
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Habilidad avivada…"
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Habilidad avivada…"
+      },
+      "CP_200_FIGHTCLOSEBY": {
+        "ID": "CP_200_FIGHTCLOSEBY",
+        "Text": "Nos irá mejor cuerpo a cuerpo."
+      },
+      "CP_200_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_200_FIGHTCLOSEBY_OUT",
+        "Text": "Nos irá mejor cuerpo a cuerpo."
+      },
+      "CP_200_FIGHTAWAY": {
+        "ID": "CP_200_FIGHTAWAY",
+        "Text": "Yo que tú me apartaría."
+      },
+      "CP_200_FIGHTAWAY_OUT": {
+        "ID": "CP_200_FIGHTAWAY_OUT",
+        "Text": "Yo que tú me apartaría."
+      },
+      "CP_200_LETMETAKECAREOFTHAT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_200_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_200_LETSWORKTOGETHER": {
+        "ID": "CP_200_LETSWORKTOGETHER",
+        "Text": "A ver si me sigues el ritmo."
+      },
+      "CP_200_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_200_LETSWORKTOGETHER_OUT",
+        "Text": "A ver si me sigues el ritmo."
+      },
+      "CP_200_LEVELREPORT_LOW": {
+        "ID": "CP_200_LEVELREPORT_LOW",
+        "Text": "Paso de todo."
+      },
+      "CP_200_LEVELREPORT_MEDIUM": {
+        "ID": "CP_200_LEVELREPORT_MEDIUM",
+        "Text": "Esto se está poniendo interesante."
+      },
+      "CP_200_LEVELREPORT_HIGH": {
+        "ID": "CP_200_LEVELREPORT_HIGH",
+        "Text": "Voy a acabar contigo."
+      },
+      "CP_200_PROVOCATION_1": {
+        "ID": "CP_200_PROVOCATION_1",
+        "Text": "No te aceleres, ¿eh?"
+      },
+      "CP_200_PROVOCATION_2": {
+        "ID": "CP_200_PROVOCATION_2",
+        "Text": "Has bajado la guardia."
+      },
+      "CP_200_RESPECT_1": {
+        "ID": "CP_200_RESPECT_1",
+        "Text": "Igual merece la pena y todo."
+      },
+      "CP_200_RESPECT_2": {
+        "ID": "CP_200_RESPECT_2",
+        "Text": "Venga ya."
+      },
+      "CP_200_UNIQUE_1": {
+        "ID": "CP_200_UNIQUE_1",
+        "Text": "Perdona, no hay señal."
+      },
+      "CP_200_UNIQUE_2": {
+        "ID": "CP_200_UNIQUE_2",
+        "Text": "Hala, se acabó el curro. Ya puedes irte."
+      },
+      "CP_200_UNIQUE_3": {
+        "ID": "CP_200_UNIQUE_3",
+        "Text": "Como no tengo energía maldita, soy como el hombre invisible."
+      },
+      "CP_200_UNIQUE_4": {
+        "ID": "CP_200_UNIQUE_4",
+        "Text": "Cuentas con la bendición de tu linaje."
+      },
+      "CP_200_UNIQUE_5": {
+        "ID": "CP_200_UNIQUE_5",
+        "Text": "Qué alivio."
+      },
+      "CP_200_UNIQUE_6": {
+        "ID": "CP_200_UNIQUE_6",
+        "Text": "Menudo monstruo."
+      },
+      "CP_200_UNIQUE_7": {
+        "ID": "CP_200_UNIQUE_7",
+        "Text": "Je, vete tú a saber."
+      },
+      "CP_200_UNIQUE_8": {
+        "ID": "CP_200_UNIQUE_8",
+        "Text": "No eres mi tipo."
+      },
+      "CP_200_UNIQUE_9": {
+        "ID": "CP_200_UNIQUE_9",
+        "Text": "A mí también se me da de pena acordarme de los nombres de los tíos."
+      },
+      "CP_200_UNIQUE_10": {
+        "ID": "CP_200_UNIQUE_10",
+        "Text": "Aaah, vale. Ya te sigo."
+      },
+      "CP_200_UNIQUE_11": {
+        "ID": "CP_200_UNIQUE_11",
+        "Text": "Relaja, anda. Ni que estuviera en el paro."
+      },
+      "CP_200_UNIQUE_12": {
+        "ID": "CP_200_UNIQUE_12",
+        "Text": "Qué decepción."
+      },
+      "CP_200_READY": {
+        "ID": "CP_200_READY",
+        "Text": "Cuando quieras."
+      },
+      "CP_200_UNDERSTOODOKAY": {
+        "ID": "CP_200_UNDERSTOODOKAY",
+        "Text": "Ya."
+      },
+      "CP_200_ENDSWITH": {
+        "ID": "CP_200_ENDSWITH",
+        "Text": "Con este, se acaba todo."
+      },
+      "CP_200_WAITAMINUTE": {
+        "ID": "CP_200_WAITAMINUTE",
+        "Text": "Un momento."
+      },
+      "CP_200_CHANGE": {
+        "ID": "CP_200_CHANGE",
+        "Text": "Hay que cambiar el ritmo."
+      },
+      "CP_200_ITWASAGOODMATCH": {
+        "ID": "CP_200_ITWASAGOODMATCH",
+        "Text": "No ha sido un muermo, no."
+      },
+      "CP_200_EXIT": {
+        "ID": "CP_200_EXIT",
+        "Text": "Se acabó. Nos vemos."
+      },
+      "CP_200_LETSATTACK": {
+        "ID": "CP_200_LETSATTACK",
+        "Text": "Toca pasar a la acción."
+      },
+      "CP_200_FIGHTCAREFULLY": {
+        "ID": "CP_200_FIGHTCAREFULLY",
+        "Text": "A ver adónde nos lleva esto."
+      }
+    }
+  }
+]

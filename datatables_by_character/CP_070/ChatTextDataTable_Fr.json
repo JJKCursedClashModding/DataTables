@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_070_GREETING_1": {
+        "ID": "CP_070_GREETING_1",
+        "Text": "Caviar, saumon."
+      },
+      "CP_070_GREETING_2": {
+        "ID": "CP_070_GREETING_2",
+        "Text": "Caviaaaar !"
+      },
+      "CP_070_PRAISE_1": {
+        "ID": "CP_070_PRAISE_1",
+        "Text": "Œufs de saumon, saumon !"
+      },
+      "CP_070_PRAISE_2": {
+        "ID": "CP_070_PRAISE_2",
+        "Text": "Œufs de saumoooon !"
+      },
+      "CP_070_FOLLOW": {
+        "ID": "CP_070_FOLLOW",
+        "Text": "Thon mayo."
+      },
+      "CP_070_APOLOGY": {
+        "ID": "CP_070_APOLOGY",
+        "Text": "R-rogue de colin…"
+      },
+      "CP_070_GRATITUDE_1": {
+        "ID": "CP_070_GRATITUDE_1",
+        "Text": "Algue, saumon."
+      },
+      "CP_070_GRATITUDE_2": {
+        "ID": "CP_070_GRATITUDE_2",
+        "Text": "Saumon !"
+      },
+      "CP_070_GOODBYE": {
+        "ID": "CP_070_GOODBYE",
+        "Text": "Thoooon."
+      },
+      "CP_070_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_070_THANKYOUFORYOURHARDWORK",
+        "Text": "Algue."
+      },
+      "CP_070_ROGERTHAT": {
+        "ID": "CP_070_ROGERTHAT",
+        "Text": "Saumon."
+      },
+      "CP_070_REJECTION": {
+        "ID": "CP_070_REJECTION",
+        "Text": "Bonite séchée."
+      },
+      "CP_070_ENCOURAGEMENT": {
+        "ID": "CP_070_ENCOURAGEMENT",
+        "Text": "Rogue de colin !"
+      },
+      "CP_070_PINCH": {
+        "ID": "CP_070_PINCH",
+        "Text": "Algue, bonite séchée !"
+      },
+      "CP_070_COMEFORWARD": {
+        "ID": "CP_070_COMEFORWARD",
+        "Text": "Thon, saumon."
+      },
+      "CP_070_COMEFORWARD_OUT": {
+        "ID": "CP_070_COMEFORWARD_OUT",
+        "Text": "Thon, saumon."
+      },
+      "CP_070_GODOWN": {
+        "ID": "CP_070_GODOWN",
+        "Text": "Thon, bonite séchée."
+      },
+      "CP_070_GODOWN_OUT": {
+        "ID": "CP_070_GODOWN_OUT",
+        "Text": "Thon, bonite séchée."
+      },
+      "CP_070_NOTE": {
+        "ID": "CP_070_NOTE",
+        "Text": "Moutarde rouge !"
+      },
+      "CP_070_AIMATTHETARGET": {
+        "ID": "CP_070_AIMATTHETARGET",
+        "Text": "Thon, moutarde rouge."
+      },
+      "CP_070_AIMFORAJOINTATTACK": {
+        "ID": "CP_070_AIMFORAJOINTATTACK",
+        "Text": "Œufs de saumon, algue, rogue de colin."
+      },
+      "CP_070_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_070_AIMFORAJOINTATTACK_OUT",
+        "Text": "Œufs de saumon, algue, rogue de colin."
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Thon mayo, moutarde rouge, rogue de colin."
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Thon mayo, moutarde rouge, rogue de colin."
+      },
+      "CP_070_FIGHTCLOSEBY": {
+        "ID": "CP_070_FIGHTCLOSEBY",
+        "Text": "Rogue de colin, saumon."
+      },
+      "CP_070_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_070_FIGHTCLOSEBY_OUT",
+        "Text": "Rogue de colin, saumon."
+      },
+      "CP_070_FIGHTAWAY": {
+        "ID": "CP_070_FIGHTAWAY",
+        "Text": "Rogue de colin, bonite séchée."
+      },
+      "CP_070_FIGHTAWAY_OUT": {
+        "ID": "CP_070_FIGHTAWAY_OUT",
+        "Text": "Rogue de colin, bonite séchée."
+      },
+      "CP_070_LETMETAKECAREOFTHAT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT",
+        "Text": "Algue, moutarde rouge."
+      },
+      "CP_070_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Algue, moutarde rouge."
+      },
+      "CP_070_LETSWORKTOGETHER": {
+        "ID": "CP_070_LETSWORKTOGETHER",
+        "Text": "Thon, œufs de saumon, saumon."
+      },
+      "CP_070_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_070_LETSWORKTOGETHER_OUT",
+        "Text": "Thon, œufs de saumon, saumon."
+      },
+      "CP_070_LEVELREPORT_LOW": {
+        "ID": "CP_070_LEVELREPORT_LOW",
+        "Text": "Thon…"
+      },
+      "CP_070_LEVELREPORT_MEDIUM": {
+        "ID": "CP_070_LEVELREPORT_MEDIUM",
+        "Text": "Thon, thon, algue."
+      },
+      "CP_070_LEVELREPORT_HIGH": {
+        "ID": "CP_070_LEVELREPORT_HIGH",
+        "Text": "Saumon, saumon !"
+      },
+      "CP_070_PROVOCATION_1": {
+        "ID": "CP_070_PROVOCATION_1",
+        "Text": "Caviaaaar !"
+      },
+      "CP_070_PROVOCATION_2": {
+        "ID": "CP_070_PROVOCATION_2",
+        "Text": "Caviar ? Bonite séchée ?"
+      },
+      "CP_070_RESPECT_1": {
+        "ID": "CP_070_RESPECT_1",
+        "Text": "Thon, œufs de saumon…"
+      },
+      "CP_070_RESPECT_2": {
+        "ID": "CP_070_RESPECT_2",
+        "Text": "Algue, thon, rogue de colin !"
+      },
+      "CP_070_UNIQUE_1": {
+        "ID": "CP_070_UNIQUE_1",
+        "Text": "Saumon, saumon, saumon."
+      },
+      "CP_070_UNIQUE_2": {
+        "ID": "CP_070_UNIQUE_2",
+        "Text": "Bo ! Nite ! Séchée !"
+      },
+      "CP_070_UNIQUE_3": {
+        "ID": "CP_070_UNIQUE_3",
+        "Text": "Caviar…"
+      },
+      "CP_070_UNIQUE_4": {
+        "ID": "CP_070_UNIQUE_4",
+        "Text": "M-moutarde rouge ?!"
+      },
+      "CP_070_UNIQUE_5": {
+        "ID": "CP_070_UNIQUE_5",
+        "Text": "Thon, thon, thon mayo."
+      },
+      "CP_070_UNIQUE_6": {
+        "ID": "CP_070_UNIQUE_6",
+        "Text": "Aaalgue !"
+      },
+      "CP_070_UNIQUE_7": {
+        "ID": "CP_070_UNIQUE_7",
+        "Text": "Thooon, thooon !"
+      },
+      "CP_070_UNIQUE_8": {
+        "ID": "CP_070_UNIQUE_8",
+        "Text": "Moutarde rouge, saumon."
+      },
+      "CP_070_UNIQUE_9": {
+        "ID": "CP_070_UNIQUE_9",
+        "Text": "Rogue de coliiin."
+      },
+      "CP_070_UNIQUE_10": {
+        "ID": "CP_070_UNIQUE_10",
+        "Text": "Saumooon."
+      },
+      "CP_070_UNIQUE_11": {
+        "ID": "CP_070_UNIQUE_11",
+        "Text": "Bonite séchée, bonite séchée, bonite séchée !"
+      },
+      "CP_070_READY": {
+        "ID": "CP_070_READY",
+        "Text": "Thon."
+      },
+      "CP_070_UNDERSTOODOKAY": {
+        "ID": "CP_070_UNDERSTOODOKAY",
+        "Text": "Saumon."
+      },
+      "CP_070_ENDSWITH": {
+        "ID": "CP_070_ENDSWITH",
+        "Text": "Œufs de saumon."
+      },
+      "CP_070_WAITAMINUTE": {
+        "ID": "CP_070_WAITAMINUTE",
+        "Text": "Caviar."
+      },
+      "CP_070_CHANGE": {
+        "ID": "CP_070_CHANGE",
+        "Text": "Algue."
+      },
+      "CP_070_ITWASAGOODMATCH": {
+        "ID": "CP_070_ITWASAGOODMATCH",
+        "Text": "Rogue de colin."
+      },
+      "CP_070_EXIT": {
+        "ID": "CP_070_EXIT",
+        "Text": "Thon mayo."
+      },
+      "CP_070_LETSATTACK": {
+        "ID": "CP_070_LETSATTACK",
+        "Text": "Moutarde rouge !"
+      },
+      "CP_070_FIGHTCAREFULLY": {
+        "ID": "CP_070_FIGHTCAREFULLY",
+        "Text": "Bonite séchée."
+      }
+    }
+  }
+]

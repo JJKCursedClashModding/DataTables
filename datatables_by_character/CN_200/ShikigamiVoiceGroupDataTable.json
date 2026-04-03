@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ShikigamiVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_200_UNIQUE": {
+        "ID": "CN_200_UNIQUE",
+        "Id_VoiceGroup": [
+          "CN_200_SUMMON_01",
+          "CN_200_ATTACK_01",
+          "CN_200_ATTACK_02",
+          "CN_200_DEAD_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateLevelDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateLevel'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_010_CP_020": {
+        "ID": "CP_010_CP_020",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_010_CP_030": {
+        "ID": "CP_010_CP_030",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_010_CP_040": {
+        "ID": "CP_010_CP_040",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_010_CP_050": {
+        "ID": "CP_010_CP_050",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_010_CP_090": {
+        "ID": "CP_010_CP_090",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_010_CP_100": {
+        "ID": "CP_010_CP_100",
+        "bFriendly": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "CP_010_CP_130": {
+        "ID": "CP_010_CP_130",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_010_CP_150": {
+        "ID": "CP_010_CP_150",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_010_CP_160": {
+        "ID": "CP_010_CP_160",
+        "bFriendly": [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

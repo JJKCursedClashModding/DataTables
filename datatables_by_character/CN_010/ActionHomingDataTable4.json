@@ -1,0 +1,67 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActionHomingDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ActionHoming'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_010_ATTACKC_02": {
+        "ID": "CN_010_ATTACKC_02",
+        "ActionHomingType": "EGameActionHomingType::None",
+        "CharacterAnimation": "AttackC_02_Homing_01",
+        "CharacterAnimation_Failure": "None",
+        "WeaponAnimation": "None",
+        "Inertia_Rate": 0.6,
+        "Inertia_Time": 0,
+        "Rotation_Yaw": 0,
+        "Rotation_Time": 0.05,
+        "Rotation_Angle_Limit": 0,
+        "Rotation_Speed_Start": 0,
+        "Rotation_Speed_End": 0,
+        "Rotation_Speed_InterpolateTime": 0,
+        "Rotation_Speed_EasingType": "EGameEasingType::None",
+        "Rotation_Speed_Blend_Exp": 2,
+        "Speed_Start": 4600,
+        "Speed_End": 4000,
+        "Speed_InterpolateTime": 0.3,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 1,
+        "HomingDistance": 2500,
+        "Homing_Delay_Time": 0,
+        "Homing_Time_Min": 0,
+        "Homing_Time_Max": 1.5,
+        "bIgnoreHomingRange": false,
+        "Distance_Correct": 300,
+        "RangeZ_Upper": 150,
+        "RangeZ_Lower": 150,
+        "AngleZ": 180,
+        "WarpDistance": 0,
+        "WarpTargetDistance": 0,
+        "WarpDirectionAdjustPitch": 0,
+        "WarpDirectionAdjustYaw": 0,
+        "WarpAdjustTargetSimulateType": "EGameWarpAdjustTargetSimulateType::BlowSimulate",
+        "bFollowGroundEnabled": false,
+        "FollowGroundCheckDistance": 0,
+        "FollowGroundFallGravity": 0,
+        "FollowGroundIgnoreStepDistance": 0,
+        "bSuperArmorEnabled": false,
+        "bHyperArmorEnabled": false,
+        "bExternalForceEnabled": false,
+        "ExternalForceRange": 0,
+        "ExternalForceStrength_Start": 0,
+        "ExternalForceStrength_End": 0,
+        "ExternalForceStrength_InterpolateTime": 0,
+        "ExternalForceStrength_EasingType": "EGameEasingType::None",
+        "ExternalForceStrength_Blend_Exp": 2,
+        "ExternalForceGravityCorrect": 1
+      }
+    }
+  }
+]

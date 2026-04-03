@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_150_GREETING_1": {
+        "ID": "CP_150_GREETING_1",
+        "Text": "Je compte sur toi."
+      },
+      "CP_150_GREETING_2": {
+        "ID": "CP_150_GREETING_2",
+        "Text": "Profitons-en pour nous amuser."
+      },
+      "CP_150_PRAISE_1": {
+        "ID": "CP_150_PRAISE_1",
+        "Text": "Tu te débrouilles bien, en fait."
+      },
+      "CP_150_PRAISE_2": {
+        "ID": "CP_150_PRAISE_2",
+        "Text": "Tes réflexes sont incroyables."
+      },
+      "CP_150_FOLLOW": {
+        "ID": "CP_150_FOLLOW",
+        "Text": "Ne le prends pas trop à cœur."
+      },
+      "CP_150_APOLOGY": {
+        "ID": "CP_150_APOLOGY",
+        "Text": "C'était ma faute."
+      },
+      "CP_150_GRATITUDE_1": {
+        "ID": "CP_150_GRATITUDE_1",
+        "Text": "Je te remercie."
+      },
+      "CP_150_GRATITUDE_2": {
+        "ID": "CP_150_GRATITUDE_2",
+        "Text": "Je t'en dois une."
+      },
+      "CP_150_GOODBYE": {
+        "ID": "CP_150_GOODBYE",
+        "Text": "J'ai hâte de t'affronter de nouveau."
+      },
+      "CP_150_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_150_THANKYOUFORYOURHARDWORK",
+        "Text": "C'était agréable."
+      },
+      "CP_150_ROGERTHAT": {
+        "ID": "CP_150_ROGERTHAT",
+        "Text": "Très bien."
+      },
+      "CP_150_REJECTION": {
+        "ID": "CP_150_REJECTION",
+        "Text": "Je peux pas faire ça."
+      },
+      "CP_150_ENCOURAGEMENT": {
+        "ID": "CP_150_ENCOURAGEMENT",
+        "Text": "Me dis pas que t'en peux déjà plus ?"
+      },
+      "CP_150_PINCH": {
+        "ID": "CP_150_PINCH",
+        "Text": "Je n'aurais pas dû te sous-estimer…"
+      },
+      "CP_150_COMEFORWARD": {
+        "ID": "CP_150_COMEFORWARD",
+        "Text": "Je vais attaquer au corps à corps."
+      },
+      "CP_150_COMEFORWARD_OUT": {
+        "ID": "CP_150_COMEFORWARD_OUT",
+        "Text": "Je vais attaquer au corps à corps."
+      },
+      "CP_150_GODOWN": {
+        "ID": "CP_150_GODOWN",
+        "Text": "Je vais attaquer depuis l'arrière."
+      },
+      "CP_150_GODOWN_OUT": {
+        "ID": "CP_150_GODOWN_OUT",
+        "Text": "Je vais attaquer depuis l'arrière."
+      },
+      "CP_150_NOTE": {
+        "ID": "CP_150_NOTE",
+        "Text": "Ça vient !"
+      },
+      "CP_150_AIMATTHETARGET": {
+        "ID": "CP_150_AIMATTHETARGET",
+        "Text": "Je me charge de l'achever."
+      },
+      "CP_150_AIMFORAJOINTATTACK": {
+        "ID": "CP_150_AIMFORAJOINTATTACK",
+        "Text": "Si on l'attaque ensemble, cet adversaire sera submergé."
+      },
+      "CP_150_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_150_AIMFORAJOINTATTACK_OUT",
+        "Text": "Si on l'attaque ensemble, cet adversaire sera submergé."
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Je vais utiliser ma technique éveillée."
+      },
+      "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_150_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Je vais utiliser ma technique éveillée."
+      },
+      "CP_150_FIGHTCLOSEBY": {
+        "ID": "CP_150_FIGHTCLOSEBY",
+        "Text": "Sur moi."
+      },
+      "CP_150_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_150_FIGHTCLOSEBY_OUT",
+        "Text": "Sur moi."
+      },
+      "CP_150_FIGHTAWAY": {
+        "ID": "CP_150_FIGHTAWAY",
+        "Text": "Restons en retrait."
+      },
+      "CP_150_FIGHTAWAY_OUT": {
+        "ID": "CP_150_FIGHTAWAY_OUT",
+        "Text": "Restons en retrait."
+      },
+      "CP_150_LETMETAKECAREOFTHAT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT",
+        "Text": "Je peux m'en charger sans l'aide de personne."
+      },
+      "CP_150_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_150_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Je peux m'en charger sans l'aide de personne."
+      },
+      "CP_150_LETSWORKTOGETHER": {
+        "ID": "CP_150_LETSWORKTOGETHER",
+        "Text": "Travaillons ensemble."
+      },
+      "CP_150_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_150_LETSWORKTOGETHER_OUT",
+        "Text": "Travaillons ensemble."
+      },
+      "CP_150_LEVELREPORT_LOW": {
+        "ID": "CP_150_LEVELREPORT_LOW",
+        "Text": "J'ai besoin de plus de temps."
+      },
+      "CP_150_LEVELREPORT_MEDIUM": {
+        "ID": "CP_150_LEVELREPORT_MEDIUM",
+        "Text": "Ça suffira."
+      },
+      "CP_150_LEVELREPORT_HIGH": {
+        "ID": "CP_150_LEVELREPORT_HIGH",
+        "Text": "Je rassemble mon énergie occulte."
+      },
+      "CP_150_PROVOCATION_1": {
+        "ID": "CP_150_PROVOCATION_1",
+        "Text": "Quelle déception."
+      },
+      "CP_150_PROVOCATION_2": {
+        "ID": "CP_150_PROVOCATION_2",
+        "Text": "C'est tout ?"
+      },
+      "CP_150_RESPECT_1": {
+        "ID": "CP_150_RESPECT_1",
+        "Text": "Merci, c'était divertissant."
+      },
+      "CP_150_RESPECT_2": {
+        "ID": "CP_150_RESPECT_2",
+        "Text": "On dirait bien qu'il va falloir que je te prenne un peu plus au sérieux."
+      },
+      "CP_150_UNIQUE_1": {
+        "ID": "CP_150_UNIQUE_1",
+        "Text": "Ne résistez pas, jeunes sots."
+      },
+      "CP_150_UNIQUE_2": {
+        "ID": "CP_150_UNIQUE_2",
+        "Text": "Je te déconseille d'utiliser ton énergie occulte."
+      },
+      "CP_150_UNIQUE_3": {
+        "ID": "CP_150_UNIQUE_3",
+        "Text": "Alors, par où vas-tu m'attaquer ?"
+      },
+      "CP_150_UNIQUE_4": {
+        "ID": "CP_150_UNIQUE_4",
+        "Text": "Quand je combats, je me sens merveilleusement bien !"
+      },
+      "CP_150_UNIQUE_5": {
+        "ID": "CP_150_UNIQUE_5",
+        "Text": "Ça n'affecte en rien le plaisir que je prends à me battre !"
+      },
+      "CP_150_UNIQUE_6": {
+        "ID": "CP_150_UNIQUE_6",
+        "Text": "Quelle incroyable concentration…"
+      },
+      "CP_150_UNIQUE_7": {
+        "ID": "CP_150_UNIQUE_7",
+        "Text": "C'est effectivement un bel objet."
+      },
+      "CP_150_UNIQUE_8": {
+        "ID": "CP_150_UNIQUE_8",
+        "Text": "J'aurais préféré ne pas en arriver là."
+      },
+      "CP_150_UNIQUE_9": {
+        "ID": "CP_150_UNIQUE_9",
+        "Text": "Il va le refaire !"
+      },
+      "CP_150_UNIQUE_10": {
+        "ID": "CP_150_UNIQUE_10",
+        "Text": "Je ne peux pas leur échapper !"
+      },
+      "CP_150_READY": {
+        "ID": "CP_150_READY",
+        "Text": "Je suis d'attaque."
+      },
+      "CP_150_UNDERSTOODOKAY": {
+        "ID": "CP_150_UNDERSTOODOKAY",
+        "Text": "Compris."
+      },
+      "CP_150_ENDSWITH": {
+        "ID": "CP_150_ENDSWITH",
+        "Text": "Le prochain, ce sera le bon !"
+      },
+      "CP_150_WAITAMINUTE": {
+        "ID": "CP_150_WAITAMINUTE",
+        "Text": "Attends un peu."
+      },
+      "CP_150_CHANGE": {
+        "ID": "CP_150_CHANGE",
+        "Text": "Je vais changer ça."
+      },
+      "CP_150_ITWASAGOODMATCH": {
+        "ID": "CP_150_ITWASAGOODMATCH",
+        "Text": "Un bon match."
+      },
+      "CP_150_EXIT": {
+        "ID": "CP_150_EXIT",
+        "Text": "Je me retire."
+      },
+      "CP_150_LETSATTACK": {
+        "ID": "CP_150_LETSATTACK",
+        "Text": "Attaquons."
+      },
+      "CP_150_FIGHTCAREFULLY": {
+        "ID": "CP_150_FIGHTCAREFULLY",
+        "Text": "Fais preuve de prudence au combat."
+      }
+    }
+  }
+]

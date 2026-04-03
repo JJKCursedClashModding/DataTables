@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_200_GREETING_1": {
+        "ID": "CP_200_GREETING_1",
+        "Text": "여어"
+      },
+      "CP_200_GREETING_2": {
+        "ID": "CP_200_GREETING_2",
+        "Text": "실수하지 마라"
+      },
+      "CP_200_PRAISE_1": {
+        "ID": "CP_200_PRAISE_1",
+        "Text": "생각보단 제법이잖아"
+      },
+      "CP_200_PRAISE_2": {
+        "ID": "CP_200_PRAISE_2",
+        "Text": "나쁘진 않아"
+      },
+      "CP_200_FOLLOW": {
+        "ID": "CP_200_FOLLOW",
+        "Text": "신경 쓰지 마"
+      },
+      "CP_200_APOLOGY": {
+        "ID": "CP_200_APOLOGY",
+        "Text": "미안하군"
+      },
+      "CP_200_GRATITUDE_1": {
+        "ID": "CP_200_GRATITUDE_1",
+        "Text": "감사 인사는 기대하지 마라"
+      },
+      "CP_200_GRATITUDE_2": {
+        "ID": "CP_200_GRATITUDE_2",
+        "Text": "고맙단 말은 해두지"
+      },
+      "CP_200_GOODBYE": {
+        "ID": "CP_200_GOODBYE",
+        "Text": "그럼 간다"
+      },
+      "CP_200_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_200_THANKYOUFORYOURHARDWORK",
+        "Text": "수고했다"
+      },
+      "CP_200_ROGERTHAT": {
+        "ID": "CP_200_ROGERTHAT",
+        "Text": "좋아"
+      },
+      "CP_200_REJECTION": {
+        "ID": "CP_200_REJECTION",
+        "Text": "안 할 거야"
+      },
+      "CP_200_ENCOURAGEMENT": {
+        "ID": "CP_200_ENCOURAGEMENT",
+        "Text": "고작 그 정도에 죽을 위인이었나?"
+      },
+      "CP_200_PINCH": {
+        "ID": "CP_200_PINCH",
+        "Text": "귀찮은데"
+      },
+      "CP_200_COMEFORWARD": {
+        "ID": "CP_200_COMEFORWARD",
+        "Text": "앞으로 나간다"
+      },
+      "CP_200_COMEFORWARD_OUT": {
+        "ID": "CP_200_COMEFORWARD_OUT",
+        "Text": "앞으로 나간다"
+      },
+      "CP_200_GODOWN": {
+        "ID": "CP_200_GODOWN",
+        "Text": "물러나는 편이 현명한가"
+      },
+      "CP_200_GODOWN_OUT": {
+        "ID": "CP_200_GODOWN_OUT",
+        "Text": "물러나는 편이 현명한가"
+      },
+      "CP_200_NOTE": {
+        "ID": "CP_200_NOTE",
+        "Text": "피하는 게 좋아"
+      },
+      "CP_200_AIMATTHETARGET": {
+        "ID": "CP_200_AIMATTHETARGET",
+        "Text": "저 자식은 내가 친다"
+      },
+      "CP_200_AIMFORAJOINTATTACK": {
+        "ID": "CP_200_AIMFORAJOINTATTACK",
+        "Text": "협공 연격이다. 나한테 맞춰"
+      },
+      "CP_200_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_200_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격이다. 나한테 맞춰"
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기다"
+      },
+      "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_200_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기다"
+      },
+      "CP_200_FIGHTCLOSEBY": {
+        "ID": "CP_200_FIGHTCLOSEBY",
+        "Text": "접근하는 게 유리해"
+      },
+      "CP_200_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_200_FIGHTCLOSEBY_OUT",
+        "Text": "접근하는 게 유리해"
+      },
+      "CP_200_FIGHTAWAY": {
+        "ID": "CP_200_FIGHTAWAY",
+        "Text": "거리를 두는 게 상책이겠어"
+      },
+      "CP_200_FIGHTAWAY_OUT": {
+        "ID": "CP_200_FIGHTAWAY_OUT",
+        "Text": "거리를 두는 게 상책이겠어"
+      },
+      "CP_200_LETMETAKECAREOFTHAT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT",
+        "Text": "내가 해치운다"
+      },
+      "CP_200_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_200_LETMETAKECAREOFTHAT_OUT",
+        "Text": "내가 해치운다"
+      },
+      "CP_200_LETSWORKTOGETHER": {
+        "ID": "CP_200_LETSWORKTOGETHER",
+        "Text": "제대로 따라와"
+      },
+      "CP_200_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_200_LETSWORKTOGETHER_OUT",
+        "Text": "제대로 따라와"
+      },
+      "CP_200_LEVELREPORT_LOW": {
+        "ID": "CP_200_LEVELREPORT_LOW",
+        "Text": "지금은 아니야"
+      },
+      "CP_200_LEVELREPORT_MEDIUM": {
+        "ID": "CP_200_LEVELREPORT_MEDIUM",
+        "Text": "재미있어졌군"
+      },
+      "CP_200_LEVELREPORT_HIGH": {
+        "ID": "CP_200_LEVELREPORT_HIGH",
+        "Text": "죽인다"
+      },
+      "CP_200_PROVOCATION_1": {
+        "ID": "CP_200_PROVOCATION_1",
+        "Text": "안달하지 말라고"
+      },
+      "CP_200_PROVOCATION_2": {
+        "ID": "CP_200_PROVOCATION_2",
+        "Text": "빈틈투성이거든"
+      },
+      "CP_200_RESPECT_1": {
+        "ID": "CP_200_RESPECT_1",
+        "Text": "싸울 맛이 있겠어"
+      },
+      "CP_200_RESPECT_2": {
+        "ID": "CP_200_RESPECT_2",
+        "Text": "…진짜냐?"
+      },
+      "CP_200_UNIQUE_1": {
+        "ID": "CP_200_UNIQUE_1",
+        "Text": "전파가 안 통하네?"
+      },
+      "CP_200_UNIQUE_2": {
+        "ID": "CP_200_UNIQUE_2",
+        "Text": "자, 수고했습니다. 해산, 해산"
+      },
+      "CP_200_UNIQUE_3": {
+        "ID": "CP_200_UNIQUE_3",
+        "Text": "주력이 없는 나는\n투명인간이나 마찬가지다"
+      },
+      "CP_200_UNIQUE_4": {
+        "ID": "CP_200_UNIQUE_4",
+        "Text": "참 축복받은 혈통이네"
+      },
+      "CP_200_UNIQUE_5": {
+        "ID": "CP_200_UNIQUE_5",
+        "Text": "다행이구나"
+      },
+      "CP_200_UNIQUE_6": {
+        "ID": "CP_200_UNIQUE_6",
+        "Text": "핫, 괴물 녀석"
+      },
+      "CP_200_UNIQUE_7": {
+        "ID": "CP_200_UNIQUE_7",
+        "Text": "글쎄, 과연 어떨까?"
+      },
+      "CP_200_UNIQUE_8": {
+        "ID": "CP_200_UNIQUE_8",
+        "Text": "내 취향이 아니야"
+      },
+      "CP_200_UNIQUE_9": {
+        "ID": "CP_200_UNIQUE_9",
+        "Text": "나도 서툴거든.\n남자 이름을 외우는 건 말이지"
+      },
+      "CP_200_UNIQUE_10": {
+        "ID": "CP_200_UNIQUE_10",
+        "Text": "아아, 그런 뜻인가?"
+      },
+      "CP_200_UNIQUE_11": {
+        "ID": "CP_200_UNIQUE_11",
+        "Text": "짜증 나게\n사람을 무슨 백수처럼 말하네"
+      },
+      "CP_200_UNIQUE_12": {
+        "ID": "CP_200_UNIQUE_12",
+        "Text": "오합지졸이군"
+      },
+      "CP_200_READY": {
+        "ID": "CP_200_READY",
+        "Text": "언제든 좋아"
+      },
+      "CP_200_UNDERSTOODOKAY": {
+        "ID": "CP_200_UNDERSTOODOKAY",
+        "Text": "그래"
+      },
+      "CP_200_ENDSWITH": {
+        "ID": "CP_200_ENDSWITH",
+        "Text": "다음 걸로 끝이군"
+      },
+      "CP_200_WAITAMINUTE": {
+        "ID": "CP_200_WAITAMINUTE",
+        "Text": "거기 서"
+      },
+      "CP_200_CHANGE": {
+        "ID": "CP_200_CHANGE",
+        "Text": "한번 바꾼다"
+      },
+      "CP_200_ITWASAGOODMATCH": {
+        "ID": "CP_200_ITWASAGOODMATCH",
+        "Text": "방금 싸움은 나쁘지 않았어"
+      },
+      "CP_200_EXIT": {
+        "ID": "CP_200_EXIT",
+        "Text": "이제 됐지? 간다"
+      },
+      "CP_200_LETSATTACK": {
+        "ID": "CP_200_LETSATTACK",
+        "Text": "공격해야겠군"
+      },
+      "CP_200_FIGHTCAREFULLY": {
+        "ID": "CP_200_FIGHTCAREFULLY",
+        "Text": "어떻게 나오는지 봐야겠군"
+      }
+    }
+  }
+]

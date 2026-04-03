@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_230_GREETING_1": {
+        "ID": "CP_230_GREETING_1",
+        "Text": "Vamos allá."
+      },
+      "CP_230_GREETING_2": {
+        "ID": "CP_230_GREETING_2",
+        "Text": "Allá vamos."
+      },
+      "CP_230_PRAISE_1": {
+        "ID": "CP_230_PRAISE_1",
+        "Text": "Así se hace."
+      },
+      "CP_230_PRAISE_2": {
+        "ID": "CP_230_PRAISE_2",
+        "Text": "No se te da tan mal…"
+      },
+      "CP_230_FOLLOW": {
+        "ID": "CP_230_FOLLOW",
+        "Text": "Ni lo menciones."
+      },
+      "CP_230_APOLOGY": {
+        "ID": "CP_230_APOLOGY",
+        "Text": "Perdona."
+      },
+      "CP_230_GRATITUDE_1": {
+        "ID": "CP_230_GRATITUDE_1",
+        "Text": "Pues te debo una."
+      },
+      "CP_230_GRATITUDE_2": {
+        "ID": "CP_230_GRATITUDE_2",
+        "Text": "Te debo una."
+      },
+      "CP_230_GOODBYE": {
+        "ID": "CP_230_GOODBYE",
+        "Text": "Nos vemos."
+      },
+      "CP_230_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_230_THANKYOUFORYOURHARDWORK",
+        "Text": "Bien hecho."
+      },
+      "CP_230_ROGERTHAT": {
+        "ID": "CP_230_ROGERTHAT",
+        "Text": "Hecho."
+      },
+      "CP_230_REJECTION": {
+        "ID": "CP_230_REJECTION",
+        "Text": "Va a ser que no."
+      },
+      "CP_230_ENCOURAGEMENT": {
+        "ID": "CP_230_ENCOURAGEMENT",
+        "Text": "Puedes dar más que eso."
+      },
+      "CP_230_PINCH": {
+        "ID": "CP_230_PINCH",
+        "Text": "¡Joder!"
+      },
+      "CP_230_COMEFORWARD": {
+        "ID": "CP_230_COMEFORWARD",
+        "Text": "¡Voy a pasar a la ofensiva!"
+      },
+      "CP_230_COMEFORWARD_OUT": {
+        "ID": "CP_230_COMEFORWARD_OUT",
+        "Text": "¡Voy a pasar a la ofensiva!"
+      },
+      "CP_230_GODOWN": {
+        "ID": "CP_230_GODOWN",
+        "Text": "Ataca por atrás."
+      },
+      "CP_230_GODOWN_OUT": {
+        "ID": "CP_230_GODOWN_OUT",
+        "Text": "Ataca por atrás."
+      },
+      "CP_230_NOTE": {
+        "ID": "CP_230_NOTE",
+        "Text": "¡Ahí viene!"
+      },
+      "CP_230_AIMATTHETARGET": {
+        "ID": "CP_230_AIMATTHETARGET",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_230_AIMFORAJOINTATTACK": {
+        "ID": "CP_230_AIMFORAJOINTATTACK",
+        "Text": "¡Hagamos un ataque conjunto!"
+      },
+      "CP_230_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_230_AIMFORAJOINTATTACK_OUT",
+        "Text": "¡Hagamos un ataque conjunto!"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "¡Acabaré esto con una habilidad avivada!"
+      },
+      "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_230_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "¡Acabaré esto con una habilidad avivada!"
+      },
+      "CP_230_FIGHTCLOSEBY": {
+        "ID": "CP_230_FIGHTCLOSEBY",
+        "Text": "Aquí."
+      },
+      "CP_230_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_230_FIGHTCLOSEBY_OUT",
+        "Text": "Aquí."
+      },
+      "CP_230_FIGHTAWAY": {
+        "ID": "CP_230_FIGHTAWAY",
+        "Text": "Sal de ahí."
+      },
+      "CP_230_FIGHTAWAY_OUT": {
+        "ID": "CP_230_FIGHTAWAY_OUT",
+        "Text": "Sal de ahí."
+      },
+      "CP_230_LETMETAKECAREOFTHAT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_230_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_230_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_230_LETSWORKTOGETHER": {
+        "ID": "CP_230_LETSWORKTOGETHER",
+        "Text": "¡Tú sígueme!"
+      },
+      "CP_230_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_230_LETSWORKTOGETHER_OUT",
+        "Text": "¡Tú sígueme!"
+      },
+      "CP_230_LEVELREPORT_LOW": {
+        "ID": "CP_230_LEVELREPORT_LOW",
+        "Text": "Dame un minuto."
+      },
+      "CP_230_LEVELREPORT_MEDIUM": {
+        "ID": "CP_230_LEVELREPORT_MEDIUM",
+        "Text": "¡Esto es más que suficiente!"
+      },
+      "CP_230_LEVELREPORT_HIGH": {
+        "ID": "CP_230_LEVELREPORT_HIGH",
+        "Text": "Toca ponerse serio."
+      },
+      "CP_230_PROVOCATION_1": {
+        "ID": "CP_230_PROVOCATION_1",
+        "Text": "Me esperaba más."
+      },
+      "CP_230_PROVOCATION_2": {
+        "ID": "CP_230_PROVOCATION_2",
+        "Text": "Me has subestimado bastante."
+      },
+      "CP_230_RESPECT_1": {
+        "ID": "CP_230_RESPECT_1",
+        "Text": "No lo haces nada mal."
+      },
+      "CP_230_RESPECT_2": {
+        "ID": "CP_230_RESPECT_2",
+        "Text": "Parece que ya estás."
+      },
+      "CP_230_UNIQUE_1": {
+        "ID": "CP_230_UNIQUE_1",
+        "Text": "Los tres somos uno solo."
+      },
+      "CP_230_UNIQUE_2": {
+        "ID": "CP_230_UNIQUE_2",
+        "Text": "Da igual que corras."
+      },
+      "CP_230_UNIQUE_3": {
+        "ID": "CP_230_UNIQUE_3",
+        "Text": "¡No tienes escapatoria!"
+      },
+      "CP_230_UNIQUE_4": {
+        "ID": "CP_230_UNIQUE_4",
+        "Text": "Aún respiro."
+      },
+      "CP_230_UNIQUE_5": {
+        "ID": "CP_230_UNIQUE_5",
+        "Text": "¿Acaso es ese motivo para no arriesgar la vida por mi hermanito?"
+      },
+      "CP_230_UNIQUE_6": {
+        "ID": "CP_230_UNIQUE_6",
+        "Text": "¡Quita de en medio! El hermano mayor soy yo."
+      },
+      "CP_230_UNIQUE_7": {
+        "ID": "CP_230_UNIQUE_7",
+        "Text": "¡Cumpliré mi deber de hermano mayor cueste lo que cueste!"
+      },
+      "CP_230_UNIQUE_8": {
+        "ID": "CP_230_UNIQUE_8",
+        "Text": "Un idiota no va a vencer a esos dos."
+      },
+      "CP_230_UNIQUE_9": {
+        "ID": "CP_230_UNIQUE_9",
+        "Text": "¿Por qué no me llamas «hermano mayor»? Aunque sea solo una vez."
+      },
+      "CP_230_UNIQUE_10": {
+        "ID": "CP_230_UNIQUE_10",
+        "Text": "¡Te equivocas! ¡El hermano mayor de Yûji soy yo!"
+      },
+      "CP_230_UNIQUE_11": {
+        "ID": "CP_230_UNIQUE_11",
+        "Text": "¡Eso, Kechizu! ¡Miradme!\n¡Mirad lo que hace vuestro hermano mayor!"
+      },
+      "CP_230_UNIQUE_12": {
+        "ID": "CP_230_UNIQUE_12",
+        "Text": "Es la última oportunidad. ¡A ganar!"
+      },
+      "CP_230_READY": {
+        "ID": "CP_230_READY",
+        "Text": "Cuando quieras."
+      },
+      "CP_230_UNDERSTOODOKAY": {
+        "ID": "CP_230_UNDERSTOODOKAY",
+        "Text": "Como quieras."
+      },
+      "CP_230_ENDSWITH": {
+        "ID": "CP_230_ENDSWITH",
+        "Text": "Con esto ya acabamos."
+      },
+      "CP_230_WAITAMINUTE": {
+        "ID": "CP_230_WAITAMINUTE",
+        "Text": "Dame un segundo."
+      },
+      "CP_230_CHANGE": {
+        "ID": "CP_230_CHANGE",
+        "Text": "Voy a cambiar."
+      },
+      "CP_230_ITWASAGOODMATCH": {
+        "ID": "CP_230_ITWASAGOODMATCH",
+        "Text": "Ha sido una buena pelea."
+      },
+      "CP_230_EXIT": {
+        "ID": "CP_230_EXIT",
+        "Text": "Voy a retirarme."
+      },
+      "CP_230_LETSATTACK": {
+        "ID": "CP_230_LETSATTACK",
+        "Text": "¡Te vas a enterar!"
+      },
+      "CP_230_FIGHTCAREFULLY": {
+        "ID": "CP_230_FIGHTCAREFULLY",
+        "Text": "Habrá que ir con cuidado."
+      }
+    }
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_GREETING_1": {
+        "ID": "CP_170_GREETING_1",
+        "Text": "Legen wir los."
+      },
+      "CP_170_GREETING_2": {
+        "ID": "CP_170_GREETING_2",
+        "Text": "Komm mir nicht in die Quere."
+      },
+      "CP_170_PRAISE_1": {
+        "ID": "CP_170_PRAISE_1",
+        "Text": "Willst du ein Lob?"
+      },
+      "CP_170_PRAISE_2": {
+        "ID": "CP_170_PRAISE_2",
+        "Text": "Nicht schlecht, wirklich."
+      },
+      "CP_170_FOLLOW": {
+        "ID": "CP_170_FOLLOW",
+        "Text": "Das ist nicht deine Schuld."
+      },
+      "CP_170_APOLOGY": {
+        "ID": "CP_170_APOLOGY",
+        "Text": "Tut mir leid."
+      },
+      "CP_170_GRATITUDE_1": {
+        "ID": "CP_170_GRATITUDE_1",
+        "Text": "Ich schulde dir was."
+      },
+      "CP_170_GRATITUDE_2": {
+        "ID": "CP_170_GRATITUDE_2",
+        "Text": "Das weiß ich zu schätzen."
+      },
+      "CP_170_GOODBYE": {
+        "ID": "CP_170_GOODBYE",
+        "Text": "Wir sollten uns wiedertreffen, okay?"
+      },
+      "CP_170_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_170_THANKYOUFORYOURHARDWORK",
+        "Text": "Gute Arbeit."
+      },
+      "CP_170_ROGERTHAT": {
+        "ID": "CP_170_ROGERTHAT",
+        "Text": "Verstanden."
+      },
+      "CP_170_REJECTION": {
+        "ID": "CP_170_REJECTION",
+        "Text": "Das gefällt mir nicht."
+      },
+      "CP_170_ENCOURAGEMENT": {
+        "ID": "CP_170_ENCOURAGEMENT",
+        "Text": "Das kannst du besser."
+      },
+      "CP_170_PINCH": {
+        "ID": "CP_170_PINCH",
+        "Text": "In dem Tempo ...!"
+      },
+      "CP_170_COMEFORWARD": {
+        "ID": "CP_170_COMEFORWARD",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_170_COMEFORWARD_OUT": {
+        "ID": "CP_170_COMEFORWARD_OUT",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_170_GODOWN": {
+        "ID": "CP_170_GODOWN",
+        "Text": "Ich bleibe einen Moment lang weg."
+      },
+      "CP_170_GODOWN_OUT": {
+        "ID": "CP_170_GODOWN_OUT",
+        "Text": "Ich bleibe einen Moment lang weg."
+      },
+      "CP_170_NOTE": {
+        "ID": "CP_170_NOTE",
+        "Text": "Das ist gefährlich!"
+      },
+      "CP_170_AIMATTHETARGET": {
+        "ID": "CP_170_AIMATTHETARGET",
+        "Text": "Das kann ich erledigen."
+      },
+      "CP_170_AIMFORAJOINTATTACK": {
+        "ID": "CP_170_AIMFORAJOINTATTACK",
+        "Text": "Legen wir gemeinsam los. Kannst du's mir nachmachen?"
+      },
+      "CP_170_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_170_AIMFORAJOINTATTACK_OUT",
+        "Text": "Legen wir gemeinsam los. Kannst du's mir nachmachen?"
+      },
+      "CP_170_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_170_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Hier kommt die Erweckter-Technik."
+      },
+      "CP_170_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_170_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Hier kommt die Erweckter-Technik."
+      },
+      "CP_170_FIGHTCLOSEBY": {
+        "ID": "CP_170_FIGHTCLOSEBY",
+        "Text": "Wir sollten aus der Nähe kämpfen."
+      },
+      "CP_170_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_170_FIGHTCLOSEBY_OUT",
+        "Text": "Wir sollten aus der Nähe kämpfen."
+      },
+      "CP_170_FIGHTAWAY": {
+        "ID": "CP_170_FIGHTAWAY",
+        "Text": "Bleib einen Moment lang weg."
+      },
+      "CP_170_FIGHTAWAY_OUT": {
+        "ID": "CP_170_FIGHTAWAY_OUT",
+        "Text": "Bleib einen Moment lang weg."
+      },
+      "CP_170_LETMETAKECAREOFTHAT": {
+        "ID": "CP_170_LETMETAKECAREOFTHAT",
+        "Text": "Überlass das mir."
+      },
+      "CP_170_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_170_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Überlass das mir."
+      },
+      "CP_170_LETSWORKTOGETHER": {
+        "ID": "CP_170_LETSWORKTOGETHER",
+        "Text": "Ich decke dich."
+      },
+      "CP_170_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_170_LETSWORKTOGETHER_OUT",
+        "Text": "Ich decke dich."
+      },
+      "CP_170_LEVELREPORT_LOW": {
+        "ID": "CP_170_LEVELREPORT_LOW",
+        "Text": "Noch nicht."
+      },
+      "CP_170_LEVELREPORT_MEDIUM": {
+        "ID": "CP_170_LEVELREPORT_MEDIUM",
+        "Text": "Bleib auf der Hut."
+      },
+      "CP_170_LEVELREPORT_HIGH": {
+        "ID": "CP_170_LEVELREPORT_HIGH",
+        "Text": "Zeit, ernst zu machen."
+      },
+      "CP_170_PROVOCATION_1": {
+        "ID": "CP_170_PROVOCATION_1",
+        "Text": "Vielleicht sollte ich dir beibringen, wie man mit anderen redet."
+      },
+      "CP_170_PROVOCATION_2": {
+        "ID": "CP_170_PROVOCATION_2",
+        "Text": "Glaubst du, du erreichst mich?"
+      },
+      "CP_170_RESPECT_1": {
+        "ID": "CP_170_RESPECT_1",
+        "Text": "Du bist ziemlich stark."
+      },
+      "CP_170_RESPECT_2": {
+        "ID": "CP_170_RESPECT_2",
+        "Text": "Du bist besser, als ich dachte."
+      },
+      "CP_170_UNIQUE_1": {
+        "ID": "CP_170_UNIQUE_1",
+        "Text": "Immer geht es nach dir!"
+      },
+      "CP_170_UNIQUE_2": {
+        "ID": "CP_170_UNIQUE_2",
+        "Text": "Ich brauche jemanden wie dich, um von oben herabzuschauen."
+      },
+      "CP_170_UNIQUE_3": {
+        "ID": "CP_170_UNIQUE_3",
+        "Text": "Was lächelst du denn so?"
+      },
+      "CP_170_UNIQUE_4": {
+        "ID": "CP_170_UNIQUE_4",
+        "Text": "Pass besser auf, mit wem du dich anlegst."
+      },
+      "CP_170_UNIQUE_5": {
+        "ID": "CP_170_UNIQUE_5",
+        "Text": "Du spinnst."
+      },
+      "CP_170_UNIQUE_6": {
+        "ID": "CP_170_UNIQUE_6",
+        "Text": "Was ist das? Eine Herausforderung?"
+      },
+      "CP_170_UNIQUE_7": {
+        "ID": "CP_170_UNIQUE_7",
+        "Text": "Ich muss später etwas Trost spenden, hm?"
+      },
+      "CP_170_UNIQUE_8": {
+        "ID": "CP_170_UNIQUE_8",
+        "Text": "Du Lügner ..."
+      },
+      "CP_170_UNIQUE_9": {
+        "ID": "CP_170_UNIQUE_9",
+        "Text": "So leicht kommst du nicht davon."
+      },
+      "CP_170_UNIQUE_10": {
+        "ID": "CP_170_UNIQUE_10",
+        "Text": "Aber du kennst dich mit Maschinen aus. Hey, bist du ein Otaku?"
+      },
+      "CP_170_UNIQUE_11": {
+        "ID": "CP_170_UNIQUE_11",
+        "Text": "Wirklich?"
+      },
+      "CP_170_READY": {
+        "ID": "CP_170_READY",
+        "Text": "Wie lange willst du mich warten lassen?"
+      },
+      "CP_170_UNDERSTOODOKAY": {
+        "ID": "CP_170_UNDERSTOODOKAY",
+        "Text": "Ja."
+      },
+      "CP_170_ENDSWITH": {
+        "ID": "CP_170_ENDSWITH",
+        "Text": "Einer noch."
+      },
+      "CP_170_WAITAMINUTE": {
+        "ID": "CP_170_WAITAMINUTE",
+        "Text": "Kannst du kurz warten?"
+      },
+      "CP_170_CHANGE": {
+        "ID": "CP_170_CHANGE",
+        "Text": "Ich ändere es."
+      },
+      "CP_170_ITWASAGOODMATCH": {
+        "ID": "CP_170_ITWASAGOODMATCH",
+        "Text": "Gar kein schlechter Kampf."
+      },
+      "CP_170_EXIT": {
+        "ID": "CP_170_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_170_LETSATTACK": {
+        "ID": "CP_170_LETSATTACK",
+        "Text": "Das könnte der richtige Moment sein, um zuzuschlagen."
+      },
+      "CP_170_FIGHTCAREFULLY": {
+        "ID": "CP_170_FIGHTCAREFULLY",
+        "Text": "Vielleicht ist es an der Zeit, auf Nummer sicher zu gehen."
+      }
+    }
+  }
+]

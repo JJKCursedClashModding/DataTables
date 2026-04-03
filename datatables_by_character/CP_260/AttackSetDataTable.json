@@ -1,0 +1,369 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AttackSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_AttackSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_260_ATTACKA": {
+        "ID": "CP_260_ATTACKA",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKA_01_01",
+          "CP_260_ATTACKA_02_SETUP_01",
+          "CP_260_ATTACKA_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKB": {
+        "ID": "CP_260_ATTACKB",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKB_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKC": {
+        "ID": "CP_260_ATTACKC",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKC_01_SETUP_01",
+          "CP_260_ATTACKC_01_STANDBY_01",
+          "CP_260_ATTACKC_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKD": {
+        "ID": "CP_260_ATTACKD",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKD_01_SETUP_01",
+          "CP_260_ATTACKD_01_STANDBY_01",
+          "CP_260_ATTACKD_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKE": {
+        "ID": "CP_260_ATTACKE",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKE_01_01",
+          "CP_260_ATTACKE_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKF": {
+        "ID": "CP_260_ATTACKF",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKF_01_01",
+          "CP_260_ATTACKF_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKG_1": {
+        "ID": "CP_260_ATTACKG_1",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKG_01_SETUP_01_1",
+          "CP_260_ATTACKG_01_STANDBY_01",
+          "CP_260_ATTACKG_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKG_2": {
+        "ID": "CP_260_ATTACKG_2",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKG_01_SETUP_01_2",
+          "CP_260_ATTACKG_01_STANDBY_01",
+          "CP_260_ATTACKG_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKG_3": {
+        "ID": "CP_260_ATTACKG_3",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKG_01_SETUP_01_3",
+          "CP_260_ATTACKG_01_STANDBY_01",
+          "CP_260_ATTACKG_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKG_4": {
+        "ID": "CP_260_ATTACKG_4",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKG_01_SETUP_01_4",
+          "CP_260_ATTACKG_01_STANDBY_01",
+          "CP_260_ATTACKG_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKH_1": {
+        "ID": "CP_260_ATTACKH_1",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKH_01_SETUP_01_1",
+          "CP_260_ATTACKH_01_STANDBY_01",
+          "CP_260_ATTACKH_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKH_2": {
+        "ID": "CP_260_ATTACKH_2",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKH_01_SETUP_01_2",
+          "CP_260_ATTACKH_01_STANDBY_01",
+          "CP_260_ATTACKH_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKH_3": {
+        "ID": "CP_260_ATTACKH_3",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKH_01_SETUP_01_3",
+          "CP_260_ATTACKH_01_STANDBY_01",
+          "CP_260_ATTACKH_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKH_4": {
+        "ID": "CP_260_ATTACKH_4",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKH_01_SETUP_01_4",
+          "CP_260_ATTACKH_01_STANDBY_01",
+          "CP_260_ATTACKH_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKH_5": {
+        "ID": "CP_260_ATTACKH_5",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 1,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_260_ATTACKH_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_260_ATTACKI": {
+        "ID": "CP_260_ATTACKI",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_260_ATTACKI_01_SETUP_01",
+          "CP_260_ATTACKI_01_STANDBY_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

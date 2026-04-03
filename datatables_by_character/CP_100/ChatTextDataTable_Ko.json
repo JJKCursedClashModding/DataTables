@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_100_GREETING_1": {
+        "ID": "CP_100_GREETING_1",
+        "Text": "잘 부탁하지"
+      },
+      "CP_100_GREETING_2": {
+        "ID": "CP_100_GREETING_2",
+        "Text": "한꺼번에 덤벼!"
+      },
+      "CP_100_PRAISE_1": {
+        "ID": "CP_100_PRAISE_1",
+        "Text": "더할 나위 없군!"
+      },
+      "CP_100_PRAISE_2": {
+        "ID": "CP_100_PRAISE_2",
+        "Text": "축하한다"
+      },
+      "CP_100_FOLLOW": {
+        "ID": "CP_100_FOLLOW",
+        "Text": "신경 쓰지 마"
+      },
+      "CP_100_APOLOGY": {
+        "ID": "CP_100_APOLOGY",
+        "Text": "용서해라"
+      },
+      "CP_100_GRATITUDE_1": {
+        "ID": "CP_100_GRATITUDE_1",
+        "Text": "고맙다"
+      },
+      "CP_100_GRATITUDE_2": {
+        "ID": "CP_100_GRATITUDE_2",
+        "Text": "감사한다"
+      },
+      "CP_100_GOODBYE": {
+        "ID": "CP_100_GOODBYE",
+        "Text": "돌아간다!"
+      },
+      "CP_100_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_100_THANKYOUFORYOURHARDWORK",
+        "Text": "고생 많았다"
+      },
+      "CP_100_ROGERTHAT": {
+        "ID": "CP_100_ROGERTHAT",
+        "Text": "내게 맡겨라!"
+      },
+      "CP_100_REJECTION": {
+        "ID": "CP_100_REJECTION",
+        "Text": "안 돼"
+      },
+      "CP_100_ENCOURAGEMENT": {
+        "ID": "CP_100_ENCOURAGEMENT",
+        "Text": "멈추지 마!! 날 믿어!!"
+      },
+      "CP_100_PINCH": {
+        "ID": "CP_100_PINCH",
+        "Text": "이까짓 거…"
+      },
+      "CP_100_COMEFORWARD": {
+        "ID": "CP_100_COMEFORWARD",
+        "Text": "내가 앞으로 나가지"
+      },
+      "CP_100_COMEFORWARD_OUT": {
+        "ID": "CP_100_COMEFORWARD_OUT",
+        "Text": "내가 앞으로 나가지"
+      },
+      "CP_100_GODOWN": {
+        "ID": "CP_100_GODOWN",
+        "Text": "뒤는 내게 맡겨라"
+      },
+      "CP_100_GODOWN_OUT": {
+        "ID": "CP_100_GODOWN_OUT",
+        "Text": "뒤는 내게 맡겨라"
+      },
+      "CP_100_NOTE": {
+        "ID": "CP_100_NOTE",
+        "Text": "기백이 제법인데"
+      },
+      "CP_100_AIMATTHETARGET": {
+        "ID": "CP_100_AIMATTHETARGET",
+        "Text": "이 녀석은 내가 맡는다"
+      },
+      "CP_100_AIMFORAJOINTATTACK": {
+        "ID": "CP_100_AIMFORAJOINTATTACK",
+        "Text": "협공 연격을 맞춰!"
+      },
+      "CP_100_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_100_AIMFORAJOINTATTACK_OUT",
+        "Text": "협공 연격을 맞춰!"
+      },
+      "CP_100_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_100_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "각성기를 쓰겠다!"
+      },
+      "CP_100_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_100_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "각성기를 쓰겠다!"
+      },
+      "CP_100_FIGHTCLOSEBY": {
+        "ID": "CP_100_FIGHTCLOSEBY",
+        "Text": "떨어지지 마!"
+      },
+      "CP_100_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_100_FIGHTCLOSEBY_OUT",
+        "Text": "떨어지지 마!"
+      },
+      "CP_100_FIGHTAWAY": {
+        "ID": "CP_100_FIGHTAWAY",
+        "Text": "일단 물러나!"
+      },
+      "CP_100_FIGHTAWAY_OUT": {
+        "ID": "CP_100_FIGHTAWAY_OUT",
+        "Text": "일단 물러나!"
+      },
+      "CP_100_LETMETAKECAREOFTHAT": {
+        "ID": "CP_100_LETMETAKECAREOFTHAT",
+        "Text": "맡겨줘!"
+      },
+      "CP_100_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_100_LETMETAKECAREOFTHAT_OUT",
+        "Text": "맡겨줘!"
+      },
+      "CP_100_LETSWORKTOGETHER": {
+        "ID": "CP_100_LETSWORKTOGETHER",
+        "Text": "내게 맞춰라!"
+      },
+      "CP_100_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_100_LETSWORKTOGETHER_OUT",
+        "Text": "맞춰줘!"
+      },
+      "CP_100_LEVELREPORT_LOW": {
+        "ID": "CP_100_LEVELREPORT_LOW",
+        "Text": "아직이군"
+      },
+      "CP_100_LEVELREPORT_MEDIUM": {
+        "ID": "CP_100_LEVELREPORT_MEDIUM",
+        "Text": "재미있어지기 시작했어!"
+      },
+      "CP_100_LEVELREPORT_HIGH": {
+        "ID": "CP_100_LEVELREPORT_HIGH",
+        "Text": "120%로 간다!"
+      },
+      "CP_100_PROVOCATION_1": {
+        "ID": "CP_100_PROVOCATION_1",
+        "Text": "예상대로 지루하군"
+      },
+      "CP_100_PROVOCATION_2": {
+        "ID": "CP_100_PROVOCATION_2",
+        "Text": "의욕이 전혀 느껴지지 않아"
+      },
+      "CP_100_RESPECT_1": {
+        "ID": "CP_100_RESPECT_1",
+        "Text": "그렇게 나와야지"
+      },
+      "CP_100_RESPECT_2": {
+        "ID": "CP_100_RESPECT_2",
+        "Text": "진짜냐, 너"
+      },
+      "CP_100_UNIQUE_1": {
+        "ID": "CP_100_UNIQUE_1",
+        "Text": "어떤 여자가 취향이지?"
+      },
+      "CP_100_UNIQUE_2": {
+        "ID": "CP_100_UNIQUE_2",
+        "Text": "내 술식을 해금하지!"
+      },
+      "CP_100_UNIQUE_3": {
+        "ID": "CP_100_UNIQUE_3",
+        "Text": "역시… 지루한 놈이구나… 너"
+      },
+      "CP_100_UNIQUE_4": {
+        "ID": "CP_100_UNIQUE_4",
+        "Text": "아무래도 우리는 절친인 것 같군"
+      },
+      "CP_100_UNIQUE_5": {
+        "ID": "CP_100_UNIQUE_5",
+        "Text": "즐기고 있었나 보네"
+      },
+      "CP_100_UNIQUE_6": {
+        "ID": "CP_100_UNIQUE_6",
+        "Text": "상대가 익숙해지기 전에 해치우자"
+      },
+      "CP_100_UNIQUE_7": {
+        "ID": "CP_100_UNIQUE_7",
+        "Text": "브라더!!"
+      },
+      "CP_100_UNIQUE_8": {
+        "ID": "CP_100_UNIQUE_8",
+        "Text": "해냈구나"
+      },
+      "CP_100_UNIQUE_9": {
+        "ID": "CP_100_UNIQUE_9",
+        "Text": "자, 조리를 시작해 볼까?"
+      },
+      "CP_100_UNIQUE_10": {
+        "ID": "CP_100_UNIQUE_10",
+        "Text": "타카땅 빔 부탁드립니다"
+      },
+      "CP_100_UNIQUE_11": {
+        "ID": "CP_100_UNIQUE_11",
+        "Text": "마냥 지루한 놈은 아닌 것 같군"
+      },
+      "CP_100_READY": {
+        "ID": "CP_100_READY",
+        "Text": "준비 완료다"
+      },
+      "CP_100_UNDERSTOODOKAY": {
+        "ID": "CP_100_UNDERSTOODOKAY",
+        "Text": "알았다"
+      },
+      "CP_100_ENDSWITH": {
+        "ID": "CP_100_ENDSWITH",
+        "Text": "다음으로 끝이야"
+      },
+      "CP_100_WAITAMINUTE": {
+        "ID": "CP_100_WAITAMINUTE",
+        "Text": "잠깐 기다려"
+      },
+      "CP_100_CHANGE": {
+        "ID": "CP_100_CHANGE",
+        "Text": "변경하겠어"
+      },
+      "CP_100_ITWASAGOODMATCH": {
+        "ID": "CP_100_ITWASAGOODMATCH",
+        "Text": "좋은 시합이었어"
+      },
+      "CP_100_EXIT": {
+        "ID": "CP_100_EXIT",
+        "Text": "나갈 거다"
+      },
+      "CP_100_LETSATTACK": {
+        "ID": "CP_100_LETSATTACK",
+        "Text": "단숨에 공격한다"
+      },
+      "CP_100_FIGHTCAREFULLY": {
+        "ID": "CP_100_FIGHTCAREFULLY",
+        "Text": "어떻게 나올지 보자"
+      }
+    }
+  }
+]

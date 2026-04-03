@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_GREETING_1": {
+        "ID": "CP_121_GREETING_1",
+        "Text": "Do your best."
+      },
+      "CP_121_GREETING_2": {
+        "ID": "CP_121_GREETING_2",
+        "Text": "I'm not gonna lose this."
+      },
+      "CP_121_PRAISE_1": {
+        "ID": "CP_121_PRAISE_1",
+        "Text": "You're a tough one, aren't you?"
+      },
+      "CP_121_PRAISE_2": {
+        "ID": "CP_121_PRAISE_2",
+        "Text": "Fantastic."
+      },
+      "CP_121_FOLLOW": {
+        "ID": "CP_121_FOLLOW",
+        "Text": "You good?"
+      },
+      "CP_121_APOLOGY": {
+        "ID": "CP_121_APOLOGY",
+        "Text": "I'm sorry."
+      },
+      "CP_121_GRATITUDE_1": {
+        "ID": "CP_121_GRATITUDE_1",
+        "Text": "You're a big help."
+      },
+      "CP_121_GRATITUDE_2": {
+        "ID": "CP_121_GRATITUDE_2",
+        "Text": "Thanks."
+      },
+      "CP_121_GOODBYE": {
+        "ID": "CP_121_GOODBYE",
+        "Text": "Looking forward to our next fight."
+      },
+      "CP_121_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_121_THANKYOUFORYOURHARDWORK",
+        "Text": "Nice work."
+      },
+      "CP_121_ROGERTHAT": {
+        "ID": "CP_121_ROGERTHAT",
+        "Text": "Not a problem."
+      },
+      "CP_121_REJECTION": {
+        "ID": "CP_121_REJECTION",
+        "Text": "I can't quite hear you."
+      },
+      "CP_121_ENCOURAGEMENT": {
+        "ID": "CP_121_ENCOURAGEMENT",
+        "Text": "Looks like you're in good shape."
+      },
+      "CP_121_PINCH": {
+        "ID": "CP_121_PINCH",
+        "Text": "Got careless..."
+      },
+      "CP_121_COMEFORWARD": {
+        "ID": "CP_121_COMEFORWARD",
+        "Text": "I'll take point."
+      },
+      "CP_121_COMEFORWARD_OUT": {
+        "ID": "CP_121_COMEFORWARD_OUT",
+        "Text": "I'll take point."
+      },
+      "CP_121_GODOWN": {
+        "ID": "CP_121_GODOWN",
+        "Text": "I'll back off for a bit."
+      },
+      "CP_121_GODOWN_OUT": {
+        "ID": "CP_121_GODOWN_OUT",
+        "Text": "I'll back off for a bit."
+      },
+      "CP_121_NOTE": {
+        "ID": "CP_121_NOTE",
+        "Text": "Here it comes!"
+      },
+      "CP_121_AIMATTHETARGET": {
+        "ID": "CP_121_AIMATTHETARGET",
+        "Text": "I'll take care of this one."
+      },
+      "CP_121_AIMFORAJOINTATTACK": {
+        "ID": "CP_121_AIMFORAJOINTATTACK",
+        "Text": "Let's use our combo!"
+      },
+      "CP_121_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_121_AIMFORAJOINTATTACK_OUT",
+        "Text": "Let's use our combo."
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Here goes an awakened move."
+      },
+      "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_121_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Here goes an awakened move."
+      },
+      "CP_121_FIGHTCLOSEBY": {
+        "ID": "CP_121_FIGHTCLOSEBY",
+        "Text": "Stay close."
+      },
+      "CP_121_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_121_FIGHTCLOSEBY_OUT",
+        "Text": "Stay close."
+      },
+      "CP_121_FIGHTAWAY": {
+        "ID": "CP_121_FIGHTAWAY",
+        "Text": "I'll keep my distance."
+      },
+      "CP_121_FIGHTAWAY_OUT": {
+        "ID": "CP_121_FIGHTAWAY_OUT",
+        "Text": "I'll keep my distance."
+      },
+      "CP_121_LETMETAKECAREOFTHAT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT",
+        "Text": "Leave this to me."
+      },
+      "CP_121_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_121_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Leave this to me."
+      },
+      "CP_121_LETSWORKTOGETHER": {
+        "ID": "CP_121_LETSWORKTOGETHER",
+        "Text": "Let's do this together."
+      },
+      "CP_121_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_121_LETSWORKTOGETHER_OUT",
+        "Text": "Let's do this together."
+      },
+      "CP_121_LEVELREPORT_LOW": {
+        "ID": "CP_121_LEVELREPORT_LOW",
+        "Text": "Still not ready."
+      },
+      "CP_121_LEVELREPORT_MEDIUM": {
+        "ID": "CP_121_LEVELREPORT_MEDIUM",
+        "Text": "About time to go."
+      },
+      "CP_121_LEVELREPORT_HIGH": {
+        "ID": "CP_121_LEVELREPORT_HIGH",
+        "Text": "Time to get serious."
+      },
+      "CP_121_PROVOCATION_1": {
+        "ID": "CP_121_PROVOCATION_1",
+        "Text": "Is that all you've got?"
+      },
+      "CP_121_PROVOCATION_2": {
+        "ID": "CP_121_PROVOCATION_2",
+        "Text": "Oh, we're not done yet."
+      },
+      "CP_121_RESPECT_1": {
+        "ID": "CP_121_RESPECT_1",
+        "Text": "That's the way."
+      },
+      "CP_121_RESPECT_2": {
+        "ID": "CP_121_RESPECT_2",
+        "Text": "You're pretty good, not gonna lie."
+      },
+      "CP_121_UNIQUE_1": {
+        "ID": "CP_121_UNIQUE_1",
+        "Text": "It's not nice to pick on the weak, you know."
+      },
+      "CP_121_UNIQUE_2": {
+        "ID": "CP_121_UNIQUE_2",
+        "Text": "The weak help each other and discourage strength."
+      },
+      "CP_121_UNIQUE_3": {
+        "ID": "CP_121_UNIQUE_3",
+        "Text": "Jujutsu exists to protect non-Jujutsu Sorcerers."
+      },
+      "CP_121_UNIQUE_4": {
+        "ID": "CP_121_UNIQUE_4",
+        "Text": "What's this? My, aren't you a strong one."
+      },
+      "CP_121_UNIQUE_5": {
+        "ID": "CP_121_UNIQUE_5",
+        "Text": "Could you please not call me that?"
+      },
+      "CP_121_UNIQUE_6": {
+        "ID": "CP_121_UNIQUE_6",
+        "Text": "Those with limited means of victory will always jump at the shortest route to success."
+      },
+      "CP_121_UNIQUE_7": {
+        "ID": "CP_121_UNIQUE_7",
+        "Text": "Could you please stop making us stand out so much? We just got called out for that this morning."
+      },
+      "CP_121_UNIQUE_8": {
+        "ID": "CP_121_UNIQUE_8",
+        "Text": "We...are the strongest."
+      },
+      "CP_121_UNIQUE_9": {
+        "ID": "CP_121_UNIQUE_9",
+        "Text": "Is that so? Die!"
+      },
+      "CP_121_UNIQUE_10": {
+        "ID": "CP_121_UNIQUE_10",
+        "Text": "Survival of the weakest. That's the proper shape of a proper society."
+      },
+      "CP_121_UNIQUE_11": {
+        "ID": "CP_121_UNIQUE_11",
+        "Text": "Let's keep it a little more serious."
+      },
+      "CP_121_UNIQUE_12": {
+        "ID": "CP_121_UNIQUE_12",
+        "Text": "Looks like you're very busy strategizing, but there's no point."
+      },
+      "CP_121_READY": {
+        "ID": "CP_121_READY",
+        "Text": "I'm ready."
+      },
+      "CP_121_UNDERSTOODOKAY": {
+        "ID": "CP_121_UNDERSTOODOKAY",
+        "Text": "Got it."
+      },
+      "CP_121_ENDSWITH": {
+        "ID": "CP_121_ENDSWITH",
+        "Text": "I'll make the next one the last."
+      },
+      "CP_121_WAITAMINUTE": {
+        "ID": "CP_121_WAITAMINUTE",
+        "Text": "Got a minute to spare?"
+      },
+      "CP_121_CHANGE": {
+        "ID": "CP_121_CHANGE",
+        "Text": "I'm changing."
+      },
+      "CP_121_ITWASAGOODMATCH": {
+        "ID": "CP_121_ITWASAGOODMATCH",
+        "Text": "That was a good match."
+      },
+      "CP_121_EXIT": {
+        "ID": "CP_121_EXIT",
+        "Text": "I'm taking my leave."
+      },
+      "CP_121_LETSATTACK": {
+        "ID": "CP_121_LETSATTACK",
+        "Text": "I suppose I'll attack."
+      },
+      "CP_121_FIGHTCAREFULLY": {
+        "ID": "CP_121_FIGHTCAREFULLY",
+        "Text": "Let's be careful."
+      }
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterMouthPatternDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterMouthPattern'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110": {
+        "ID": "CP_110",
+        "AnimationTime": 0.09,
+        "EndAnimationTime": 0.1,
+        "MouthTypeArray": [
+          "EGameCharacterFacialPartsMouth::Open_02",
+          "EGameCharacterFacialPartsMouth::Open_01",
+          "EGameCharacterFacialPartsMouth::Close_01",
+          "EGameCharacterFacialPartsMouth::Open_02",
+          "EGameCharacterFacialPartsMouth::Open_01",
+          "EGameCharacterFacialPartsMouth::Open_01",
+          "EGameCharacterFacialPartsMouth::Open_02",
+          "EGameCharacterFacialPartsMouth::Open_01",
+          "EGameCharacterFacialPartsMouth::Close_01",
+          "EGameCharacterFacialPartsMouth::None",
+          "EGameCharacterFacialPartsMouth::None",
+          "EGameCharacterFacialPartsMouth::None"
+        ]
+      }
+    }
+  }
+]

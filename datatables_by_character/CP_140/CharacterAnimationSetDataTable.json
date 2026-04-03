@@ -1,0 +1,89 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterAnimationSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterAnimationSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140": {
+        "ID": "CP_140",
+        "Id_CharacterAnimation": [
+          "CP_140",
+          "CP_140_FACIAL",
+          "CP_140_FACIALPARTS_BROW",
+          "CP_140_FACIALPARTS_MOUTH",
+          "CP_140_FACIALPARTS_EYES",
+          "CP_140_GUARD",
+          "None",
+          "CP_140_STEP",
+          "CP_140_JUMP",
+          "None",
+          "CP_140_ATTACKA",
+          "None",
+          "CP_140_ATTACKB",
+          "None",
+          "CP_140_ATTACKC",
+          "None",
+          "CP_140_ATTACKD",
+          "None",
+          "CP_140_ATTACKE",
+          "None",
+          "CP_140_ATTACKF",
+          "None",
+          "CP_140_ATTACKG",
+          "CP_140_ATTACKH",
+          "CP_140_ATTACKI",
+          "CP_140_DAMAGE",
+          "None",
+          "None",
+          "CP_140_ATTACKA_SOLO",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ST_01": {
+        "ID": "CP_140_ST_01",
+        "Id_CharacterAnimation": [
+          "CP_140",
+          "CP_140_FACIAL",
+          "CP_140_FACIALPARTS_BROW",
+          "CP_140_FACIALPARTS_MOUTH",
+          "CP_140_FACIALPARTS_EYES",
+          "CP_140_GUARD",
+          "None",
+          "CP_140_STEP",
+          "CP_140_JUMP",
+          "None",
+          "CP_140_ATTACKA",
+          "None",
+          "CP_140_ATTACKB",
+          "None",
+          "CP_140_ATTACKC",
+          "None",
+          "CP_140_ATTACKD",
+          "None",
+          "CP_140_ATTACKE_ST_01",
+          "None",
+          "CP_140_ATTACKF",
+          "None",
+          "CP_140_ATTACKG",
+          "CP_140_ATTACKH",
+          "CP_140_ATTACKI",
+          "CP_140_DAMAGE",
+          "None",
+          "None",
+          "CP_140_ATTACKA_SOLO",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

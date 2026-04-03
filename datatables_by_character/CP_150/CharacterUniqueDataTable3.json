@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_150": {
+        "ID": "CP_150",
+        "FloatValue": [
+          0.3,
+          1.5,
+          2,
+          3,
+          1.5,
+          2,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKD": {
+        "ID": "CP_150_ATTACKD",
+        "FloatValue": [
+          5,
+          30,
+          35,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKF": {
+        "ID": "CP_150_ATTACKF",
+        "FloatValue": [
+          0,
+          1,
+          2,
+          0.5,
+          2,
+          500,
+          3000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKG": {
+        "ID": "CP_150_ATTACKG",
+        "FloatValue": [
+          0.5,
+          0.5,
+          0.5,
+          2000,
+          3000,
+          4000,
+          0.3,
+          0.3,
+          0.2,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKG_AUTO": {
+        "ID": "CP_150_ATTACKG_AUTO",
+        "FloatValue": [
+          0.25,
+          4000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKH_1": {
+        "ID": "CP_150_ATTACKH_1",
+        "FloatValue": [
+          3,
+          45,
+          200,
+          47,
+          0.25,
+          0.25,
+          2,
+          0.5,
+          0.35,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKH_2": {
+        "ID": "CP_150_ATTACKH_2",
+        "FloatValue": [
+          5,
+          45,
+          200,
+          47,
+          0.25,
+          0.25,
+          3,
+          0.75,
+          0.35,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_150_ATTACKH_3": {
+        "ID": "CP_150_ATTACKH_3",
+        "FloatValue": [
+          5,
+          45,
+          200,
+          47,
+          0.25,
+          0.25,
+          3,
+          1,
+          0.35,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

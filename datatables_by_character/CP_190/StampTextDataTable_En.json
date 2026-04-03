@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_En",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_190_STAMP_001": {
+        "ID": "CP_190_STAMP_001",
+        "Text": "I can't afford to lose. I refuse to lose."
+      },
+      "CP_190_STAMP_002": {
+        "ID": "CP_190_STAMP_002",
+        "Text": "I made this decision for myself."
+      }
+    }
+  }
+]

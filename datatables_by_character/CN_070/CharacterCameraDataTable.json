@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCameraDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCamera'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_070": {
+        "ID": "CN_070",
+        "TargetHeightOffset": 135
+      }
+    }
+  }
+]

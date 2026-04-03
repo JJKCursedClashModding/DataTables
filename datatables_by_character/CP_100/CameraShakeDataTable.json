@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CameraShakeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CameraShake'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_100_ATTACKH": {
+        "ID": "CP_100_ATTACKH",
+        "OscillationDuration": 0.3,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.3,
+        "RotOscillation_Pitch_Amplitude": 10,
+        "RotOscillation_Pitch_Frequency": 60,
+        "RotOscillation_Yaw_Amplitude": 10,
+        "RotOscillation_Yaw_Frequency": 60
+      }
+    }
+  }
+]

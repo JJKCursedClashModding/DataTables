@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterEffectDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterEffect'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180": {
+        "ID": "CP_180",
+        "bUseAuraEffectEnabled": true,
+        "CursedEnergy_AuraColor": {
+          "R": 0.1,
+          "G": 1,
+          "B": 1.5,
+          "A": 1,
+          "Hex": "59FFFF"
+        },
+        "CursedEnergy_BrightAuraColor": {
+          "R": 5.6,
+          "G": 8.7,
+          "B": 10,
+          "A": 1,
+          "Hex": "FFFFFF"
+        },
+        "Disappear_FogColor": {
+          "R": 0.4,
+          "G": 0.4,
+          "B": 0.4,
+          "A": 1,
+          "Hex": "AAAAAA"
+        },
+        "Disappear_GlowColor": {
+          "R": 0.2,
+          "G": 0.2,
+          "B": 0.2,
+          "A": 1,
+          "Hex": "7C7C7C"
+        },
+        "Id_Effect_CursedEnergy_LevelUp": "None",
+        "Id_Effect_CursedEnergy_Aura_2": "None",
+        "Id_Effect_CursedEnergy_Aura_3": "None",
+        "Id_Effect_Tension_LevelUp": "None",
+        "Id_Effect_Tension_Aura_2": "None",
+        "Id_Effect_Tension_Aura_3": "None",
+        "BuffDebuffEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "MapGroundEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "SimpleDomainCounterEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "CrimsonBindEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 0.9
+        },
+        "CrimsonBindEffectOffset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryEffectScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "ProjectionSorceryEffectOffset": {
+          "X": -20,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ProjectionSorceryWeaponRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "FreezingRestraintEffectScale": {
+          "X": 0.8,
+          "Y": 0.8,
+          "Z": 0.9
+        },
+        "FreezingRestraintEffectOffset": {
+          "X": -20,
+          "Y": 0,
+          "Z": 0
+        },
+        "CentipedeRestraintEffectOffset": {
+          "X": -12,
+          "Y": 0,
+          "Z": -10
+        },
+        "FileName_BP": [
+          "FX_CP_180_00101_BP",
+          "FX_CP_180_00102_BP",
+          "FX_CP_180_00103_BP",
+          "FX_CP_180_00211_BP",
+          "FX_CP_180_00311_BP",
+          "FX_CP_180_00411_BP",
+          "FX_CP_180_00412_BP",
+          "FX_CP_180_00421_BP",
+          "FX_CP_180_00422_BP",
+          "FX_CP_180_01101_BP",
+          "FX_CP_180_02101_BP",
+          "FX_CP_180_03101_BP",
+          "FX_CP_180_04101_BP",
+          "FX_CP_180_05111_BP",
+          "FX_CP_180_05121_BP",
+          "FX_CP_180_05211_BP",
+          "FX_CP_180_05221_BP",
+          "FX_CP_180_06111_BP",
+          "FX_CP_180_06121_BP",
+          "FX_CP_180_06131_BP",
+          "FX_CP_180_06211_BP",
+          "FX_CP_180_06221_BP",
+          "FX_CP_180_06231_BP",
+          "FX_CP_180_06311_BP",
+          "FX_CP_180_07101_BP",
+          "FX_CP_180_07201_BP",
+          "FX_CP_180_07301_BP",
+          "FX_CP_180_08111_BP",
+          "FX_CP_180_08112_BP",
+          "FX_CP_180_08121_BP",
+          "FX_CP_180_08122_BP",
+          "FX_CP_180_08131_BP",
+          "FX_CP_180_08132_BP",
+          "FX_CP_180_08201_BP",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

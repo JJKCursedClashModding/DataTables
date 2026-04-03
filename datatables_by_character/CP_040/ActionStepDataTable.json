@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActionStepDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ActionStep'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040": {
+        "ID": "CP_040",
+        "CoolTime": 0.7,
+        "Step_Time": 0.2,
+        "Step_Speed_Start": 2000,
+        "Step_Speed_End": 1100,
+        "Step_InterpolateTime": 0.2,
+        "Step_EasingType": "EGameEasingType::None",
+        "Step_Blend_Exp": 1,
+        "Step_Inertia_Rate": 1,
+        "Step_Inertia_Time": 0.5,
+        "Step_HomingInvalidateDistance": 3000,
+        "StepEnd_PlayRate": 1,
+        "StepAir_Time": 0.2,
+        "StepAir_Speed_Start": 2000,
+        "StepAir_Speed_End": 1100,
+        "StepAir_InterpolateTime": 0.2,
+        "StepAir_EasingType": "EGameEasingType::None",
+        "StepAir_Blend_Exp": 1,
+        "StepAir_Inertia_Rate": 1,
+        "StepAir_Inertia_Time": 0.5,
+        "StepAir_HomingInvalidateDistance": 2000,
+        "StepAirEnd_PlayRate": 1
+      }
+    }
+  }
+]

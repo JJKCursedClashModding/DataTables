@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_GREETING_1": {
+        "ID": "CP_210_GREETING_1",
+        "Text": "¡Me hace feliz trabajar contigo!"
+      },
+      "CP_210_GREETING_2": {
+        "ID": "CP_210_GREETING_2",
+        "Text": "Cuento contigo."
+      },
+      "CP_210_PRAISE_1": {
+        "ID": "CP_210_PRAISE_1",
+        "Text": "¡Así se hace!"
+      },
+      "CP_210_PRAISE_2": {
+        "ID": "CP_210_PRAISE_2",
+        "Text": "¡Es increíble!"
+      },
+      "CP_210_FOLLOW": {
+        "ID": "CP_210_FOLLOW",
+        "Text": "Esto no es tu culpa."
+      },
+      "CP_210_APOLOGY": {
+        "ID": "CP_210_APOLOGY",
+        "Text": "Lo siento."
+      },
+      "CP_210_GRATITUDE_1": {
+        "ID": "CP_210_GRATITUDE_1",
+        "Text": "¡Muchas gracias!"
+      },
+      "CP_210_GRATITUDE_2": {
+        "ID": "CP_210_GRATITUDE_2",
+        "Text": "¡Se agradece!"
+      },
+      "CP_210_GOODBYE": {
+        "ID": "CP_210_GOODBYE",
+        "Text": "Bueno, ¡hasta la próxima!"
+      },
+      "CP_210_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_210_THANKYOUFORYOURHARDWORK",
+        "Text": "¡Buen trabajo!"
+      },
+      "CP_210_ROGERTHAT": {
+        "ID": "CP_210_ROGERTHAT",
+        "Text": "¡Claro!"
+      },
+      "CP_210_REJECTION": {
+        "ID": "CP_210_REJECTION",
+        "Text": "No, gracias a ti."
+      },
+      "CP_210_ENCOURAGEMENT": {
+        "ID": "CP_210_ENCOURAGEMENT",
+        "Text": "¡Seguro que todo irá bien!"
+      },
+      "CP_210_PINCH": {
+        "ID": "CP_210_PINCH",
+        "Text": "A este paso..."
+      },
+      "CP_210_COMEFORWARD": {
+        "ID": "CP_210_COMEFORWARD",
+        "Text": "Tomaré el frente."
+      },
+      "CP_210_COMEFORWARD_OUT": {
+        "ID": "CP_210_COMEFORWARD_OUT",
+        "Text": "Tomaré el frente."
+      },
+      "CP_210_GODOWN": {
+        "ID": "CP_210_GODOWN",
+        "Text": "Mantén la distancia con el rival."
+      },
+      "CP_210_GODOWN_OUT": {
+        "ID": "CP_210_GODOWN_OUT",
+        "Text": "Mantén la distancia con el rival."
+      },
+      "CP_210_NOTE": {
+        "ID": "CP_210_NOTE",
+        "Text": "¡Ten cuidado!"
+      },
+      "CP_210_AIMATTHETARGET": {
+        "ID": "CP_210_AIMATTHETARGET",
+        "Text": "¡Déjenme a este enemigo a mí!"
+      },
+      "CP_210_AIMFORAJOINTATTACK": {
+        "ID": "CP_210_AIMFORAJOINTATTACK",
+        "Text": "Intentemos un ataque conjunto."
+      },
+      "CP_210_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_210_AIMFORAJOINTATTACK_OUT",
+        "Text": "Intentemos un ataque conjunto."
+      },
+      "CP_210_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_210_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Usaré mi movimiento del despertar."
+      },
+      "CP_210_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_210_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Usaré mi movimiento del despertar."
+      },
+      "CP_210_FIGHTCLOSEBY": {
+        "ID": "CP_210_FIGHTCLOSEBY",
+        "Text": "¿Qué tal si luchamos de cerca?"
+      },
+      "CP_210_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_210_FIGHTCLOSEBY_OUT",
+        "Text": "¿Qué tal si luchamos de cerca?"
+      },
+      "CP_210_FIGHTAWAY": {
+        "ID": "CP_210_FIGHTAWAY",
+        "Text": "¿Qué tal si luchamos a distancia?"
+      },
+      "CP_210_FIGHTAWAY_OUT": {
+        "ID": "CP_210_FIGHTAWAY_OUT",
+        "Text": "¿Qué tal si luchamos a distancia?"
+      },
+      "CP_210_LETMETAKECAREOFTHAT": {
+        "ID": "CP_210_LETMETAKECAREOFTHAT",
+        "Text": "Yo primero."
+      },
+      "CP_210_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_210_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Yo primero."
+      },
+      "CP_210_LETSWORKTOGETHER": {
+        "ID": "CP_210_LETSWORKTOGETHER",
+        "Text": "Trabajemos en equipo."
+      },
+      "CP_210_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_210_LETSWORKTOGETHER_OUT",
+        "Text": "Trabajemos en equipo."
+      },
+      "CP_210_LEVELREPORT_LOW": {
+        "ID": "CP_210_LEVELREPORT_LOW",
+        "Text": "Espera un poco más."
+      },
+      "CP_210_LEVELREPORT_MEDIUM": {
+        "ID": "CP_210_LEVELREPORT_MEDIUM",
+        "Text": "¡Sin problemas!"
+      },
+      "CP_210_LEVELREPORT_HIGH": {
+        "ID": "CP_210_LEVELREPORT_HIGH",
+        "Text": "¡A toda potencia!"
+      },
+      "CP_210_PROVOCATION_1": {
+        "ID": "CP_210_PROVOCATION_1",
+        "Text": "¡No te enojes cuando empiece el dolor!"
+      },
+      "CP_210_PROVOCATION_2": {
+        "ID": "CP_210_PROVOCATION_2",
+        "Text": "Lo lamento, ¡pero voy a ganar!"
+      },
+      "CP_210_RESPECT_1": {
+        "ID": "CP_210_RESPECT_1",
+        "Text": "¡No puedo seguir perdiendo siempre!"
+      },
+      "CP_210_RESPECT_2": {
+        "ID": "CP_210_RESPECT_2",
+        "Text": "Esta persona es... ¡increíblemente fuerte!"
+      },
+      "CP_210_UNIQUE_1": {
+        "ID": "CP_210_UNIQUE_1",
+        "Text": "Quiero independizarme cuanto antes."
+      },
+      "CP_210_UNIQUE_2": {
+        "ID": "CP_210_UNIQUE_2",
+        "Text": "Porque soy pobre y la mayor."
+      },
+      "CP_210_UNIQUE_3": {
+        "ID": "CP_210_UNIQUE_3",
+        "Text": "Hola, aquí la inútil de Miwa."
+      },
+      "CP_210_UNIQUE_4": {
+        "ID": "CP_210_UNIQUE_4",
+        "Text": "Yupi, ¡qué genial!"
+      },
+      "CP_210_UNIQUE_5": {
+        "ID": "CP_210_UNIQUE_5",
+        "Text": "¡Qué bien!"
+      },
+      "CP_210_UNIQUE_6": {
+        "ID": "CP_210_UNIQUE_6",
+        "Text": "Para o te denunciaré a las autoridades competentes."
+      },
+      "CP_210_UNIQUE_7": {
+        "ID": "CP_210_UNIQUE_7",
+        "Text": "Tengo tanta hambre."
+      },
+      "CP_210_UNIQUE_8": {
+        "ID": "CP_210_UNIQUE_8",
+        "Text": "Me pregunto si la tapioca es tan buena como dicen."
+      },
+      "CP_210_UNIQUE_9": {
+        "ID": "CP_210_UNIQUE_9",
+        "Text": "¡Oh! Es Satoru Gojo en persona, justo en frente de mí!"
+      },
+      "CP_210_UNIQUE_10": {
+        "ID": "CP_210_UNIQUE_10",
+        "Text": "Bueno, menos mal."
+      },
+      "CP_210_UNIQUE_11": {
+        "ID": "CP_210_UNIQUE_11",
+        "Text": "Estaba profundamente dormida, y ahora me siento avergonzada."
+      },
+      "CP_210_READY": {
+        "ID": "CP_210_READY",
+        "Text": "Puedo irme cuando quiera."
+      },
+      "CP_210_UNDERSTOODOKAY": {
+        "ID": "CP_210_UNDERSTOODOKAY",
+        "Text": "Entendido."
+      },
+      "CP_210_ENDSWITH": {
+        "ID": "CP_210_ENDSWITH",
+        "Text": "Terminaré con el siguiente."
+      },
+      "CP_210_WAITAMINUTE": {
+        "ID": "CP_210_WAITAMINUTE",
+        "Text": "¿Puedes esperar un momento?"
+      },
+      "CP_210_CHANGE": {
+        "ID": "CP_210_CHANGE",
+        "Text": "Lo cambiaré."
+      },
+      "CP_210_ITWASAGOODMATCH": {
+        "ID": "CP_210_ITWASAGOODMATCH",
+        "Text": "Buena pelea, ¿no?"
+      },
+      "CP_210_EXIT": {
+        "ID": "CP_210_EXIT",
+        "Text": "Me retiro."
+      },
+      "CP_210_LETSATTACK": {
+        "ID": "CP_210_LETSATTACK",
+        "Text": "Deberíamos pasar a la ofensiva."
+      },
+      "CP_210_FIGHTCAREFULLY": {
+        "ID": "CP_210_FIGHTCAREFULLY",
+        "Text": "¿No sería mejor luchar con precaución?"
+      }
+    }
+  }
+]

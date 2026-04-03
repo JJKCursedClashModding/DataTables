@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_100_GREETING_1": {
+        "ID": "CP_100_GREETING_1",
+        "Text": "Los geht's!"
+      },
+      "CP_100_GREETING_2": {
+        "ID": "CP_100_GREETING_2",
+        "Text": "Greift mich ruhig geschlossen an!"
+      },
+      "CP_100_PRAISE_1": {
+        "ID": "CP_100_PRAISE_1",
+        "Text": "Das ist hervorragend."
+      },
+      "CP_100_PRAISE_2": {
+        "ID": "CP_100_PRAISE_2",
+        "Text": "Herzlichen Glückwunsch."
+      },
+      "CP_100_FOLLOW": {
+        "ID": "CP_100_FOLLOW",
+        "Text": "Keine Sorge."
+      },
+      "CP_100_APOLOGY": {
+        "ID": "CP_100_APOLOGY",
+        "Text": "Tut mir leid."
+      },
+      "CP_100_GRATITUDE_1": {
+        "ID": "CP_100_GRATITUDE_1",
+        "Text": "Das weiß ich zu schätzen."
+      },
+      "CP_100_GRATITUDE_2": {
+        "ID": "CP_100_GRATITUDE_2",
+        "Text": "Danke."
+      },
+      "CP_100_GOODBYE": {
+        "ID": "CP_100_GOODBYE",
+        "Text": "Ich gehe nach Hause!"
+      },
+      "CP_100_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_100_THANKYOUFORYOURHARDWORK",
+        "Text": "Du hast gut gekämpft."
+      },
+      "CP_100_ROGERTHAT": {
+        "ID": "CP_100_ROGERTHAT",
+        "Text": "Überlass das mir!"
+      },
+      "CP_100_REJECTION": {
+        "ID": "CP_100_REJECTION",
+        "Text": "Läuft nicht."
+      },
+      "CP_100_ENCOURAGEMENT": {
+        "ID": "CP_100_ENCOURAGEMENT",
+        "Text": "Hör nicht auf! Und vertrau mir!"
+      },
+      "CP_100_PINCH": {
+        "ID": "CP_100_PINCH",
+        "Text": "Ich ertrage das ..."
+      },
+      "CP_100_COMEFORWARD": {
+        "ID": "CP_100_COMEFORWARD",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_100_COMEFORWARD_OUT": {
+        "ID": "CP_100_COMEFORWARD_OUT",
+        "Text": "Ich gehe nach vorn."
+      },
+      "CP_100_GODOWN": {
+        "ID": "CP_100_GODOWN",
+        "Text": "Überlass mir die hintere Reihe."
+      },
+      "CP_100_GODOWN_OUT": {
+        "ID": "CP_100_GODOWN_OUT",
+        "Text": "Überlass mir die hintere Reihe."
+      },
+      "CP_100_NOTE": {
+        "ID": "CP_100_NOTE",
+        "Text": "Ich mag deine Ausstrahlung."
+      },
+      "CP_100_AIMATTHETARGET": {
+        "ID": "CP_100_AIMATTHETARGET",
+        "Text": "Ich kümmere mich darum."
+      },
+      "CP_100_AIMFORAJOINTATTACK": {
+        "ID": "CP_100_AIMFORAJOINTATTACK",
+        "Text": "Landen wir jetzt unsere Kombo!"
+      },
+      "CP_100_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_100_AIMFORAJOINTATTACK_OUT",
+        "Text": "Landen wir jetzt unsere Kombo!"
+      },
+      "CP_100_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_100_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Jetzt landen wir die Erweckter-Technik!"
+      },
+      "CP_100_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_100_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Jetzt landen wir die Erweckter-Technik!"
+      },
+      "CP_100_FIGHTCLOSEBY": {
+        "ID": "CP_100_FIGHTCLOSEBY",
+        "Text": "Bleib in der Nähe!"
+      },
+      "CP_100_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_100_FIGHTCLOSEBY_OUT",
+        "Text": "Bleib in der Nähe!"
+      },
+      "CP_100_FIGHTAWAY": {
+        "ID": "CP_100_FIGHTAWAY",
+        "Text": "Halt dich eine Minute zurück!"
+      },
+      "CP_100_FIGHTAWAY_OUT": {
+        "ID": "CP_100_FIGHTAWAY_OUT",
+        "Text": "Halt dich eine Minute zurück!"
+      },
+      "CP_100_LETMETAKECAREOFTHAT": {
+        "ID": "CP_100_LETMETAKECAREOFTHAT",
+        "Text": "Überlass das mir!"
+      },
+      "CP_100_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_100_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Überlass das mir!"
+      },
+      "CP_100_LETSWORKTOGETHER": {
+        "ID": "CP_100_LETSWORKTOGETHER",
+        "Text": "Mach's mir nach!"
+      },
+      "CP_100_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_100_LETSWORKTOGETHER_OUT",
+        "Text": "Mach's mir nach!"
+      },
+      "CP_100_LEVELREPORT_LOW": {
+        "ID": "CP_100_LEVELREPORT_LOW",
+        "Text": "Noch nicht ..."
+      },
+      "CP_100_LEVELREPORT_MEDIUM": {
+        "ID": "CP_100_LEVELREPORT_MEDIUM",
+        "Text": "Ich habe einen Lauf!"
+      },
+      "CP_100_LEVELREPORT_HIGH": {
+        "ID": "CP_100_LEVELREPORT_HIGH",
+        "Text": "Ich gebe 120 %!"
+      },
+      "CP_100_PROVOCATION_1": {
+        "ID": "CP_100_PROVOCATION_1",
+        "Text": "Alles an dir ist langweilig."
+      },
+      "CP_100_PROVOCATION_2": {
+        "ID": "CP_100_PROVOCATION_2",
+        "Text": "Willst du überhaupt kämpfen?"
+      },
+      "CP_100_RESPECT_1": {
+        "ID": "CP_100_RESPECT_1",
+        "Text": "Ich hatte nichts anderes von dir erwartet."
+      },
+      "CP_100_RESPECT_2": {
+        "ID": "CP_100_RESPECT_2",
+        "Text": "Woah, ist das dein Ernst?!"
+      },
+      "CP_100_UNIQUE_1": {
+        "ID": "CP_100_UNIQUE_1",
+        "Text": "Auf was für Frauen stehst du?"
+      },
+      "CP_100_UNIQUE_2": {
+        "ID": "CP_100_UNIQUE_2",
+        "Text": "Es wird Zeit, meine Technik zu entfesseln."
+      },
+      "CP_100_UNIQUE_3": {
+        "ID": "CP_100_UNIQUE_3",
+        "Text": "Ich wusste es. Du bist wirklich langweilig."
+      },
+      "CP_100_UNIQUE_4": {
+        "ID": "CP_100_UNIQUE_4",
+        "Text": "Wie's aussieht, ist es unser Schicksal, die dicksten Freunde zu sein."
+      },
+      "CP_100_UNIQUE_5": {
+        "ID": "CP_100_UNIQUE_5",
+        "Text": "Du scheinst auch deinen Spaß zu haben."
+      },
+      "CP_100_UNIQUE_6": {
+        "ID": "CP_100_UNIQUE_6",
+        "Text": "Ich bringe das zu Ende, bevor der Gegner sich dran gewöhnt."
+      },
+      "CP_100_UNIQUE_7": {
+        "ID": "CP_100_UNIQUE_7",
+        "Text": "Brother!"
+      },
+      "CP_100_UNIQUE_8": {
+        "ID": "CP_100_UNIQUE_8",
+        "Text": "Du hast's geschafft."
+      },
+      "CP_100_UNIQUE_9": {
+        "ID": "CP_100_UNIQUE_9",
+        "Text": "Was hältst du davon, wenn wir jetzt richtig loslegen?"
+      },
+      "CP_100_UNIQUE_10": {
+        "ID": "CP_100_UNIQUE_10",
+        "Text": "Takatan-Strahl, wenn's dir nichts ausmacht."
+      },
+      "CP_100_UNIQUE_11": {
+        "ID": "CP_100_UNIQUE_11",
+        "Text": "Wenigstens sieht es nicht so aus, als würde man mich ständig nerven."
+      },
+      "CP_100_READY": {
+        "ID": "CP_100_READY",
+        "Text": "Genug aufgewärmt."
+      },
+      "CP_100_UNDERSTOODOKAY": {
+        "ID": "CP_100_UNDERSTOODOKAY",
+        "Text": "Verstanden."
+      },
+      "CP_100_ENDSWITH": {
+        "ID": "CP_100_ENDSWITH",
+        "Text": "Der Nächste ist der Letzte."
+      },
+      "CP_100_WAITAMINUTE": {
+        "ID": "CP_100_WAITAMINUTE",
+        "Text": "Warte mal einen Moment."
+      },
+      "CP_100_CHANGE": {
+        "ID": "CP_100_CHANGE",
+        "Text": "Ich ändere es."
+      },
+      "CP_100_ITWASAGOODMATCH": {
+        "ID": "CP_100_ITWASAGOODMATCH",
+        "Text": "Das war ein guter Kampf."
+      },
+      "CP_100_EXIT": {
+        "ID": "CP_100_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_100_LETSATTACK": {
+        "ID": "CP_100_LETSATTACK",
+        "Text": "Das wird ordentlich Schaden anrichten!"
+      },
+      "CP_100_FIGHTCAREFULLY": {
+        "ID": "CP_100_FIGHTCAREFULLY",
+        "Text": "Überstürzen wir nichts."
+      }
+    }
+  }
+]

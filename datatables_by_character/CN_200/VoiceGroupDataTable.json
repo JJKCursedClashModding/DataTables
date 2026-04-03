@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_VoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_200_SUMMON_01": {
+        "ID": "CN_200_SUMMON_01",
+        "Id_Voice": [
+          "VoBtl_CN_200_13_1_010010",
+          "VoBtl_CN_200_13_1_010020",
+          "VoBtl_CN_200_13_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_200_ATTACK_01": {
+        "ID": "CN_200_ATTACK_01",
+        "Id_Voice": [
+          "VoBtl_CN_200_13_3_010010",
+          "VoBtl_CN_200_13_3_010020",
+          "VoBtl_CN_200_13_3_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_200_ATTACK_02": {
+        "ID": "CN_200_ATTACK_02",
+        "Id_Voice": [
+          "VoBtl_CN_200_13_2_010010",
+          "VoBtl_CN_200_13_2_010020",
+          "VoBtl_CN_200_13_2_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CN_200_DEAD_01": {
+        "ID": "CN_200_DEAD_01",
+        "Id_Voice": [
+          "VoBtl_CN_200_13_4_010010",
+          "VoBtl_CN_200_13_4_010020",
+          "VoBtl_CN_200_13_4_010030",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

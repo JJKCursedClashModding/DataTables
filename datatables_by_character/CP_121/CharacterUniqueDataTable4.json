@@ -1,0 +1,188 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121": {
+        "ID": "CP_121",
+        "FloatValue": [
+          3,
+          4,
+          5,
+          -45,
+          0,
+          0,
+          1,
+          0,
+          0,
+          -68,
+          0,
+          0,
+          150,
+          50
+        ]
+      },
+      "CP_121_NORMALATTACK": {
+        "ID": "CP_121_NORMALATTACK",
+        "FloatValue": [
+          0.75,
+          1,
+          -20,
+          150,
+          115,
+          20,
+          20,
+          500,
+          350,
+          50,
+          60,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_121_ATTACKG_1": {
+        "ID": "CP_121_ATTACKG_1",
+        "FloatValue": [
+          6,
+          0.15,
+          1,
+          300,
+          0,
+          100,
+          200,
+          0.35,
+          0.1,
+          250,
+          0.4,
+          0.1,
+          400,
+          15
+        ]
+      },
+      "CP_121_ATTACKG_2": {
+        "ID": "CP_121_ATTACKG_2",
+        "FloatValue": [
+          8,
+          0.15,
+          1,
+          300,
+          0,
+          150,
+          400,
+          0,
+          0.1,
+          250,
+          0.4,
+          0.1,
+          800,
+          30
+        ]
+      },
+      "CP_121_ATTACKG_3": {
+        "ID": "CP_121_ATTACKG_3",
+        "FloatValue": [
+          8,
+          0.15,
+          1,
+          300,
+          0,
+          150,
+          400,
+          0,
+          0.1,
+          200,
+          0.4,
+          0.1,
+          800,
+          30
+        ]
+      },
+      "CP_121_ATTACKG_SHOOT_CAMERA_1": {
+        "ID": "CP_121_ATTACKG_SHOOT_CAMERA_1",
+        "FloatValue": [
+          -70,
+          -100,
+          -20,
+          60,
+          30,
+          110,
+          0.25,
+          3,
+          10,
+          5,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_121_ATTACKG_SHOOT_CAMERA_2": {
+        "ID": "CP_121_ATTACKG_SHOOT_CAMERA_2",
+        "FloatValue": [
+          -350,
+          125,
+          50,
+          60,
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_121_ATTACKH": {
+        "ID": "CP_121_ATTACKH",
+        "FloatValue": [
+          0,
+          115,
+          3000,
+          3500,
+          4000,
+          1.35,
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_121_ATTACKB_SHOOT_CAMERA": {
+        "ID": "CP_121_ATTACKB_SHOOT_CAMERA",
+        "FloatValue": [
+          -200,
+          -150,
+          15,
+          60,
+          30,
+          110,
+          0.25,
+          3,
+          10,
+          5,
+          5,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CollisionModifyDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CollisionModify'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_250_ATTACKA_02_01": {
+        "ID": "CN_250_ATTACKA_02_01",
+        "Size": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Size_Time": 0,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0.1
+      },
+      "CN_250_ATTACKD_01_01": {
+        "ID": "CN_250_ATTACKD_01_01",
+        "Size": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Size_Time": 0,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0.1
+      },
+      "CN_250_ATTACKH_01_01": {
+        "ID": "CN_250_ATTACKH_01_01",
+        "Size": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Size_Time": 0,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0.3
+      }
+    }
+  }
+]

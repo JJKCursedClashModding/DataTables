@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_STAMP_001": {
+        "ID": "CP_210_STAMP_001",
+        "Text": "사이좋게 지내자"
+      },
+      "CP_210_STAMP_002": {
+        "ID": "CP_210_STAMP_002",
+        "Text": "안녕하세요! 무용지물 미와입니다!"
+      }
+    }
+  }
+]

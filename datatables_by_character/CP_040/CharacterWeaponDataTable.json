@@ -1,0 +1,59 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterWeaponDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterWeapon'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_00": {
+        "ID": "CP_040_00",
+        "Id_Weapon": [
+          "WP_020_00",
+          "None",
+          "None",
+          "None"
+        ],
+        "SocketName": [
+          "R_Weapon",
+          "None",
+          "None",
+          "None"
+        ],
+        "bDefaultHidden": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_040_50": {
+        "ID": "CP_040_50",
+        "Id_Weapon": [
+          "WP_020_10",
+          "None",
+          "None",
+          "None"
+        ],
+        "SocketName": [
+          "R_Weapon",
+          "None",
+          "None",
+          "None"
+        ],
+        "bDefaultHidden": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

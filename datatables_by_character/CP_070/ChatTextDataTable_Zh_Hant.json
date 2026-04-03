@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_070_GREETING_1": {
+        "ID": "CP_070_GREETING_1",
+        "Text": "生筋子、鮭魚"
+      },
+      "CP_070_GREETING_2": {
+        "ID": "CP_070_GREETING_2",
+        "Text": "生筋子～！"
+      },
+      "CP_070_PRAISE_1": {
+        "ID": "CP_070_PRAISE_1",
+        "Text": "鮭魚卵、鮭魚！"
+      },
+      "CP_070_PRAISE_2": {
+        "ID": "CP_070_PRAISE_2",
+        "Text": "鮭魚卵～！"
+      },
+      "CP_070_FOLLOW": {
+        "ID": "CP_070_FOLLOW",
+        "Text": "鮪魚美乃滋"
+      },
+      "CP_070_APOLOGY": {
+        "ID": "CP_070_APOLOGY",
+        "Text": "明、明太子……"
+      },
+      "CP_070_GRATITUDE_1": {
+        "ID": "CP_070_GRATITUDE_1",
+        "Text": "昆布、鮭魚"
+      },
+      "CP_070_GRATITUDE_2": {
+        "ID": "CP_070_GRATITUDE_2",
+        "Text": "鮭魚！"
+      },
+      "CP_070_GOODBYE": {
+        "ID": "CP_070_GOODBYE",
+        "Text": "鮪～魚～"
+      },
+      "CP_070_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_070_THANKYOUFORYOURHARDWORK",
+        "Text": "昆布"
+      },
+      "CP_070_ROGERTHAT": {
+        "ID": "CP_070_ROGERTHAT",
+        "Text": "鮭魚"
+      },
+      "CP_070_REJECTION": {
+        "ID": "CP_070_REJECTION",
+        "Text": "蜜汁柴魚"
+      },
+      "CP_070_ENCOURAGEMENT": {
+        "ID": "CP_070_ENCOURAGEMENT",
+        "Text": "明太子"
+      },
+      "CP_070_PINCH": {
+        "ID": "CP_070_PINCH",
+        "Text": "昆布、蜜汁柴魚！"
+      },
+      "CP_070_COMEFORWARD": {
+        "ID": "CP_070_COMEFORWARD",
+        "Text": "鮪魚鮭魚"
+      },
+      "CP_070_COMEFORWARD_OUT": {
+        "ID": "CP_070_COMEFORWARD_OUT",
+        "Text": "鮪魚鮭魚"
+      },
+      "CP_070_GODOWN": {
+        "ID": "CP_070_GODOWN",
+        "Text": "鮪魚蜜汁柴魚"
+      },
+      "CP_070_GODOWN_OUT": {
+        "ID": "CP_070_GODOWN_OUT",
+        "Text": "鮪魚蜜汁柴魚"
+      },
+      "CP_070_NOTE": {
+        "ID": "CP_070_NOTE",
+        "Text": "高菜！"
+      },
+      "CP_070_AIMATTHETARGET": {
+        "ID": "CP_070_AIMATTHETARGET",
+        "Text": "鮪魚、高菜"
+      },
+      "CP_070_AIMFORAJOINTATTACK": {
+        "ID": "CP_070_AIMFORAJOINTATTACK",
+        "Text": "鮭魚卵、昆布、明太子"
+      },
+      "CP_070_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_070_AIMFORAJOINTATTACK_OUT",
+        "Text": "鮭魚卵、昆布、明太子"
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "鮪魚美乃滋高菜、明太子"
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "鮪魚美乃滋高菜、明太子"
+      },
+      "CP_070_FIGHTCLOSEBY": {
+        "ID": "CP_070_FIGHTCLOSEBY",
+        "Text": "明太子、鮭魚"
+      },
+      "CP_070_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_070_FIGHTCLOSEBY_OUT",
+        "Text": "明太子、鮭魚"
+      },
+      "CP_070_FIGHTAWAY": {
+        "ID": "CP_070_FIGHTAWAY",
+        "Text": "明太子、蜜汁柴魚"
+      },
+      "CP_070_FIGHTAWAY_OUT": {
+        "ID": "CP_070_FIGHTAWAY_OUT",
+        "Text": "明太子、蜜汁柴魚"
+      },
+      "CP_070_LETMETAKECAREOFTHAT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT",
+        "Text": "昆布、高菜"
+      },
+      "CP_070_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT_OUT",
+        "Text": "昆布、高菜"
+      },
+      "CP_070_LETSWORKTOGETHER": {
+        "ID": "CP_070_LETSWORKTOGETHER",
+        "Text": "鮪魚、鮭魚卵、鮭魚"
+      },
+      "CP_070_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_070_LETSWORKTOGETHER_OUT",
+        "Text": "鮪魚、鮭魚卵、鮭魚"
+      },
+      "CP_070_LEVELREPORT_LOW": {
+        "ID": "CP_070_LEVELREPORT_LOW",
+        "Text": "鮪魚……"
+      },
+      "CP_070_LEVELREPORT_MEDIUM": {
+        "ID": "CP_070_LEVELREPORT_MEDIUM",
+        "Text": "鮪魚鮪魚昆布"
+      },
+      "CP_070_LEVELREPORT_HIGH": {
+        "ID": "CP_070_LEVELREPORT_HIGH",
+        "Text": "鮭魚鮭魚！"
+      },
+      "CP_070_PROVOCATION_1": {
+        "ID": "CP_070_PROVOCATION_1",
+        "Text": "生筋子～"
+      },
+      "CP_070_PROVOCATION_2": {
+        "ID": "CP_070_PROVOCATION_2",
+        "Text": "生筋子？蜜汁柴魚？"
+      },
+      "CP_070_RESPECT_1": {
+        "ID": "CP_070_RESPECT_1",
+        "Text": "鮪魚、鮭魚卵……"
+      },
+      "CP_070_RESPECT_2": {
+        "ID": "CP_070_RESPECT_2",
+        "Text": "昆布、鮪魚、明太子！"
+      },
+      "CP_070_UNIQUE_1": {
+        "ID": "CP_070_UNIQUE_1",
+        "Text": "鮭魚鮭魚鮭魚"
+      },
+      "CP_070_UNIQUE_2": {
+        "ID": "CP_070_UNIQUE_2",
+        "Text": "蜜！汁！柴！魚！"
+      },
+      "CP_070_UNIQUE_3": {
+        "ID": "CP_070_UNIQUE_3",
+        "Text": "生筋子……"
+      },
+      "CP_070_UNIQUE_4": {
+        "ID": "CP_070_UNIQUE_4",
+        "Text": "高高、高菜！？"
+      },
+      "CP_070_UNIQUE_5": {
+        "ID": "CP_070_UNIQUE_5",
+        "Text": "鮪魚鮪魚鮪魚美乃滋"
+      },
+      "CP_070_UNIQUE_6": {
+        "ID": "CP_070_UNIQUE_6",
+        "Text": "昆布！"
+      },
+      "CP_070_UNIQUE_7": {
+        "ID": "CP_070_UNIQUE_7",
+        "Text": "鮪魚鮭魚！"
+      },
+      "CP_070_UNIQUE_8": {
+        "ID": "CP_070_UNIQUE_8",
+        "Text": "高菜～鮭魚～"
+      },
+      "CP_070_UNIQUE_9": {
+        "ID": "CP_070_UNIQUE_9",
+        "Text": "明太子～"
+      },
+      "CP_070_UNIQUE_10": {
+        "ID": "CP_070_UNIQUE_10",
+        "Text": "鮭魚"
+      },
+      "CP_070_UNIQUE_11": {
+        "ID": "CP_070_UNIQUE_11",
+        "Text": "蜜汁柴魚蜜汁柴魚蜜汁柴魚！"
+      },
+      "CP_070_READY": {
+        "ID": "CP_070_READY",
+        "Text": "鮪魚"
+      },
+      "CP_070_UNDERSTOODOKAY": {
+        "ID": "CP_070_UNDERSTOODOKAY",
+        "Text": "鮭魚"
+      },
+      "CP_070_ENDSWITH": {
+        "ID": "CP_070_ENDSWITH",
+        "Text": "鮭魚卵"
+      },
+      "CP_070_WAITAMINUTE": {
+        "ID": "CP_070_WAITAMINUTE",
+        "Text": "生筋子"
+      },
+      "CP_070_CHANGE": {
+        "ID": "CP_070_CHANGE",
+        "Text": "昆布"
+      },
+      "CP_070_ITWASAGOODMATCH": {
+        "ID": "CP_070_ITWASAGOODMATCH",
+        "Text": "明太子"
+      },
+      "CP_070_EXIT": {
+        "ID": "CP_070_EXIT",
+        "Text": "鮪魚美乃滋"
+      },
+      "CP_070_LETSATTACK": {
+        "ID": "CP_070_LETSATTACK",
+        "Text": "高菜！"
+      },
+      "CP_070_FIGHTCAREFULLY": {
+        "ID": "CP_070_FIGHTCAREFULLY",
+        "Text": "蜜汁柴魚"
+      }
+    }
+  }
+]

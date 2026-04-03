@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterShikigamiDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterShikigami'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_260": {
+        "ID": "CP_260",
+        "Id_Shikigami": [
+          "CN_270",
+          "CN_270",
+          "CN_270",
+          "CN_270",
+          "CN_270",
+          "CN_272",
+          "CN_272",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

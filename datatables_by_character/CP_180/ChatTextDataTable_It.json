@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_It",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180_GREETING_1": {
+        "ID": "CP_180_GREETING_1",
+        "Text": "Iniziamo!"
+      },
+      "CP_180_GREETING_2": {
+        "ID": "CP_180_GREETING_2",
+        "Text": "Non ti piacerà."
+      },
+      "CP_180_PRAISE_1": {
+        "ID": "CP_180_PRAISE_1",
+        "Text": "Fantastico."
+      },
+      "CP_180_PRAISE_2": {
+        "ID": "CP_180_PRAISE_2",
+        "Text": "Sei meglio del previsto."
+      },
+      "CP_180_FOLLOW": {
+        "ID": "CP_180_FOLLOW",
+        "Text": "Ti salvo io."
+      },
+      "CP_180_APOLOGY": {
+        "ID": "CP_180_APOLOGY",
+        "Text": "Scusa."
+      },
+      "CP_180_GRATITUDE_1": {
+        "ID": "CP_180_GRATITUDE_1",
+        "Text": "Grazie."
+      },
+      "CP_180_GRATITUDE_2": {
+        "ID": "CP_180_GRATITUDE_2",
+        "Text": "Sei la mia salvezza."
+      },
+      "CP_180_GOODBYE": {
+        "ID": "CP_180_GOODBYE",
+        "Text": "Bene, ci vediamo."
+      },
+      "CP_180_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_180_THANKYOUFORYOURHARDWORK",
+        "Text": "Uh, ben fatto."
+      },
+      "CP_180_ROGERTHAT": {
+        "ID": "CP_180_ROGERTHAT",
+        "Text": "Ricevuto."
+      },
+      "CP_180_REJECTION": {
+        "ID": "CP_180_REJECTION",
+        "Text": "No no."
+      },
+      "CP_180_ENCOURAGEMENT": {
+        "ID": "CP_180_ENCOURAGEMENT",
+        "Text": "Continuiamo così!"
+      },
+      "CP_180_PINCH": {
+        "ID": "CP_180_PINCH",
+        "Text": "Oh, no...!"
+      },
+      "CP_180_COMEFORWARD": {
+        "ID": "CP_180_COMEFORWARD",
+        "Text": "Vado avanti io."
+      },
+      "CP_180_COMEFORWARD_OUT": {
+        "ID": "CP_180_COMEFORWARD_OUT",
+        "Text": "Vado avanti io."
+      },
+      "CP_180_GODOWN": {
+        "ID": "CP_180_GODOWN",
+        "Text": "Vado in copertura."
+      },
+      "CP_180_GODOWN_OUT": {
+        "ID": "CP_180_GODOWN_OUT",
+        "Text": "Vado in copertura."
+      },
+      "CP_180_NOTE": {
+        "ID": "CP_180_NOTE",
+        "Text": "Fa' attenzione!"
+      },
+      "CP_180_AIMATTHETARGET": {
+        "ID": "CP_180_AIMATTHETARGET",
+        "Text": "Me ne occupo io."
+      },
+      "CP_180_AIMFORAJOINTATTACK": {
+        "ID": "CP_180_AIMFORAJOINTATTACK",
+        "Text": "Giochiamo di squadra."
+      },
+      "CP_180_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_180_AIMFORAJOINTATTACK_OUT",
+        "Text": "Giochiamo di squadra."
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Con una Mossa Risveglio chiuderemo i giochi!"
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Con una Mossa Risveglio chiuderemo i giochi!"
+      },
+      "CP_180_FIGHTCLOSEBY": {
+        "ID": "CP_180_FIGHTCLOSEBY",
+        "Text": "Resta vicino!"
+      },
+      "CP_180_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_180_FIGHTCLOSEBY_OUT",
+        "Text": "Resta vicino!"
+      },
+      "CP_180_FIGHTAWAY": {
+        "ID": "CP_180_FIGHTAWAY",
+        "Text": "Fammi spazio!"
+      },
+      "CP_180_FIGHTAWAY_OUT": {
+        "ID": "CP_180_FIGHTAWAY_OUT",
+        "Text": "Fammi spazio!"
+      },
+      "CP_180_LETMETAKECAREOFTHAT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT",
+        "Text": "Lascia fare a me."
+      },
+      "CP_180_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Lascia fare a me."
+      },
+      "CP_180_LETSWORKTOGETHER": {
+        "ID": "CP_180_LETSWORKTOGETHER",
+        "Text": "Facciamolo insieme!"
+      },
+      "CP_180_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_180_LETSWORKTOGETHER_OUT",
+        "Text": "Facciamolo insieme!"
+      },
+      "CP_180_LEVELREPORT_LOW": {
+        "ID": "CP_180_LEVELREPORT_LOW",
+        "Text": "Ora è fuori questione."
+      },
+      "CP_180_LEVELREPORT_MEDIUM": {
+        "ID": "CP_180_LEVELREPORT_MEDIUM",
+        "Text": "È ora di iniziare."
+      },
+      "CP_180_LEVELREPORT_HIGH": {
+        "ID": "CP_180_LEVELREPORT_HIGH",
+        "Text": "Ti batterò!"
+      },
+      "CP_180_PROVOCATION_1": {
+        "ID": "CP_180_PROVOCATION_1",
+        "Text": "Non basta."
+      },
+      "CP_180_PROVOCATION_2": {
+        "ID": "CP_180_PROVOCATION_2",
+        "Text": "Tutto qui?"
+      },
+      "CP_180_RESPECT_1": {
+        "ID": "CP_180_RESPECT_1",
+        "Text": "Eh, niente male."
+      },
+      "CP_180_RESPECT_2": {
+        "ID": "CP_180_RESPECT_2",
+        "Text": "Ci sai fare, te lo concedo."
+      },
+      "CP_180_UNIQUE_1": {
+        "ID": "CP_180_UNIQUE_1",
+        "Text": "Forza. Nessuno è più adorabile di te!"
+      },
+      "CP_180_UNIQUE_2": {
+        "ID": "CP_180_UNIQUE_2",
+        "Text": "Devo scappare. È ora delle nostre missioni."
+      },
+      "CP_180_UNIQUE_3": {
+        "ID": "CP_180_UNIQUE_3",
+        "Text": "Questa ragazza ha un buon intuito..."
+      },
+      "CP_180_UNIQUE_4": {
+        "ID": "CP_180_UNIQUE_4",
+        "Text": "Abbiamo iniziato male."
+      },
+      "CP_180_UNIQUE_5": {
+        "ID": "CP_180_UNIQUE_5",
+        "Text": "Che seccatura."
+      },
+      "CP_180_UNIQUE_6": {
+        "ID": "CP_180_UNIQUE_6",
+        "Text": "Ti schiaccerò con stile."
+      },
+      "CP_180_UNIQUE_7": {
+        "ID": "CP_180_UNIQUE_7",
+        "Text": "Non c'è niente di carino..."
+      },
+      "CP_180_UNIQUE_8": {
+        "ID": "CP_180_UNIQUE_8",
+        "Text": "Ti insegno una lezione!"
+      },
+      "CP_180_UNIQUE_9": {
+        "ID": "CP_180_UNIQUE_9",
+        "Text": "Aspetta, cosa? Perché no?"
+      },
+      "CP_180_UNIQUE_10": {
+        "ID": "CP_180_UNIQUE_10",
+        "Text": "Che cos'è? Una nuova forma di tortura?"
+      },
+      "CP_180_UNIQUE_11": {
+        "ID": "CP_180_UNIQUE_11",
+        "Text": "Pensi che le arti occulte siano solo forza bruta?"
+      },
+      "CP_180_UNIQUE_12": {
+        "ID": "CP_180_UNIQUE_12",
+        "Text": "Nessuna classe..."
+      },
+      "CP_180_READY": {
+        "ID": "CP_180_READY",
+        "Text": "Ci sono."
+      },
+      "CP_180_UNDERSTOODOKAY": {
+        "ID": "CP_180_UNDERSTOODOKAY",
+        "Text": "Ricevuto."
+      },
+      "CP_180_ENDSWITH": {
+        "ID": "CP_180_ENDSWITH",
+        "Text": "Il prossimo è l'ultimo."
+      },
+      "CP_180_WAITAMINUTE": {
+        "ID": "CP_180_WAITAMINUTE",
+        "Text": "Aspetta un attimo."
+      },
+      "CP_180_CHANGE": {
+        "ID": "CP_180_CHANGE",
+        "Text": "Ora cambio."
+      },
+      "CP_180_ITWASAGOODMATCH": {
+        "ID": "CP_180_ITWASAGOODMATCH",
+        "Text": "È stato un bell'incontro, eh?"
+      },
+      "CP_180_EXIT": {
+        "ID": "CP_180_EXIT",
+        "Text": "Mi ritiro."
+      },
+      "CP_180_LETSATTACK": {
+        "ID": "CP_180_LETSATTACK",
+        "Text": "Ti ho in pugno!"
+      },
+      "CP_180_FIGHTCAREFULLY": {
+        "ID": "CP_180_FIGHTCAREFULLY",
+        "Text": "Procedi con cautela!"
+      }
+    }
+  }
+]

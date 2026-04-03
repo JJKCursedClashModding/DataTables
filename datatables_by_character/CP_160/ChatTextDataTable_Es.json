@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_160_GREETING_1": {
+        "ID": "CP_160_GREETING_1",
+        "Text": "A ver qué tal trabajamos juntos."
+      },
+      "CP_160_GREETING_2": {
+        "ID": "CP_160_GREETING_2",
+        "Text": "Más vale que no me veas la espalda."
+      },
+      "CP_160_PRAISE_1": {
+        "ID": "CP_160_PRAISE_1",
+        "Text": "Lo estás haciendo bien."
+      },
+      "CP_160_PRAISE_2": {
+        "ID": "CP_160_PRAISE_2",
+        "Text": "Fantástico."
+      },
+      "CP_160_FOLLOW": {
+        "ID": "CP_160_FOLLOW",
+        "Text": "Ni lo menciones."
+      },
+      "CP_160_APOLOGY": {
+        "ID": "CP_160_APOLOGY",
+        "Text": "Lo lamento."
+      },
+      "CP_160_GRATITUDE_1": {
+        "ID": "CP_160_GRATITUDE_1",
+        "Text": "Gracias."
+      },
+      "CP_160_GRATITUDE_2": {
+        "ID": "CP_160_GRATITUDE_2",
+        "Text": "Gracias. De corazón."
+      },
+      "CP_160_GOODBYE": {
+        "ID": "CP_160_GOODBYE",
+        "Text": "Ya nos veremos."
+      },
+      "CP_160_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_160_THANKYOUFORYOURHARDWORK",
+        "Text": "Lo has hecho muy bien."
+      },
+      "CP_160_ROGERTHAT": {
+        "ID": "CP_160_ROGERTHAT",
+        "Text": "Vale."
+      },
+      "CP_160_REJECTION": {
+        "ID": "CP_160_REJECTION",
+        "Text": "Preferiría que no."
+      },
+      "CP_160_ENCOURAGEMENT": {
+        "ID": "CP_160_ENCOURAGEMENT",
+        "Text": "¿Eso es todo?"
+      },
+      "CP_160_PINCH": {
+        "ID": "CP_160_PINCH",
+        "Text": "Me he metido en un buen lío."
+      },
+      "CP_160_COMEFORWARD": {
+        "ID": "CP_160_COMEFORWARD",
+        "Text": "Ya me ocupo yo del frente."
+      },
+      "CP_160_COMEFORWARD_OUT": {
+        "ID": "CP_160_COMEFORWARD_OUT",
+        "Text": "Ya me ocupo yo del frente."
+      },
+      "CP_160_GODOWN": {
+        "ID": "CP_160_GODOWN",
+        "Text": "Voy a alejarme."
+      },
+      "CP_160_GODOWN_OUT": {
+        "ID": "CP_160_GODOWN_OUT",
+        "Text": "Voy a alejarme."
+      },
+      "CP_160_NOTE": {
+        "ID": "CP_160_NOTE",
+        "Text": "¡A ver qué te parece esto!"
+      },
+      "CP_160_AIMATTHETARGET": {
+        "ID": "CP_160_AIMATTHETARGET",
+        "Text": "No te me vas a escapar."
+      },
+      "CP_160_AIMFORAJOINTATTACK": {
+        "ID": "CP_160_AIMFORAJOINTATTACK",
+        "Text": "Únete a mi ataque."
+      },
+      "CP_160_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_160_AIMFORAJOINTATTACK_OUT",
+        "Text": "Únete a mi ataque."
+      },
+      "CP_160_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_160_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Va siendo hora de usar una habilidad avivada."
+      },
+      "CP_160_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_160_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Va siendo hora de usar una habilidad avivada."
+      },
+      "CP_160_FIGHTCLOSEBY": {
+        "ID": "CP_160_FIGHTCLOSEBY",
+        "Text": "Acércate."
+      },
+      "CP_160_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_160_FIGHTCLOSEBY_OUT",
+        "Text": "Acércate."
+      },
+      "CP_160_FIGHTAWAY": {
+        "ID": "CP_160_FIGHTAWAY",
+        "Text": "Lárgate de aquí."
+      },
+      "CP_160_FIGHTAWAY_OUT": {
+        "ID": "CP_160_FIGHTAWAY_OUT",
+        "Text": "Lárgate de aquí."
+      },
+      "CP_160_LETMETAKECAREOFTHAT": {
+        "ID": "CP_160_LETMETAKECAREOFTHAT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_160_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_160_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Déjamelo a mí."
+      },
+      "CP_160_LETSWORKTOGETHER": {
+        "ID": "CP_160_LETSWORKTOGETHER",
+        "Text": "Vamos a atacar juntos."
+      },
+      "CP_160_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_160_LETSWORKTOGETHER_OUT",
+        "Text": "Vamos a atacar juntos."
+      },
+      "CP_160_LEVELREPORT_LOW": {
+        "ID": "CP_160_LEVELREPORT_LOW",
+        "Text": "Me falta energía maldita."
+      },
+      "CP_160_LEVELREPORT_MEDIUM": {
+        "ID": "CP_160_LEVELREPORT_MEDIUM",
+        "Text": "Aún no hay suficiente."
+      },
+      "CP_160_LEVELREPORT_HIGH": {
+        "ID": "CP_160_LEVELREPORT_HIGH",
+        "Text": "Voy a dejarme la piel."
+      },
+      "CP_160_PROVOCATION_1": {
+        "ID": "CP_160_PROVOCATION_1",
+        "Text": "Igual no tengo ni que esforzarme."
+      },
+      "CP_160_PROVOCATION_2": {
+        "ID": "CP_160_PROVOCATION_2",
+        "Text": "Qué desilusión."
+      },
+      "CP_160_RESPECT_1": {
+        "ID": "CP_160_RESPECT_1",
+        "Text": "No está mal."
+      },
+      "CP_160_RESPECT_2": {
+        "ID": "CP_160_RESPECT_2",
+        "Text": "Eres fuerte."
+      },
+      "CP_160_UNIQUE_1": {
+        "ID": "CP_160_UNIQUE_1",
+        "Text": "Daría mi vida sin dudarlo con tal de que mis hermanos cumplan su sueño."
+      },
+      "CP_160_UNIQUE_2": {
+        "ID": "CP_160_UNIQUE_2",
+        "Text": "Verás, me acompleja un poquito mi espalda."
+      },
+      "CP_160_UNIQUE_3": {
+        "ID": "CP_160_UNIQUE_3",
+        "Text": "Oye, ahora que lo pienso, ni caso a lo que te he dicho."
+      },
+      "CP_160_UNIQUE_4": {
+        "ID": "CP_160_UNIQUE_4",
+        "Text": "Puuuf."
+      },
+      "CP_160_UNIQUE_5": {
+        "ID": "CP_160_UNIQUE_5",
+        "Text": "¡Abeja asesina!"
+      },
+      "CP_160_UNIQUE_6": {
+        "ID": "CP_160_UNIQUE_6",
+        "Text": "¡Le sale moho!"
+      },
+      "CP_160_UNIQUE_7": {
+        "ID": "CP_160_UNIQUE_7",
+        "Text": "¡Joder!"
+      },
+      "CP_160_UNIQUE_8": {
+        "ID": "CP_160_UNIQUE_8",
+        "Text": "¿Cómo puedes moverte como si nada?"
+      },
+      "CP_160_UNIQUE_9": {
+        "ID": "CP_160_UNIQUE_9",
+        "Text": "¡No pienso deshacer mi técnica!"
+      },
+      "CP_160_UNIQUE_10": {
+        "ID": "CP_160_UNIQUE_10",
+        "Text": "¡Kechizuuuu!"
+      },
+      "CP_160_READY": {
+        "ID": "CP_160_READY",
+        "Text": "Cuando quieras."
+      },
+      "CP_160_UNDERSTOODOKAY": {
+        "ID": "CP_160_UNDERSTOODOKAY",
+        "Text": "Entendido."
+      },
+      "CP_160_ENDSWITH": {
+        "ID": "CP_160_ENDSWITH",
+        "Text": "Voy a ponerle fin."
+      },
+      "CP_160_WAITAMINUTE": {
+        "ID": "CP_160_WAITAMINUTE",
+        "Text": "Un segundo, anda."
+      },
+      "CP_160_CHANGE": {
+        "ID": "CP_160_CHANGE",
+        "Text": "Voy a cambiar."
+      },
+      "CP_160_ITWASAGOODMATCH": {
+        "ID": "CP_160_ITWASAGOODMATCH",
+        "Text": "Ha sido una buena pelea."
+      },
+      "CP_160_EXIT": {
+        "ID": "CP_160_EXIT",
+        "Text": "Me retiro."
+      },
+      "CP_160_LETSATTACK": {
+        "ID": "CP_160_LETSATTACK",
+        "Text": "Pasemos al ataque."
+      },
+      "CP_160_FIGHTCAREFULLY": {
+        "ID": "CP_160_FIGHTCAREFULLY",
+        "Text": "A ver de qué son capaces."
+      }
+    }
+  }
+]

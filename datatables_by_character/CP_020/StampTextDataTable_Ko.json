@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_STAMP_001": {
+        "ID": "CP_020_STAMP_001",
+        "Text": "좀 더 힘내 보라고"
+      }
+    }
+  }
+]

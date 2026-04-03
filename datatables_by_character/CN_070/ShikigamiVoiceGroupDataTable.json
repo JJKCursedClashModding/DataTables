@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ShikigamiVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_070_ATTACK": {
+        "ID": "CN_070_ATTACK",
+        "Id_VoiceGroup": [
+          "CN_070_ATTACK_WEAK_01",
+          "CN_070_ATTACK_WEAK_MEDIUM_01",
+          "CN_070_ATTACK_MEDIUM_01",
+          "CN_070_ATTACK_HEAVY_01",
+          "CN_070_ATTACK_FINISH_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

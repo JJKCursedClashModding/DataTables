@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_240_STAMP_001": {
+        "ID": "CP_240_STAMP_001",
+        "Text": "¿Morirías por mí?"
+      },
+      "CP_240_STAMP_002": {
+        "ID": "CP_240_STAMP_002",
+        "Text": "Claro que estoy del lado del dinero."
+      }
+    }
+  }
+]

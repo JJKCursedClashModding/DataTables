@@ -1,0 +1,125 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_060_DEFAULTACTION": {
+        "ID": "CN_060_DEFAULTACTION",
+        "Id_VoiceGroup": [
+          "CN_060_START_01",
+          "CN_060_DASH_01",
+          "CN_060_JUMP_01",
+          "CN_060_STEP_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_060_NORMALATTACK1": {
+        "ID": "CN_060_NORMALATTACK1",
+        "Id_VoiceGroup": [
+          "CN_060_NORMALATTACK1_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_060_ATTACK": {
+        "ID": "CN_060_ATTACK",
+        "Id_VoiceGroup": [
+          "CN_060_ATTACK_WEAK_01",
+          "CN_060_ATTACK_WEAK_MEDIUM_01",
+          "CN_060_ATTACK_MEDIUM_01",
+          "CN_060_ATTACK_HEAVY_01",
+          "CN_060_ATTACK_FINISH_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_060_DAMAGE": {
+        "ID": "CN_060_DAMAGE",
+        "Id_VoiceGroup": [
+          "CN_060_DAMAGE_WEAK_01",
+          "CN_060_DAMAGE_MEDIUM_01",
+          "CN_060_DAMAGE_HEAVY_01",
+          "CN_060_DAMAGE_LARGE_HEAVY_01",
+          "CN_060_DAMAGE_BLOW_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_060_DOWN": {
+        "ID": "CN_060_DOWN",
+        "Id_VoiceGroup": [
+          "CN_060_DOWN_BOUNDED_01",
+          "CN_060_DOWN_01",
+          "None",
+          "CN_060_BREAKFALL_01",
+          "CN_060_DEAD_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_060_DOWN_PINCH": {
+        "ID": "CN_060_DOWN_PINCH",
+        "Id_VoiceGroup": [
+          "CN_060_DOWN_BOUNDED_01",
+          "CN_060_DOWN_01",
+          "CN_060_DOWN_END_01_PINCH",
+          "CN_060_BREAKFALL_01",
+          "CN_060_DEAD_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

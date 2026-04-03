@@ -1,0 +1,107 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCustomVoiceDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCustomVoice'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_010_NORMAL_00": {
+        "ID": "CP_010_NORMAL_00",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::NormalAttack",
+        "IndexType": "EGameCustomVoiceIndexType::Default",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_Intro_4_021010",
+          "VoBtl_CP_010_04_1_010010",
+          "VoBtl_CP_010_05_1_010010",
+          "VoBtl_CP_010_06_1_010010",
+          "VoBtl_CP_010_07_1_010010",
+          "VoBtl_CP_010_08_1_010010",
+          "VoBtl_CP_010_09_1_010010"
+        ]
+      },
+      "CP_010_NORMAL_10": {
+        "ID": "CP_010_NORMAL_10",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::NormalAttack",
+        "IndexType": "EGameCustomVoiceIndexType::TypeA",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_Intro_4_031010",
+          "VoBtl_CP_010_04_1_010020",
+          "VoBtl_CP_010_05_1_010020",
+          "VoBtl_CP_010_06_1_010020",
+          "VoBtl_CP_010_07_1_010020",
+          "VoBtl_CP_010_08_1_010020",
+          "VoBtl_CP_010_09_1_010020"
+        ]
+      },
+      "CP_010_NORMAL_20": {
+        "ID": "CP_010_NORMAL_20",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::NormalAttack",
+        "IndexType": "EGameCustomVoiceIndexType::TypeB",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_Intro_4_041010",
+          "VoBtl_CP_010_04_1_010030",
+          "VoBtl_CP_010_05_1_010030",
+          "VoBtl_CP_010_06_1_010030",
+          "VoBtl_CP_010_07_1_010030",
+          "VoBtl_CP_010_08_1_010030",
+          "VoBtl_CP_010_09_1_010030"
+        ]
+      },
+      "CP_010_CURSED_00": {
+        "ID": "CP_010_CURSED_00",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::CursedEnergyAttack",
+        "IndexType": "EGameCustomVoiceIndexType::Default",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_10_1_010010",
+          "VoBtl_CP_010_11_1_010010",
+          "VoBtl_CP_010_12_1_010010",
+          "VoBtl_CP_010_13_1_010010",
+          "VoBtl_CP_010_14_1_010010",
+          "VoBtl_CP_010_15_1_010010",
+          "VoBtl_CP_010_16_1_010010"
+        ]
+      },
+      "CP_010_CURSED_10": {
+        "ID": "CP_010_CURSED_10",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::CursedEnergyAttack",
+        "IndexType": "EGameCustomVoiceIndexType::TypeA",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_10_1_010020",
+          "VoBtl_CP_010_11_1_010020",
+          "VoBtl_CP_010_12_1_010020",
+          "VoBtl_CP_010_13_1_010020",
+          "VoBtl_CP_010_14_1_010020",
+          "VoBtl_CP_010_15_1_010020",
+          "VoBtl_CP_010_16_1_010020"
+        ]
+      },
+      "CP_010_CURSED_20": {
+        "ID": "CP_010_CURSED_20",
+        "Id_Character": "CP_010",
+        "Category": "EGameCustomVoiceCategory::CursedEnergyAttack",
+        "IndexType": "EGameCustomVoiceIndexType::TypeB",
+        "Id_Voice_Sample": [
+          "VoBtl_CP_010_10_1_010030",
+          "VoBtl_CP_010_11_1_010030",
+          "VoBtl_CP_010_12_1_010030",
+          "VoBtl_CP_010_13_1_010030",
+          "VoBtl_CP_010_14_1_010030",
+          "VoBtl_CP_010_15_1_010030",
+          "VoBtl_CP_010_16_1_010030"
+        ]
+      }
+    }
+  }
+]

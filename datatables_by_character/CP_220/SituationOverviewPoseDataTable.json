@@ -1,0 +1,365 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SituationOverviewPoseDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_SituationOverviewPose'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220_POSE_00": {
+        "ID": "CP_220_POSE_00",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_01_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0000",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0000",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_01",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_01",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_220_POSE_01": {
+        "ID": "CP_220_POSE_01",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_02_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0010",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0010",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_02",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_02",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_220_POSE_02": {
+        "ID": "CP_220_POSE_02",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_03_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0020",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0020",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_03",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_03",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_220_POSE_03": {
+        "ID": "CP_220_POSE_03",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_04_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0030",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0030",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_04",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_04",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_220_POSE_04": {
+        "ID": "CP_220_POSE_04",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_05_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0040",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0040",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_05",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_05",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      },
+      "CP_220_POSE_05": {
+        "ID": "CP_220_POSE_05",
+        "Id_CustomizeLabelText": "ITM_SITUATION_OVERVIEW_POSE_06_CP_220",
+        "ImageFileName": "T_UI_Item_SituationOverviewPose_CP_220_0050",
+        "ThumbnailImageFileName": "T_UI_ItemThumbnail_SituationOverviewPose_CP_220_0050",
+        "Id_CharacterAnimation_Ally": "CP_220_SITUATION_OVERVIEW_ALLY_06",
+        "Id_ShikigamiCharacterAnimation_Ally": "None",
+        "Id_AnimationWeapon_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Ally": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Ally": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "Id_CharacterAnimation_Enemy": "CP_220_SITUATION_OVERVIEW_ENEMY_06",
+        "Id_ShikigamiCharacterAnimation_Enemy": "None",
+        "Id_AnimationWeapon_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponSocketName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "WeaponAnimationName_Enemy": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "bVariationWeapon_Enemy": [
+          false,
+          false,
+          false,
+          false
+        ]
+      }
+    }
+  }
+]

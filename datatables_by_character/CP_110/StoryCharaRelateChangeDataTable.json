@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateChangeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateChange'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110_CP_120_01": {
+        "ID": "CP_110_CP_120_01",
+        "Id_Character_1": "CP_110",
+        "Id_Character_2": "CP_120",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_110_CP_120_02": {
+        "ID": "CP_110_CP_120_02",
+        "Id_Character_1": "CP_110",
+        "Id_Character_2": "CP_120",
+        "ChangeValue_1_2": 12,
+        "ChangeValue_2_1": 12
+      },
+      "CP_110_CP_120_03": {
+        "ID": "CP_110_CP_120_03",
+        "Id_Character_1": "CP_110",
+        "Id_Character_2": "CP_120",
+        "ChangeValue_1_2": 13,
+        "ChangeValue_2_1": 13
+      }
+    }
+  }
+]

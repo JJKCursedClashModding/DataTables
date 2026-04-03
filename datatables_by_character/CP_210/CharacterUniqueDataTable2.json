@@ -1,0 +1,150 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable2",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210": {
+        "ID": "CP_210",
+        "FloatValue": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_1": {
+        "ID": "CP_210_ATTACKH_1",
+        "FloatValue": [
+          0.5,
+          60,
+          0.2,
+          450,
+          200,
+          1,
+          75,
+          75,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_2": {
+        "ID": "CP_210_ATTACKH_2",
+        "FloatValue": [
+          0.5,
+          60,
+          0.15,
+          550,
+          200,
+          1,
+          75,
+          75,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_3": {
+        "ID": "CP_210_ATTACKH_3",
+        "FloatValue": [
+          0.5,
+          60,
+          0.1,
+          650,
+          200,
+          1,
+          75,
+          75,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_CAMERA_1": {
+        "ID": "CP_210_ATTACKH_CAMERA_1",
+        "FloatValue": [
+          -600,
+          0,
+          150,
+          30,
+          20,
+          100,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_CAMERA_2": {
+        "ID": "CP_210_ATTACKH_CAMERA_2",
+        "FloatValue": [
+          -600,
+          0,
+          150,
+          30,
+          20,
+          100,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_210_ATTACKH_CAMERA_3": {
+        "ID": "CP_210_ATTACKH_CAMERA_3",
+        "FloatValue": [
+          -600,
+          0,
+          150,
+          30,
+          20,
+          100,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

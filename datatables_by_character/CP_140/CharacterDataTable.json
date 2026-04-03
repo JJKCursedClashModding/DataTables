@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Character'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140": {
+        "ID": "CP_140",
+        "Id_GlossaryText_Name": "GLS_NAME_CP_140",
+        "Id_GlossaryText_StoryName": "GLS_NAME_CP_140",
+        "Id_Character_Transformation": "None",
+        "CharacterGroup": "EGameCharacterGroup::CursedSpirits",
+        "CharacterPairGroup": "EGameCharacterPairGroup::CursedSpirits",
+        "Id_CharacterVariation": [
+          "CP_140_00",
+          "CP_140_01",
+          "CP_140_02",
+          "CP_140_03",
+          "CP_140_04",
+          "CP_140_10",
+          "CP_140_11",
+          "CP_140_12",
+          "CP_140_13",
+          "CP_140_14",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_CharacterAnimationSet": "CP_140",
+        "Id_CharacterTrap": [
+          "CP_140",
+          "None"
+        ],
+        "Id_CharacterEffect": "CP_140",
+        "Id_CharacterShikigami": [
+          "None"
+        ],
+        "Id_CharacterDecal": "CP_140",
+        "Id_CharacterUnique": [
+          "CP_140",
+          "CP_140_TRAPFIREPILLAR",
+          "CP_140_CURSEDBEAM",
+          "CP_140_ATTACKG_SHOOT_CAMERA",
+          "CP_140_ATTACKH_SHOOT_CAMERA",
+          "CP_140_CURSEDBEAM_DE",
+          "CP_140_CURSEDBEAM_AUTO",
+          "CP_140_ATTACKE_SHOOT_CAMERA",
+          "None"
+        ],
+        "DamageRate_AutoCombo": 1.2,
+        "LinkComboCursedEnergyExpRate": 1,
+        "AutoAttackDash_NextActionType": "EGameCharacterActionType::NormalAttackAir_1",
+        "AutoAttackDash_Distance": 500,
+        "Id_Action": "CP_140",
+        "Id_CommandList": "CP_140",
+        "ActionControllerType": "EGameCharacterActionControllerType::CP_140",
+        "AIType": "EGameCharacterAIType::CP_140",
+        "AutoAimLimitAngleYaw": 120,
+        "AutoAimLimitAnglePitch": 40,
+        "SituationAttackVoicePlayDistance": 1000,
+        "PvEAllyWeights": 50,
+        "StoryCharaGraphPlacementIndex": 13,
+        "Id_CharacterBaseParameter": "CP_140",
+        "Id_CharacterCursedEnergy": "CP_140",
+        "Id_CharacterSelect": "CP_140",
+        "Id_CharacterCamera": "CP_140",
+        "Id_CharacterUI": "CP_140",
+        "Id_CharacterSpecialAttack": "CP_140",
+        "Id_CharacterOperation": "CP_140",
+        "Id_CharacterChat": "CP_140",
+        "Id_SituationOverview": "CP_140",
+        "Id_CharacterCapture": "CP_140",
+        "Id_CharacterArcade": "CP_140",
+        "FootIKLimit": [
+          30,
+          0,
+          0,
+          0
+        ],
+        "CullingBoundingBoxScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "OverrideJustGuard_HitSlow_Attacker": -1,
+        "OverrideJustGuard_HitSlow_Time_Attacker": -1,
+        "Id_Item": "None"
+      }
+    }
+  }
+]

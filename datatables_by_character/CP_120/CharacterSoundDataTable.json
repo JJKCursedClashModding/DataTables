@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_120": {
+        "ID": "CP_120",
+        "CueSheetName": [
+          "CP_120",
+          "CN_070"
+        ],
+        "FootstepType": "EGameFootstepType::Zori",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_120",
+          "CP_120_TYPEA",
+          "CP_120_TYPEB",
+          "CP_120_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_120_CHARACTER_SELECT",
+          "CP_120_CHARACTER_RESELECT",
+          "CP_120_READY",
+          "CP_120_LOBBY_GO_TO_BATTLE",
+          "CP_120_LOBBY_CHANGED_MATCH_RULE",
+          "CP_120_RESULT_RANK_S",
+          "CP_120_RESULT_RANK_A",
+          "CP_120_RESULT_RANK_B_OR_LOWER",
+          "CP_120_RESULT_WINNING_STREAK_5",
+          "CP_120_RESULT_WINNING_STREAK_10",
+          "CP_120_RESULT_WINNING_STREAK_15",
+          "CP_120_RESULT_WINNING_STREAK_20",
+          "CP_120_RESULT_OPEN_RESULT_ITEM",
+          "CP_120_RESULT_PROMOTE_RANK",
+          "CP_120_RESULT_DEMOTE_RANK",
+          "CP_120_REMATCH_SUCCESS_REMATCH",
+          "CP_120_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_120_REMATCH_SELECT_FIND",
+          "CP_120_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_120_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

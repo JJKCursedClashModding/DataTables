@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_220": {
+        "ID": "CP_220",
+        "CueSheetName": [
+          "CP_220",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesMan",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_220",
+          "CP_220_TYPEA",
+          "CP_220_TYPEB",
+          "CP_220_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_220_CHARACTER_SELECT",
+          "CP_220_CHARACTER_RESELECT",
+          "CP_220_READY",
+          "CP_220_LOBBY_GO_TO_BATTLE",
+          "CP_220_LOBBY_CHANGED_MATCH_RULE",
+          "CP_220_RESULT_RANK_S",
+          "CP_220_RESULT_RANK_A",
+          "CP_220_RESULT_RANK_B_OR_LOWER",
+          "CP_220_RESULT_WINNING_STREAK_5",
+          "CP_220_RESULT_WINNING_STREAK_10",
+          "CP_220_RESULT_WINNING_STREAK_15",
+          "CP_220_RESULT_WINNING_STREAK_20",
+          "CP_220_RESULT_OPEN_RESULT_ITEM",
+          "CP_220_RESULT_PROMOTE_RANK",
+          "CP_220_RESULT_DEMOTE_RANK",
+          "CP_220_REMATCH_SUCCESS_REMATCH",
+          "CP_220_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_220_REMATCH_SELECT_FIND",
+          "CP_220_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_220_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

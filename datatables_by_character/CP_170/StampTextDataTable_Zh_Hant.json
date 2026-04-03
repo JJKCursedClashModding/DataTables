@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_STAMP_001": {
+        "ID": "CP_170_STAMP_001",
+        "Text": "太好了，擊中了呢"
+      },
+      "CP_170_STAMP_002": {
+        "ID": "CP_170_STAMP_002",
+        "Text": "真是任性的人！"
+      },
+      "CP_170_STAMP_003": {
+        "ID": "CP_170_STAMP_003",
+        "Text": "啊啊，真可憐"
+      }
+    }
+  }
+]

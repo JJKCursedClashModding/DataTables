@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateChangeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateChange'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050_CP_090_01": {
+        "ID": "CP_050_CP_090_01",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_090",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_090_02": {
+        "ID": "CP_050_CP_090_02",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_090",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_090_03": {
+        "ID": "CP_050_CP_090_03",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_090",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_110_01": {
+        "ID": "CP_050_CP_110_01",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_110",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_110_02": {
+        "ID": "CP_050_CP_110_02",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_110",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_110_03": {
+        "ID": "CP_050_CP_110_03",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_110",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_110_04": {
+        "ID": "CP_050_CP_110_04",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_110",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_120_01": {
+        "ID": "CP_050_CP_120_01",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_120",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_120_02": {
+        "ID": "CP_050_CP_120_02",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_120",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_140_01": {
+        "ID": "CP_050_CP_140_01",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_140",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_140_02": {
+        "ID": "CP_050_CP_140_02",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_140",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_150_01": {
+        "ID": "CP_050_CP_150_01",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_150",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      },
+      "CP_050_CP_150_02": {
+        "ID": "CP_050_CP_150_02",
+        "Id_Character_1": "CP_050",
+        "Id_Character_2": "CP_150",
+        "ChangeValue_1_2": 25,
+        "ChangeValue_2_1": 25
+      }
+    }
+  }
+]

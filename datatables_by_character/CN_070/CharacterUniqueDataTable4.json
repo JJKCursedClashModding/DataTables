@@ -1,0 +1,150 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_070": {
+        "ID": "CN_070",
+        "FloatValue": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKA": {
+        "ID": "CN_070_ATTACKA",
+        "FloatValue": [
+          800,
+          50000,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKB": {
+        "ID": "CN_070_ATTACKB",
+        "FloatValue": [
+          200,
+          3500,
+          0.2,
+          5,
+          0.1,
+          150,
+          0,
+          100,
+          120,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKC": {
+        "ID": "CN_070_ATTACKC",
+        "FloatValue": [
+          200,
+          2000,
+          0.2,
+          5,
+          0,
+          150,
+          0,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKD": {
+        "ID": "CN_070_ATTACKD",
+        "FloatValue": [
+          3500,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKE": {
+        "ID": "CN_070_ATTACKE",
+        "FloatValue": [
+          1100,
+          50000,
+          0.8,
+          3,
+          0.18,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_070_ATTACKF": {
+        "ID": "CN_070_ATTACKF",
+        "FloatValue": [
+          2000,
+          50000,
+          1.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

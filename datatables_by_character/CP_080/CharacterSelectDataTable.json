@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSelectDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSelect'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_080": {
+        "ID": "CP_080",
+        "PlacementIndex": 10,
+        "VisualLobbyPlacementIndex": 5,
+        "bUseListItemLeftPadding": false
+      }
+    }
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Ko",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_070_GREETING_1": {
+        "ID": "CP_070_GREETING_1",
+        "Text": "연어알젓, 연어"
+      },
+      "CP_070_GREETING_2": {
+        "ID": "CP_070_GREETING_2",
+        "Text": "연어알젓!"
+      },
+      "CP_070_PRAISE_1": {
+        "ID": "CP_070_PRAISE_1",
+        "Text": "연어알, 연어!"
+      },
+      "CP_070_PRAISE_2": {
+        "ID": "CP_070_PRAISE_2",
+        "Text": "연어알~!"
+      },
+      "CP_070_FOLLOW": {
+        "ID": "CP_070_FOLLOW",
+        "Text": "참치마요"
+      },
+      "CP_070_APOLOGY": {
+        "ID": "CP_070_APOLOGY",
+        "Text": "며, 명란젓…"
+      },
+      "CP_070_GRATITUDE_1": {
+        "ID": "CP_070_GRATITUDE_1",
+        "Text": "다시마, 연어"
+      },
+      "CP_070_GRATITUDE_2": {
+        "ID": "CP_070_GRATITUDE_2",
+        "Text": "연어!"
+      },
+      "CP_070_GOODBYE": {
+        "ID": "CP_070_GOODBYE",
+        "Text": "참치~"
+      },
+      "CP_070_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_070_THANKYOUFORYOURHARDWORK",
+        "Text": "다시마"
+      },
+      "CP_070_ROGERTHAT": {
+        "ID": "CP_070_ROGERTHAT",
+        "Text": "연어"
+      },
+      "CP_070_REJECTION": {
+        "ID": "CP_070_REJECTION",
+        "Text": "가다랑어포"
+      },
+      "CP_070_ENCOURAGEMENT": {
+        "ID": "CP_070_ENCOURAGEMENT",
+        "Text": "명란젓!"
+      },
+      "CP_070_PINCH": {
+        "ID": "CP_070_PINCH",
+        "Text": "다시마, 가다랑어포!"
+      },
+      "CP_070_COMEFORWARD": {
+        "ID": "CP_070_COMEFORWARD",
+        "Text": "참치 연어"
+      },
+      "CP_070_COMEFORWARD_OUT": {
+        "ID": "CP_070_COMEFORWARD_OUT",
+        "Text": "참치 연어"
+      },
+      "CP_070_GODOWN": {
+        "ID": "CP_070_GODOWN",
+        "Text": "참치 가다랑어포"
+      },
+      "CP_070_GODOWN_OUT": {
+        "ID": "CP_070_GODOWN_OUT",
+        "Text": "참치 가다랑어포"
+      },
+      "CP_070_NOTE": {
+        "ID": "CP_070_NOTE",
+        "Text": "갓!"
+      },
+      "CP_070_AIMATTHETARGET": {
+        "ID": "CP_070_AIMATTHETARGET",
+        "Text": "참치, 갓"
+      },
+      "CP_070_AIMFORAJOINTATTACK": {
+        "ID": "CP_070_AIMFORAJOINTATTACK",
+        "Text": "연어알 다시마, 명란젓"
+      },
+      "CP_070_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_070_AIMFORAJOINTATTACK_OUT",
+        "Text": "연어알 다시마, 명란젓"
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "참치마요 갓, 명란젓"
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "참치마요 갓, 명란젓"
+      },
+      "CP_070_FIGHTCLOSEBY": {
+        "ID": "CP_070_FIGHTCLOSEBY",
+        "Text": "명란젓, 연어"
+      },
+      "CP_070_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_070_FIGHTCLOSEBY_OUT",
+        "Text": "명란젓, 연어"
+      },
+      "CP_070_FIGHTAWAY": {
+        "ID": "CP_070_FIGHTAWAY",
+        "Text": "명란젓, 가다랑어포"
+      },
+      "CP_070_FIGHTAWAY_OUT": {
+        "ID": "CP_070_FIGHTAWAY_OUT",
+        "Text": "명란젓, 가다랑어포"
+      },
+      "CP_070_LETMETAKECAREOFTHAT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT",
+        "Text": "다시마, 갓"
+      },
+      "CP_070_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT_OUT",
+        "Text": "다시마, 갓"
+      },
+      "CP_070_LETSWORKTOGETHER": {
+        "ID": "CP_070_LETSWORKTOGETHER",
+        "Text": "참치, 연어알, 연어"
+      },
+      "CP_070_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_070_LETSWORKTOGETHER_OUT",
+        "Text": "참치, 연어알, 연어"
+      },
+      "CP_070_LEVELREPORT_LOW": {
+        "ID": "CP_070_LEVELREPORT_LOW",
+        "Text": "참치…"
+      },
+      "CP_070_LEVELREPORT_MEDIUM": {
+        "ID": "CP_070_LEVELREPORT_MEDIUM",
+        "Text": "참치 참치 다시마"
+      },
+      "CP_070_LEVELREPORT_HIGH": {
+        "ID": "CP_070_LEVELREPORT_HIGH",
+        "Text": "연어 연어!"
+      },
+      "CP_070_PROVOCATION_1": {
+        "ID": "CP_070_PROVOCATION_1",
+        "Text": "연어알젓"
+      },
+      "CP_070_PROVOCATION_2": {
+        "ID": "CP_070_PROVOCATION_2",
+        "Text": "연어알젓? 가다랑어포?"
+      },
+      "CP_070_RESPECT_1": {
+        "ID": "CP_070_RESPECT_1",
+        "Text": "참치, 연어알…"
+      },
+      "CP_070_RESPECT_2": {
+        "ID": "CP_070_RESPECT_2",
+        "Text": "다시마, 참치, 명란젓!"
+      },
+      "CP_070_UNIQUE_1": {
+        "ID": "CP_070_UNIQUE_1",
+        "Text": "연어연어연어"
+      },
+      "CP_070_UNIQUE_2": {
+        "ID": "CP_070_UNIQUE_2",
+        "Text": "가! 다! 랑! 어! 포!"
+      },
+      "CP_070_UNIQUE_3": {
+        "ID": "CP_070_UNIQUE_3",
+        "Text": "연어알젓…"
+      },
+      "CP_070_UNIQUE_4": {
+        "ID": "CP_070_UNIQUE_4",
+        "Text": "가가, 갓?!"
+      },
+      "CP_070_UNIQUE_5": {
+        "ID": "CP_070_UNIQUE_5",
+        "Text": "참치참치 참치마요"
+      },
+      "CP_070_UNIQUE_6": {
+        "ID": "CP_070_UNIQUE_6",
+        "Text": "다시마~!"
+      },
+      "CP_070_UNIQUE_7": {
+        "ID": "CP_070_UNIQUE_7",
+        "Text": "참치, 참치!"
+      },
+      "CP_070_UNIQUE_8": {
+        "ID": "CP_070_UNIQUE_8",
+        "Text": "갓~ 연어~"
+      },
+      "CP_070_UNIQUE_9": {
+        "ID": "CP_070_UNIQUE_9",
+        "Text": "연어알~"
+      },
+      "CP_070_UNIQUE_10": {
+        "ID": "CP_070_UNIQUE_10",
+        "Text": "연어"
+      },
+      "CP_070_UNIQUE_11": {
+        "ID": "CP_070_UNIQUE_11",
+        "Text": "가다랑어포 가다랑어포!"
+      },
+      "CP_070_READY": {
+        "ID": "CP_070_READY",
+        "Text": "참치"
+      },
+      "CP_070_UNDERSTOODOKAY": {
+        "ID": "CP_070_UNDERSTOODOKAY",
+        "Text": "연어"
+      },
+      "CP_070_ENDSWITH": {
+        "ID": "CP_070_ENDSWITH",
+        "Text": "연어알"
+      },
+      "CP_070_WAITAMINUTE": {
+        "ID": "CP_070_WAITAMINUTE",
+        "Text": "연어알젓"
+      },
+      "CP_070_CHANGE": {
+        "ID": "CP_070_CHANGE",
+        "Text": "다시마"
+      },
+      "CP_070_ITWASAGOODMATCH": {
+        "ID": "CP_070_ITWASAGOODMATCH",
+        "Text": "명란젓"
+      },
+      "CP_070_EXIT": {
+        "ID": "CP_070_EXIT",
+        "Text": "참치마요"
+      },
+      "CP_070_LETSATTACK": {
+        "ID": "CP_070_LETSATTACK",
+        "Text": "갓!"
+      },
+      "CP_070_FIGHTCAREFULLY": {
+        "ID": "CP_070_FIGHTCAREFULLY",
+        "Text": "가다랑어포"
+      }
+    }
+  }
+]

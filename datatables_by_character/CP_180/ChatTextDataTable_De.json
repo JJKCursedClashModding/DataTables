@@ -1,0 +1,257 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180_GREETING_1": {
+        "ID": "CP_180_GREETING_1",
+        "Text": "Legen wir los!"
+      },
+      "CP_180_GREETING_2": {
+        "ID": "CP_180_GREETING_2",
+        "Text": "Das wird dir nicht gefallen."
+      },
+      "CP_180_PRAISE_1": {
+        "ID": "CP_180_PRAISE_1",
+        "Text": "Das ist großartig."
+      },
+      "CP_180_PRAISE_2": {
+        "ID": "CP_180_PRAISE_2",
+        "Text": "Du bist besser als erwartet."
+      },
+      "CP_180_FOLLOW": {
+        "ID": "CP_180_FOLLOW",
+        "Text": "Ich rette dich."
+      },
+      "CP_180_APOLOGY": {
+        "ID": "CP_180_APOLOGY",
+        "Text": "Tut mir leid."
+      },
+      "CP_180_GRATITUDE_1": {
+        "ID": "CP_180_GRATITUDE_1",
+        "Text": "Danke."
+      },
+      "CP_180_GRATITUDE_2": {
+        "ID": "CP_180_GRATITUDE_2",
+        "Text": "Du rettest mir das Leben."
+      },
+      "CP_180_GOODBYE": {
+        "ID": "CP_180_GOODBYE",
+        "Text": "Okay, wir sehen uns."
+      },
+      "CP_180_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_180_THANKYOUFORYOURHARDWORK",
+        "Text": "Hm, gute Arbeit."
+      },
+      "CP_180_ROGERTHAT": {
+        "ID": "CP_180_ROGERTHAT",
+        "Text": "Verstanden."
+      },
+      "CP_180_REJECTION": {
+        "ID": "CP_180_REJECTION",
+        "Text": "Oh nein."
+      },
+      "CP_180_ENCOURAGEMENT": {
+        "ID": "CP_180_ENCOURAGEMENT",
+        "Text": "Machen wir weiter so!"
+      },
+      "CP_180_PINCH": {
+        "ID": "CP_180_PINCH",
+        "Text": "Oh, nein ...!"
+      },
+      "CP_180_COMEFORWARD": {
+        "ID": "CP_180_COMEFORWARD",
+        "Text": "Überlass mir die Front."
+      },
+      "CP_180_COMEFORWARD_OUT": {
+        "ID": "CP_180_COMEFORWARD_OUT",
+        "Text": "Überlass mir die Front."
+      },
+      "CP_180_GODOWN": {
+        "ID": "CP_180_GODOWN",
+        "Text": "Gehe in Deckung."
+      },
+      "CP_180_GODOWN_OUT": {
+        "ID": "CP_180_GODOWN_OUT",
+        "Text": "Gehe in Deckung."
+      },
+      "CP_180_NOTE": {
+        "ID": "CP_180_NOTE",
+        "Text": "Sei vorsichtig!"
+      },
+      "CP_180_AIMATTHETARGET": {
+        "ID": "CP_180_AIMATTHETARGET",
+        "Text": "Lass mich das machen."
+      },
+      "CP_180_AIMFORAJOINTATTACK": {
+        "ID": "CP_180_AIMFORAJOINTATTACK",
+        "Text": "Arbeiten wir zusammen."
+      },
+      "CP_180_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_180_AIMFORAJOINTATTACK_OUT",
+        "Text": "Arbeiten wir zusammen."
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Die Erweckter-Technik wird es reißen!"
+      },
+      "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_180_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Die Erweckter-Technik wird es reißen!"
+      },
+      "CP_180_FIGHTCLOSEBY": {
+        "ID": "CP_180_FIGHTCLOSEBY",
+        "Text": "Bleib in der Nähe!"
+      },
+      "CP_180_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_180_FIGHTCLOSEBY_OUT",
+        "Text": "Bleib in der Nähe!"
+      },
+      "CP_180_FIGHTAWAY": {
+        "ID": "CP_180_FIGHTAWAY",
+        "Text": "Platz machen!"
+      },
+      "CP_180_FIGHTAWAY_OUT": {
+        "ID": "CP_180_FIGHTAWAY_OUT",
+        "Text": "Platz machen!"
+      },
+      "CP_180_LETMETAKECAREOFTHAT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT",
+        "Text": "Überlass das mir."
+      },
+      "CP_180_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_180_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Überlass das mir."
+      },
+      "CP_180_LETSWORKTOGETHER": {
+        "ID": "CP_180_LETSWORKTOGETHER",
+        "Text": "Erledigen wir das gemeinsam!"
+      },
+      "CP_180_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_180_LETSWORKTOGETHER_OUT",
+        "Text": "Erledigen wir das gemeinsam!"
+      },
+      "CP_180_LEVELREPORT_LOW": {
+        "ID": "CP_180_LEVELREPORT_LOW",
+        "Text": "Das könnte sich jetzt erledigt haben."
+      },
+      "CP_180_LEVELREPORT_MEDIUM": {
+        "ID": "CP_180_LEVELREPORT_MEDIUM",
+        "Text": "Wird Zeit, zu gehen."
+      },
+      "CP_180_LEVELREPORT_HIGH": {
+        "ID": "CP_180_LEVELREPORT_HIGH",
+        "Text": "Ich schlage dich garantiert!"
+      },
+      "CP_180_PROVOCATION_1": {
+        "ID": "CP_180_PROVOCATION_1",
+        "Text": "Das reicht nicht."
+      },
+      "CP_180_PROVOCATION_2": {
+        "ID": "CP_180_PROVOCATION_2",
+        "Text": "Das war's?"
+      },
+      "CP_180_RESPECT_1": {
+        "ID": "CP_180_RESPECT_1",
+        "Text": "Hehe, nicht schlecht."
+      },
+      "CP_180_RESPECT_2": {
+        "ID": "CP_180_RESPECT_2",
+        "Text": "Du hast was drauf, das muss man dir lassen."
+      },
+      "CP_180_UNIQUE_1": {
+        "ID": "CP_180_UNIQUE_1",
+        "Text": "Ich werde mich darum kümmern! Auf meine süße Art."
+      },
+      "CP_180_UNIQUE_2": {
+        "ID": "CP_180_UNIQUE_2",
+        "Text": "Muss gehen. Zeit für unsere Missionen."
+      },
+      "CP_180_UNIQUE_3": {
+        "ID": "CP_180_UNIQUE_3",
+        "Text": "Das Mädchen hat eine gute Intuition ..."
+      },
+      "CP_180_UNIQUE_4": {
+        "ID": "CP_180_UNIQUE_4",
+        "Text": "Das geht gar nicht gut los."
+      },
+      "CP_180_UNIQUE_5": {
+        "ID": "CP_180_UNIQUE_5",
+        "Text": "So nervig."
+      },
+      "CP_180_UNIQUE_6": {
+        "ID": "CP_180_UNIQUE_6",
+        "Text": "Ich erledige dich mit Stil."
+      },
+      "CP_180_UNIQUE_7": {
+        "ID": "CP_180_UNIQUE_7",
+        "Text": "Überhaupt nicht süß ..."
+      },
+      "CP_180_UNIQUE_8": {
+        "ID": "CP_180_UNIQUE_8",
+        "Text": "Ich werd dich lehren!"
+      },
+      "CP_180_UNIQUE_9": {
+        "ID": "CP_180_UNIQUE_9",
+        "Text": "Warte, was? Wieso nicht?!"
+      },
+      "CP_180_UNIQUE_10": {
+        "ID": "CP_180_UNIQUE_10",
+        "Text": "Was soll das denn sein? Eine neue Foltermethode?"
+      },
+      "CP_180_UNIQUE_11": {
+        "ID": "CP_180_UNIQUE_11",
+        "Text": "Glaubst du, Jujutsu hat nur mit Kraft zu tun?"
+      },
+      "CP_180_UNIQUE_12": {
+        "ID": "CP_180_UNIQUE_12",
+        "Text": "Keine Klasse ..."
+      },
+      "CP_180_READY": {
+        "ID": "CP_180_READY",
+        "Text": "Ich bin bereit."
+      },
+      "CP_180_UNDERSTOODOKAY": {
+        "ID": "CP_180_UNDERSTOODOKAY",
+        "Text": "Verstanden."
+      },
+      "CP_180_ENDSWITH": {
+        "ID": "CP_180_ENDSWITH",
+        "Text": "Nach dem Nächsten ist Schluss."
+      },
+      "CP_180_WAITAMINUTE": {
+        "ID": "CP_180_WAITAMINUTE",
+        "Text": "Warte einen Moment."
+      },
+      "CP_180_CHANGE": {
+        "ID": "CP_180_CHANGE",
+        "Text": "Ich ändere das."
+      },
+      "CP_180_ITWASAGOODMATCH": {
+        "ID": "CP_180_ITWASAGOODMATCH",
+        "Text": "Das war ein guter Kampf, was?"
+      },
+      "CP_180_EXIT": {
+        "ID": "CP_180_EXIT",
+        "Text": "Ich ziehe mich zurück."
+      },
+      "CP_180_LETSATTACK": {
+        "ID": "CP_180_LETSATTACK",
+        "Text": "Du gehörst mir!"
+      },
+      "CP_180_FIGHTCAREFULLY": {
+        "ID": "CP_180_FIGHTCAREFULLY",
+        "Text": "Bleib vorsichtig!"
+      }
+    }
+  }
+]

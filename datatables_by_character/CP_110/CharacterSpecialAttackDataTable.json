@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSpecialAttackDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSpecialAttack'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110": {
+        "ID": "CP_110",
+        "Id_GlossaryText_Name": "None",
+        "Id_Damage_SpecialTagCombo": "CP_110_DAMAGE_SPECIAL_TAG_COMBO",
+        "Id_Damage_SoloSpecialAttack": "CP_110_DAMAGE_SOLO_SPECIAL_ATTACK",
+        "bMultiHitSoloSpecialAttack": false,
+        "Id_DomainExpansion": "None",
+        "RankingRecord": "EGameRankingRecord::SuperCursedEnergyAttack_11"
+      }
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Shikigami'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_110": {
+        "ID": "CN_110",
+        "FileName_BP": "CN_110_00_BP",
+        "Id_ShikigamiMaterial": "None",
+        "Id_ShikigamiAnimation": [
+          "CN_110",
+          "CN_110_DAMAGE",
+          "CN_110_ATTACKB",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "ActionControllerType": "EGameShikigamiActionControllerType::CN_110",
+        "SummonCursedEnergyLevel": 1,
+        "HitPoint": 1,
+        "DownValue": 300,
+        "OrderCoolTime": 0,
+        "SummonCoolTime": 0,
+        "bIsInstanceDeathEnabled": true,
+        "bImmortalityEnabled": false,
+        "AutoAttackDistance_Owner": 2000,
+        "AutoAttackDistance_Target": 2000,
+        "Id_ActionMove": "CN_111",
+        "Id_ActionJump": "CN_111",
+        "Id_ActionDash": "CN_111",
+        "Id_CharacterEffect": "CN_110",
+        "Id_CharacterSound": "CN_111",
+        "Id_ShikigamiVoiceGroup_DefaultAction": "None",
+        "Id_ShikigamiVoiceGroup_Attack": "None",
+        "Id_ShikigamiVoiceGroup_Damage": "None",
+        "Id_ShikigamiVoiceGroup_Down": "None",
+        "Id_ShikigamiVoiceGroup_Unique": "None",
+        "Id_ShikigamiUnique": [
+          "CN_110",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "FootIKLimit": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

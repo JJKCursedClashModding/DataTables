@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_VoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_240_UNIQUE_01": {
+        "ID": "CN_240_UNIQUE_01",
+        "Id_Voice": [
+          "VoBtl_CN_240_68_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_240_UNIQUE_02": {
+        "ID": "CN_240_UNIQUE_02",
+        "Id_Voice": [
+          "VoBtl_CN_240_49_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_240_UNIQUE_03": {
+        "ID": "CN_240_UNIQUE_03",
+        "Id_Voice": [
+          "VoBtl_CN_240_16_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CN_240_UNIQUE_04": {
+        "ID": "CN_240_UNIQUE_04",
+        "Id_Voice": [
+          "VoBtl_CN_240_20_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

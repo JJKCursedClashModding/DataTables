@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210_STAMP_001": {
+        "ID": "CP_210_STAMP_001",
+        "Text": "我們好好相處吧"
+      },
+      "CP_210_STAMP_002": {
+        "ID": "CP_210_STAMP_002",
+        "Text": "你好！我是沒用的三輪！"
+      }
+    }
+  }
+]

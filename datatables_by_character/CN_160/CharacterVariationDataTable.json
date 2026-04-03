@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVariationDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVariation'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_160_00": {
+        "ID": "CN_160_00",
+        "FileName_BP": "CN_160_00_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CN_160",
+        "Id_CharacterImage": "CN_160_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      }
+    }
+  }
+]

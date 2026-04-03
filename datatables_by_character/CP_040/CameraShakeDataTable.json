@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CameraShakeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CameraShake'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040_ATTACKH_02_01_1": {
+        "ID": "CP_040_ATTACKH_02_01_1",
+        "OscillationDuration": 0.5,
+        "OscillationBlendInTime": 0,
+        "OscillationBlendOutTime": 0.2,
+        "RotOscillation_Pitch_Amplitude": 0.75,
+        "RotOscillation_Pitch_Frequency": 75,
+        "RotOscillation_Yaw_Amplitude": 1.5,
+        "RotOscillation_Yaw_Frequency": 75
+      },
+      "CP_040_ATTACKH_02_01_2": {
+        "ID": "CP_040_ATTACKH_02_01_2",
+        "OscillationDuration": 0.65,
+        "OscillationBlendInTime": 0,
+        "OscillationBlendOutTime": 0.3,
+        "RotOscillation_Pitch_Amplitude": 0.75,
+        "RotOscillation_Pitch_Frequency": 75,
+        "RotOscillation_Yaw_Amplitude": 1.5,
+        "RotOscillation_Yaw_Frequency": 75
+      },
+      "CP_040_ATTACKH_02_01_3": {
+        "ID": "CP_040_ATTACKH_02_01_3",
+        "OscillationDuration": 0.8,
+        "OscillationBlendInTime": 0,
+        "OscillationBlendOutTime": 0.5,
+        "RotOscillation_Pitch_Amplitude": 0.75,
+        "RotOscillation_Pitch_Frequency": 75,
+        "RotOscillation_Yaw_Amplitude": 1.5,
+        "RotOscillation_Yaw_Frequency": 75
+      }
+    }
+  }
+]

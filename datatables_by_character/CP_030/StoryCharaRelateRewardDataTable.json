@@ -1,0 +1,101 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateRewardDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateReward'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030_CP_040": {
+        "ID": "CP_030_CP_040",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_040",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_040_02",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_040_03",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_040_04",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_040_05"
+        ]
+      },
+      "CP_030_CP_050": {
+        "ID": "CP_030_CP_050",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_050",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_050_03",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_050_04",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_050_05"
+        ]
+      },
+      "CP_030_CP_060": {
+        "ID": "CP_030_CP_060",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_060",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_060_03",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_060_04",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_060_05"
+        ]
+      },
+      "CP_030_CP_070": {
+        "ID": "CP_030_CP_070",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_070",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_070_03",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_070_04",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_070_05"
+        ]
+      },
+      "CP_030_CP_080": {
+        "ID": "CP_030_CP_080",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_080",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_080_03",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_080_04",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_080_05"
+        ]
+      },
+      "CP_030_CP_100": {
+        "ID": "CP_030_CP_100",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_100",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_100_02",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_100_03",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_CP_150": {
+        "ID": "CP_030_CP_150",
+        "Id_Character_1": "CP_030",
+        "Id_Character_2": "CP_150",
+        "Id_ItemSet": [
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_150_02",
+          "ITM_SET_CHARA_RELATE_CP_030_CP_150_03",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

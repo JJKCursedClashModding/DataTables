@@ -1,0 +1,253 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_070_GREETING_1": {
+        "ID": "CP_070_GREETING_1",
+        "Text": "Huevas de salmón, salmón."
+      },
+      "CP_070_GREETING_2": {
+        "ID": "CP_070_GREETING_2",
+        "Text": "¡Huevas de salmóóóón!"
+      },
+      "CP_070_PRAISE_1": {
+        "ID": "CP_070_PRAISE_1",
+        "Text": "¡Huevas de salmón, salmón!"
+      },
+      "CP_070_PRAISE_2": {
+        "ID": "CP_070_PRAISE_2",
+        "Text": "¡Huevas de salmóóóón!"
+      },
+      "CP_070_FOLLOW": {
+        "ID": "CP_070_FOLLOW",
+        "Text": "Atún con mayonesa."
+      },
+      "CP_070_APOLOGY": {
+        "ID": "CP_070_APOLOGY",
+        "Text": "H-Huevas de abadejo..."
+      },
+      "CP_070_GRATITUDE_1": {
+        "ID": "CP_070_GRATITUDE_1",
+        "Text": "Alga, salmón."
+      },
+      "CP_070_GRATITUDE_2": {
+        "ID": "CP_070_GRATITUDE_2",
+        "Text": "¡Salmón!"
+      },
+      "CP_070_GOODBYE": {
+        "ID": "CP_070_GOODBYE",
+        "Text": "Atúúúún."
+      },
+      "CP_070_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_070_THANKYOUFORYOURHARDWORK",
+        "Text": "Algas."
+      },
+      "CP_070_ROGERTHAT": {
+        "ID": "CP_070_ROGERTHAT",
+        "Text": "Salmón."
+      },
+      "CP_070_REJECTION": {
+        "ID": "CP_070_REJECTION",
+        "Text": "Hojuelas de bonito."
+      },
+      "CP_070_ENCOURAGEMENT": {
+        "ID": "CP_070_ENCOURAGEMENT",
+        "Text": "¡Huevas de abadejo!"
+      },
+      "CP_070_PINCH": {
+        "ID": "CP_070_PINCH",
+        "Text": "¡Algas, hojuelas de bonito!"
+      },
+      "CP_070_COMEFORWARD": {
+        "ID": "CP_070_COMEFORWARD",
+        "Text": "Atún salmón."
+      },
+      "CP_070_COMEFORWARD_OUT": {
+        "ID": "CP_070_COMEFORWARD_OUT",
+        "Text": "Atún salmón."
+      },
+      "CP_070_GODOWN": {
+        "ID": "CP_070_GODOWN",
+        "Text": "Atún, hojuelas de bonito."
+      },
+      "CP_070_GODOWN_OUT": {
+        "ID": "CP_070_GODOWN_OUT",
+        "Text": "Atún, hojuelas de bonito."
+      },
+      "CP_070_NOTE": {
+        "ID": "CP_070_NOTE",
+        "Text": "¡Hoja de mostaza!"
+      },
+      "CP_070_AIMATTHETARGET": {
+        "ID": "CP_070_AIMATTHETARGET",
+        "Text": "Atún, hoja de mostaza."
+      },
+      "CP_070_AIMFORAJOINTATTACK": {
+        "ID": "CP_070_AIMFORAJOINTATTACK",
+        "Text": "Huevas de salmón, algas, huevas de abadejo."
+      },
+      "CP_070_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_070_AIMFORAJOINTATTACK_OUT",
+        "Text": "Huevas de salmón, algas, huevas de abadejo."
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Atún con mayonesa, hoja de mostaza, huevas de abadejo."
+      },
+      "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_070_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Atún con mayonesa, hoja de mostaza, huevas de abadejo."
+      },
+      "CP_070_FIGHTCLOSEBY": {
+        "ID": "CP_070_FIGHTCLOSEBY",
+        "Text": "Huevas de abadejo, salmón."
+      },
+      "CP_070_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_070_FIGHTCLOSEBY_OUT",
+        "Text": "Huevas de abadejo, salmón."
+      },
+      "CP_070_FIGHTAWAY": {
+        "ID": "CP_070_FIGHTAWAY",
+        "Text": "Huevas de abadejo, hojuelas de bonito."
+      },
+      "CP_070_FIGHTAWAY_OUT": {
+        "ID": "CP_070_FIGHTAWAY_OUT",
+        "Text": "Huevas de abadejo, hojuelas de bonito."
+      },
+      "CP_070_LETMETAKECAREOFTHAT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT",
+        "Text": "Alga, hoja de mostaza."
+      },
+      "CP_070_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_070_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Alga, hoja de mostaza."
+      },
+      "CP_070_LETSWORKTOGETHER": {
+        "ID": "CP_070_LETSWORKTOGETHER",
+        "Text": "Atún, huevas de salmón, salmón."
+      },
+      "CP_070_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_070_LETSWORKTOGETHER_OUT",
+        "Text": "Atún, huevas de salmón, salmón."
+      },
+      "CP_070_LEVELREPORT_LOW": {
+        "ID": "CP_070_LEVELREPORT_LOW",
+        "Text": "Atún..."
+      },
+      "CP_070_LEVELREPORT_MEDIUM": {
+        "ID": "CP_070_LEVELREPORT_MEDIUM",
+        "Text": "Atún, atún, algas."
+      },
+      "CP_070_LEVELREPORT_HIGH": {
+        "ID": "CP_070_LEVELREPORT_HIGH",
+        "Text": "¡Salmón, salmón!"
+      },
+      "CP_070_PROVOCATION_1": {
+        "ID": "CP_070_PROVOCATION_1",
+        "Text": "¡Huevas de salmóóóón!"
+      },
+      "CP_070_PROVOCATION_2": {
+        "ID": "CP_070_PROVOCATION_2",
+        "Text": "¿Huevas de salmón? ¿Hojuelas de bonito?"
+      },
+      "CP_070_RESPECT_1": {
+        "ID": "CP_070_RESPECT_1",
+        "Text": "Atún, huevas de salmón..."
+      },
+      "CP_070_RESPECT_2": {
+        "ID": "CP_070_RESPECT_2",
+        "Text": "¡Alga, atún, huevas de abadejo!"
+      },
+      "CP_070_UNIQUE_1": {
+        "ID": "CP_070_UNIQUE_1",
+        "Text": "Salmón, salmón, salmón."
+      },
+      "CP_070_UNIQUE_2": {
+        "ID": "CP_070_UNIQUE_2",
+        "Text": "¡Ho! ¡Juelas! ¡De bonito!"
+      },
+      "CP_070_UNIQUE_3": {
+        "ID": "CP_070_UNIQUE_3",
+        "Text": "Huevas de salmón..."
+      },
+      "CP_070_UNIQUE_4": {
+        "ID": "CP_070_UNIQUE_4",
+        "Text": "¡¿H-Hoja de mostaza?!"
+      },
+      "CP_070_UNIQUE_5": {
+        "ID": "CP_070_UNIQUE_5",
+        "Text": "Atún, atún, atún con mayonesa."
+      },
+      "CP_070_UNIQUE_6": {
+        "ID": "CP_070_UNIQUE_6",
+        "Text": "¡Algaaa!"
+      },
+      "CP_070_UNIQUE_7": {
+        "ID": "CP_070_UNIQUE_7",
+        "Text": "¡Atúúúún, atúúúún!"
+      },
+      "CP_070_UNIQUE_8": {
+        "ID": "CP_070_UNIQUE_8",
+        "Text": "Hoja de mostaza, salmón."
+      },
+      "CP_070_UNIQUE_9": {
+        "ID": "CP_070_UNIQUE_9",
+        "Text": "Huevas de abadejoooo."
+      },
+      "CP_070_UNIQUE_10": {
+        "ID": "CP_070_UNIQUE_10",
+        "Text": "Salmóóón."
+      },
+      "CP_070_UNIQUE_11": {
+        "ID": "CP_070_UNIQUE_11",
+        "Text": "¡Hojuelas de bonito, hojuelas de bonito, hojuelas de bonito!"
+      },
+      "CP_070_READY": {
+        "ID": "CP_070_READY",
+        "Text": "Atún."
+      },
+      "CP_070_UNDERSTOODOKAY": {
+        "ID": "CP_070_UNDERSTOODOKAY",
+        "Text": "Salmón."
+      },
+      "CP_070_ENDSWITH": {
+        "ID": "CP_070_ENDSWITH",
+        "Text": "Huevas de salmón."
+      },
+      "CP_070_WAITAMINUTE": {
+        "ID": "CP_070_WAITAMINUTE",
+        "Text": "Huevas de salmón."
+      },
+      "CP_070_CHANGE": {
+        "ID": "CP_070_CHANGE",
+        "Text": "Algas."
+      },
+      "CP_070_ITWASAGOODMATCH": {
+        "ID": "CP_070_ITWASAGOODMATCH",
+        "Text": "Huevas de abadejo."
+      },
+      "CP_070_EXIT": {
+        "ID": "CP_070_EXIT",
+        "Text": "Atún con mayonesa."
+      },
+      "CP_070_LETSATTACK": {
+        "ID": "CP_070_LETSATTACK",
+        "Text": "¡Hoja de mostaza!"
+      },
+      "CP_070_FIGHTCAREFULLY": {
+        "ID": "CP_070_FIGHTCAREFULLY",
+        "Text": "Hojuelas de bonito."
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCaptureSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCaptureSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_060": {
+        "ID": "CP_060",
+        "Id_CharacterCapture": [
+          "CP_060_CHARACTER_SELECT",
+          "CP_060_STORYCHARACTER_SELECT",
+          "CP_060_VS_ALLY",
+          "CP_060_VS_ENEMY",
+          "CP_060_FREE_BATTLE",
+          "CP_060_CUSTOMIZE",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

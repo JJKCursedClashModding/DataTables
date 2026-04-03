@@ -1,0 +1,67 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CameraShakeDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CameraShake'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_ATTACKG_01": {
+        "ID": "CP_170_ATTACKG_01",
+        "OscillationDuration": 0.35,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.25,
+        "RotOscillation_Pitch_Amplitude": 0.7,
+        "RotOscillation_Pitch_Frequency": 70,
+        "RotOscillation_Yaw_Amplitude": 0.4,
+        "RotOscillation_Yaw_Frequency": 55
+      },
+      "CP_170_ATTACKH_02": {
+        "ID": "CP_170_ATTACKH_02",
+        "OscillationDuration": 0.4,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.3,
+        "RotOscillation_Pitch_Amplitude": 1.2,
+        "RotOscillation_Pitch_Frequency": 70,
+        "RotOscillation_Yaw_Amplitude": 0.5,
+        "RotOscillation_Yaw_Frequency": 45
+      },
+      "CP_170_ATTACKH_03": {
+        "ID": "CP_170_ATTACKH_03",
+        "OscillationDuration": 0.45,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.35,
+        "RotOscillation_Pitch_Amplitude": 1.2,
+        "RotOscillation_Pitch_Frequency": 70,
+        "RotOscillation_Yaw_Amplitude": 0.5,
+        "RotOscillation_Yaw_Frequency": 45
+      },
+      "CP_170_ATTACKH_04": {
+        "ID": "CP_170_ATTACKH_04",
+        "OscillationDuration": 0.5,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.35,
+        "RotOscillation_Pitch_Amplitude": 1.2,
+        "RotOscillation_Pitch_Frequency": 75,
+        "RotOscillation_Yaw_Amplitude": 0.5,
+        "RotOscillation_Yaw_Frequency": 50
+      },
+      "CP_170_ATTACKE": {
+        "ID": "CP_170_ATTACKE",
+        "OscillationDuration": 0.5,
+        "OscillationBlendInTime": 0.05,
+        "OscillationBlendOutTime": 0.4,
+        "RotOscillation_Pitch_Amplitude": 0.7,
+        "RotOscillation_Pitch_Frequency": 50,
+        "RotOscillation_Yaw_Amplitude": 0.7,
+        "RotOscillation_Yaw_Frequency": 40
+      }
+    }
+  }
+]

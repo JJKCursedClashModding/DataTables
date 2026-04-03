@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Es_LA",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_051_STAMP_001": {
+        "ID": "CP_051_STAMP_001",
+        "Text": "¿Estás llorando?"
+      },
+      "CP_051_STAMP_002": {
+        "ID": "CP_051_STAMP_002",
+        "Text": "En el cielo y en la tierra, soy el único que merece veneración."
+      }
+    }
+  }
+]

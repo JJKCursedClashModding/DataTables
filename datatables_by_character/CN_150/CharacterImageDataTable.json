@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterImageDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterImage'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_150_00": {
+        "ID": "CN_150_00",
+        "CharacterSelectIconFileName": "None",
+        "CharacterSelectVerticalIconFileName": "None",
+        "CutInImageFileName": "None",
+        "CornerCutInImageChanceFileName": "None",
+        "CornerCutInImagePinchFileName": "None",
+        "BattleTalkImageFileName": "None",
+        "BattleCharacterIconNormalFileName": "T_UI_Character_Icon_CN_150_00_Normal",
+        "BattleCharacterIconAttackFileName": "T_UI_Character_Icon_CN_150_00_Normal",
+        "BattleCharacterIconDamageFileName": "T_UI_Character_Icon_CN_150_00_Normal",
+        "BattleCharacterIconPinchFileName": "T_UI_Character_Icon_CN_150_00_Normal",
+        "BattleCharacterIconCursedEnergyMaxFileName": "T_UI_Character_Icon_CN_150_00_Normal",
+        "RankingFilterIconFileName": "None",
+        "OutGameImageFileName": "None",
+        "OutGameBackgroundImageFileName": "None",
+        "OutGameFaceIconFileName": "None",
+        "CommandListIconFileName": "None"
+      }
+    }
+  }
+]

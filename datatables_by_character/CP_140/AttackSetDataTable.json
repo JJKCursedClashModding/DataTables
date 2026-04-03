@@ -1,0 +1,391 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AttackSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_AttackSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_ATTACKA": {
+        "ID": "CP_140_ATTACKA",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.5,
+        "Inherit_Inertia_RateZ": 0.3,
+        "Id_Attack": [
+          "CP_140_ATTACKA_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKA_SOLO": {
+        "ID": "CP_140_ATTACKA_SOLO",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.4,
+        "Inherit_Inertia_RateZ": 0.2,
+        "Id_Attack": [
+          "CP_140_ATTACKA_SOLO_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKB": {
+        "ID": "CP_140_ATTACKB",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.4,
+        "Inherit_Inertia_RateZ": 0.2,
+        "Id_Attack": [
+          "CP_140_ATTACKB_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKC": {
+        "ID": "CP_140_ATTACKC",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 1,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_140_ATTACKC_01_SHOOT_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKD": {
+        "ID": "CP_140_ATTACKD",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.4,
+        "Inherit_Inertia_RateZ": 0.2,
+        "Id_Attack": [
+          "CP_140_ATTACKD_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKE_1": {
+        "ID": "CP_140_ATTACKE_1",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 0.6,
+        "Id_Attack": [
+          "CP_140_ATTACKE_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKE_2": {
+        "ID": "CP_140_ATTACKE_2",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 0.6,
+        "Id_Attack": [
+          "CP_140_ATTACKE_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKE_3": {
+        "ID": "CP_140_ATTACKE_3",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_140_ATTACKE_03_SETUP_01",
+          "CP_140_ATTACKE_03_STANDBY_01",
+          "CP_140_ATTACKE_03_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKE_4": {
+        "ID": "CP_140_ATTACKE_4",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_140_ATTACKE_04_SETUP_01",
+          "CP_140_ATTACKE_04_STANDBY_01",
+          "CP_140_ATTACKE_04_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKF": {
+        "ID": "CP_140_ATTACKF",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.5,
+        "Inherit_Inertia_RateZ": 0.3,
+        "Id_Attack": [
+          "CP_140_ATTACKF_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKG": {
+        "ID": "CP_140_ATTACKG",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.5,
+        "Inherit_Inertia_RateZ": 0.3,
+        "Id_Attack": [
+          "CP_140_ATTACKG_01_SETUP_01",
+          "CP_140_ATTACKG_01_STANDBY_01",
+          "CP_140_ATTACKG_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKH_1": {
+        "ID": "CP_140_ATTACKH_1",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.6,
+        "Inherit_Inertia_RateZ": 0.4,
+        "Id_Attack": [
+          "CP_140_ATTACKH_01_SETUP_01_1",
+          "CP_140_ATTACKH_01_01_1",
+          "CP_140_ATTACKH_01_END_01_1",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKH_2": {
+        "ID": "CP_140_ATTACKH_2",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.6,
+        "Inherit_Inertia_RateZ": 0.4,
+        "Id_Attack": [
+          "CP_140_ATTACKH_01_SETUP_01_2",
+          "CP_140_ATTACKH_01_01_2",
+          "CP_140_ATTACKH_01_END_01_2",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKH_3": {
+        "ID": "CP_140_ATTACKH_3",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.6,
+        "Inherit_Inertia_RateZ": 0.4,
+        "Id_Attack": [
+          "CP_140_ATTACKH_01_SETUP_01_3",
+          "CP_140_ATTACKH_01_01_3",
+          "CP_140_ATTACKH_01_END_01_3",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKH_4": {
+        "ID": "CP_140_ATTACKH_4",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.6,
+        "Inherit_Inertia_RateZ": 0.4,
+        "Id_Attack": [
+          "CP_140_ATTACKH_01_SETUP_01_4",
+          "CP_140_ATTACKH_01_01_4",
+          "CP_140_ATTACKH_01_END_01_4",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKH_1_AUTO": {
+        "ID": "CP_140_ATTACKH_1_AUTO",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.6,
+        "Inherit_Inertia_RateZ": 0.4,
+        "Id_Attack": [
+          "CP_140_ATTACKH_01_SETUP_01_AUTO",
+          "CP_140_ATTACKH_01_01_1",
+          "CP_140_ATTACKH_01_END_01_1",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_140_ATTACKI": {
+        "ID": "CP_140_ATTACKI",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 0.6,
+        "Id_Attack": [
+          "CP_140_ATTACKI_01_SETUP_01",
+          "CP_140_ATTACKI_01_STANDBY_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

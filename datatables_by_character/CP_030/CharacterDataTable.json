@@ -1,0 +1,116 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Character'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030": {
+        "ID": "CP_030",
+        "Id_GlossaryText_Name": "GLS_NAME_CP_030",
+        "Id_GlossaryText_StoryName": "GLS_NAME_CP_030",
+        "Id_Character_Transformation": "None",
+        "CharacterGroup": "EGameCharacterGroup::JujutsuSorcerers",
+        "CharacterPairGroup": "EGameCharacterPairGroup::JujutsuSorcerers",
+        "Id_CharacterVariation": [
+          "CP_030_00",
+          "CP_030_01",
+          "CP_030_02",
+          "CP_030_03",
+          "CP_030_04",
+          "CP_030_10",
+          "CP_030_11",
+          "CP_030_12",
+          "CP_030_13",
+          "CP_030_14",
+          "CP_030_20",
+          "CP_030_21",
+          "CP_030_22",
+          "CP_030_23",
+          "CP_030_24",
+          "CP_030_30",
+          "CP_030_31",
+          "CP_030_32",
+          "CP_030_33",
+          "CP_030_34",
+          "CP_030_40",
+          "CP_030_41",
+          "CP_030_42",
+          "CP_030_43",
+          "CP_030_44",
+          "CP_030_50",
+          "CP_030_51",
+          "CP_030_52",
+          "CP_030_53",
+          "CP_030_54"
+        ],
+        "Id_CharacterAnimationSet": "CP_030",
+        "Id_CharacterTrap": [
+          "None",
+          "None"
+        ],
+        "Id_CharacterEffect": "CP_030",
+        "Id_CharacterShikigami": [
+          "CP_030"
+        ],
+        "Id_CharacterDecal": "None",
+        "Id_CharacterUnique": [
+          "CP_030",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "DamageRate_AutoCombo": 0.6,
+        "LinkComboCursedEnergyExpRate": 1,
+        "AutoAttackDash_NextActionType": "EGameCharacterActionType::NormalAttackAir_1",
+        "AutoAttackDash_Distance": 50,
+        "Id_Action": "CP_030",
+        "Id_CommandList": "CP_030",
+        "ActionControllerType": "EGameCharacterActionControllerType::CP_030",
+        "AIType": "EGameCharacterAIType::CP_030",
+        "AutoAimLimitAngleYaw": 30,
+        "AutoAimLimitAnglePitch": 30,
+        "SituationAttackVoicePlayDistance": 500,
+        "PvEAllyWeights": 50,
+        "StoryCharaGraphPlacementIndex": 2,
+        "Id_CharacterBaseParameter": "CP_030",
+        "Id_CharacterCursedEnergy": "CP_030",
+        "Id_CharacterSelect": "CP_030",
+        "Id_CharacterCamera": "CP_030",
+        "Id_CharacterUI": "CP_030",
+        "Id_CharacterSpecialAttack": "CP_030",
+        "Id_CharacterOperation": "CP_030",
+        "Id_CharacterChat": "CP_030",
+        "Id_SituationOverview": "CP_030",
+        "Id_CharacterCapture": "CP_030",
+        "Id_CharacterArcade": "CP_030",
+        "FootIKLimit": [
+          30,
+          0,
+          0,
+          0
+        ],
+        "CullingBoundingBoxScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "OverrideJustGuard_HitSlow_Attacker": -1,
+        "OverrideJustGuard_HitSlow_Time_Attacker": -1,
+        "Id_Item": "None"
+      }
+    }
+  }
+]

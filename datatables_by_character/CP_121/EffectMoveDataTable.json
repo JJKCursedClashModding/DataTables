@@ -1,0 +1,104 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EffectMoveDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_EffectMove'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_121_ATTACKF_01_01": {
+        "ID": "CP_121_ATTACKF_01_01",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 7500,
+        "Speed_End": 6500,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 20,
+        "Limit_AngleZ": 30,
+        "Homing_AngularVelocityXY": 30,
+        "Homing_AngularVelocityZ": 30,
+        "Homing_Time": 0.1,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      },
+      "CP_121_ATTACKG_01_01_1": {
+        "ID": "CP_121_ATTACKG_01_01_1",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 14000,
+        "Speed_End": 8000,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 60,
+        "Limit_AngleZ": 60,
+        "Homing_AngularVelocityXY": 80,
+        "Homing_AngularVelocityZ": 80,
+        "Homing_Time": 0.5,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      },
+      "CP_121_ATTACKG_02_01_1": {
+        "ID": "CP_121_ATTACKG_02_01_1",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 7000,
+        "Speed_End": 5500,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 80,
+        "Limit_AngleZ": 80,
+        "Homing_AngularVelocityXY": 100,
+        "Homing_AngularVelocityZ": 100,
+        "Homing_Time": 0.3,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      }
+    }
+  }
+]

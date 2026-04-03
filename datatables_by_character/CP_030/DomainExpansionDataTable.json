@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DomainExpansionDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_DomainExpansion'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030": {
+        "ID": "CP_030",
+        "Id_Map": "None",
+        "CastingTime": 4,
+        "Duration": 0,
+        "CursedEnergyDisabledTime": 10,
+        "HitTargetType": "EGameHitTargetType::None",
+        "bFinishOtherDomainExpansion": false,
+        "bTargetCharacterBind": false,
+        "bTeamMemberUniqueBind": false,
+        "bAdjustGroundLocation": false,
+        "Id_BuffDebuff_User": "None",
+        "Id_BuffDebuff_Enemy": "None",
+        "SetActionType_Enemy": "EGameCharacterActionType::None",
+        "SetActionType_Ally": "EGameCharacterActionType::None",
+        "Id_DomainExpansionRate": "None",
+        "Id_DomainExpansionRate_Ally": "None",
+        "Id_DomainExpansionRate_Enemy": "None"
+      }
+    }
+  }
+]

@@ -1,0 +1,1927 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_VoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_160_APPEARANCE_01": {
+        "ID": "CP_160_APPEARANCE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_Intro_1_011010",
+          "VoBtl_CP_160_Intro_1_021010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_APPEARANCE_02": {
+        "ID": "CP_160_APPEARANCE_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_Intro_2_011010",
+          "VoBtl_CP_160_Intro_2_021010",
+          "VoBtl_CP_160_Intro_2_031010",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_START_01": {
+        "ID": "CP_160_START_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_Intro_4_011010",
+          "VoBtl_CP_160_Intro_4_021010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_START_02": {
+        "ID": "CP_160_START_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_Intro_4_011010",
+          "VoBtl_CP_160_Intro_4_031010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_START_03": {
+        "ID": "CP_160_START_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_Intro_4_011010",
+          "VoBtl_CP_160_Intro_4_041010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DASH_01": {
+        "ID": "CP_160_DASH_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_01_1_010010",
+          "VoBtl_CP_160_01_1_010020",
+          "VoBtl_CP_160_01_1_010030",
+          "VoBtl_CP_160_01_1_010040",
+          "VoBtl_CP_160_01_1_010050"
+        ]
+      },
+      "CP_160_JUMP_01": {
+        "ID": "CP_160_JUMP_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_02_1_010010",
+          "VoBtl_CP_160_02_1_010020",
+          "VoBtl_CP_160_02_1_010030",
+          "VoBtl_CP_160_02_1_010040",
+          "VoBtl_CP_160_02_1_010050"
+        ]
+      },
+      "CP_160_STEP_01": {
+        "ID": "CP_160_STEP_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_03_1_010010",
+          "VoBtl_CP_160_03_1_010020",
+          "VoBtl_CP_160_03_1_010030",
+          "VoBtl_CP_160_03_1_010040",
+          "VoBtl_CP_160_03_1_010050"
+        ]
+      },
+      "CP_160_NORMALATTACK1_01_01": {
+        "ID": "CP_160_NORMALATTACK1_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_04_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_01_02": {
+        "ID": "CP_160_NORMALATTACK1_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_04_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_01_03": {
+        "ID": "CP_160_NORMALATTACK1_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_04_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK1_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_04_1_011010",
+          "VoBtl_CP_160_04_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_1_01_01": {
+        "ID": "CP_160_NORMALATTACK1_1_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_05_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_1_01_02": {
+        "ID": "CP_160_NORMALATTACK1_1_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_05_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_1_01_03": {
+        "ID": "CP_160_NORMALATTACK1_1_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_05_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK1_1_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK1_1_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_05_1_011010",
+          "VoBtl_CP_160_05_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_01_01": {
+        "ID": "CP_160_NORMALATTACK2_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_06_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_01_02": {
+        "ID": "CP_160_NORMALATTACK2_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_06_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_01_03": {
+        "ID": "CP_160_NORMALATTACK2_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_06_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK2_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_06_1_011010",
+          "VoBtl_CP_160_06_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_1_01_01": {
+        "ID": "CP_160_NORMALATTACK2_1_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_07_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_1_01_02": {
+        "ID": "CP_160_NORMALATTACK2_1_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_07_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_1_01_03": {
+        "ID": "CP_160_NORMALATTACK2_1_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_07_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK2_1_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK2_1_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_07_1_011010",
+          "VoBtl_CP_160_07_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_01_01": {
+        "ID": "CP_160_NORMALATTACK3_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_01_02": {
+        "ID": "CP_160_NORMALATTACK3_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_01_03": {
+        "ID": "CP_160_NORMALATTACK3_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK3_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_1_011010",
+          "VoBtl_CP_160_08_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_02_01": {
+        "ID": "CP_160_NORMALATTACK3_02_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_02_02": {
+        "ID": "CP_160_NORMALATTACK3_02_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_02_03": {
+        "ID": "CP_160_NORMALATTACK3_02_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_02_PINCH": {
+        "ID": "CP_160_NORMALATTACK3_02_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_08_2_011010",
+          "VoBtl_CP_160_08_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_01_01": {
+        "ID": "CP_160_NORMALATTACK3_1_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_01_02": {
+        "ID": "CP_160_NORMALATTACK3_1_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_01_03": {
+        "ID": "CP_160_NORMALATTACK3_1_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_01_PINCH": {
+        "ID": "CP_160_NORMALATTACK3_1_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_1_011010",
+          "VoBtl_CP_160_09_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_02_01": {
+        "ID": "CP_160_NORMALATTACK3_1_02_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_02_02": {
+        "ID": "CP_160_NORMALATTACK3_1_02_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_02_03": {
+        "ID": "CP_160_NORMALATTACK3_1_02_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_NORMALATTACK3_1_02_PINCH": {
+        "ID": "CP_160_NORMALATTACK3_1_02_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_09_2_011010",
+          "VoBtl_CP_160_09_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_SHOT_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_1_011010",
+          "VoBtl_CP_160_10_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_1_ORDER_MELEE_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_10_2_011010",
+          "VoBtl_CP_160_10_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_SHOT_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_1_011010",
+          "VoBtl_CP_160_11_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_2_ORDER_MELEE_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_11_2_011010",
+          "VoBtl_CP_160_11_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_SHOT_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_1_011010",
+          "VoBtl_CP_160_12_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_3_ORDER_MELEE_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_2_011010",
+          "VoBtl_CP_160_12_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_5_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_5_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_5_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_WAIT_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_5_011010",
+          "VoBtl_CP_160_12_5_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_6_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_6_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_6_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK1_ORDER_BACK_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_12_6_011010",
+          "VoBtl_CP_160_12_6_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_1_011010",
+          "VoBtl_CP_160_13_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_02_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_02_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_02_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_02_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_02_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_02_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_1_02_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_1_02_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_13_2_011010",
+          "VoBtl_CP_160_13_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_1_011010",
+          "VoBtl_CP_160_14_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_02_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_02_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_02_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_02_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_02_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_02_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_2_02_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_2_02_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_14_2_011010",
+          "VoBtl_CP_160_14_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_01_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_01_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_01_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_1_011010",
+          "VoBtl_CP_160_15_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_02_01": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_02_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_2_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_02_02": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_02_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_2_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_02_03": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_02_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_2_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGYATTACK2_3_02_PINCH": {
+        "ID": "CP_160_CURSEDENERGYATTACK2_3_02_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_15_2_011010",
+          "VoBtl_CP_160_15_2_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SUPERCURSEDENERGYATTACK_01_01": {
+        "ID": "CP_160_SUPERCURSEDENERGYATTACK_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_16_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SUPERCURSEDENERGYATTACK_01_02": {
+        "ID": "CP_160_SUPERCURSEDENERGYATTACK_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_16_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SUPERCURSEDENERGYATTACK_01_03": {
+        "ID": "CP_160_SUPERCURSEDENERGYATTACK_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_16_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SUPERCURSEDENERGYATTACK_01_PINCH": {
+        "ID": "CP_160_SUPERCURSEDENERGYATTACK_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_16_1_011010",
+          "VoBtl_CP_160_16_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_WEAK_01": {
+        "ID": "CP_160_ATTACK_WEAK_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_17_1_010010",
+          "VoBtl_CP_160_17_1_010020",
+          "VoBtl_CP_160_17_1_010030",
+          "VoBtl_CP_160_17_1_010040",
+          "VoBtl_CP_160_17_1_010050"
+        ]
+      },
+      "CP_160_ATTACK_WEAK_MEDIUM_01": {
+        "ID": "CP_160_ATTACK_WEAK_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_18_1_010010",
+          "VoBtl_CP_160_18_1_010020",
+          "VoBtl_CP_160_18_1_010030",
+          "VoBtl_CP_160_18_1_010040",
+          "VoBtl_CP_160_18_1_010050"
+        ]
+      },
+      "CP_160_ATTACK_MEDIUM_01": {
+        "ID": "CP_160_ATTACK_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_19_1_010010",
+          "VoBtl_CP_160_19_1_010020",
+          "VoBtl_CP_160_19_1_010030",
+          "VoBtl_CP_160_19_1_010040",
+          "VoBtl_CP_160_19_1_010050"
+        ]
+      },
+      "CP_160_ATTACK_HEAVY_01": {
+        "ID": "CP_160_ATTACK_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_22_1_010010",
+          "VoBtl_CP_160_22_1_010020",
+          "VoBtl_CP_160_22_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_HEAVY_01_PINCH": {
+        "ID": "CP_160_ATTACK_HEAVY_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_22_1_011010",
+          "VoBtl_CP_160_22_1_011020",
+          "VoBtl_CP_160_22_1_011030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_FINISH_01": {
+        "ID": "CP_160_ATTACK_FINISH_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_20_1_010010",
+          "VoBtl_CP_160_20_1_010020",
+          "VoBtl_CP_160_20_1_010030",
+          "VoBtl_CP_160_20_1_010040",
+          "VoBtl_CP_160_20_1_010050"
+        ]
+      },
+      "CP_160_ATTACK_PROJECTILE_01": {
+        "ID": "CP_160_ATTACK_PROJECTILE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_21_1_010010",
+          "VoBtl_CP_160_21_1_010020",
+          "VoBtl_CP_160_21_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_CHARGE_01_01": {
+        "ID": "CP_160_ATTACK_CHARGE_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_24_1_010010",
+          "VoBtl_CP_160_24_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_CHARGE_01_02": {
+        "ID": "CP_160_ATTACK_CHARGE_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_24_1_010010",
+          "VoBtl_CP_160_24_1_010030",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_CHARGE_01_03": {
+        "ID": "CP_160_ATTACK_CHARGE_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_24_1_010010",
+          "VoBtl_CP_160_24_1_010040",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_CHARGE_01_PINCH": {
+        "ID": "CP_160_ATTACK_CHARGE_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_24_1_011010",
+          "VoBtl_CP_160_24_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_DEFENSELESS_01_01": {
+        "ID": "CP_160_ATTACK_DEFENSELESS_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_23_1_010010",
+          "VoBtl_CP_160_23_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_DEFENSELESS_01_02": {
+        "ID": "CP_160_ATTACK_DEFENSELESS_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_23_1_010010",
+          "VoBtl_CP_160_23_1_010030",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_DEFENSELESS_01_03": {
+        "ID": "CP_160_ATTACK_DEFENSELESS_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_23_1_010010",
+          "VoBtl_CP_160_23_1_010040",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_GUARDBREAK_01_01": {
+        "ID": "CP_160_ATTACK_GUARDBREAK_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_25_1_010010",
+          "VoBtl_CP_160_25_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_GUARDBREAK_01_02": {
+        "ID": "CP_160_ATTACK_GUARDBREAK_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_25_1_010010",
+          "VoBtl_CP_160_25_1_010030",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_GUARDBREAK_01_03": {
+        "ID": "CP_160_ATTACK_GUARDBREAK_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_25_1_010010",
+          "VoBtl_CP_160_25_1_010040",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_FIRSTHIT_01": {
+        "ID": "CP_160_ATTACK_FIRSTHIT_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_26_1_010010",
+          "VoBtl_CP_160_26_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_BOUND_01": {
+        "ID": "CP_160_ATTACK_BOUND_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_31_1_010010",
+          "VoBtl_CP_160_31_1_010020",
+          "VoBtl_CP_160_31_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_BOUND_01_PINCH": {
+        "ID": "CP_160_ATTACK_BOUND_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_31_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_KILL_01": {
+        "ID": "CP_160_ATTACK_KILL_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_32_1_010010",
+          "VoBtl_CP_160_32_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_ATTACK_KILL_01_PINCH": {
+        "ID": "CP_160_ATTACK_KILL_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_32_1_011010",
+          "VoBtl_CP_160_32_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_2_01_01": {
+        "ID": "CP_160_LEVELUP_2_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_28_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_2_01_02": {
+        "ID": "CP_160_LEVELUP_2_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_28_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_2_01_03": {
+        "ID": "CP_160_LEVELUP_2_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_28_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_3_01_01": {
+        "ID": "CP_160_LEVELUP_3_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_29_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_3_01_02": {
+        "ID": "CP_160_LEVELUP_3_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_29_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_3_01_03": {
+        "ID": "CP_160_LEVELUP_3_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_29_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_MAX_01_01": {
+        "ID": "CP_160_LEVELUP_MAX_01_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_30_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_MAX_01_02": {
+        "ID": "CP_160_LEVELUP_MAX_01_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_30_1_010020",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_MAX_01_03": {
+        "ID": "CP_160_LEVELUP_MAX_01_03",
+        "Id_Voice": [
+          "VoBtl_CP_160_30_1_010030",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LEVELUP_MAX_01_PINCH": {
+        "ID": "CP_160_LEVELUP_MAX_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_30_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_TAGCOMBO_ATTACKER_01": {
+        "ID": "CP_160_TAGCOMBO_ATTACKER_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_33_1_010010",
+          "VoBtl_CP_160_33_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LINKCOMBO_RECEIVER_01": {
+        "ID": "CP_160_LINKCOMBO_RECEIVER_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_34_1_010010",
+          "VoBtl_CP_160_34_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGY_SHORTAGE_01": {
+        "ID": "CP_160_CURSEDENERGY_SHORTAGE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_35_1_010010",
+          "VoBtl_CP_160_35_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CURSEDENERGY_SHORTAGE_01_PINCH": {
+        "ID": "CP_160_CURSEDENERGY_SHORTAGE_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_35_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DAMAGE_WEAK_01": {
+        "ID": "CP_160_DAMAGE_WEAK_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_36_1_010010",
+          "VoBtl_CP_160_36_1_010020",
+          "VoBtl_CP_160_36_1_010030",
+          "VoBtl_CP_160_36_1_010040",
+          "VoBtl_CP_160_36_1_010050"
+        ]
+      },
+      "CP_160_DAMAGE_MEDIUM_01": {
+        "ID": "CP_160_DAMAGE_MEDIUM_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_37_1_010010",
+          "VoBtl_CP_160_37_1_010020",
+          "VoBtl_CP_160_37_1_010030",
+          "VoBtl_CP_160_37_1_010040",
+          "VoBtl_CP_160_37_1_010050"
+        ]
+      },
+      "CP_160_DAMAGE_HEAVY_01": {
+        "ID": "CP_160_DAMAGE_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_38_1_010010",
+          "VoBtl_CP_160_38_1_010020",
+          "VoBtl_CP_160_38_1_010030",
+          "VoBtl_CP_160_38_1_010040",
+          "VoBtl_CP_160_38_1_010050"
+        ]
+      },
+      "CP_160_DAMAGE_LARGE_HEAVY_01": {
+        "ID": "CP_160_DAMAGE_LARGE_HEAVY_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_39_1_010010",
+          "VoBtl_CP_160_39_1_010020",
+          "VoBtl_CP_160_39_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DAMAGE_BLOW_01": {
+        "ID": "CP_160_DAMAGE_BLOW_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_40_1_010010",
+          "VoBtl_CP_160_40_1_010020",
+          "VoBtl_CP_160_40_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DOWN_BOUNDED_01": {
+        "ID": "CP_160_DOWN_BOUNDED_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_41_1_010010",
+          "VoBtl_CP_160_41_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DOWN_01": {
+        "ID": "CP_160_DOWN_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_48_1_010010",
+          "VoBtl_CP_160_48_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DOWN_END_01_PINCH": {
+        "ID": "CP_160_DOWN_END_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_49_1_011010",
+          "VoBtl_CP_160_49_1_011020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_BREAKFALL_01": {
+        "ID": "CP_160_BREAKFALL_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_47_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_DEAD_01": {
+        "ID": "CP_160_DEAD_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_50_1_010010",
+          "VoBtl_CP_160_50_1_010020",
+          "VoBtl_CP_160_50_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REVIVAL_01": {
+        "ID": "CP_160_REVIVAL_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_51_1_010010",
+          "VoBtl_CP_160_51_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REVIVAL_01_PINCH": {
+        "ID": "CP_160_REVIVAL_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_51_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_JUST_GUARD_01": {
+        "ID": "CP_160_JUST_GUARD_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_42_1_010010",
+          "VoBtl_CP_160_42_1_010020",
+          "VoBtl_CP_160_42_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_GUARD_01": {
+        "ID": "CP_160_GUARD_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_43_1_010010",
+          "VoBtl_CP_160_43_1_010020",
+          "VoBtl_CP_160_43_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_GUARD_01_PINCH": {
+        "ID": "CP_160_GUARD_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_43_1_011010",
+          "VoBtl_CP_160_43_1_011020",
+          "VoBtl_CP_160_43_1_011030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_PROJECTILE_GUARD_01": {
+        "ID": "CP_160_PROJECTILE_GUARD_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_44_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_GUARD_END_01": {
+        "ID": "CP_160_GUARD_END_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_45_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_GUARD_BREAK_01": {
+        "ID": "CP_160_GUARD_BREAK_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_46_1_010010",
+          "VoBtl_CP_160_46_1_010020",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_GUARD_BREAK_01_PINCH": {
+        "ID": "CP_160_GUARD_BREAK_01_PINCH",
+        "Id_Voice": [
+          "VoBtl_CP_160_46_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_THUNDER_01": {
+        "ID": "CP_160_SPECIALDAMAGE_THUNDER_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_53_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_RESTRAINT_01": {
+        "ID": "CP_160_SPECIALDAMAGE_RESTRAINT_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_54_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_ASSAULT_01": {
+        "ID": "CP_160_SPECIALDAMAGE_ASSAULT_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_55_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_TRAP_01": {
+        "ID": "CP_160_SPECIALDAMAGE_TRAP_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_56_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_SEALED_01": {
+        "ID": "CP_160_SPECIALDAMAGE_SEALED_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_57_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_HAIRPIN_01": {
+        "ID": "CP_160_SPECIALDAMAGE_HAIRPIN_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_58_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_RESONANCE_01": {
+        "ID": "CP_160_SPECIALDAMAGE_RESONANCE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_59_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_ASSIST_01": {
+        "ID": "CP_160_SPECIALDAMAGE_ASSIST_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_61_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_PULL_01": {
+        "ID": "CP_160_SPECIALDAMAGE_PULL_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_62_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_BOOGIEWOOGIE_01": {
+        "ID": "CP_160_SPECIALDAMAGE_BOOGIEWOOGIE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_63_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_ROT_TECHNIQUE_01": {
+        "ID": "CP_160_SPECIALDAMAGE_ROT_TECHNIQUE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_64_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_SPEED_DOWN_01": {
+        "ID": "CP_160_SPECIALDAMAGE_SPEED_DOWN_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_65_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_SPECIALDAMAGE_CONSUME_CURSEDENERGY_01": {
+        "ID": "CP_160_SPECIALDAMAGE_CONSUME_CURSEDENERGY_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_66_1_010010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_UNIQUE_01": {
+        "ID": "CP_160_UNIQUE_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_68_1_010010",
+          "VoBtl_CP_160_68_1_010020",
+          "VoBtl_CP_160_68_1_010030",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CHARACTER_SELECT": {
+        "ID": "CP_160_CHARACTER_SELECT",
+        "Id_Voice": [
+          "VoBtl_CP_160_CharaSelect_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_CHARACTER_RESELECT": {
+        "ID": "CP_160_CHARACTER_RESELECT",
+        "Id_Voice": [
+          "VoBtl_CP_160_CharaSelect_1_021010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_READY": {
+        "ID": "CP_160_READY",
+        "Id_Voice": [
+          "VoOut_CP_160_PvE_09_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LOBBY_GO_TO_BATTLE": {
+        "ID": "CP_160_LOBBY_GO_TO_BATTLE",
+        "Id_Voice": [
+          "VoOut_CP_160_Lobby_05_031010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_LOBBY_CHANGED_MATCH_RULE": {
+        "ID": "CP_160_LOBBY_CHANGED_MATCH_RULE",
+        "Id_Voice": [
+          "VoOut_CP_160_Lobby_05_041010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_VICTORY_01": {
+        "ID": "CP_160_VICTORY_01",
+        "Id_Voice": [
+          "VoBtl_CP_160_Victory_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_VICTORY_02": {
+        "ID": "CP_160_VICTORY_02",
+        "Id_Voice": [
+          "VoBtl_CP_160_Victory_2_011010",
+          "VoBtl_CP_160_Victory_2_021010",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_RANK_S": {
+        "ID": "CP_160_RESULT_RANK_S",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_1_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_RANK_A": {
+        "ID": "CP_160_RESULT_RANK_A",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_1_021010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_RANK_B_OR_LOWER": {
+        "ID": "CP_160_RESULT_RANK_B_OR_LOWER",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_1_031010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_WINNING_STREAK_5": {
+        "ID": "CP_160_RESULT_WINNING_STREAK_5",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_2_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_WINNING_STREAK_10": {
+        "ID": "CP_160_RESULT_WINNING_STREAK_10",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_2_021010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_WINNING_STREAK_15": {
+        "ID": "CP_160_RESULT_WINNING_STREAK_15",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_2_031010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_WINNING_STREAK_20": {
+        "ID": "CP_160_RESULT_WINNING_STREAK_20",
+        "Id_Voice": [
+          "VoBtl_CP_160_Result_2_041010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_OPEN_RESULT_ITEM": {
+        "ID": "CP_160_RESULT_OPEN_RESULT_ITEM",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_06_021010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_PROMOTE_RANK": {
+        "ID": "CP_160_RESULT_PROMOTE_RANK",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_06_031010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_RESULT_DEMOTE_RANK": {
+        "ID": "CP_160_RESULT_DEMOTE_RANK",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_06_041010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REMATCH_SUCCESS_REMATCH": {
+        "ID": "CP_160_REMATCH_SUCCESS_REMATCH",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_07_011010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REMATCH_IN_WAITING_OTHER_PLAYER": {
+        "ID": "CP_160_REMATCH_IN_WAITING_OTHER_PLAYER",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_07_041010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REMATCH_SELECT_FIND": {
+        "ID": "CP_160_REMATCH_SELECT_FIND",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_07_051010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REMATCH_DECLINED_REMATCH_BY_OTHER": {
+        "ID": "CP_160_REMATCH_DECLINED_REMATCH_BY_OTHER",
+        "Id_Voice": [
+          "VoOut_CP_160_PvP_07_061010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_160_REMATCH_DECLINED_REMATCH_BY_MYSELF": {
+        "ID": "CP_160_REMATCH_DECLINED_REMATCH_BY_MYSELF",
+        "Id_Voice": [
+          "VoCha_CP_160_07_1_010",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

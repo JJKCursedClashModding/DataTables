@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_240": {
+        "ID": "CN_240",
+        "FloatValue": [
+          3,
+          3,
+          400,
+          0.1,
+          3000,
+          2000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_240_NORMALATTACK": {
+        "ID": "CN_240_NORMALATTACK",
+        "FloatValue": [
+          3,
+          200,
+          0.8,
+          1.5,
+          2200,
+          0.2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_240_RING": {
+        "ID": "CN_240_RING",
+        "FloatValue": [
+          2.5,
+          1,
+          100,
+          0.5,
+          0.075,
+          3,
+          0.2,
+          50,
+          0,
+          1.25,
+          0.25,
+          0,
+          1,
+          0
+        ]
+      }
+    }
+  }
+]

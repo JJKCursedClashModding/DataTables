@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVoiceGroupDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVoiceGroup'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_240_UNIQUE": {
+        "ID": "CN_240_UNIQUE",
+        "Id_VoiceGroup": [
+          "CN_240_UNIQUE_01",
+          "CN_240_UNIQUE_02",
+          "CN_240_UNIQUE_03",
+          "CN_240_UNIQUE_04",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

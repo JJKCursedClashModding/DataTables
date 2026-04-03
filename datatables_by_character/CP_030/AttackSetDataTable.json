@@ -1,0 +1,435 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "AttackSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_AttackSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_030_ATTACKA": {
+        "ID": "CP_030_ATTACKA",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKA_01_01",
+          "CP_030_ATTACKA_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKB": {
+        "ID": "CP_030_ATTACKB",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_030_ATTACKB_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKB_SOLO": {
+        "ID": "CP_030_ATTACKB_SOLO",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.8,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_030_ATTACKB_SOLO_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKC": {
+        "ID": "CP_030_ATTACKC",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.7,
+        "Inherit_Inertia_RateZ": 1,
+        "Id_Attack": [
+          "CP_030_ATTACKC_01_01",
+          "CP_030_ATTACKC_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKD": {
+        "ID": "CP_030_ATTACKD",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKD_01_01",
+          "CP_030_ATTACKD_02_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKE": {
+        "ID": "CP_030_ATTACKE",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKE_01_SUMMON_01",
+          "CP_030_ATTACKE_01_END_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKE_2": {
+        "ID": "CP_030_ATTACKE_2",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": false,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKE_01_SUMMON_01_2",
+          "CP_030_ATTACKE_01_END_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKF": {
+        "ID": "CP_030_ATTACKF",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKF_01_SUMMON_02",
+          "CP_030_ATTACKF_01_SUMMON_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKF_2": {
+        "ID": "CP_030_ATTACKF_2",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKF_01_RELEASE_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKF_3": {
+        "ID": "CP_030_ATTACKF_3",
+        "AttackRangeType": "EGameAttackRangeType::Long",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKF_01_ORDER_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKF_4": {
+        "ID": "CP_030_ATTACKF_4",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKF_01_NOTSUMMON_02",
+          "CP_030_ATTACKF_01_NOTSUMMON_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKF_5": {
+        "ID": "CP_030_ATTACKF_5",
+        "AttackRangeType": "EGameAttackRangeType::None",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": false,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKF_01_NOTORDER_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_1_1": {
+        "ID": "CP_030_ATTACKG_1_1",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_01_1",
+          "CP_030_ATTACKG_01_01_1",
+          "CP_030_ATTACKG_02_01_1",
+          "CP_030_ATTACKG_03_01_1",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_1_2": {
+        "ID": "CP_030_ATTACKG_1_2",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_01_2",
+          "CP_030_ATTACKG_01_01_2",
+          "CP_030_ATTACKG_02_01_2",
+          "CP_030_ATTACKG_03_01_2",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_1_3": {
+        "ID": "CP_030_ATTACKG_1_3",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_01_3",
+          "CP_030_ATTACKG_01_01_3",
+          "CP_030_ATTACKG_02_01_3",
+          "CP_030_ATTACKG_03_01_3",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_2_1": {
+        "ID": "CP_030_ATTACKG_2_1",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_02_1",
+          "CP_030_ATTACKG_01_01_1",
+          "CP_030_ATTACKG_02_01_1",
+          "CP_030_ATTACKG_03_01_1",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_2_2": {
+        "ID": "CP_030_ATTACKG_2_2",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_02_2",
+          "CP_030_ATTACKG_01_01_2",
+          "CP_030_ATTACKG_02_01_2",
+          "CP_030_ATTACKG_03_01_2",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKG_2_3": {
+        "ID": "CP_030_ATTACKG_2_3",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0.2,
+        "Inherit_Inertia_RateZ": 0.1,
+        "Id_Attack": [
+          "CP_030_ATTACKG_01_SETUP_02_3",
+          "CP_030_ATTACKG_01_01_3",
+          "CP_030_ATTACKG_02_01_3",
+          "CP_030_ATTACKG_03_01_3",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      },
+      "CP_030_ATTACKH": {
+        "ID": "CP_030_ATTACKH",
+        "AttackRangeType": "EGameAttackRangeType::Short",
+        "bCursedEnergyAttack": true,
+        "bRecoverCursedEnergyDisabled": true,
+        "Inherit_Inertia_Rate": 0,
+        "Inherit_Inertia_RateZ": 0,
+        "Id_Attack": [
+          "CP_030_ATTACKH_01_SETUP_01",
+          "CP_030_ATTACKH_01_01",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

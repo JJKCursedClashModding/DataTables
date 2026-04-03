@@ -1,0 +1,150 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CollisionModifyDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CollisionModify'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_ATTACKB_01_01": {
+        "ID": "CP_140_ATTACKB_01_01",
+        "Size": {
+          "X": 80,
+          "Y": 80,
+          "Z": 400
+        },
+        "Size_Time": 0.1,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 260,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0.1,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0
+      },
+      "CP_140_ATTACKB_01_02": {
+        "ID": "CP_140_ATTACKB_01_02",
+        "Size": {
+          "X": 80,
+          "Y": 80,
+          "Z": 400
+        },
+        "Size_Time": 0,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 260,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0
+      },
+      "CP_140_ATTACKD_01_01": {
+        "ID": "CP_140_ATTACKD_01_01",
+        "Size": {
+          "X": 90,
+          "Y": 90,
+          "Z": 270
+        },
+        "Size_Time": 0.05,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 102,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0.05,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": false,
+        "Life_Time": 0
+      },
+      "CP_140_ATTACKD_01_02": {
+        "ID": "CP_140_ATTACKD_01_02",
+        "Size": {
+          "X": 100,
+          "Y": 100,
+          "Z": 450
+        },
+        "Size_Time": 0,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0
+      },
+      "CP_140_ATTACKE_02_02": {
+        "ID": "CP_140_ATTACKE_02_02",
+        "Size": {
+          "X": 300,
+          "Y": 300,
+          "Z": 300
+        },
+        "Size_Time": 0.5,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 1
+      },
+      "CP_140_ATTACKE_03_02": {
+        "ID": "CP_140_ATTACKE_03_02",
+        "Size": {
+          "X": 700,
+          "Y": 700,
+          "Z": 700
+        },
+        "Size_Time": 2.5,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Location_Time": 0,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 2.5
+      },
+      "CP_140_ATTACKF_01_01": {
+        "ID": "CP_140_ATTACKF_01_01",
+        "Size": {
+          "X": 250,
+          "Y": 250,
+          "Z": 500
+        },
+        "Size_Time": 0.1,
+        "Size_WaitTime": 0,
+        "Location": {
+          "X": 0,
+          "Y": 0,
+          "Z": 400
+        },
+        "Location_Time": 0.1,
+        "Location_WaitTime": 0,
+        "bLocation_AbsoluteRotation": true,
+        "Life_Time": 0
+      }
+    }
+  }
+]

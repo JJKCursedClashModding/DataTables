@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterOperationDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterOperation'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_150": {
+        "ID": "CP_150",
+        "Id_Voice_Normal": "VoCha_CP_150_15_2_010",
+        "Id_Voice_Receive_Normal": "VoCha_CP_150_08_2_010",
+        "Id_Voice_Onslaught": "VoCha_CP_150_44_2_010",
+        "Id_Voice_Receive_Onslaught": "VoCha_CP_150_08_2_010",
+        "Id_Voice_Cooperation": "VoCha_CP_150_21_2_010",
+        "Id_Voice_Receive_Cooperation": "VoCha_CP_150_08_2_010",
+        "Id_Voice_Carefully": "VoCha_CP_150_45_2_010",
+        "Id_Voice_Receive_Carefully": "VoCha_CP_150_08_2_010"
+      }
+    }
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Ja",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_170_STAMP_001": {
+        "ID": "CP_170_STAMP_001",
+        "Text": "よかった　当たって"
+      },
+      "CP_170_STAMP_002": {
+        "ID": "CP_170_STAMP_002",
+        "Text": "勝手な人！"
+      },
+      "CP_170_STAMP_003": {
+        "ID": "CP_170_STAMP_003",
+        "Text": "あーあ　かわいそう"
+      }
+    }
+  }
+]

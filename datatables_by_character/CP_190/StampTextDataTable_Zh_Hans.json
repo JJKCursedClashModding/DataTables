@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_Zh_Hans",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_190_STAMP_001": {
+        "ID": "CP_190_STAMP_001",
+        "Text": "我不能输！"
+      },
+      "CP_190_STAMP_002": {
+        "ID": "CP_190_STAMP_002",
+        "Text": "这是我个人的判断"
+      }
+    }
+  }
+]

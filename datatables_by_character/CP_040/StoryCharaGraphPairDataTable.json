@@ -1,0 +1,64 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaGraphPairDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaGraphPair'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_040": {
+        "ID": "CP_040",
+        "Id_Character": [
+          "CP_010",
+          "CP_030",
+          "CP_050",
+          "CP_060",
+          "CP_070",
+          "CP_080",
+          "CP_160",
+          "None",
+          "None"
+        ],
+        "StartRelateLevel": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "EndRelateLevel": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          3,
+          0,
+          0
+        ],
+        "Id_StoryCharaRelateLevel": [
+          "CP_040_CP_010",
+          "CP_040_CP_030",
+          "CP_040_CP_050",
+          "CP_040_CP_060",
+          "CP_040_CP_070",
+          "CP_040_CP_080",
+          "CP_040_CP_160",
+          "None",
+          "None"
+        ]
+      }
+    }
+  }
+]

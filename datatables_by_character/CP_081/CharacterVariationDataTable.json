@@ -1,0 +1,82 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVariationDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVariation'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_081_00": {
+        "ID": "CP_081_00",
+        "FileName_BP": "CP_081_00_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CP_081",
+        "Id_CharacterImage": "CP_080_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      },
+      "CP_081_01": {
+        "ID": "CP_081_01",
+        "FileName_BP": "CP_081_01_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CP_081",
+        "Id_CharacterImage": "CP_080_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      },
+      "CP_081_02": {
+        "ID": "CP_081_02",
+        "FileName_BP": "CP_081_02_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CP_081",
+        "Id_CharacterImage": "CP_080_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      },
+      "CP_081_03": {
+        "ID": "CP_081_03",
+        "FileName_BP": "CP_081_03_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CP_081",
+        "Id_CharacterImage": "CP_080_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      },
+      "CP_081_04": {
+        "ID": "CP_081_04",
+        "FileName_BP": "CP_081_04_BP",
+        "Id_CharacterMaterial": "None",
+        "Id_CharacterWeapon": "None",
+        "Id_CharacterSound": "CP_081",
+        "Id_CharacterImage": "CP_080_00",
+        "Id_CharacterUniqueImage": "None",
+        "Id_Item": "None",
+        "ImageFileName": "None",
+        "ThumbnailImageFileName": "None",
+        "FreeBattleImageFileName": "None"
+      }
+    }
+  }
+]

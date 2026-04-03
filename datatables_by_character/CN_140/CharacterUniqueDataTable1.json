@@ -1,0 +1,112 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_140": {
+        "ID": "CN_140",
+        "FloatValue": [
+          180,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_140_ATTACKB": {
+        "ID": "CN_140_ATTACKB",
+        "FloatValue": [
+          750,
+          2000,
+          1000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_140_ATTACKB_2": {
+        "ID": "CN_140_ATTACKB_2",
+        "FloatValue": [
+          2000,
+          2000,
+          2000,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_140_ATTACKD": {
+        "ID": "CN_140_ATTACKD",
+        "FloatValue": [
+          2.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_140_ATTACKE": {
+        "ID": "CN_140_ATTACKE",
+        "FloatValue": [
+          1,
+          300,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

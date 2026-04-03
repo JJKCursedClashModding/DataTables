@@ -1,0 +1,70 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Shikigami'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_080": {
+        "ID": "CN_080",
+        "FileName_BP": "CN_080_00_BP",
+        "Id_ShikigamiMaterial": "CN_080",
+        "Id_ShikigamiAnimation": [
+          "CN_080",
+          "CN_080_DAMAGE",
+          "CN_080_ATTACKA",
+          "CN_080_ATTACKB",
+          "CN_080_ATTACKC",
+          "CN_080_ATTACKE",
+          "CN_080_ATTACKH",
+          "CN_080_ATTACKJ",
+          "None",
+          "None"
+        ],
+        "ActionControllerType": "EGameShikigamiActionControllerType::CN_080",
+        "SummonCursedEnergyLevel": 1,
+        "HitPoint": 200,
+        "DownValue": 200,
+        "OrderCoolTime": 0,
+        "SummonCoolTime": 15,
+        "bIsInstanceDeathEnabled": false,
+        "bImmortalityEnabled": false,
+        "AutoAttackDistance_Owner": 2000,
+        "AutoAttackDistance_Target": 2000,
+        "Id_ActionMove": "CN_080",
+        "Id_ActionJump": "CN_080",
+        "Id_ActionDash": "CN_080",
+        "Id_CharacterEffect": "None",
+        "Id_CharacterSound": "CN_081",
+        "Id_ShikigamiVoiceGroup_DefaultAction": "CN_080_DEFAULTACTION",
+        "Id_ShikigamiVoiceGroup_Attack": "CN_080_ATTACK",
+        "Id_ShikigamiVoiceGroup_Damage": "CN_080_DAMAGE",
+        "Id_ShikigamiVoiceGroup_Down": "CN_080_DOWN",
+        "Id_ShikigamiVoiceGroup_Unique": "CN_080_UNIQUE",
+        "Id_ShikigamiUnique": [
+          "CN_080",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "FootIKLimit": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

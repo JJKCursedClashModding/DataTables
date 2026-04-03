@@ -1,0 +1,125 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_050": {
+        "ID": "CP_050",
+        "CueSheetName": [
+          "CP_050",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesMan",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_050",
+          "CP_050_TYPEA",
+          "CP_050_TYPEB",
+          "CP_050_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_050_CHARACTER_SELECT",
+          "CP_050_CHARACTER_RESELECT",
+          "CP_050_READY",
+          "CP_050_LOBBY_GO_TO_BATTLE",
+          "CP_050_LOBBY_CHANGED_MATCH_RULE",
+          "CP_050_RESULT_RANK_S",
+          "CP_050_RESULT_RANK_A",
+          "CP_050_RESULT_RANK_B_OR_LOWER",
+          "CP_050_RESULT_WINNING_STREAK_5",
+          "CP_050_RESULT_WINNING_STREAK_10",
+          "CP_050_RESULT_WINNING_STREAK_15",
+          "CP_050_RESULT_WINNING_STREAK_20",
+          "CP_050_RESULT_OPEN_RESULT_ITEM",
+          "CP_050_RESULT_PROMOTE_RANK",
+          "CP_050_RESULT_DEMOTE_RANK",
+          "CP_050_REMATCH_SUCCESS_REMATCH",
+          "CP_050_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_050_REMATCH_SELECT_FIND",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      },
+      "CP_050_10": {
+        "ID": "CP_050_10",
+        "CueSheetName": [
+          "CP_050",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::BareFoot",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_050",
+          "CP_050_TYPEA",
+          "CP_050_TYPEB",
+          "CP_050_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_050_CHARACTER_SELECT",
+          "CP_050_CHARACTER_RESELECT",
+          "CP_050_READY",
+          "CP_050_LOBBY_GO_TO_BATTLE",
+          "CP_050_LOBBY_CHANGED_MATCH_RULE",
+          "CP_050_RESULT_RANK_S",
+          "CP_050_RESULT_RANK_A",
+          "CP_050_RESULT_RANK_B_OR_LOWER",
+          "CP_050_RESULT_WINNING_STREAK_5",
+          "CP_050_RESULT_WINNING_STREAK_10",
+          "CP_050_RESULT_WINNING_STREAK_15",
+          "CP_050_RESULT_WINNING_STREAK_20",
+          "CP_050_RESULT_OPEN_RESULT_ITEM",
+          "CP_050_RESULT_PROMOTE_RANK",
+          "CP_050_RESULT_DEMOTE_RANK",
+          "CP_050_REMATCH_SUCCESS_REMATCH",
+          "CP_050_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_050_REMATCH_SELECT_FIND",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      },
+      "CP_050_ST": {
+        "ID": "CP_050_ST",
+        "CueSheetName": [
+          "CP_050",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesMan",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_050_ST",
+          "CP_050_ST",
+          "CP_050_ST",
+          "CP_050_ST"
+        ],
+        "Id_VoiceGroup": [
+          "CP_050_CHARACTER_SELECT",
+          "CP_050_CHARACTER_RESELECT",
+          "CP_050_READY",
+          "CP_050_LOBBY_GO_TO_BATTLE",
+          "CP_050_LOBBY_CHANGED_MATCH_RULE",
+          "CP_050_RESULT_RANK_S",
+          "CP_050_RESULT_RANK_A",
+          "CP_050_RESULT_RANK_B_OR_LOWER",
+          "CP_050_RESULT_WINNING_STREAK_5",
+          "CP_050_RESULT_WINNING_STREAK_10",
+          "CP_050_RESULT_WINNING_STREAK_15",
+          "CP_050_RESULT_WINNING_STREAK_20",
+          "CP_050_RESULT_OPEN_RESULT_ITEM",
+          "CP_050_RESULT_PROMOTE_RANK",
+          "CP_050_RESULT_DEMOTE_RANK",
+          "CP_050_REMATCH_SUCCESS_REMATCH",
+          "CP_050_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_050_REMATCH_SELECT_FIND",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_050_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

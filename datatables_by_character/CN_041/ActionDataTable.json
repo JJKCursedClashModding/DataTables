@@ -1,0 +1,105 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ActionDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_Action'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_041": {
+        "ID": "CN_041",
+        "Id_ActionMove": "CN_041",
+        "Id_ActionJump": "CN_041",
+        "Id_ActionDash": "CN_041",
+        "Id_ActionStep": "CP_010",
+        "Id_ActionBreakFall": "CP_010",
+        "Id_AttackSet_Normal_1": "CN_041_ATTACKH",
+        "Id_AttackSet_Normal_Air_1": "CN_041_ATTACKH",
+        "Id_AttackSet_Normal_1_Auto": "None",
+        "Id_AttackSet_Normal_Air_1_Auto": "None",
+        "Id_AttackSet_Normal_1_1_Solo": "CN_041_ATTACKI",
+        "Id_AttackSet_Normal_Air_1_1_Solo": "CN_041_ATTACKI",
+        "Id_AttackSet_Normal_1_1": "CN_041_ATTACKI",
+        "Id_AttackSet_Normal_Air_1_1": "CN_041_ATTACKI",
+        "Id_AttackSet_Normal_1_1_Solo_Auto": "None",
+        "Id_AttackSet_Normal_Air_1_1_Solo_Auto": "None",
+        "Id_AttackSet_Normal_1_1_Auto": "None",
+        "Id_AttackSet_Normal_Air_1_1_Auto": "None",
+        "Id_AttackSet_Normal_2": "CN_041_ATTACKJ",
+        "Id_AttackSet_Normal_Air_2": "CN_041_ATTACKJ",
+        "Id_AttackSet_Normal_2_Auto": "None",
+        "Id_AttackSet_Normal_Air_2_Auto": "None",
+        "Id_AttackSet_Normal_2_1": "CN_041_ATTACKK",
+        "Id_AttackSet_Normal_Air_2_1": "CN_041_ATTACKK",
+        "Id_AttackSet_Normal_2_1_Auto": "None",
+        "Id_AttackSet_Normal_Air_2_1_Auto": "None",
+        "Id_AttackSet_Normal_3": "CN_041_ATTACKL",
+        "Id_AttackSet_Normal_Air_3": "CN_041_ATTACKL",
+        "Id_AttackSet_Normal_3_Auto": "None",
+        "Id_AttackSet_Normal_Air_3_Auto": "None",
+        "Id_AttackSet_Normal_3_1": "CN_041_ATTACKM",
+        "Id_AttackSet_Normal_Air_3_1": "CN_041_ATTACKM",
+        "Id_AttackSet_Normal_3_1_Auto": "None",
+        "Id_AttackSet_Normal_Air_3_1_Auto": "None",
+        "Id_AttackSet_CursedEnergy_1": [
+          "CN_041_WARP",
+          "CN_041_WARP",
+          "CN_041_WARP",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_Air_1": [
+          "CN_041_WARP",
+          "CN_041_WARP",
+          "CN_041_WARP",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_1_Auto": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_Air_1_Auto": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_2": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_Air_2": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_2_Auto": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_CursedEnergy_Air_2_Auto": [
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        "Id_AttackSet_SuperCursedEnergy": "CN_041_ATTACKN",
+        "Id_AttackSet_SuperCursedEnergy_Air": "CN_041_ATTACKN",
+        "Id_ExtraAttack_1": "None",
+        "Id_ExtraAttack_2": "None"
+      }
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterVoiceGroupSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterVoiceGroupSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_130": {
+        "ID": "CN_130",
+        "Id_CharacterVoiceGroup_DefaultAction": "CN_130_DEFAULTACTION",
+        "Id_CharacterVoiceGroup_NormalAttack1": "CN_130_NORMALATTACK1",
+        "Id_CharacterVoiceGroup_NormalAttack1_1": "None",
+        "Id_CharacterVoiceGroup_NormalAttack2": "CN_130_NORMALATTACK2",
+        "Id_CharacterVoiceGroup_NormalAttack2_1": "None",
+        "Id_CharacterVoiceGroup_NormalAttack3": "CN_130_NORMALATTACK3",
+        "Id_CharacterVoiceGroup_NormalAttack3_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_2": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_3": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_2": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_3": "None",
+        "Id_CharacterVoiceGroup_SuperCursedEnergyAttack": "None",
+        "Id_CharacterVoiceGroup_ExtraAttack1": "None",
+        "Id_CharacterVoiceGroup_ExtraAttack2": "None",
+        "Id_CharacterVoiceGroup_Attack": "CN_130_ATTACK",
+        "Id_CharacterVoiceGroup_SituationAttack": "None",
+        "Id_CharacterVoiceGroup_System": "None",
+        "Id_CharacterVoiceGroup_Damage1": "CN_130_DAMAGE",
+        "Id_CharacterVoiceGroup_Down": "CN_130_DOWN",
+        "Id_CharacterVoiceGroup_Guard": "None",
+        "Id_CharacterVoiceGroup_SpecialDamage": "None",
+        "Id_CharacterVoiceGroup_Unique": "None"
+      },
+      "CN_130_PINCH": {
+        "ID": "CN_130_PINCH",
+        "Id_CharacterVoiceGroup_DefaultAction": "CN_130_DEFAULTACTION",
+        "Id_CharacterVoiceGroup_NormalAttack1": "CN_130_NORMALATTACK1",
+        "Id_CharacterVoiceGroup_NormalAttack1_1": "None",
+        "Id_CharacterVoiceGroup_NormalAttack2": "CN_130_NORMALATTACK2",
+        "Id_CharacterVoiceGroup_NormalAttack2_1": "None",
+        "Id_CharacterVoiceGroup_NormalAttack3": "CN_130_NORMALATTACK3",
+        "Id_CharacterVoiceGroup_NormalAttack3_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_2": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack1_3": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_1": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_2": "None",
+        "Id_CharacterVoiceGroup_CursedEnergyAttack2_3": "None",
+        "Id_CharacterVoiceGroup_SuperCursedEnergyAttack": "None",
+        "Id_CharacterVoiceGroup_ExtraAttack1": "None",
+        "Id_CharacterVoiceGroup_ExtraAttack2": "None",
+        "Id_CharacterVoiceGroup_Attack": "CN_130_ATTACK",
+        "Id_CharacterVoiceGroup_SituationAttack": "None",
+        "Id_CharacterVoiceGroup_System": "None",
+        "Id_CharacterVoiceGroup_Damage1": "CN_130_DAMAGE",
+        "Id_CharacterVoiceGroup_Down": "CN_130_DOWN_PINCH",
+        "Id_CharacterVoiceGroup_Guard": "None",
+        "Id_CharacterVoiceGroup_SpecialDamage": "None",
+        "Id_CharacterVoiceGroup_Unique": "None"
+      }
+    }
+  }
+]

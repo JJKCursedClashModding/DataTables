@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_It",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_230_STAMP_001": {
+        "ID": "CP_230_STAMP_001",
+        "Text": "Compirò il mio dovere da fratellone, con tutta la mia forza!"
+      },
+      "CP_230_STAMP_002": {
+        "ID": "CP_230_STAMP_002",
+        "Text": "Sono il fratellone di Yuji!"
+      }
+    }
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Zh_Hant",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_GREETING_1": {
+        "ID": "CP_020_GREETING_1",
+        "Text": "少哀嚎了"
+      },
+      "CP_020_GREETING_2": {
+        "ID": "CP_020_GREETING_2",
+        "Text": "搞清楚立場，蠢貨"
+      },
+      "CP_020_PRAISE_1": {
+        "ID": "CP_020_PRAISE_1",
+        "Text": "無所謂"
+      },
+      "CP_020_PRAISE_2": {
+        "ID": "CP_020_PRAISE_2",
+        "Text": "動作還不差"
+      },
+      "CP_020_FOLLOW": {
+        "ID": "CP_020_FOLLOW",
+        "Text": "別製造麻煩"
+      },
+      "CP_020_APOLOGY": {
+        "ID": "CP_020_APOLOGY",
+        "Text": "就這點程度"
+      },
+      "CP_020_GRATITUDE_1": {
+        "ID": "CP_020_GRATITUDE_1",
+        "Text": "很好，這樣就對了"
+      },
+      "CP_020_GRATITUDE_2": {
+        "ID": "CP_020_GRATITUDE_2",
+        "Text": "表現很精采啊"
+      },
+      "CP_020_GOODBYE": {
+        "ID": "CP_020_GOODBYE",
+        "Text": "給我消失"
+      },
+      "CP_020_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_020_THANKYOUFORYOURHARDWORK",
+        "Text": "做得好"
+      },
+      "CP_020_ROGERTHAT": {
+        "ID": "CP_020_ROGERTHAT",
+        "Text": "好吧"
+      },
+      "CP_020_REJECTION": {
+        "ID": "CP_020_REJECTION",
+        "Text": "我拒絕"
+      },
+      "CP_020_ENCOURAGEMENT": {
+        "ID": "CP_020_ENCOURAGEMENT",
+        "Text": "就這程度嗎？"
+      },
+      "CP_020_PINCH": {
+        "ID": "CP_020_PINCH",
+        "Text": "真麻煩"
+      },
+      "CP_020_COMEFORWARD": {
+        "ID": "CP_020_COMEFORWARD",
+        "Text": "閃開"
+      },
+      "CP_020_COMEFORWARD_OUT": {
+        "ID": "CP_020_COMEFORWARD_OUT",
+        "Text": "閃開"
+      },
+      "CP_020_GODOWN": {
+        "ID": "CP_020_GODOWN",
+        "Text": "有急事"
+      },
+      "CP_020_GODOWN_OUT": {
+        "ID": "CP_020_GODOWN_OUT",
+        "Text": "有急事"
+      },
+      "CP_020_NOTE": {
+        "ID": "CP_020_NOTE",
+        "Text": "無聊"
+      },
+      "CP_020_AIMATTHETARGET": {
+        "ID": "CP_020_AIMATTHETARGET",
+        "Text": "殺了這傢伙"
+      },
+      "CP_020_AIMFORAJOINTATTACK": {
+        "ID": "CP_020_AIMFORAJOINTATTACK",
+        "Text": "找機會用共連擊"
+      },
+      "CP_020_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_020_AIMFORAJOINTATTACK_OUT",
+        "Text": "找機會用共連擊"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "找機會用覺醒技"
+      },
+      "CP_020_FIGHTCLOSEBY": {
+        "ID": "CP_020_FIGHTCLOSEBY",
+        "Text": "要去殺人了，跟過來"
+      },
+      "CP_020_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_020_FIGHTCLOSEBY_OUT",
+        "Text": "要去殺人了，跟過來"
+      },
+      "CP_020_FIGHTAWAY": {
+        "ID": "CP_020_FIGHTAWAY",
+        "Text": "有夠煩人，給我消失"
+      },
+      "CP_020_FIGHTAWAY_OUT": {
+        "ID": "CP_020_FIGHTAWAY_OUT",
+        "Text": "有夠煩人，給我消失"
+      },
+      "CP_020_LETMETAKECAREOFTHAT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT",
+        "Text": "別礙事"
+      },
+      "CP_020_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT_OUT",
+        "Text": "別礙事"
+      },
+      "CP_020_LETSWORKTOGETHER": {
+        "ID": "CP_020_LETSWORKTOGETHER",
+        "Text": "配合我，不然就殺了你"
+      },
+      "CP_020_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_020_LETSWORKTOGETHER_OUT",
+        "Text": "配合我，不然就殺了你"
+      },
+      "CP_020_LEVELREPORT_LOW": {
+        "ID": "CP_020_LEVELREPORT_LOW",
+        "Text": "還不行啊"
+      },
+      "CP_020_LEVELREPORT_MEDIUM": {
+        "ID": "CP_020_LEVELREPORT_MEDIUM",
+        "Text": "差不多了"
+      },
+      "CP_020_LEVELREPORT_HIGH": {
+        "ID": "CP_020_LEVELREPORT_HIGH",
+        "Text": "興致來了"
+      },
+      "CP_020_PROVOCATION_1": {
+        "ID": "CP_020_PROVOCATION_1",
+        "Text": "快啊，再加把勁"
+      },
+      "CP_020_PROVOCATION_2": {
+        "ID": "CP_020_PROVOCATION_2",
+        "Text": "真弱"
+      },
+      "CP_020_RESPECT_1": {
+        "ID": "CP_020_RESPECT_1",
+        "Text": "聚集更多詛咒吧"
+      },
+      "CP_020_RESPECT_2": {
+        "ID": "CP_020_RESPECT_2",
+        "Text": "哼，有趣"
+      },
+      "CP_020_UNIQUE_1": {
+        "ID": "CP_020_UNIQUE_1",
+        "Text": "我來教教你什麼是真正的咒術"
+      },
+      "CP_020_UNIQUE_2": {
+        "ID": "CP_020_UNIQUE_2",
+        "Text": "不用那麼害怕"
+      },
+      "CP_020_UNIQUE_3": {
+        "ID": "CP_020_UNIQUE_3",
+        "Text": "真是悽慘……悽慘到了極點！"
+      },
+      "CP_020_UNIQUE_4": {
+        "ID": "CP_020_UNIQUE_4",
+        "Text": "未經許可不准抬頭，真讓人不爽"
+      },
+      "CP_020_UNIQUE_5": {
+        "ID": "CP_020_UNIQUE_5",
+        "Text": "你真無趣"
+      },
+      "CP_020_UNIQUE_6": {
+        "ID": "CP_020_UNIQUE_6",
+        "Text": "你的生命接下來才要開始燃燒"
+      },
+      "CP_020_UNIQUE_7": {
+        "ID": "CP_020_UNIQUE_7",
+        "Text": "你要死我都無所謂"
+      },
+      "CP_020_UNIQUE_8": {
+        "ID": "CP_020_UNIQUE_8",
+        "Text": "簡直是暴殄天物"
+      },
+      "CP_020_UNIQUE_9": {
+        "ID": "CP_020_UNIQUE_9",
+        "Text": "唉，好煩人"
+      },
+      "CP_020_UNIQUE_10": {
+        "ID": "CP_020_UNIQUE_10",
+        "Text": "嘻呵呵呵，哈哈哈哈！"
+      },
+      "CP_020_READY": {
+        "ID": "CP_020_READY",
+        "Text": "隨時都可以開始"
+      },
+      "CP_020_UNDERSTOODOKAY": {
+        "ID": "CP_020_UNDERSTOODOKAY",
+        "Text": "好吧"
+      },
+      "CP_020_ENDSWITH": {
+        "ID": "CP_020_ENDSWITH",
+        "Text": "下次是最後了"
+      },
+      "CP_020_WAITAMINUTE": {
+        "ID": "CP_020_WAITAMINUTE",
+        "Text": "慢著"
+      },
+      "CP_020_CHANGE": {
+        "ID": "CP_020_CHANGE",
+        "Text": "我要變更"
+      },
+      "CP_020_ITWASAGOODMATCH": {
+        "ID": "CP_020_ITWASAGOODMATCH",
+        "Text": "多少有娛樂到我了"
+      },
+      "CP_020_EXIT": {
+        "ID": "CP_020_EXIT",
+        "Text": "我要退出"
+      },
+      "CP_020_LETSATTACK": {
+        "ID": "CP_020_LETSATTACK",
+        "Text": "馬上就會結束"
+      },
+      "CP_020_FIGHTCAREFULLY": {
+        "ID": "CP_020_FIGHTCAREFULLY",
+        "Text": "好像會挺有趣"
+      }
+    }
+  }
+]

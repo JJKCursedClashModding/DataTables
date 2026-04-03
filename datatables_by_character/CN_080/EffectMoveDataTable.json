@@ -1,0 +1,133 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EffectMoveDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_EffectMove'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_080_ATTACKH_01_01": {
+        "ID": "CN_080_ATTACKH_01_01",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 6000,
+        "Speed_End": 5000,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 30,
+        "Limit_AngleZ": 60,
+        "Homing_AngularVelocityXY": 45,
+        "Homing_AngularVelocityZ": 60,
+        "Homing_Time": 0.5,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      },
+      "CN_080_ATTACKH_01_02": {
+        "ID": "CN_080_ATTACKH_01_02",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 6000,
+        "Speed_End": 5000,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 30,
+        "Limit_AngleZ": 60,
+        "Homing_AngularVelocityXY": 45,
+        "Homing_AngularVelocityZ": 60,
+        "Homing_Time": 0.5,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      },
+      "CN_080_ATTACKI_01_01": {
+        "ID": "CN_080_ATTACKI_01_01",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 7000,
+        "Speed_End": 3000,
+        "Speed_InterpolateTime": 0.1,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 0,
+        "Limit_AngleZ": 60,
+        "Homing_AngularVelocityXY": 0,
+        "Homing_AngularVelocityZ": 60,
+        "Homing_Time": 0.5,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      },
+      "CN_080_ATTACKL_01_01": {
+        "ID": "CN_080_ATTACKL_01_01",
+        "EffectMoveType": "EGameEffectMoveType::Straight",
+        "MoveDirection": {
+          "X": 1,
+          "Y": 0,
+          "Z": 0
+        },
+        "bHomingEnabled": true,
+        "Speed_Start": 12000,
+        "Speed_End": 8000,
+        "Speed_InterpolateTime": 0.5,
+        "Speed_EasingType": "EGameEasingType::None",
+        "Speed_Blend_Exp": 2,
+        "Delay_Time": 0,
+        "Fall_AngularVelocityZ": 0,
+        "Limit_AngleXY": 60,
+        "Limit_AngleZ": 60,
+        "Homing_AngularVelocityXY": 90,
+        "Homing_AngularVelocityZ": 60,
+        "Homing_Time": 0.5,
+        "bTilt": false,
+        "bAlongGroundEnabled": false,
+        "bAlongGroundDownEnabled": false,
+        "bIsStoppedOnAir": false,
+        "AlongGroundHeight": 0,
+        "Id_Effect_AlongGround": "None",
+        "AlongGroundEffect_Height": 0
+      }
+    }
+  }
+]

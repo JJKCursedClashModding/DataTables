@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SituationOverviewDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_SituationOverview'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180": {
+        "ID": "CP_180",
+        "Id_SituationOverviewPose": [
+          "CP_180_POSE_00",
+          "CP_180_POSE_01",
+          "CP_180_POSE_02",
+          "CP_180_POSE_03",
+          "CP_180_POSE_04",
+          "CP_180_POSE_05"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterCursedEnergyDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterCursedEnergy'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020": {
+        "ID": "CP_020",
+        "LevelThreshold": [
+          100,
+          400,
+          600,
+          800
+        ],
+        "Recover_Wait": 1,
+        "Recover_Speed": 90,
+        "Recover_Wait_Rate_Solo": 1,
+        "Recover_Speed_Rate_Solo": 1,
+        "Add_Rate_Solo": 1
+      },
+      "CP_020_ST": {
+        "ID": "CP_020_ST",
+        "LevelThreshold": [
+          100,
+          400,
+          600,
+          800
+        ],
+        "Recover_Wait": 0.5,
+        "Recover_Speed": 150,
+        "Recover_Wait_Rate_Solo": 1,
+        "Recover_Speed_Rate_Solo": 1,
+        "Add_Rate_Solo": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterAnimationSetDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterAnimationSet'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_110": {
+        "ID": "CP_110",
+        "Id_CharacterAnimation": [
+          "CP_110",
+          "CP_110_FACIAL",
+          "CP_010_FACIALPARTS_BROW",
+          "CP_110_FACIALPARTS_MOUTH",
+          "CP_110_FACIALPARTS_EYES",
+          "CP_110_GUARD",
+          "None",
+          "CP_010_STEP",
+          "CP_110_JUMP",
+          "None",
+          "CP_110_ATTACKA",
+          "None",
+          "CP_110_ATTACKB",
+          "None",
+          "CP_110_ATTACKC",
+          "None",
+          "CP_110_ATTACKD",
+          "None",
+          "CP_110_ATTACKE",
+          "None",
+          "CP_110_ATTACKF",
+          "None",
+          "CP_110_ATTACKG",
+          "CP_110_ATTACKH",
+          "CP_110_ATTACKI",
+          "CP_110_DAMAGE",
+          "None",
+          "None",
+          "CP_110_ATTACKB_SOLO",
+          "CP_110_ATTACKJ",
+          "None"
+        ]
+      }
+    }
+  }
+]

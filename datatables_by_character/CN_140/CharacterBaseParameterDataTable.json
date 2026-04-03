@@ -1,0 +1,69 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterBaseParameterDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterBaseParameter'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_140": {
+        "ID": "CN_140",
+        "HitPoint": 440,
+        "HitPoint_Solo": 440,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 800,
+        "LargeCharacterDownRecoverTime": 10
+      },
+      "CN_140_01": {
+        "ID": "CN_140_01",
+        "HitPoint": 440,
+        "HitPoint_Solo": 440,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1200,
+        "LargeCharacterDownRecoverTime": 10
+      },
+      "CN_140_02": {
+        "ID": "CN_140_02",
+        "HitPoint": 440,
+        "HitPoint_Solo": 440,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 1500,
+        "LargeCharacterDownRecoverTime": 10
+      },
+      "CN_140_03": {
+        "ID": "CN_140_03",
+        "HitPoint": 440,
+        "HitPoint_Solo": 440,
+        "AttackRange": 1000,
+        "Guard_Minimum_Time": 0.2,
+        "GuardDurability": 150,
+        "GuardDurability_Solo": 150,
+        "GuardDurability_RecoverWaitTime": 3,
+        "GuardDurability_Recover": 15,
+        "DownValue": 2000,
+        "LargeCharacterDownRecoverTime": 5
+      }
+    }
+  }
+]

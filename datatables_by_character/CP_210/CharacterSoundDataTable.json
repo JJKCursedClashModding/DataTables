@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterSoundDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterSound'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_210": {
+        "ID": "CP_210",
+        "CueSheetName": [
+          "CP_210",
+          "None"
+        ],
+        "FootstepType": "EGameFootstepType::ShoesWoman",
+        "Id_CharacterVoiceGroupSet": [
+          "CP_210",
+          "CP_210_TYPEA",
+          "CP_210_TYPEB",
+          "CP_210_PINCH"
+        ],
+        "Id_VoiceGroup": [
+          "CP_210_CHARACTER_SELECT",
+          "CP_210_CHARACTER_RESELECT",
+          "CP_210_READY",
+          "CP_210_LOBBY_GO_TO_BATTLE",
+          "CP_210_LOBBY_CHANGED_MATCH_RULE",
+          "CP_210_RESULT_RANK_S",
+          "CP_210_RESULT_RANK_A",
+          "CP_210_RESULT_RANK_B_OR_LOWER",
+          "CP_210_RESULT_WINNING_STREAK_5",
+          "CP_210_RESULT_WINNING_STREAK_10",
+          "CP_210_RESULT_WINNING_STREAK_15",
+          "CP_210_RESULT_WINNING_STREAK_20",
+          "CP_210_RESULT_OPEN_RESULT_ITEM",
+          "CP_210_RESULT_PROMOTE_RANK",
+          "CP_210_RESULT_DEMOTE_RANK",
+          "CP_210_REMATCH_SUCCESS_REMATCH",
+          "CP_210_REMATCH_IN_WAITING_OTHER_PLAYER",
+          "CP_210_REMATCH_SELECT_FIND",
+          "CP_210_REMATCH_DECLINED_REMATCH_BY_OTHER",
+          "CP_210_REMATCH_DECLINED_REMATCH_BY_MYSELF"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_230": {
+        "ID": "CP_230",
+        "FloatValue": [
+          3,
+          4,
+          5,
+          1.1,
+          1.2,
+          1.5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKF": {
+        "ID": "CP_230_ATTACKF",
+        "FloatValue": [
+          100,
+          200,
+          200,
+          250,
+          100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKG": {
+        "ID": "CP_230_ATTACKG",
+        "FloatValue": [
+          1.5,
+          60,
+          60,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKH_1": {
+        "ID": "CP_230_ATTACKH_1",
+        "FloatValue": [
+          0.3,
+          0.3,
+          0.9,
+          4000,
+          4500,
+          5000,
+          6000,
+          12000,
+          15000,
+          18000,
+          22000,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKH_2": {
+        "ID": "CP_230_ATTACKH_2",
+        "FloatValue": [
+          0.3,
+          0.3,
+          0.5,
+          4000,
+          4500,
+          5000,
+          6000,
+          12000,
+          15000,
+          18000,
+          22000,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKH_3": {
+        "ID": "CP_230_ATTACKH_3",
+        "FloatValue": [
+          0.3,
+          0.3,
+          0.5,
+          4000,
+          4500,
+          5000,
+          6000,
+          12000,
+          15000,
+          18000,
+          22000,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_230_ATTACKH_SHOOT_CAMERA": {
+        "ID": "CP_230_ATTACKH_SHOOT_CAMERA",
+        "FloatValue": [
+          -150,
+          -65,
+          15,
+          60,
+          30,
+          85,
+          0.2,
+          0,
+          5,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

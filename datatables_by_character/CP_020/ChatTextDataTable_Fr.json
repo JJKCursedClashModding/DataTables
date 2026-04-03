@@ -1,0 +1,249 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ChatTextDataTable_Fr",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_020_GREETING_1": {
+        "ID": "CP_020_GREETING_1",
+        "Text": "Moins fort."
+      },
+      "CP_020_GREETING_2": {
+        "ID": "CP_020_GREETING_2",
+        "Text": "Pour qui tu te prends, pauvre minable ?"
+      },
+      "CP_020_PRAISE_1": {
+        "ID": "CP_020_PRAISE_1",
+        "Text": "Je m'en tamponne."
+      },
+      "CP_020_PRAISE_2": {
+        "ID": "CP_020_PRAISE_2",
+        "Text": "Tu te débrouilles pas mal du tout."
+      },
+      "CP_020_FOLLOW": {
+        "ID": "CP_020_FOLLOW",
+        "Text": "Me fais pas perdre mon temps."
+      },
+      "CP_020_APOLOGY": {
+        "ID": "CP_020_APOLOGY",
+        "Text": "C'est tout ?"
+      },
+      "CP_020_GRATITUDE_1": {
+        "ID": "CP_020_GRATITUDE_1",
+        "Text": "Bien… Parfait, même…"
+      },
+      "CP_020_GRATITUDE_2": {
+        "ID": "CP_020_GRATITUDE_2",
+        "Text": "Tu as toute mon attention."
+      },
+      "CP_020_GOODBYE": {
+        "ID": "CP_020_GOODBYE",
+        "Text": "Hors de ma vue."
+      },
+      "CP_020_THANKYOUFORYOURHARDWORK": {
+        "ID": "CP_020_THANKYOUFORYOURHARDWORK",
+        "Text": "T'as bien géré."
+      },
+      "CP_020_ROGERTHAT": {
+        "ID": "CP_020_ROGERTHAT",
+        "Text": "Très bien."
+      },
+      "CP_020_REJECTION": {
+        "ID": "CP_020_REJECTION",
+        "Text": "Je refuse."
+      },
+      "CP_020_ENCOURAGEMENT": {
+        "ID": "CP_020_ENCOURAGEMENT",
+        "Text": "Je m'attendais à mieux."
+      },
+      "CP_020_PINCH": {
+        "ID": "CP_020_PINCH",
+        "Text": "Tu me gonfles."
+      },
+      "CP_020_COMEFORWARD": {
+        "ID": "CP_020_COMEFORWARD",
+        "Text": "Hors de mon chemin."
+      },
+      "CP_020_COMEFORWARD_OUT": {
+        "ID": "CP_020_COMEFORWARD_OUT",
+        "Text": "Hors de mon chemin."
+      },
+      "CP_020_GODOWN": {
+        "ID": "CP_020_GODOWN",
+        "Text": "Fais comme si j'étais pas là."
+      },
+      "CP_020_GODOWN_OUT": {
+        "ID": "CP_020_GODOWN_OUT",
+        "Text": "Fais comme si j'étais pas là."
+      },
+      "CP_020_NOTE": {
+        "ID": "CP_020_NOTE",
+        "Text": "Lamentable."
+      },
+      "CP_020_AIMATTHETARGET": {
+        "ID": "CP_020_AIMATTHETARGET",
+        "Text": "Je m'en occupe."
+      },
+      "CP_020_AIMFORAJOINTATTACK": {
+        "ID": "CP_020_AIMFORAJOINTATTACK",
+        "Text": "On va combiner nos forces."
+      },
+      "CP_020_AIMFORAJOINTATTACK_OUT": {
+        "ID": "CP_020_AIMFORAJOINTATTACK_OUT",
+        "Text": "On va combiner nos forces."
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK",
+        "Text": "Je lance une technique éveillée."
+      },
+      "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT": {
+        "ID": "CP_020_AIMFORASUPERCURSEDENERGYATTACK_OUT",
+        "Text": "Je lance une technique éveillée."
+      },
+      "CP_020_FIGHTCLOSEBY": {
+        "ID": "CP_020_FIGHTCLOSEBY",
+        "Text": "On va l'achever. Suis-moi."
+      },
+      "CP_020_FIGHTCLOSEBY_OUT": {
+        "ID": "CP_020_FIGHTCLOSEBY_OUT",
+        "Text": "On va l'achever. Suis-moi."
+      },
+      "CP_020_FIGHTAWAY": {
+        "ID": "CP_020_FIGHTAWAY",
+        "Text": "C'est rageant. Hors de ma vue."
+      },
+      "CP_020_FIGHTAWAY_OUT": {
+        "ID": "CP_020_FIGHTAWAY_OUT",
+        "Text": "C'est rageant. Hors de ma vue."
+      },
+      "CP_020_LETMETAKECAREOFTHAT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT",
+        "Text": "Hors de mon chemin !"
+      },
+      "CP_020_LETMETAKECAREOFTHAT_OUT": {
+        "ID": "CP_020_LETMETAKECAREOFTHAT_OUT",
+        "Text": "Hors de mon chemin !"
+      },
+      "CP_020_LETSWORKTOGETHER": {
+        "ID": "CP_020_LETSWORKTOGETHER",
+        "Text": "Fais ce que je te dis, ou je te bute."
+      },
+      "CP_020_LETSWORKTOGETHER_OUT": {
+        "ID": "CP_020_LETSWORKTOGETHER_OUT",
+        "Text": "Fais ce que je te dis, ou je te bute."
+      },
+      "CP_020_LEVELREPORT_LOW": {
+        "ID": "CP_020_LEVELREPORT_LOW",
+        "Text": "Pas encore…"
+      },
+      "CP_020_LEVELREPORT_MEDIUM": {
+        "ID": "CP_020_LEVELREPORT_MEDIUM",
+        "Text": "C'est bientôt l'heure ?"
+      },
+      "CP_020_LEVELREPORT_HIGH": {
+        "ID": "CP_020_LEVELREPORT_HIGH",
+        "Text": "Je suis dedans maintenant."
+      },
+      "CP_020_PROVOCATION_1": {
+        "ID": "CP_020_PROVOCATION_1",
+        "Text": "C'est ça. Fais encore un effort."
+      },
+      "CP_020_PROVOCATION_2": {
+        "ID": "CP_020_PROVOCATION_2",
+        "Text": "Tu fais pas le poids."
+      },
+      "CP_020_RESPECT_1": {
+        "ID": "CP_020_RESPECT_1",
+        "Text": "Mets-y plus d'énergie occulte."
+      },
+      "CP_020_RESPECT_2": {
+        "ID": "CP_020_RESPECT_2",
+        "Text": "Hm. Intéressant."
+      },
+      "CP_020_UNIQUE_1": {
+        "ID": "CP_020_UNIQUE_1",
+        "Text": "On va commencer par une petite démonstration."
+      },
+      "CP_020_UNIQUE_2": {
+        "ID": "CP_020_UNIQUE_2",
+        "Text": "N'aie pas peur. Je suis de bonne humeur."
+      },
+      "CP_020_UNIQUE_3": {
+        "ID": "CP_020_UNIQUE_3",
+        "Text": "Tu es lamentable. Tu me fais tellement pitié."
+      },
+      "CP_020_UNIQUE_4": {
+        "ID": "CP_020_UNIQUE_4",
+        "Text": "Je t'interdis de me regarder sans ma permission."
+      },
+      "CP_020_UNIQUE_5": {
+        "ID": "CP_020_UNIQUE_5",
+        "Text": "Bonjour l'originalité…"
+      },
+      "CP_020_UNIQUE_6": {
+        "ID": "CP_020_UNIQUE_6",
+        "Text": "Ah, donc là, c'est ton maximum."
+      },
+      "CP_020_UNIQUE_7": {
+        "ID": "CP_020_UNIQUE_7",
+        "Text": "Que tu meures ou non, c'est du pareil au même."
+      },
+      "CP_020_UNIQUE_8": {
+        "ID": "CP_020_UNIQUE_8",
+        "Text": "C'est du gâchis de n'avoir rien tenté."
+      },
+      "CP_020_UNIQUE_9": {
+        "ID": "CP_020_UNIQUE_9",
+        "Text": "Fait chier."
+      },
+      "CP_020_UNIQUE_10": {
+        "ID": "CP_020_UNIQUE_10",
+        "Text": "Héhéhé. Mouhahahaha. Hahaha."
+      },
+      "CP_020_READY": {
+        "ID": "CP_020_READY",
+        "Text": "C'est quand tu veux."
+      },
+      "CP_020_UNDERSTOODOKAY": {
+        "ID": "CP_020_UNDERSTOODOKAY",
+        "Text": "Très bien."
+      },
+      "CP_020_ENDSWITH": {
+        "ID": "CP_020_ENDSWITH",
+        "Text": "Le prochain sera le dernier !"
+      },
+      "CP_020_WAITAMINUTE": {
+        "ID": "CP_020_WAITAMINUTE",
+        "Text": "Attends un peu."
+      },
+      "CP_020_CHANGE": {
+        "ID": "CP_020_CHANGE",
+        "Text": "Il est temps de changer."
+      },
+      "CP_020_ITWASAGOODMATCH": {
+        "ID": "CP_020_ITWASAGOODMATCH",
+        "Text": "Je me suis bien amusé."
+      },
+      "CP_020_EXIT": {
+        "ID": "CP_020_EXIT",
+        "Text": "Je m'en vais."
+      },
+      "CP_020_LETSATTACK": {
+        "ID": "CP_020_LETSATTACK",
+        "Text": "Je peux en finir maintenant !"
+      },
+      "CP_020_FIGHTCAREFULLY": {
+        "ID": "CP_020_FIGHTCAREFULLY",
+        "Text": "On va bien s'amuser."
+      }
+    }
+  }
+]

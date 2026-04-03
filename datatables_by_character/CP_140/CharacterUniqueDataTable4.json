@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CharacterUniqueDataTable4",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_CharacterUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140": {
+        "ID": "CP_140",
+        "FloatValue": [
+          2000,
+          0.35,
+          0.3,
+          5,
+          120,
+          400,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_TRAPFIREPILLAR": {
+        "ID": "CP_140_TRAPFIREPILLAR",
+        "FloatValue": [
+          1.5,
+          1800,
+          2500,
+          300,
+          30,
+          380,
+          700,
+          0.3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_CURSEDBEAM": {
+        "ID": "CP_140_CURSEDBEAM",
+        "FloatValue": [
+          175,
+          0.9,
+          175,
+          0.9,
+          175,
+          0.9,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_CURSEDBEAM_DE": {
+        "ID": "CP_140_CURSEDBEAM_DE",
+        "FloatValue": [
+          100,
+          0.5,
+          25,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_CURSEDBEAM_AUTO": {
+        "ID": "CP_140_CURSEDBEAM_AUTO",
+        "FloatValue": [
+          175,
+          0.9,
+          15,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_ATTACKG_SHOOT_CAMERA": {
+        "ID": "CP_140_ATTACKG_SHOOT_CAMERA",
+        "FloatValue": [
+          -450,
+          0,
+          150,
+          60,
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_ATTACKH_SHOOT_CAMERA": {
+        "ID": "CP_140_ATTACKH_SHOOT_CAMERA",
+        "FloatValue": [
+          -180,
+          -150,
+          100,
+          60,
+          30,
+          110,
+          0.25,
+          3,
+          10,
+          -10,
+          5,
+          0,
+          0,
+          0
+        ]
+      },
+      "CP_140_ATTACKE_SHOOT_CAMERA": {
+        "ID": "CP_140_ATTACKE_SHOOT_CAMERA",
+        "FloatValue": [
+          -350,
+          125,
+          50,
+          60,
+          30,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

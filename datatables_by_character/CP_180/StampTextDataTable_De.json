@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StampTextDataTable_De",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_GameText'",
+        "ObjectPath": "/Script/Abrams"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_180_STAMP_001": {
+        "ID": "CP_180_STAMP_001",
+        "Text": "Ich werde mich darum kümmern! Auf meine süße Art."
+      },
+      "CP_180_STAMP_002": {
+        "ID": "CP_180_STAMP_002",
+        "Text": "Überhaupt nicht süß ..."
+      }
+    }
+  }
+]

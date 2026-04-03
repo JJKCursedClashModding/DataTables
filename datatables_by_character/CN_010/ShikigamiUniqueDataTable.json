@@ -1,0 +1,125 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ShikigamiUniqueDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_ShikigamiUnique'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CN_010": {
+        "ID": "CN_010",
+        "FloatValue": [
+          0.5,
+          0.4,
+          0.25,
+          0.1,
+          0.29,
+          0.11,
+          0.35,
+          0.4,
+          0.75,
+          3,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_010_AttackA_01": {
+        "ID": "CN_010_AttackA_01",
+        "FloatValue": [
+          2900,
+          1200,
+          1400,
+          0,
+          180,
+          270,
+          240,
+          240,
+          0.5,
+          0.8,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_010_AttackB_01_1": {
+        "ID": "CN_010_AttackB_01_1",
+        "FloatValue": [
+          2900,
+          500,
+          2200,
+          0,
+          180,
+          270,
+          240,
+          240,
+          0.5,
+          0.8,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_010_AttackB_01_2": {
+        "ID": "CN_010_AttackB_01_2",
+        "FloatValue": [
+          2900,
+          500,
+          3200,
+          0,
+          180,
+          270,
+          240,
+          240,
+          0.5,
+          0.8,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_010_AttackB_02": {
+        "ID": "CN_010_AttackB_02",
+        "FloatValue": [
+          2900,
+          1000,
+          1000,
+          0,
+          180,
+          270,
+          240,
+          240,
+          0.5,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      },
+      "CN_010_AttackC_01": {
+        "ID": "CN_010_AttackC_01",
+        "FloatValue": [
+          3000,
+          800,
+          1000,
+          0,
+          180,
+          180,
+          360,
+          360,
+          0.5,
+          0.5,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

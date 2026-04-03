@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "StoryCharaRelateRewardDataTable",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "Class'GameDataTableRow_StoryCharaRelateReward'",
+        "ObjectPath": "/Script/AbramsDataTable"
+      },
+      "ImportKeyField": "Id"
+    },
+    "Rows": {
+      "CP_140_CP_150": {
+        "ID": "CP_140_CP_150",
+        "Id_Character_1": "CP_140",
+        "Id_Character_2": "CP_150",
+        "Id_ItemSet": [
+          "None",
+          "None",
+          "ITM_SET_CHARA_RELATE_CP_140_CP_150_03",
+          "ITM_SET_CHARA_RELATE_CP_140_CP_150_04",
+          "ITM_SET_CHARA_RELATE_CP_140_CP_150_05"
+        ]
+      }
+    }
+  }
+]
