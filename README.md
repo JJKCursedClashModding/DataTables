@@ -1,1 +1,1 @@
-Read wiki (here)[wiki/README.md]
+Read wiki [here](wiki/README.md)
