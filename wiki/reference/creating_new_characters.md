@@ -4,17 +4,6 @@
 
 ---
 
-## File shape
-
-Each table is a JSON **array** with one table object at index `0`. That object includes metadata (`Type`, `Name`, `Class`, …) and a **`Rows`** object:
-
-- **Keys** — row ids (strings the game and other rows reference).
-- **Values** — row payloads; when the row struct has an `ID` / `Id` field, it must stay consistent with the key other systems expect.
-
-Copy the surrounding structure from an existing export so flags and `Properties` match what your import path expects.
-
----
-
 ## Row id conventions
 
 - Roster characters use ids like **`CP_###`** (three digits). Companion / summon-style entries may use **`CN_###`**.
